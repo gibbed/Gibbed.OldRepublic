@@ -1,0 +1,15 @@
+<project>
+	<name>The Old Republic</name>
+	<dependencies>
+		<dependency>Shared</dependency>
+	</dependencies>
+	<list_location>The Old Republic</list_location>
+	<install_locations>
+		<install_location>
+			<action type="registry" key="HKEY_LOCAL_MACHINE\SOFTWARE\BioWare\Star Wars-The Old Republic" value="Install Dir" />
+		</install_location>
+		<install_location>
+			<action type="registry" key="HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\BioWare\Star Wars-The Old Republic" value="Install Dir" />
+		</install_location>
+	</install_locations>
+</project>
