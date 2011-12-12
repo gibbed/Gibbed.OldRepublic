@@ -1,8 +1,9 @@
-; 419/3116 (13%)
+; 430/3116 (13%)
 /resources/anim/humanoid/am_dwarf.xml
 /resources/anim/humanoid/am_humanoid.xml
 /resources/anim/humanoid/am_humanoid_npc.xml
 /resources/anim/humanoid/am_protocol.xml
+/resources/anim/pet/am_pet.xml
 /resources/anim/placeable/am_mags.xml
 /resources/anim/placeable/am_placeable_actions.xml
 /resources/anim/placeable/am_placeable_dropship.xml
@@ -320,6 +321,8 @@
 /resources/art/dynamic/spec/manta.dyc
 /resources/art/dynamic/spec/mote.dat
 /resources/art/dynamic/spec/mote.dyc
+/resources/art/dynamic/spec/mousedroidpet.dat
+/resources/art/dynamic/spec/mousedroidpet.dyc
 /resources/art/dynamic/spec/mynock.dat
 /resources/art/dynamic/spec/mynock.dyc
 /resources/art/dynamic/spec/nar_item_signage_redlight_18.dyc
@@ -327,6 +330,10 @@
 /resources/art/dynamic/spec/neuheavyutilityship.dyc
 /resources/art/dynamic/spec/ortolan.dat
 /resources/art/dynamic/spec/ortolan.dyc
+/resources/art/dynamic/spec/petmouse.dat
+/resources/art/dynamic/spec/petmouse.dyc
+/resources/art/dynamic/spec/petprobe.dat
+/resources/art/dynamic/spec/petprobe.dyc
 /resources/art/dynamic/spec/probe.dat
 /resources/art/dynamic/spec/probe.dyc
 /resources/art/dynamic/spec/protocol.dat
@@ -338,6 +345,8 @@
 /resources/art/dynamic/spec/rakghoulboss.dyc
 /resources/art/dynamic/spec/rancor.dat
 /resources/art/dynamic/spec/rancor.dyc
+/resources/art/dynamic/spec/rancorboss.dat
+/resources/art/dynamic/spec/rancorboss.dyc
 /resources/art/dynamic/spec/repdropship.dyc
 /resources/art/dynamic/spec/repspacedoorelevator.dyc
 /resources/art/dynamic/spec/repspacedoorlarge.dyc
@@ -410,6 +419,8 @@
 /resources/art/dynamic/spec/vehrepatv.dyc
 /resources/art/dynamic/spec/walker.dat
 /resources/art/dynamic/spec/walker.dyc
+/resources/art/dynamic/spec/walkerhw.dat
+/resources/art/dynamic/spec/walkerhw.dyc
 /resources/art/dynamic/spec/wampa.dat
 /resources/art/dynamic/spec/wampa.dyc
 /resources/art/dynamic/spec/wraid.dat

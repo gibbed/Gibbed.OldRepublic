@@ -1,4 +1,4 @@
-; 2544/14293 (17%)
+; 2548/14293 (17%)
 /resources/anim/humanoid/bmanew/ad_2saber_body_pitch.jba
 /resources/anim/humanoid/bmanew/ad_2saber_body_yaw.jba
 /resources/anim/humanoid/bmanew/ad_blank.jba
@@ -239,6 +239,8 @@
 /resources/anim/humanoid/bmanew/am_wander_left.jba
 /resources/anim/humanoid/bmanew/am_wander_right.jba
 /resources/anim/humanoid/bmanew/am_weed_ground.jba
+/resources/anim/humanoid/bmanew/anim_library.mph
+/resources/anim/humanoid/bmanew/anim_sharing.mph.amx
 /resources/anim/humanoid/bmanew/cb_2pistol_cover_crouch_enter_far.jba
 /resources/anim/humanoid/bmanew/cb_2pistol_cover_enter_far_left.jba
 /resources/anim/humanoid/bmanew/cb_2pistol_cover_enter_far_right.jba
@@ -1563,6 +1565,8 @@
 /resources/anim/humanoid/bmfnew/am_wander_left.jba
 /resources/anim/humanoid/bmfnew/am_wander_right.jba
 /resources/anim/humanoid/bmfnew/am_weed_ground.jba
+/resources/anim/humanoid/bmfnew/anim_library.mph
+/resources/anim/humanoid/bmfnew/anim_sharing.mph.amx
 /resources/anim/humanoid/bmfnew/as_holocom_button_exit.jba
 /resources/anim/humanoid/bmfnew/as_holocom_button_loop.jba
 /resources/anim/humanoid/bmfnew/as_holocom_enter.jba

@@ -1,8 +1,11 @@
-; 394/9321 (4%)
+; 397/9321 (4%)
 /resources/anim/creature/acklaydroid/cb_attack_1.jba
 /resources/anim/creature/acklaydroid/cb_ready_3.jba
 /resources/anim/creature/acklaydroid/ex_idle_1.jba
 /resources/anim/creature/acklaydroid/mv_walk_strafe_east.jba
+/resources/anim/creature/am_acklaydroid.xml
+/resources/anim/creature/am_astromech.xml
+/resources/anim/creature/am_battle.xml
 /resources/anim/creature/am_colicoid.xml
 /resources/anim/creature/am_colicoiddroid.xml
 /resources/anim/creature/bantha/ad_blank.jba
