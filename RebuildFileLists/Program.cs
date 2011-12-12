@@ -128,6 +128,8 @@ namespace RebuildFileLists
 
             var outputPaths = new List<string>();
 
+            var breakdown = new Breakdown();
+
             Console.WriteLine("Processing...");
             foreach (var inputPath in inputPaths)
             {
@@ -182,6 +184,8 @@ namespace RebuildFileLists
                     localBreakdown.Total++;
                 }
 
+                breakdown += localBreakdown;
+
                 names.Sort();
 
                 Directory.CreateDirectory(Path.GetDirectoryName(outputPath));
@@ -194,6 +198,11 @@ namespace RebuildFileLists
                         output.WriteLine(name);
                     }
                 }
+            }
+
+            using (var output = new StreamWriter(Path.Combine(Path.Combine(listsPath, "files"), "status.txt")))
+            {
+                output.WriteLine("{0}", breakdown);
             }
         }
     }

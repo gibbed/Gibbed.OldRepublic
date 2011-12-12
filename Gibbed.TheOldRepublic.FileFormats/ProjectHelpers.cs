@@ -30,7 +30,7 @@ namespace Gibbed.TheOldRepublic.FileFormats
             return manager.LoadLists(
                     "*.filelist",
                     s => s.HashJenkins64(),
-                    s => s);
+                    s => s.ToLowerInvariant());
         }
 
         public static ProjectData.HashList<ulong> LoadListsFileNames(
@@ -39,7 +39,7 @@ namespace Gibbed.TheOldRepublic.FileFormats
             return project.LoadLists(
                     "*.filelist",
                     s => s.HashJenkins64(),
-                    s => s);
+                    s => s.ToLowerInvariant());
         }
     }
 }
