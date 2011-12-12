@@ -1,4 +1,4 @@
-; 7588/8931 (84%)
+; 7595/8931 (85%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -458,6 +458,7 @@
 /resources/art/shaders/materials/all_item_tech_reinforced_door.mat
 /resources/art/shaders/materials/all_item_tech_remote_detonator.mat
 /resources/art/shaders/materials/all_item_tech_resurrection_point.mat
+/resources/art/shaders/materials/all_item_tech_science_centrifuge1.mat
 /resources/art/shaders/materials/all_item_tech_senate_wall_monitor.mat
 /resources/art/shaders/materials/all_item_tech_senate_wall_monitor_blank.mat
 /resources/art/shaders/materials/all_item_tech_senate_wall_monitor_blank_suv.mat
@@ -580,6 +581,7 @@
 /resources/art/shaders/materials/item_con_plasteel_crate_03.mat
 /resources/art/shaders/materials/item_eqp_stimpack.mat
 /resources/art/shaders/materials/item_furn_armoire_imperial.mat
+/resources/art/shaders/materials/item_furn_barracks_bunk_imperial.mat
 /resources/art/shaders/materials/item_furn_chair_imperial.mat
 /resources/art/shaders/materials/item_furn_gun_rack_imperial.mat
 /resources/art/shaders/materials/item_furn_holding_cell_imperial.mat
@@ -1085,6 +1087,7 @@
 /resources/art/static/area/all_all/item/city/all_item_city_hangingwires01.gr2
 /resources/art/static/area/all_all/item/city/all_item_city_planter.gr2
 /resources/art/static/area/all_all/item/city/all_item_city_planter_01.gr2
+/resources/art/static/area/all_all/item/city/all_item_city_plush_red_rug.gr2
 /resources/art/static/area/all_all/item/city/all_item_city_plush_rug.gr2
 /resources/art/static/area/all_all/item/city/all_item_city_poster_01_dirty.gr2
 /resources/art/static/area/all_all/item/city/all_item_city_poster_01_dirty_tilted.gr2
@@ -2350,6 +2353,7 @@
 /resources/art/static/area/all_all/item/decal/all_item_decal_stripes_red_cap01_4m.gr2
 /resources/art/static/area/all_all/item/decal/all_item_decal_stripes_red_straight02_4m.gr2
 /resources/art/static/area/all_all/item/decal/all_item_decal_thick_red_corner_4m.gr2
+/resources/art/static/area/all_all/item/decal/all_item_decal_thin_red_corner_4m.gr2
 /resources/art/static/area/all_all/item/decal/all_item_decal_thin_red_straight_4m.gr2
 /resources/art/static/area/all_all/item/decal/texture/all_item_decal_circle_shadow_d.dds
 /resources/art/static/area/all_all/item/decal/texture/all_item_decal_circle_shadow_d.tex
@@ -4008,6 +4012,7 @@
 /resources/art/static/area/all_all/item/sith/all_item_sith_artifact_ancient_01.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_gravestones_02.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_gravestones_03.gr2
+/resources/art/static/area/all_all/item/sith/all_item_sith_imperial_rug.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_interior_urn_01.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_tombs_lamp02.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_tombs_lamp02_blue.gr2
@@ -6873,6 +6878,7 @@
 /resources/art/static/area/all_all/item/underworld/all_item_und_game_pazaak.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_holo_communicator.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_hutt_sculpture_gong.gr2
+/resources/art/static/area/all_all/item/underworld/all_item_und_hutt_throne.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_hutt_throne_armrest.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_hutt_throne_base.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_light_01.gr2
@@ -7586,4 +7592,5 @@
 /resources/art/static/vehicle/imp/texture/all_veh_imp_transport_s.dds
 /resources/art/static/vehicle/imp/texture/all_veh_imp_transport_s.tex
 /resources/art/static/vehicle/imp/texture/all_veh_imp_transport_s.tiny.dds
+ft.sig
 metadata.bin

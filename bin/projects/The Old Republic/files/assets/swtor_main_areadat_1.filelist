@@ -1,4 +1,4 @@
-; 1190/10429 (11%)
+; 1206/10429 (11%)
 /resources/world/areas/4611686018427650020/area.dat
 /resources/world/areas/4611686019047870293/_audio_regions_todd.dat
 /resources/world/areas/4611686019047870293/_everywhere_.dat
@@ -872,6 +872,11 @@
 /resources/world/areas/4611686019869492753/waterfall_shortcut_end.dat
 /resources/world/areas/4611686019869492753/waterfall_shortcut_middle.dat
 /resources/world/areas/4611686022220993772/area.dat
+/resources/world/areas/4611686022220993772/cave_52_hall_b_02.dat
+/resources/world/areas/4611686022220993772/int_imp_housea_003.dat
+/resources/world/areas/4611686022220993772/interior_sat_com_tower_flr2_room1.dat
+/resources/world/areas/4611686022220993772/okara_int_flr_5_hall_3.dat
+/resources/world/areas/4611686022220993772/terrorist_training_facility_room_01.dat
 /resources/world/areas/4611686022825732973/_everywhere_.dat
 /resources/world/areas/4611686022825732973/_scan_tombs.dat
 /resources/world/areas/4611686022825732973/_todd_audio_temp.dat
@@ -1097,10 +1102,20 @@
 /resources/world/areas/4611686025383332936/area.dat
 /resources/world/areas/4611686025952170568/area.dat
 /resources/world/areas/4611686027378771320/area.dat
+/resources/world/areas/4611686027378771320/imp_bt_mid_eng_control.dat
+/resources/world/areas/4611686027378771320/imp_bt_mid_eng_hall_05.dat
+/resources/world/areas/4611686027378771320/imp_bt_mid_eng_main.dat
+/resources/world/areas/4611686027378771320/imp_bt_mid_hub_corr_aft_02.dat
+/resources/world/areas/4611686027378771320/imp_bt_prt_hangar_main_nofog.dat
+/resources/world/areas/4611686027378771320/imp_bt_prt_wing_hall_02.dat
+/resources/world/areas/4611686027378771320/imp_bt_sb_conf_main.dat
+/resources/world/areas/4611686027378771320/rep_bs_hangar_lower_lift.dat
 /resources/world/areas/4611686027681070173/area.dat
 /resources/world/areas/4611686030163371363/area.dat
 /resources/world/areas/4611686033020472228/area.dat
 /resources/world/areas/4611686033507370314/area.dat
+/resources/world/areas/4611686033507370314/rep_command_bridge_hall_01.dat
+/resources/world/areas/4611686033507370314/rep_hangar_hall_01_h.dat
 /resources/world/areas/4611686035947170168/area.dat
 /resources/world/areas/4611686039258170278/area.dat
 /resources/world/areas/4611686040187270001/area.dat
@@ -1188,4 +1203,5 @@
 /resources/world/livecontent/systemgenerated/3758002374/smuggler.dat
 /resources/world/livecontent/systemgenerated/3758002374/smuggler_room_02.dat
 /resources/world/livecontent/systemgenerated/3758002374/smuggler_room_03.dat
+ft.sig
 metadata.bin

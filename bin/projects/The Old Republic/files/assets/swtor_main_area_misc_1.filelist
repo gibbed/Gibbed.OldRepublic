@@ -1,4 +1,4 @@
-; 4090/5537 (73%)
+; 4094/5537 (73%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -122,6 +122,7 @@
 /resources/art/shaders/materials/spc_ps_bh_int_wall01.mat
 /resources/art/shaders/materials/spc_ps_bh_int_wall02.mat
 /resources/art/shaders/materials/spc_ps_bh_int_wall03.mat
+/resources/art/shaders/materials/spc_ps_sith_int_pipes03.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_ceiling01.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_door01.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_door02.mat
@@ -1683,6 +1684,7 @@
 /resources/art/static/area/spc_space/item/texture/spc_item_ps_engine_sith_n.tiny.dds
 /resources/art/static/area/spc_space/item/texture/spc_item_ps_engine_sith_s.dds
 /resources/art/static/area/spc_space/item/texture/spc_item_ps_engine_sith_s.tex
+/resources/art/static/area/spc_space/item/texture/spc_item_ps_engine_sith_s.tiny.dds
 /resources/art/static/area/spc_space/item/texture/spc_item_ps_jedi_holo_communicator_d.dds
 /resources/art/static/area/spc_space/item/texture/spc_item_ps_jedi_holo_communicator_d.tex
 /resources/art/static/area/spc_space/item/texture/spc_item_ps_jedi_holo_communicator_d.tiny.dds
@@ -2016,6 +2018,7 @@
 /resources/art/static/area/spc_space/playership/spc_ps_sith_int_door_escape.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_sith_int_door_large.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_sith_int_door_large_ext.gr2
+/resources/art/static/area/spc_space/playership/spc_ps_sith_int_room_entrance.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_smuggler_ext.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_smuggler_ext_ord.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_smuggler_int_cockpit.gr2
@@ -4088,4 +4091,5 @@
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_00_00_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_00_01_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_respawn_00_00_r.dds
+ft.sig
 metadata.bin

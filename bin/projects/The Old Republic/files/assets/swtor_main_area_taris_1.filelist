@@ -1,4 +1,4 @@
-; 1425/1794 (79%)
+; 1427/1794 (79%)
 /resources/art/shaders/materials/all_item_debris_ship_large_b.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_b_01.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_b_trim.mat
@@ -60,6 +60,7 @@
 /resources/art/static/area/tar_taris/arch/tar_arch_scaffolding_frame_short.gr2
 /resources/art/static/area/tar_taris/arch/tar_arch_tech_terrain_trim_post.gr2
 /resources/art/static/area/tar_taris/arch/tar_arch_tech_terrain_trim_straight01.gr2
+/resources/art/static/area/tar_taris/arch/tar_arch_transport_track.gr2
 /resources/art/static/area/tar_taris/arch/texture/tar_arch_bridge_support_d.dds
 /resources/art/static/area/tar_taris/arch/texture/tar_arch_bridge_support_d.tex
 /resources/art/static/area/tar_taris/arch/texture/tar_arch_bridge_support_d.tiny.dds
@@ -1423,4 +1424,5 @@
 /resources/world/areas/4611686070551329793/minimaps/map_taris2_world_11_06_r.dds
 /resources/world/areas/4611686070551329793/minimaps/map_taris2_world_11_07_r.dds
 /resources/world/areas/4611686070551329793/minimaps/map_taris2_world_11_08_r.dds
+ft.sig
 metadata.bin

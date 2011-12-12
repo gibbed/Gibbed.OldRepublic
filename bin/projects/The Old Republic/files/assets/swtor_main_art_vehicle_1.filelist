@@ -1,4 +1,4 @@
-; 1104/1549 (71%)
+; 1105/1549 (71%)
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.tiny.dds
@@ -1102,4 +1102,5 @@
 /resources/art/static/vehicle/republic/veh_rep_troop_transport.gr2
 /resources/art/static/vehicle/republic/veh_rep_troop_transport_flight.gr2
 /resources/art/static/vehicle/republic/veh_rep_troop_transport_landed_wingsdown.gr2
+ft.sig
 metadata.bin

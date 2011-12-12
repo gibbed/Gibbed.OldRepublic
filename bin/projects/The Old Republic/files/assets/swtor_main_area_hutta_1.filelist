@@ -1,4 +1,4 @@
-; 1176/1269 (92%)
+; 1177/1269 (92%)
 /resources/art/environmentmaps/hut_main/default.dds
 /resources/art/environmentmaps/hut_main/default.tex
 /resources/art/environmentmaps/hut_main/default.tiny.dds
@@ -1174,4 +1174,5 @@
 /resources/world/areas/4611686019802841877/minimaps/map_int_spaceport_hangar_02_01_00_r.dds
 /resources/world/areas/4611686019802841877/minimaps/map_int_spaceport_spaceport_00_00_r.dds
 /resources/world/areas/4611686019802841877/minimaps/map_int_spaceport_spaceport_00_01_r.dds
+ft.sig
 metadata.bin

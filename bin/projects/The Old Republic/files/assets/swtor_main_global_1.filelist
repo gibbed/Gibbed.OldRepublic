@@ -1,4 +1,4 @@
-; 7884/10342 (76%)
+; 7886/10342 (76%)
 /resources/systemgenerated/buckets.info
 /resources/systemgenerated/buckets/0.bkt
 /resources/systemgenerated/buckets/1.bkt
@@ -7882,4 +7882,6 @@
 /resources/systemgenerated/prototypes/16141182460849916718.node
 /resources/systemgenerated/prototypes/16141182490035839051.node
 /resources/systemgenerated/prototypes/16141182495302324373.node
+ft.sig
+groupmanifest.bin
 metadata.bin

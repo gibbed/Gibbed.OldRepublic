@@ -1,2 +1,22 @@
-; 1/26945 (0%)
+; 21/26945 (0%)
+/resources/anim/npc/dwarf/ad_rotate_180.jba
+/resources/anim/npc/dwarf/cb_melee_parry_south_right.jba
+/resources/anim/npc/dwarf/cb_unarmed_kill_attack_right_3.jba
+/resources/anim/npc/dwarf/cd_seismologist_hareen.jba
+/resources/anim/npc/dwarf/dg_incap_drain_end.jba
+/resources/anim/npc/dwarf/dg_incap_net_end.jba
+/resources/anim/npc/dwarf/dg_incap_net_loop.jba
+/resources/anim/npc/dwarf/dg_incap_whirlwind_end.jba
+/resources/anim/npc/dwarf/dg_right_2.jba
+/resources/anim/npc/dwarf/dg_unarmed_crit_damage_right_2.jba
+/resources/anim/npc/dwarf/dl_look_up.jba
+/resources/anim/npc/dwarf/mv_walk_forward.jba
+/resources/anim/npc/ithorian/cb_melee_attack_right_6.jba
+/resources/anim/npc/ithorian/cb_melee_sp2_attack_right_3.jba
+/resources/anim/npc/ithorian/cb_melee_sp2_attack_right_5.jba
+/resources/anim/npc/ithorian/cb_unarmed_parry_high_right_1.jba
+/resources/anim/npc/ithorian/dg_death_1.jba
+/resources/anim/npc/ithorian/dg_death_2.jba
+/resources/anim/npc/ithorian/dg_death_back_pose.jba
+ft.sig
 metadata.bin

@@ -1,4 +1,4 @@
-; 1135/1561 (72%)
+; 1136/1561 (72%)
 /resources/art/shaders/materials/all_arch_city_road_walkway.mat
 /resources/art/shaders/materials/all_arch_imp_barracks_tech_01.mat
 /resources/art/shaders/materials/all_arch_imp_house_b_vent01.mat
@@ -1133,4 +1133,5 @@
 /resources/world/areas/4611686019618382666/minimaps/map_spaceport_sith_warrior_hangar_00_01_r.dds
 /resources/world/areas/4611686019618382666/minimaps/map_spaceport_sith_warrior_hangar_01_00_r.dds
 /resources/world/areas/4611686019618382666/minimaps/map_spaceport_sith_warrior_hangar_01_01_r.dds
+ft.sig
 metadata.bin

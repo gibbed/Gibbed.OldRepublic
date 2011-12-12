@@ -1,4 +1,4 @@
-; 791/824 (95%)
+; 792/824 (96%)
 /resources/art/dynamic/creature/model/manta_baspoorglider_a01.gr2
 /resources/art/dynamic/creature/model/manta_thranta_a01.gr2
 /resources/art/dynamic/creature/model/manta_thrantamount_a01.gr2
@@ -789,4 +789,5 @@
 /resources/art/shaders/materials/wraid_shaclaw_a02_v01.mat
 /resources/art/shaders/materials/wraid_wraid_a01_v01.mat
 /resources/art/shaders/materials/wraid_yozusk_a01_v01.mat
+ft.sig
 metadata.bin

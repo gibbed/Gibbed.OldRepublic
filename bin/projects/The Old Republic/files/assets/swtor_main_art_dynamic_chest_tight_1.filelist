@@ -1,4 +1,4 @@
-; 616/3799 (16%)
+; 618/3799 (16%)
 /resources/art/dynamic/chest/model/chest_tight_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_med_ge_a20_hooddown.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_med_ge_a20_tunic.gr2
@@ -577,6 +577,7 @@
 /resources/art/dynamic/player_character/outfit/tr_tight_med_a01/texture/___psd/chest_tight_med_tr_a01c03_u_s.tex
 /resources/art/dynamic/player_character/outfit/tr_tight_med_a01/texture/___psd/chest_tight_med_tr_a01c03_u_s.tiny.dds
 /resources/art/shaders/materials/chest_tight_heavy_ge_a03reptrooper02_m.mat
+/resources/art/shaders/materials/chest_tight_heavy_jk_a11c01_m.mat
 /resources/art/shaders/materials/chest_tight_light_ge_a08repcitizen02_m.mat
 /resources/art/shaders/materials/chest_tight_light_ge_a26formaldress01_f.mat
 /resources/art/shaders/materials/chest_tight_light_ge_a26formaldress02_f.mat
@@ -614,4 +615,5 @@
 /resources/art/shaders/materials/chest_tightskin_light_sw_a03c04_u.mat
 /resources/art/shaders/materials/chest_tightskin_med_jk_a07c01_u.mat
 /resources/art/shaders/materials/chest_tightskin_non_non_a01underwear01_f.mat
+ft.sig
 metadata.bin

@@ -1,4 +1,4 @@
-; 2148/2576 (83%)
+; 2149/2576 (83%)
 /resources/art/fx/texture/misc/blastermark_large.dds
 /resources/art/fx/texture/misc/blastermark_large.tex
 /resources/art/fx/texture/misc/blastermark_large.tiny.dds
@@ -2146,4 +2146,5 @@
 /resources/world/areas/4611686023868513034/minimaps/map_hub5_int_ulgo_torture_00_00_r.dds
 /resources/world/areas/4611686023868513034/minimaps/map_hub5_int_ulgo_torture_01_00_r.dds
 /resources/world/areas/4611686023868513034/minimaps/map_int_h4ir_chuva_sytrik_00_00_r.dds
+ft.sig
 metadata.bin

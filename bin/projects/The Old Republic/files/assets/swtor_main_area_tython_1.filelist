@@ -1,4 +1,4 @@
-; 1531/1615 (94%)
+; 1533/1615 (94%)
 /resources/art/shaders/materials/all_arch_rep_water_tower_pool.mat
 /resources/art/shaders/materials/all_arch_ruins_house2.mat
 /resources/art/shaders/materials/all_arch_ruins_tower_floor.mat
@@ -1216,6 +1216,7 @@
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_main_pine_small.spt
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_main_pine01.spt
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_main_pine02.spt
+/resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_shrub_gr2.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_thicket_gr2.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_western_juniper_diffuse.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_western_juniper_diffuse.tex
@@ -1529,4 +1530,5 @@
 /resources/world/areas/4611686019869492753/minimaps/map_overworld_04_06_r.dds
 /resources/world/areas/4611686019869492753/minimaps/map_overworld_04_07_r.dds
 /resources/world/areas/4611686019869492753/minimaps/map_overworld_04_08_r.dds
+ft.sig
 metadata.bin

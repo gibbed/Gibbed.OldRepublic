@@ -1,4 +1,4 @@
-; 403/514 (78%)
+; 404/514 (78%)
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.dds
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tex
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tiny.dds
@@ -401,4 +401,5 @@
 /resources/art/static/vehicle/neutral/texture/veh_neu_crate_layer_cargo_s.dds
 /resources/art/static/vehicle/neutral/texture/veh_neu_crate_layer_cargo_s.tex
 /resources/art/static/vehicle/neutral/texture/veh_neu_crate_layer_cargo_s.tiny.dds
+ft.sig
 metadata.bin

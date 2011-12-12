@@ -1,4 +1,4 @@
-; 2543/14293 (17%)
+; 2544/14293 (17%)
 /resources/anim/humanoid/bmanew/ad_2saber_body_pitch.jba
 /resources/anim/humanoid/bmanew/ad_2saber_body_yaw.jba
 /resources/anim/humanoid/bmanew/ad_blank.jba
@@ -2541,4 +2541,5 @@
 /resources/anim/humanoid/bmfnew/po_unconscious_sit_wall_talk_2hand_01.jba
 /resources/anim/humanoid/bmfnew/po_unconscious_sit_wall_talk_enter.jba
 /resources/anim/humanoid/bmfnew/po_unconscious_sit_wall_talk_loop.jba
+ft.sig
 metadata.bin

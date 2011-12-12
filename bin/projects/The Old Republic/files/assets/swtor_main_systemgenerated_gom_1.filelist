@@ -1,4 +1,4 @@
-; 836/862 (96%)
+; 837/862 (97%)
 /resources/systemgenerated/client.gom
 /resources/systemgenerated/compilednative/14987979585156775957
 /resources/systemgenerated/compilednative/14987979987473194752
@@ -834,4 +834,5 @@
 /resources/systemgenerated/compilednative/14988260355646184421
 /resources/systemgenerated/compilednative/14988260499516371179
 /resources/systemgenerated/scriptdef.list
+ft.sig
 metadata.bin

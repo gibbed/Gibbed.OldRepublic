@@ -1,4 +1,4 @@
-; 3594/4687 (76%)
+; 3598/4687 (76%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -3519,6 +3519,7 @@
 /resources/art/dynamic/weapon/turret/texture/wep_turret_republic_s.tiny.dds
 /resources/art/dynamic/weapon/turret/wep_turret_republic.gr2
 /resources/art/shaders/materials/assaultcannon_low01_a01_v04.mat
+/resources/art/shaders/materials/blaster_high05_a01_v01.mat
 /resources/art/shaders/materials/blaster_high06_a01_v03.mat
 /resources/art/shaders/materials/blaster_high10_a01_v04.mat
 /resources/art/shaders/materials/blaster_low01_a01_v04.mat
@@ -3529,6 +3530,7 @@
 /resources/art/shaders/materials/blaster_low06_a01_v01.mat
 /resources/art/shaders/materials/blaster_low06_a01_v03.mat
 /resources/art/shaders/materials/blaster_low09_a01_v01.mat
+/resources/art/shaders/materials/blaster_low09_a01_v02.mat
 /resources/art/shaders/materials/electroblade_low03_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low04_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low05_a01_v01.mat
@@ -3546,6 +3548,7 @@
 /resources/art/shaders/materials/rifle_low07_a01_v04.mat
 /resources/art/shaders/materials/rifle_sniperlow01_a01_v02.mat
 /resources/art/shaders/materials/saber_jedilow01_a01_v01.mat
+/resources/art/shaders/materials/saber_jedilow03_a01_v01.mat
 /resources/art/shaders/materials/saber_low01_a01_v01.mat
 /resources/art/shaders/materials/saber_low03_a01_v01.mat
 /resources/art/shaders/materials/wep_rifle_low01.mat
@@ -3592,4 +3595,5 @@
 /resources/art/static/weapon/sword/wep_swd_burning_brand.gr2
 /resources/art/static/weapon/sword/wep_swd_practice_sword.gr2
 /resources/art/static/weapon/sword/wep_swd_saber_sith_warrior_01.gr2
+ft.sig
 metadata.bin

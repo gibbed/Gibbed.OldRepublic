@@ -1,4 +1,4 @@
-; 2242/2531 (88%)
+; 2243/2531 (88%)
 /resources/art/shaders/materials/all_arch_rep_generator_tech.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_ceiling_element.mat
 /resources/art/shaders/materials/all_arch_und_cantina_wall_design.mat
@@ -2240,4 +2240,5 @@
 /resources/world/areas/4611686018427650020/minimaps/map_tatooine_main_17_23_r.dds
 /resources/world/areas/4611686018427650020/minimaps/map_tatooine_main_17_24_r.dds
 /resources/world/areas/4611686018427650020/minimaps/map_tatooine_main_17_25_r.dds
+ft.sig
 metadata.bin

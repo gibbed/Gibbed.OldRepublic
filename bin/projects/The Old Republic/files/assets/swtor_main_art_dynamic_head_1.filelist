@@ -1,4 +1,4 @@
-; 5452/19796 (27%)
+; 5462/19796 (27%)
 /resources/art/dynamic/eyecolor/index.xml
 /resources/art/dynamic/face/index.xml
 /resources/art/dynamic/face/model/face_bhgoggles01_bma_archetype.gr2
@@ -16,6 +16,7 @@
 /resources/art/dynamic/face/model/face_gehelmet26_bmn_archetype.gr2
 /resources/art/dynamic/face/model/face_gehelmet26_bmn_med_ge_a11_rim.gr2
 /resources/art/dynamic/face/model/face_gemask02_bma_archetype.gr2
+/resources/art/dynamic/face/model/face_sshelmet04_bmf_archetype.gr2
 /resources/art/dynamic/face/model/face_trhelmet01_bms_archetype.gr2
 /resources/art/dynamic/face/model/face_trhelmet02_bmn_archetype.gr2
 /resources/art/dynamic/facehair/index.xml
@@ -26,6 +27,9 @@
 /resources/art/dynamic/facehair/model/facehair_human_bma_african_sm_cyber03_beard.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bma_african_sm_cyber03_top.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bma_caucasian_a02_mustache.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bma_caucasian_a04_mustache.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bma_caucasian_a05_mustache.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bma_caucasian_sm_cyber02_bottom.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmf_caucasian_a03_chops.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmf_caucasian_a03_goatee.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmf_caucasian_a03_mustache.gr2
@@ -104,6 +108,7 @@
 /resources/art/dynamic/hair/model/hair_human_bma_non_a13.clo
 /resources/art/dynamic/hair/model/hair_human_bma_non_a13.gr2
 /resources/art/dynamic/hair/model/hair_human_bma_non_a18.gr2
+/resources/art/dynamic/hair/model/hair_human_bmf_non_a01.gr2
 /resources/art/dynamic/hair/model/hair_human_bmf_non_a04.gr2
 /resources/art/dynamic/hair/model/hair_human_bmf_non_a04_longlength.gr2
 /resources/art/dynamic/hair/model/hair_human_bmf_non_a06.gr2
@@ -128,6 +133,7 @@
 /resources/art/dynamic/hair/model/hair_human_bmn_non_a12_back.gr2
 /resources/art/dynamic/hair/model/hair_human_bmn_non_a17_main.gr2
 /resources/art/dynamic/hair/model/hair_human_bmn_non_corso01.gr2
+/resources/art/dynamic/hair/model/hair_human_bms_non_a02.gr2
 /resources/art/dynamic/hair/model/hair_human_bms_non_a04.gr2
 /resources/art/dynamic/hair/model/hair_human_bms_non_a04_longlength.gr2
 /resources/art/dynamic/hair/model/hair_human_bms_non_a05.gr2
@@ -1124,6 +1130,7 @@
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_c18_f.tex
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_c18_m.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_c18_m.tex
+/resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_c18_m.tiny.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith01_u.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith01_u.tex
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith02_u.dds
@@ -1880,6 +1887,7 @@
 /resources/art/dynamic/player_character/face_customization/tattoos/tattoo_zabrak_non_good05_u.tiny.dds
 /resources/art/dynamic/player_character/face_customization/tattoos/tattoo_zabrak_non_good06_u.dds
 /resources/art/dynamic/player_character/face_customization/tattoos/tattoo_zabrak_non_good06_u.tex
+/resources/art/dynamic/player_character/face_customization/tattoos/tattoo_zabrak_non_good06_u.tiny.dds
 /resources/art/dynamic/player_character/face_customization/tattoos/tattoo_zabrak_non_good07_u.dds
 /resources/art/dynamic/player_character/face_customization/tattoos/tattoo_zabrak_non_good07_u.tex
 /resources/art/dynamic/player_character/face_customization/tattoos/tattoo_zabrak_non_good07_u.tiny.dds
@@ -5409,6 +5417,7 @@
 /resources/art/shaders/materials/head_twilek_bms_caucasian_a01_v01.mat
 /resources/art/shaders/materials/head_twilek_bms_caucasian_a01_v02.mat
 /resources/art/shaders/materials/head_weequay_bms_non_a01_v01.mat
+/resources/art/shaders/materials/head_weequay_bms_non_a01_v02.mat
 /resources/art/shaders/materials/head_zabrakimp_african_a01c01_f.mat
 /resources/art/shaders/materials/head_zabrakimp_african_a02c01_f.mat
 /resources/art/shaders/materials/head_zabrakimp_african_a03c01_f.mat
@@ -5450,4 +5459,5 @@
 /resources/art/shaders/materials/head_zabrakrep_caucasian_a05c01_f.mat
 /resources/art/shaders/materials/head_zabrakrep_caucasian_a05c01_m.mat
 /resources/art/shaders/materials/lukehair_test_v01.mat
+ft.sig
 metadata.bin

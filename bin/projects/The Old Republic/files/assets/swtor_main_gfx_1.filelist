@@ -1,4 +1,4 @@
-; 428/52256 (0%)
+; 433/52256 (0%)
 /resources/gfx/codex/cdx.location.hutta.jiguuna.dds
 /resources/gfx/codex/cdx.location.korriban.valley_of_the_dark_lords.dds
 /resources/gfx/codex/cdx.location.ord_mantell.drelliad_village.dds
@@ -134,7 +134,9 @@
 /resources/gfx/icons/animaltaloncolorvariant1.dds
 /resources/gfx/icons/assassinate.dds
 /resources/gfx/icons/assault.dds
+/resources/gfx/icons/assaultcannonshockabsorber.dds
 /resources/gfx/icons/backpack.dds
+/resources/gfx/icons/basicgrenade.dds
 /resources/gfx/icons/beacon.dds
 /resources/gfx/icons/bioelectricshieldenhancer.dds
 /resources/gfx/icons/blaster.low01.a03_v04.dds
@@ -158,6 +160,7 @@
 /resources/gfx/icons/cc_passive.dds
 /resources/gfx/icons/ccredits.dds
 /resources/gfx/icons/channelhatred.dds
+/resources/gfx/icons/chargedsaber.dds
 /resources/gfx/icons/cheapshot.dds
 /resources/gfx/icons/childoftheempire.dds
 /resources/gfx/icons/chipped_chitin.dds
@@ -419,6 +422,7 @@
 /resources/gfx/portraits/companions/rep_companions/theran_cedrax_light.dds
 /resources/gfx/portraits/companions/rep_companions/yuun_light.dds
 /resources/gfx/portraits/companions/rep_companions/zenith_light.dds
+/resources/gfx/portraits/head_rodian_bma_non_a01.dds
 /resources/gfx/symbols/credits.dds
 /resources/gfx/symbols/dark_side.dds
 /resources/gfx/symbols/light_side.dds
@@ -426,4 +430,5 @@
 /resources/gfx/symbols/social.dds
 /resources/gfx/symbols/vendor.dds
 /resources/gfx/symbols/x_14pt_red.dds
+ft.sig
 metadata.bin

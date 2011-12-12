@@ -1,4 +1,5 @@
-; 415/4372 (9%)
+; 420/4372 (9%)
+/resources/art/dynamic/chest/model/chest_jacket_bfb_archetype.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bma_archetype.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bma_med_ge_a31_arm.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bma_med_sm_a01_arm.gr2
@@ -392,6 +393,7 @@
 /resources/art/dynamic/player_character/outfit/tr_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_tr_a05c04_u_s.dds
 /resources/art/dynamic/player_character/outfit/tr_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_tr_a05c04_u_s.tex
 /resources/art/dynamic/player_character/outfit/tr_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_tr_a05c04_u_s.tiny.dds
+/resources/art/shaders/materials/chest_capetight_med_jk_a03c02_f.mat
 /resources/art/shaders/materials/chest_jacket_med_ge_a31tribal01_m.mat
 /resources/art/shaders/materials/chest_jacket_med_sm_a01c01_m.mat
 /resources/art/shaders/materials/chest_robe01_light_ge_a29doctor01_f.mat
@@ -403,6 +405,7 @@
 /resources/art/shaders/materials/chest_robe02_heavy_jk_a12c03_m.mat
 /resources/art/shaders/materials/chest_robe02_med_jk_a01c01_m.mat
 /resources/art/shaders/materials/chest_robe02_med_jk_a01c02_f.mat
+/resources/art/shaders/materials/chest_robe02_med_jk_a02c02_m.mat
 /resources/art/shaders/materials/chest_trench_med_sp_a05c01_u.mat
 /resources/art/shaders/materials/chest_trench_med_sp_a05c02_u.mat
 /resources/art/shaders/materials/chest_trencharmor_heavy_ge_a06reptrooper01_u.mat
@@ -410,7 +413,9 @@
 /resources/art/shaders/materials/chest_trencharmor_heavy_tr_a06c02_u.mat
 /resources/art/shaders/materials/chest_trencharmor_heavy_tr_a06c03_u.mat
 /resources/art/shaders/materials/chest_trencharmor_heavy_tr_a06c04_u.mat
+/resources/art/shaders/materials/chest_trenchtight_heavy_bh_a05c03_m.mat
 /resources/art/shaders/materials/chest_trenchtight_heavy_tr_a05c02_f.mat
 /resources/art/shaders/materials/chest_trenchtight_light_ge_a25formalmale01_u.mat
 /resources/art/shaders/materials/chest_trenchtight_light_ge_a25formalmale02_u.mat
+ft.sig
 metadata.bin

@@ -1,4 +1,4 @@
-; 641/14181 (4%)
+; 642/14181 (4%)
 /resources/anim/humanoid/bfanew/ad_blank.jba
 /resources/anim/humanoid/bfanew/ad_body_pitch.jba
 /resources/anim/humanoid/bfanew/ad_body_yaw.jba
@@ -639,4 +639,5 @@
 /resources/anim/humanoid/bfbnew/po_pole_threaten_point_north_west.jba
 /resources/anim/humanoid/bfbnew/po_pole_threaten_point_west.jba
 /resources/anim/humanoid/bfbnew/po_pole_threaten_to_normal.jba
+ft.sig
 metadata.bin

@@ -1,4 +1,4 @@
-; 416/3116 (13%)
+; 419/3116 (13%)
 /resources/anim/humanoid/am_dwarf.xml
 /resources/anim/humanoid/am_humanoid.xml
 /resources/anim/humanoid/am_humanoid_npc.xml
@@ -13,6 +13,7 @@
 /resources/anim/placeable/am_repdropship.xml
 /resources/anim/placeable/am_turret.xml
 /resources/anim/placeable/am_turretenv.xml
+/resources/anim/placeable/e3doormed/placeable_openclose_1.3.6.mph
 /resources/anim/placeable/repdropship/ad_blank.jba
 /resources/anim/placeable/repdropship/ad_impact_hard.jba
 /resources/anim/placeable/repdropship/ad_impact_light.jba
@@ -94,6 +95,7 @@
 /resources/anim/placeable/repdropship/repdropship.mph
 /resources/anim/placeable/repdropship/repdropship_action.mph
 /resources/anim/placeable/repdropship/repdropship_overlay.mph
+/resources/anim/placeable/repspacedoorsmall/placeable_openclose_1.3.6.mph
 /resources/anim/placeable/shipimpdropship/ad_blank.jba
 /resources/anim/placeable/shipimpdropship/ad_impact_hard.jba
 /resources/anim/placeable/shipimpdropship/ad_impact_light.jba
@@ -414,4 +416,5 @@
 /resources/art/dynamic/spec/wraid.dyc
 /resources/art/dynamic/spec/wraidboss.dat
 /resources/art/dynamic/spec/wraidboss.dyc
+ft.sig
 metadata.bin
