@@ -1,4 +1,8 @@
-; 376/9321 (4%)
+; 394/9321 (4%)
+/resources/anim/creature/acklaydroid/cb_attack_1.jba
+/resources/anim/creature/acklaydroid/cb_ready_3.jba
+/resources/anim/creature/acklaydroid/ex_idle_1.jba
+/resources/anim/creature/acklaydroid/mv_walk_strafe_east.jba
 /resources/anim/creature/am_colicoid.xml
 /resources/anim/creature/am_colicoiddroid.xml
 /resources/anim/creature/bantha/ad_blank.jba
@@ -40,6 +44,7 @@
 /resources/anim/creature/bantha/cb_spawn.jba
 /resources/anim/creature/bantha/creature_action_common.mph
 /resources/anim/creature/bantha/creature_overlay.mph
+/resources/anim/creature/bantha/creature_quad_action_common.mph
 /resources/anim/creature/bantha/creature_quad_loco.mph
 /resources/anim/creature/bantha/dg_crit_damage_1.jba
 /resources/anim/creature/bantha/dg_crit_damage_2.jba
@@ -94,6 +99,14 @@
 /resources/anim/creature/bantha/mv_walk_forward.jba
 /resources/anim/creature/bantha/mv_walk_strafe_east.jba
 /resources/anim/creature/bantha/mv_walk_strafe_west.jba
+/resources/anim/creature/bull/dg_death_pose_1.jba
+/resources/anim/creature/cat/dg_crit_damage_1.jba
+/resources/anim/creature/cat/mv_cb_turn_ccw_90.jba
+/resources/anim/creature/cat/mv_cb_turn_cw_90.jba
+/resources/anim/creature/colicoiddroid/cb_ready_1.jba
+/resources/anim/creature/dewback/cb_attack_2.jba
+/resources/anim/creature/dewback/ex_idle_4.jba
+/resources/anim/creature/dewback/mv_walk_back.jba
 /resources/anim/creature/dog/ad_blank.jba
 /resources/anim/creature/dog/ad_body_pitch.jba
 /resources/anim/creature/dog/ad_body_yaw.jba
@@ -372,6 +385,11 @@
 /resources/anim/droid/astromech/mv_turn_cw_90.jba
 /resources/anim/droid/astromech/mv_walk_back.jba
 /resources/anim/droid/astromech/mv_walk_forward.jba
+/resources/anim/droid/battle/dg_damage_2.jba
+/resources/anim/droid/battle/dg_death_pose_1.jba
+/resources/anim/droid/battle/ex_idle_4.jba
 /resources/anim/npc/am_npc_geonosian.xml
 /resources/anim/npc/am_npc_hutt.xml
+/resources/anim/npc/hutt/mv_walk_forward.jba
+ft.sig
 metadata.bin

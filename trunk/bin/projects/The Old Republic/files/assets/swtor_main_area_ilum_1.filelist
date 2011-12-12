@@ -1,4 +1,4 @@
-; 371/564 (65%)
+; 372/564 (65%)
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.tiny.dds
@@ -369,4 +369,5 @@
 /resources/world/areas/4611686039258170278/minimaps/map_temple_escape_tunnel_01_01_r.dds
 /resources/world/areas/4611686039258170278/minimaps/map_temple_escape_tunnel_02_00_r.dds
 /resources/world/areas/4611686039258170278/minimaps/map_temple_escape_tunnel_02_01_r.dds
+ft.sig
 metadata.bin

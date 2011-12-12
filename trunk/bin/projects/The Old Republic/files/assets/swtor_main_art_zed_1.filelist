@@ -1,4 +1,4 @@
-; 140/422 (33%)
+; 141/422 (33%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/dynamic/age/index.xml
@@ -138,4 +138,5 @@
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_s.dds
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_s.tex
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_s.tiny.dds
+ft.sig
 metadata.bin

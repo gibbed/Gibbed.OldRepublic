@@ -1,11 +1,14 @@
-; 899/3874 (23%)
+; 911/3874 (23%)
 /resources/art/dynamic/chest/index.xml
 /resources/art/dynamic/chest/model/chest_armor01_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfa_med_ge_a11_back.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfa_med_ge_a11_loin.clo
 /resources/art/dynamic/chest/model/chest_armor01_bfa_med_ge_a11_loin.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfa_med_ge_a11_shld.gr2
+/resources/art/dynamic/chest/model/chest_armor01_bfb_heavy_tr_a03_bandoleer.gr2
+/resources/art/dynamic/chest/model/chest_armor01_bma_heavy_tr_a03_shld.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bmn_archetype.gr2
+/resources/art/dynamic/chest/model/chest_armor01_bmn_heavy_tr_a04_chest.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bmn_med_ge_a11_back.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bmn_med_ge_a11_loin.clo
 /resources/art/dynamic/chest/model/chest_armor01_bmn_med_ge_a11_loin.gr2
@@ -13,8 +16,11 @@
 /resources/art/dynamic/chest/model/chest_baggy_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfa_light_ge_a32_loin.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfa_light_ge_a32_straps.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfb_heavy_sw_a05_shld.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_archetype.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfs_heavy_sw_a05_shld.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_archetype.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bma_heavy_ge_a16_plate.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_light_ge_a32_loin.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_light_ge_a32_shld.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_light_ge_a32_straps.gr2
@@ -22,6 +28,7 @@
 /resources/art/dynamic/chest/model/chest_baggy_bmf_light_ge_a32_loin.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bmf_light_ge_a32_straps.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bmn_archetype.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bmn_heavy_ge_a16_loin.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bmn_heavy_ge_a16_plate.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bmn_light_ge_a32_loin.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bmn_light_ge_a32_shld.gr2
@@ -34,6 +41,7 @@
 /resources/art/dynamic/chest/model/chest_baggy_bmn_med_sm_a03_collar.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_archetype.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_heavy_ge_a18_back.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bms_heavy_sw_a05_chest.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_light_ge_a32_loin.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_light_ge_a32_shld.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_light_ge_a32_straps.gr2
@@ -869,6 +877,7 @@
 /resources/art/shaders/materials/chest_armor01_heavy_ge_a11impheavy05_u.mat
 /resources/art/shaders/materials/chest_armor01_heavy_ge_a24mandalorian03_u.mat
 /resources/art/shaders/materials/chest_armor01_heavy_ge_a24mandalorian04_u.mat
+/resources/art/shaders/materials/chest_baggy_heavy_ge_a16military07_f.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a16military07_m.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a18mercenary02_m.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a18mercenary04_m.mat
@@ -882,6 +891,7 @@
 /resources/art/shaders/materials/chest_baggy_light_ss_a03c03_m.mat
 /resources/art/shaders/materials/chest_baggy_med_ge_a02repofficer02_m.mat
 /resources/art/shaders/materials/chest_baggy_med_ge_a27pilot01_m.mat
+/resources/art/shaders/materials/chest_baggy_med_ge_a27pilot02_f.mat
 /resources/art/shaders/materials/chest_baggy_med_jk_a04c02_m.mat
 /resources/art/shaders/materials/chest_baggy_med_jk_a05c01_m.mat
 /resources/art/shaders/materials/chest_baggy_med_jk_a05c02_m.mat
@@ -893,8 +903,10 @@
 /resources/art/shaders/materials/chest_dancer01_light_ge_a21dancer04_f.mat
 /resources/art/shaders/materials/chest_dancer01_light_ge_a21dancer05_f.mat
 /resources/art/shaders/materials/chest_dancer01_light_ge_a21dancer06_f.mat
+/resources/art/shaders/materials/chest_naked_african_young_a01c01_bfs.mat
 /resources/art/shaders/materials/chest_naked_asian_young_a01c01_bms.mat
 /resources/art/shaders/materials/chest_naked_caucasian_young_a01c01_bfa.mat
 /resources/art/shaders/materials/chest_naked_caucasian_young_a01c01_bmn.mat
 /resources/art/shaders/materials/chest_naked_caucasian_young_a01c01_bms.mat
+ft.sig
 metadata.bin

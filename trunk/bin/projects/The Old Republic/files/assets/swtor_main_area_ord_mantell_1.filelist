@@ -1,4 +1,4 @@
-; 614/664 (92%)
+; 615/664 (92%)
 /resources/art/environmentmaps/ord_resize/area.dds
 /resources/art/environmentmaps/ord_resize/area.tex
 /resources/art/environmentmaps/ord_resize/area.tiny.dds
@@ -612,4 +612,5 @@
 /resources/world/areas/4611686019802843831/minimaps/map_world_ord_mantell_06_03_r.dds
 /resources/world/areas/4611686019802843831/minimaps/map_world_ord_mantell_06_04_r.dds
 /resources/world/areas/4611686019802843831/minimaps/map_world_ord_mantell_06_05_r.dds
+ft.sig
 metadata.bin

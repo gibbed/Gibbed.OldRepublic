@@ -1,4 +1,4 @@
-; 2110/2660 (79%)
+; 2111/2660 (79%)
 /resources/art/shaders/materials/all_arch_rakata_wall_set03.mat
 /resources/art/shaders/materials/all_arch_rep_house_trim_interior.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_wall1a.mat
@@ -2108,4 +2108,5 @@
 /resources/world/areas/4611686025952170568/minimaps/map_hub4_republic_prisoner_01_00_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub4_republic_prisoner_01_01_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub4_upper_transport_center_00_00_r.dds
+ft.sig
 metadata.bin

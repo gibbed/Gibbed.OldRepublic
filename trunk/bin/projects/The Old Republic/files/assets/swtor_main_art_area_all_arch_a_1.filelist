@@ -1,4 +1,4 @@
-; 2698/3575 (75%)
+; 2705/3575 (75%)
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_01.mat
@@ -58,6 +58,7 @@
 /resources/art/shaders/materials/all_arch_fadeportal_tyt_rep_building_grey_lighter.mat
 /resources/art/shaders/materials/all_arch_imp_barracks_wall01.mat
 /resources/art/shaders/materials/all_arch_imp_building_props_interior.mat
+/resources/art/shaders/materials/all_arch_imp_cantina_floordesign.mat
 /resources/art/shaders/materials/all_arch_imp_cantina_holopads.mat
 /resources/art/shaders/materials/all_arch_imp_fort_hallway_strips_01.mat
 /resources/art/shaders/materials/all_arch_imp_guardhouse.mat
@@ -83,6 +84,8 @@
 /resources/art/shaders/materials/all_arch_rep_jedi_retreat_strips_01.mat
 /resources/art/shaders/materials/all_arch_rep_jedi_retreat_wall_01.mat
 /resources/art/shaders/materials/all_arch_rep_jedi_retreat_wall_02.mat
+/resources/art/shaders/materials/all_arch_rep_space_door_lg.mat
+/resources/art/shaders/materials/all_arch_rep_space_escape_pod_latch.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_wall2.mat
 /resources/art/shaders/materials/all_arch_und_factory_int_liquid.mat
 /resources/art/shaders/materials/all_arch_und_factory_int_panels01.mat
@@ -1122,6 +1125,7 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_cantina_plumbing_01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_cantina_wall_deco.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_cantina_wall_deco_02.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_citadel_rm_column.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_crawler.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_door_01_left.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_door_01_right.gr2
@@ -1166,10 +1170,12 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_punchthrough_lg.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_punchthrough_sm.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_mod_hangar_floor_elevator.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_mod_hangar_wall_column.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_mod_room_floor_circle_60.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_mod_room_pillar.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_mod_room_pillar_sym01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_fill_8x8m_a.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_rail_ramp_rs_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_rail_seg_8m_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_elevator_pad.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_elevator_tubedoor.gr2
@@ -2696,4 +2702,5 @@
 /resources/art/static/vehicle/imp/texture/veh_imp_capital_destroyer_trims01_s.dds
 /resources/art/static/vehicle/imp/texture/veh_imp_capital_destroyer_trims01_s.tex
 /resources/art/static/vehicle/imp/texture/veh_imp_capital_destroyer_trims01_s.tiny.dds
+ft.sig
 metadata.bin

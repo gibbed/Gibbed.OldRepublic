@@ -1,4 +1,4 @@
-; 930/14191 (6%)
+; 931/14191 (6%)
 /resources/anim/humanoid/bfnnew/ad_2saber_body_pitch.jba
 /resources/anim/humanoid/bfnnew/ad_2saber_body_yaw.jba
 /resources/anim/humanoid/bfnnew/ad_blank.jba
@@ -928,4 +928,5 @@
 /resources/anim/humanoid/bfnnew/po_twist_behind_left_lefthand_03.jba
 /resources/anim/humanoid/bfnnew/po_twist_behind_left_to_180.jba
 /resources/anim/humanoid/bfnnew/po_twist_behind_left_to_normal.jba
+ft.sig
 metadata.bin

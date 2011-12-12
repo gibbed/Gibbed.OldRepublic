@@ -1,4 +1,4 @@
-; 1806/2912 (62%)
+; 1807/2912 (62%)
 /resources/art/shaders/materials/all_item_factory_cauldron_metal.mat
 /resources/art/shaders/materials/cor_arch_works_grating.mat
 /resources/art/shaders/materials/crl_arch_city_ext_bwall_new.mat
@@ -1804,4 +1804,5 @@
 /resources/world/areas/4611686033020472228/minimaps/map_hub4_vanguard_hq_00_00_r.dds
 /resources/world/areas/4611686033020472228/minimaps/map_hub4_vorins_rise_00_00_r.dds
 /resources/world/areas/4611686033020472228/minimaps/map_hub4_vowrawns_safehouse_00_00_r.dds
+ft.sig
 metadata.bin

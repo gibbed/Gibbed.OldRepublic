@@ -1,4 +1,4 @@
-; 338/716 (47%)
+; 339/716 (47%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -336,4 +336,5 @@
 /resources/art/static/vehicle/republic/texture/veh_rep_troop_transport_combined_s.dds
 /resources/art/static/vehicle/republic/texture/veh_rep_troop_transport_combined_s.tex
 /resources/art/static/vehicle/republic/texture/veh_rep_troop_transport_combined_s.tiny.dds
+ft.sig
 metadata.bin

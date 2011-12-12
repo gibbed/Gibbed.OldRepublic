@@ -1,4 +1,4 @@
-; 2052/2158 (95%)
+; 2053/2158 (95%)
 /resources/art/defaultassets/occluder.dds
 /resources/art/defaultassets/occluder.tex
 /resources/art/fx/texture/uv_atlas/all_item_works_huge_generator_lights_d.dds
@@ -2050,4 +2050,5 @@
 /resources/world/areas/4611686019047870293/minimaps/map_senate_taxi_03_03_r.dds
 /resources/world/areas/4611686019047870293/minimaps/map_temple_taxi_00_00_r.dds
 /resources/world/areas/4611686019047870293/minimaps/map_temple_taxi_00_01_r.dds
+ft.sig
 metadata.bin

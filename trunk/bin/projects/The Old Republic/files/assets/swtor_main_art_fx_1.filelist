@@ -1,4 +1,4 @@
-; 13184/22916 (57%)
+; 13199/22916 (57%)
 /resources/art/defaultassets/white.dds
 /resources/art/defaultassets/white.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_mini_a01_v01_d.dds
@@ -29,9 +29,11 @@
 /resources/art/fx/fxspec/214.fxspec
 /resources/art/fx/fxspec/222.fxspec
 /resources/art/fx/fxspec/233.fxspec
+/resources/art/fx/fxspec/248.fxspec
 /resources/art/fx/fxspec/250.fxspec
 /resources/art/fx/fxspec/253.fxspec
 /resources/art/fx/fxspec/349.fxspec
+/resources/art/fx/fxspec/355.fxspec
 /resources/art/fx/fxspec/366.fxspec
 /resources/art/fx/fxspec/367.fxspec
 /resources/art/fx/fxspec/368.fxspec
@@ -104,9 +106,11 @@
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_guardian_leap_target.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_introspection.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_momentumblow_saber.fxspec
+/resources/art/fx/fxspec/abilities/jedi_knight/jk_saberthrow_target_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_soresuform_caster.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_sweep_impact_low.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_unwavering_resolve.fxspec
+/resources/art/fx/fxspec/abilities/muzzle_flashes/battledroid_muzzleflash_orange.fxspec
 /resources/art/fx/fxspec/abilities/muzzle_flashes/rifle_muzzleflash_orange.fxspec
 /resources/art/fx/fxspec/abilities/sith_inquisitor/si_unnatural_power_cast.fxspec
 /resources/art/fx/fxspec/abilities/sith_inquisitor/si_unnatural_power_target.fxspec
@@ -136,6 +140,7 @@
 /resources/art/fx/fxspec/abilities/spy/sp_snapshot_steam_01.fxspec
 /resources/art/fx/fxspec/abilities/spy/sp_snipe_cast_reticule_01.fxspec
 /resources/art/fx/fxspec/abilities/spy/sp_snipe_hit_01.fxspec
+/resources/art/fx/fxspec/abilities/spy/sp_snipe_projectile_01.fxspec
 /resources/art/fx/fxspec/abilities/spy/sp_snipe_target_01.fxspec
 /resources/art/fx/fxspec/abilities/spy/sp_stealth_01.fxspec
 /resources/art/fx/fxspec/abilities/spy/sp_stealth_off_01.fxspec
@@ -185,11 +190,13 @@
 /resources/art/fx/fxspec/audio_weapon_ranged_fireright_rapidoneoff.fxspec
 /resources/art/fx/fxspec/audio_weapon_ranged_foleyright_normal.fxspec
 /resources/art/fx/fxspec/audio_weapon_ranged_stowright_normal.fxspec
+/resources/art/fx/fxspec/bh_flame_thrower_target_top.fxspec
 /resources/art/fx/fxspec/bh_grapple.fxspec
 /resources/art/fx/fxspec/bh_grapple_target.fxspec
 /resources/art/fx/fxspec/conversation/holoconference_loop.fxspec
 /resources/art/fx/fxspec/cover_available.fxspec
 /resources/art/fx/fxspec/cover_selected_02.fxspec
+/resources/art/fx/fxspec/cover_selected_left_02.fxspec
 /resources/art/fx/fxspec/creatures/droids/battledroid_cannon_muzzle_flash.fxspec
 /resources/art/fx/fxspec/creatures/generic_impacts/cr_bite_impact_large_crit.fxspec
 /resources/art/fx/fxspec/creatures/generic_impacts/cr_hit_impact_large.fxspec
@@ -202,12 +209,14 @@
 /resources/art/fx/fxspec/env_cor_damage_smoke_large_01.fxspec
 /resources/art/fx/fxspec/env_cor_rep_jamming_beacon.fxspec
 /resources/art/fx/fxspec/env_cor_spot_lights_01.fxspec
+/resources/art/fx/fxspec/env_hut_interior_pipe_steam_03.fxspec
 /resources/art/fx/fxspec/env_hut_pipe_steam_01.fxspec
 /resources/art/fx/fxspec/env_hut_smoke_stack_01.fxspec
 /resources/art/fx/fxspec/env_imp_steam_falling.fxspec
 /resources/art/fx/fxspec/env_kor_dust_blue.fxspec
 /resources/art/fx/fxspec/env_kor_forcefield_blue_01.fxspec
 /resources/art/fx/fxspec/env_kor_forcefield_trapezoid.fxspec
+/resources/art/fx/fxspec/env_kor_library_04.fxspec
 /resources/art/fx/fxspec/env_kor_lifter_02.fxspec
 /resources/art/fx/fxspec/env_kor_med_facilty_imp_generator.fxspec
 /resources/art/fx/fxspec/env_kor_pyramid_godrays.fxspec
@@ -240,6 +249,7 @@
 /resources/art/fx/fxspec/environments/coruscant/env_cor_near_ship_bus_traffic.fxspec
 /resources/art/fx/fxspec/environments/coruscant/env_cor_near_taxi_ships_traffic.fxspec
 /resources/art/fx/fxspec/environments/coruscant/env_cor_skybox_noctilucent_clouds_01.fxspec
+/resources/art/fx/fxspec/environments/dromund/env_dro_dancing_girls.fxspec
 /resources/art/fx/fxspec/environments/hoth/env_hot_volcano_large_erupt.fxspec
 /resources/art/fx/fxspec/environments/hutta/env_hut_bog_water_surface.fxspec
 /resources/art/fx/fxspec/environments/hutta/sky_hut_overhead_clouds_01.fxspec
@@ -999,6 +1009,7 @@
 /resources/art/fx/geometry/jediknight/texture/jk_wave_force_ring_d.dds
 /resources/art/fx/geometry/jediknight/texture/jk_wave_force_ring_d.tex
 /resources/art/fx/geometry/jediknight/texture/jk_wave_force_ring_d.tiny.dds
+/resources/art/fx/geometry/kor_door_sigil.gr2
 /resources/art/fx/geometry/lcd_monitors/all_item_tech_computer_terminal/all_item_tech_wall_monitor_vfx.gr2
 /resources/art/fx/geometry/nar_item_tech_generator/nar_item_tech_generator_glow_01.dds
 /resources/art/fx/geometry/nar_item_tech_generator/nar_item_tech_generator_glow_01.tex
@@ -1062,6 +1073,7 @@
 /resources/art/fx/geometry/probes/vfx_probe_mini_centered.gr2
 /resources/art/fx/geometry/probes/vfx_probe_mini_hologram.gr2
 /resources/art/fx/geometry/probes/vfx_probe_mini_invisible.gr2
+/resources/art/fx/geometry/probes/vfx_probe_mini01.gr2
 /resources/art/fx/geometry/probes/vfx_tr_probe_01.gr2
 /resources/art/fx/geometry/rakatas/texture/fx_rk_partialshieldcentered_d.dds
 /resources/art/fx/geometry/rakatas/texture/fx_rk_partialshieldcentered_d.tex
@@ -13107,6 +13119,7 @@
 /resources/art/shaders/materials/fx_all_stim_buff_injector.mat
 /resources/art/shaders/materials/fx_bh_bracerweapon_01.mat
 /resources/art/shaders/materials/fx_bh_grapple_cordring_01.mat
+/resources/art/shaders/materials/fx_cine_saberforge_crystalrig_01.mat
 /resources/art/shaders/materials/fx_env_tyt_constilations.mat
 /resources/art/shaders/materials/fx_jc_forceofwill_wisp_01.mat
 /resources/art/shaders/materials/fx_jc_forcequake_wake.mat
@@ -13126,6 +13139,7 @@
 /resources/art/shaders/materials/jk_light_streak.mat
 /resources/art/shaders/materials/jk_wave_force_ring.mat
 /resources/art/shaders/materials/med_droid_bottom.mat
+/resources/art/shaders/materials/plain_plane.mat
 /resources/art/shaders/materials/probe_hologram.mat
 /resources/art/shaders/materials/rebelbase.mat
 /resources/art/shaders/materials/tr_attack_formation.mat
@@ -13182,4 +13196,5 @@
 /resources/art/static/weapon/texture/pistol_test_s.dds
 /resources/art/static/weapon/texture/pistol_test_s.tex
 /resources/art/static/weapon/texture/pistol_test_s.tiny.dds
+ft.sig
 metadata.bin

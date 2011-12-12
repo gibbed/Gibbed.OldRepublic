@@ -1,4 +1,4 @@
-; 3205/13634 (23%)
+; 3210/13634 (23%)
 /resources/art/dynamic/bracer/index.xml
 /resources/art/dynamic/bracer/model/bracer_short_bfa_archetype.gr2
 /resources/art/dynamic/bracer/model/bracer_short_bfn_archetype.gr2
@@ -8,6 +8,7 @@
 /resources/art/dynamic/bracer/model/bracer_short_bms_archetype.gr2
 /resources/art/dynamic/hand/index.xml
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_archetype.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_tr_a03_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_light_ge_a29_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_jk_a01_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_archetype.gr2
@@ -15,7 +16,9 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_archetype.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_tr_a01_front.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_archetype.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bmn_heavy_sw_a06_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_light_ge_a33_back.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_bh_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_sw_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_archetype.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_med_jk_a05_back.gr2
@@ -30,6 +33,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bma_archetype.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_light_ge_a32_cuff.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a10_wrist.gr2
+/resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a11_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a31_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_archetype.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_light_ge_a32_cuff.gr2
@@ -3203,4 +3207,5 @@
 /resources/art/shaders/materials/hand_naked_twilek_young_a01c01_bmf.mat
 /resources/art/shaders/materials/hand_naked_twilek_young_a01c01_bmn.mat
 /resources/art/shaders/materials/skin.mat
+ft.sig
 metadata.bin

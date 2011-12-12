@@ -1,4 +1,4 @@
-; 1253/1291 (97%)
+; 1254/1291 (97%)
 /resources/art/environmentmaps/kor_rebuild_test/area2.dds
 /resources/art/environmentmaps/kor_rebuild_test/area2.tex
 /resources/art/environmentmaps/kor_rebuild_test/area2.tiny.dds
@@ -1251,4 +1251,5 @@
 /resources/world/areas/4611686022825732973/minimaps/map_korriban_main_02_01_r.dds
 /resources/world/areas/4611686022825732973/minimaps/map_korriban_main_03_00_r.dds
 /resources/world/areas/4611686022825732973/minimaps/map_korriban_main_03_01_r.dds
+ft.sig
 metadata.bin

@@ -1,4 +1,4 @@
-; 1965/2113 (92%)
+; 1966/2113 (93%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
 /resources/art/defaultassets/default_age.dds
@@ -1963,4 +1963,5 @@
 /resources/art/shaders/materials/lizard_sleen_a01_v01.mat
 /resources/art/shaders/materials/lizard_veractyl_a01_v01.mat
 /resources/art/shaders/materials/lizard_zeldrate_a01_v01.mat
+ft.sig
 metadata.bin

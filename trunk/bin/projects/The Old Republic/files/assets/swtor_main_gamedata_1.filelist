@@ -1,4 +1,4 @@
-; 2232/6700 (33%)
+; 2239/6700 (33%)
 /resources/art/defaultassets/ltorange.dds
 /resources/art/defaultassets/ltorange.tex
 /resources/art/shaders/materials/engine_staging_human_03.mat
@@ -84,6 +84,7 @@
 /resources/gamedata/epp/agent/sneak/cast_instant.epp
 /resources/gamedata/epp/agent/snipe/snipe_cast.epp
 /resources/gamedata/epp/agent/snipe/snipe_fire.epp
+/resources/gamedata/epp/agent/stealth/cast_instant.epp
 /resources/gamedata/epp/agent/stealth/exit.epp
 /resources/gamedata/epp/agent/stealth/loop.epp
 /resources/gamedata/epp/agent/subterfuge/cast_instant.epp
@@ -170,6 +171,7 @@
 /resources/gamedata/epp/bounty_hunter/lesser_healing_scan/lesser_healing_scan_cast.epp
 /resources/gamedata/epp/bounty_hunter/lesser_healing_scan/lesser_healing_scan_heal.epp
 /resources/gamedata/epp/bounty_hunter/missile_blast/missile_blast_fire.epp
+/resources/gamedata/epp/bounty_hunter/missile_blast/missile_blast_splash_damage.epp
 /resources/gamedata/epp/bounty_hunter/missile_salvo/missile_salvo_channel.epp
 /resources/gamedata/epp/bounty_hunter/missile_salvo/missile_salvo_end.epp
 /resources/gamedata/epp/bounty_hunter/missile_tracking/missile_tracking_cast.epp
@@ -1083,6 +1085,7 @@
 /resources/gamedata/epp/player/mount/grant_mount.epp
 /resources/gamedata/epp/player/mount/inquisitor/bike.epp
 /resources/gamedata/epp/player/music_buff.epp
+/resources/gamedata/epp/player/quick_travel.epp
 /resources/gamedata/epp/player/revive/call_probe.epp
 /resources/gamedata/epp/player/revive/waiting_for_probe.epp
 /resources/gamedata/epp/player/sprint.epp
@@ -1219,6 +1222,7 @@
 /resources/gamedata/epp/quest/location/korriban/world/blood_legacy/bloodfiend_spawn.epp
 /resources/gamedata/epp/quest/location/korriban/world/brains_of_the_beast/beast_spawn.epp
 /resources/gamedata/epp/quest/location/korriban/world/purity/scanner.epp
+/resources/gamedata/epp/quest/location/korriban/world/purity/scanner_end.epp
 /resources/gamedata/epp/quest/location/nar_shaddaa/bronze/imperial/glitch/reprogram.epp
 /resources/gamedata/epp/quest/location/open_worlds/act_1/bounty_hunter/honor_regained/rc_tiger_turret_fire.epp
 /resources/gamedata/epp/quest/location/open_worlds/act_1/bounty_hunter/the_mandalorian_killer/explosive_force.epp
@@ -1281,6 +1285,7 @@
 /resources/gamedata/epp/quest/location/universal/potshots_blaster_rifle.epp
 /resources/gamedata/epp/quest/location/universal/suppressive_fire.epp
 /resources/gamedata/epp/quest/location/voss/world_arc/imperial/dark_rites/channel_crystal.epp
+/resources/gamedata/epp/sith_inquisitor/affliction/target_loop.epp
 /resources/gamedata/epp/sith_inquisitor/backlash/cast_instant.epp
 /resources/gamedata/epp/sith_inquisitor/chain_lightning/cast_end.epp
 /resources/gamedata/epp/sith_inquisitor/charged_saber/cast_instant.epp
@@ -1391,6 +1396,7 @@
 /resources/gamedata/epp/sith_warrior/shatter/cast_instant.epp
 /resources/gamedata/epp/sith_warrior/shiicho_form/cast_instant.epp
 /resources/gamedata/epp/sith_warrior/smash/cast_instant.epp
+/resources/gamedata/epp/sith_warrior/smash/target_instant.epp
 /resources/gamedata/epp/sith_warrior/sundering_assault/cast_instant.epp
 /resources/gamedata/epp/sith_warrior/surge/cast_instant.epp
 /resources/gamedata/epp/sith_warrior/sweeping_slash/cast_instant.epp
@@ -2230,4 +2236,5 @@
 /resources/server/tbl/chrbackground.tbl
 /resources/server/tbl/chrspec.tbl
 /resources/server/tbl/fxusedbyscript.tbl
+ft.sig
 metadata.bin

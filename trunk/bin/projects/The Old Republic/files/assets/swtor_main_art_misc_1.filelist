@@ -1,4 +1,4 @@
-; 1087/2182 (49%)
+; 1095/2182 (50%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -509,6 +509,7 @@
 /resources/art/lights/255_255_255.tex
 /resources/art/lights/345_068_052.dds
 /resources/art/lights/345_068_052.tex
+/resources/art/lights/44_79_99.dds
 /resources/art/lights/ald_exterior_lightramp.dds
 /resources/art/lights/ald_exterior_lightramp.tex
 /resources/art/lights/ald_exterior_lightramp.tiny.dds
@@ -658,6 +659,7 @@
 /resources/art/lights/fill_157_33_93.tiny.dds
 /resources/art/lights/fill_158_030_093.dds
 /resources/art/lights/fill_158_030_093.tex
+/resources/art/lights/fill_190_033_035.dds
 /resources/art/lights/fill_202_064_045.dds
 /resources/art/lights/fill_202_064_045.tex
 /resources/art/lights/fill_202_064_045.tiny.dds
@@ -1003,6 +1005,7 @@
 /resources/art/shaders/materials/spawner_gold.mat
 /resources/art/shaders/materials/spawner_red.mat
 /resources/art/shaders/materials/standard_1.mat
+/resources/art/shaders/materials/util_black.mat
 /resources/art/shaders/materials/util_blue_hidden.mat
 /resources/art/shaders/materials/util_green_hidden.mat
 /resources/art/shaders/materials/util_red.mat
@@ -1041,6 +1044,8 @@
 /resources/art/static/designblockout/designutility/dbo_collision_cube.gr2
 /resources/art/static/designblockout/designutility/dbo_decal_red_x.gr2
 /resources/art/static/designblockout/designutility/dbo_sign_cinematics_gandalf.gr2
+/resources/art/static/designblockout/designutility/dbo_sign_ilum.gr2
+/resources/art/static/designblockout/designutility/dbo_sign_taris.gr2
 /resources/art/static/designblockout/designutility/dbo_utility_anchor_point.gr2
 /resources/art/static/designblockout/designutility/dbo_utility_block_blue.gr2
 /resources/art/static/designblockout/designutility/dbo_utility_block_green.gr2
@@ -1061,12 +1066,14 @@
 /resources/art/static/designblockout/destruction/dbo_dest_barrel_explosive_destroyed.gr2
 /resources/art/static/designblockout/droids/gonk_armor_head.gr2
 /resources/art/static/designblockout/imp_arc/dbo_all_arch_imp_space_door_med_busted.gr2
+/resources/art/static/designblockout/imp_arc/dbo_imp_arc_wire_hang_a_01.gr2
 /resources/art/static/designblockout/imp_arc/dbo_imp_arc_wire_still_c_01.gr2
 /resources/art/static/designblockout/imp_arc/dbo_lightspeed_stars_base_05.gr2
 /resources/art/static/designblockout/imperial/dbo_all_sith_interior_door_transition2tombs_door_closed_01.gr2
 /resources/art/static/designblockout/imperial/imperial_body/designblockout_imperial_body.gr2
 /resources/art/static/designblockout/redux/dbo_dummy_object.gr2
 /resources/art/static/designblockout/republic/republic_body/designblockout_republic_body.gr2
+/resources/art/static/designblockout/signs/dbo_hub1.gr2
 /resources/art/static/designblockout/signs/dbo_red_box.gr2
 /resources/art/static/designblockout/signs/dbo_utility_tomb_handle.gr2
 /resources/art/static/designblockout/signs/sign_sorcerer_class_instance.gr2
@@ -1085,4 +1092,5 @@
 /resources/art/water/water_bump_map_n.tex
 /resources/art/water/water_bump_map02_n.dds
 /resources/art/water/water_bump_map02_n.tex
+ft.sig
 metadata.bin

@@ -1,4 +1,4 @@
-; 3686/4698 (78%)
+; 3688/4698 (78%)
 /resources/art/shaders/materials/all_arch_rep_atv_interior_wall1_01.mat
 /resources/art/shaders/materials/all_arch_rep_fort_columns01.mat
 /resources/art/shaders/materials/all_arch_rep_fort_exterior_strips.mat
@@ -7,6 +7,7 @@
 /resources/art/shaders/materials/all_item_rep_fort_wall_panels.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_d01.mat
 /resources/art/shaders/materials/all_item_tech_computer_terminal_screen.mat
+/resources/art/shaders/materials/hth_env_cliff_snow.mat
 /resources/art/shaders/materials/hth_item_debris_ship_large_b.mat
 /resources/art/shaders/materials/hth_item_debris_ship_large_b_01.mat
 /resources/art/shaders/materials/hth_item_debris_ship_large_b_trim.mat
@@ -3684,4 +3685,5 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hub5_sith_cave_00_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub5_sith_cave_01_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub5_sith_cave_01_01_r.dds
+ft.sig
 metadata.bin
