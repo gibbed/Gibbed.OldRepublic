@@ -1,4 +1,4 @@
-; 2239/6700 (33%)
+; 2241/6700 (33%)
 /resources/art/defaultassets/ltorange.dds
 /resources/art/defaultassets/ltorange.tex
 /resources/art/shaders/materials/engine_staging_human_03.mat
@@ -2140,6 +2140,7 @@
 /resources/gamedata/epp/world_design/vehicles/playerships/bountyhunter/fly_out.epp
 /resources/gamedata/epp/world_design/vehicles/playerships/bountyhunter/ilum_boss_crash.epp
 /resources/gamedata/epp/world_design/vehicles/rep/dropship/land_1.epp
+/resources/gamedata/str/stb.manifest
 /resources/gamedata/svy/bug/gui.svy
 /resources/gamedata/svy/cohort/advanced_class.svy
 /resources/gamedata/svy/cohort/alpha2/advanced_class.svy
@@ -2235,6 +2236,7 @@
 /resources/guixml/unsavedchangesdialog.xml
 /resources/server/tbl/chrbackground.tbl
 /resources/server/tbl/chrspec.tbl
+/resources/server/tbl/fxhuecolors.tbl
 /resources/server/tbl/fxusedbyscript.tbl
 ft.sig
 metadata.bin

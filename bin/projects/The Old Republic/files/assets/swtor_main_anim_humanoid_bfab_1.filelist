@@ -1,4 +1,4 @@
-; 642/14181 (4%)
+; 646/14181 (4%)
 /resources/anim/humanoid/bfanew/ad_blank.jba
 /resources/anim/humanoid/bfanew/ad_body_pitch.jba
 /resources/anim/humanoid/bfanew/ad_body_yaw.jba
@@ -136,6 +136,8 @@
 /resources/anim/humanoid/bfanew/am_traffic_control_3.jba
 /resources/anim/humanoid/bfanew/am_traffic_control_4.jba
 /resources/anim/humanoid/bfanew/am_traffic_control_5.jba
+/resources/anim/humanoid/bfanew/anim_library.mph
+/resources/anim/humanoid/bfanew/anim_sharing.mph.amx
 /resources/anim/humanoid/bfanew/as_stand_nervous_enter.jba
 /resources/anim/humanoid/bfanew/as_stand_nervous_idle_1.jba
 /resources/anim/humanoid/bfanew/as_stand_nervous_look_1.jba
@@ -522,6 +524,8 @@
 /resources/anim/humanoid/bfbnew/am_traffic_control_3.jba
 /resources/anim/humanoid/bfbnew/am_traffic_control_4.jba
 /resources/anim/humanoid/bfbnew/am_traffic_control_5.jba
+/resources/anim/humanoid/bfbnew/anim_library.mph
+/resources/anim/humanoid/bfbnew/anim_sharing.mph.amx
 /resources/anim/humanoid/bfbnew/cb_2pistol_cover_crouch_enter_far.jba
 /resources/anim/humanoid/bfbnew/cb_2pistol_cover_enter_far_left.jba
 /resources/anim/humanoid/bfbnew/cb_2pistol_cover_enter_far_right.jba

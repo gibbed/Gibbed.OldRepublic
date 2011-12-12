@@ -1,5 +1,7 @@
-; 411/9174 (4%)
+; 413/9174 (4%)
+/resources/anim/creature/am_manta.xml
 /resources/anim/creature/am_mote.xml
+/resources/anim/creature/am_probe.xml
 /resources/anim/creature/am_rancor.xml
 /resources/anim/creature/mynock/cb_attack_5.jba
 /resources/anim/creature/mynock/creature_loco.mph
