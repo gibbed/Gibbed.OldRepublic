@@ -96,6 +96,13 @@ namespace Gibbed.TheOldRepublic.FileFormats
                     entry.NameHash = input.ReadValueU64(endian);
                     entry.DataHash = input.ReadValueU32(endian);
                     entry.Flags = input.ReadValueU16(endian);
+
+                    if (entry.Flags != 0 &&
+                        entry.Flags != 1)
+                    {
+                        throw new FormatException();
+                    }
+
                     this.Entries.Add(entry);
                 }
             }

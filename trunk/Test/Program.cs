@@ -21,43 +21,19 @@
  */
 
 using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using Gibbed.IO;
+using Gibbed.TheOldRepublic.FileFormats;
 
-namespace RebuildFileLists
+namespace Test
 {
-    internal class Breakdown
+    internal class Program
     {
-        public long Known = 0;
-        public long Total = 0;
-
-        public int Percent
+        public static void Main(string[] args)
         {
-            get
-            {
-                if (this.Total == 0)
-                {
-                    return 0;
-                }
-
-                return (int)Math.Floor((
-                    (float)this.Known /
-                    (float)this.Total) * 100.0);
-            }
-        }
-
-        public static Breakdown operator +(Breakdown a, Breakdown b)
-        {
-            var c = new Breakdown();
-            c.Known = a.Known + b.Known;
-            c.Total = a.Total + b.Total;
-            return c;
-        }
-
-        public override string ToString()
-        {
-            return string.Format("{0}/{1} ({2}%)",
-                this.Known,
-                this.Total,
-                this.Percent);
         }
     }
 }
