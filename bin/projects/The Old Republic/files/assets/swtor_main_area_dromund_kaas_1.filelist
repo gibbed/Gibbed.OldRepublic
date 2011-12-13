@@ -1,4 +1,4 @@
-; 1475/1560 (94%)
+; 1477/1560 (94%)
 /resources/art/environmentmaps/dro_main/area.dds
 /resources/art/environmentmaps/dro_main/area.tex
 /resources/art/environmentmaps/dro_main/area.tiny.dds
@@ -342,8 +342,10 @@
 /resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_02_d.dds
 /resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_02_d.tex
 /resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_02_d.tiny.dds
+/resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_02_n.dds
 /resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_02_n.tex
 /resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_02_n.tiny.dds
+/resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_02_s.dds
 /resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_02_s.tex
 /resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_02_s.tiny.dds
 /resources/art/static/area/dro_kass/arch/texture/dro_arch_sith_temple_floor_d.dds

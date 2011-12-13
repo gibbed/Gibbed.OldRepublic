@@ -1,4 +1,4 @@
-; 7925/8930 (88%)
+; 7927/8930 (88%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -496,6 +496,8 @@
 /resources/art/shaders/materials/all_item_tech_bounty_board_kiosk_pickup.mat
 /resources/art/shaders/materials/all_item_tech_canister_destroyed.mat
 /resources/art/shaders/materials/all_item_tech_canister_electric.mat
+/resources/art/shaders/materials/all_item_tech_canister_fire.mat
+/resources/art/shaders/materials/all_item_tech_canister_smoke.mat
 /resources/art/shaders/materials/all_item_tech_carbonite_face01.mat
 /resources/art/shaders/materials/all_item_tech_carbonite_face02.mat
 /resources/art/shaders/materials/all_item_tech_carbonite_face03.mat

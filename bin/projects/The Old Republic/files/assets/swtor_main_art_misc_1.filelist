@@ -1,4 +1,4 @@
-; 1155/2181 (52%)
+; 1157/2181 (53%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -755,6 +755,8 @@
 /resources/art/lights/fill_warm_jedi_temple.tex
 /resources/art/lights/fill_warm_space.dds
 /resources/art/lights/fill_warm_space.tex
+/resources/art/lights/fx_falloff_linear_01.dds
+/resources/art/lights/fx_falloff_linear_01.tex
 /resources/art/lights/fx_lum_sp_recuperate.dds
 /resources/art/lights/fx_lum_sp_recuperate.tex
 /resources/art/lights/fx_ramp_backface_01.dds
