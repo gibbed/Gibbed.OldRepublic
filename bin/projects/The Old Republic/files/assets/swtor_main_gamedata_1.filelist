@@ -1,10 +1,11 @@
-; 2261/6699 (33%)
+; 2263/6699 (33%)
 /resources/art/defaultassets/ltorange.dds
 /resources/art/defaultassets/ltorange.tex
 /resources/art/shaders/materials/engine_staging_human_03.mat
 /resources/art/shaders/materials/engine_staging_human_04.mat
 /resources/art/shaders/materials/engine_staging_human_05.mat
 /resources/art/shaders/materials/engine_staging_props.mat
+/resources/art/shaders/materials/util_blue.mat
 /resources/art/shaders/materials/util_yellow.mat
 /resources/engine/cleangame/resources/common/utility_box_white01.gr2
 /resources/engine/map/engine_map_mapnode.gr2
@@ -16,6 +17,7 @@
 /resources/engine/staging/engine_staging_human_04.gr2
 /resources/engine/staging/engine_staging_human_05.gr2
 /resources/engine/staging/engine_staging_pointlight.gr2
+/resources/engine/utility/stringfilter_profanity_en_us.xml
 /resources/engine/utility/util_cube_hidden.gr2
 /resources/gamedata/epp/agent/adrenaline_probe/summon.epp
 /resources/gamedata/epp/agent/ambush/cast_loop.epp

@@ -1,4 +1,4 @@
-; 15/63 (23%)
+; 18/63 (28%)
 /resources/bnk2/abilities_creatures_data.bnk
 /resources/bnk2/abilities_general_data.bnk
 /resources/bnk2/abilities_imperialmelee_data.bnk
@@ -8,9 +8,12 @@
 /resources/bnk2/cinematics_data.bnk
 /resources/bnk2/init.bnk
 /resources/bnk2/location_characterselect_data.bnk
+/resources/bnk2/location_hutta_data.bnk
+/resources/bnk2/location_korriban_data.bnk
 /resources/bnk2/movement_data.bnk
 /resources/bnk2/music_data.bnk
 /resources/bnk2/swtor_startup.bnk
+/resources/bnk2/voc_all.bnk
 /resources/bnk2/weapons_data.bnk
 ft.sig
 metadata.bin
