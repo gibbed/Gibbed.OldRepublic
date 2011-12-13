@@ -1,4 +1,4 @@
-; 1095/2181 (50%)
+; 1099/2181 (50%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -529,6 +529,8 @@
 /resources/art/lights/ambient_cor_senate_interior.tex
 /resources/art/lights/ambient_cor_works.dds
 /resources/art/lights/ambient_cor_works.tex
+/resources/art/lights/ambient_dro_imperial_interiors.dds
+/resources/art/lights/ambient_dro_imperial_interiors.tex
 /resources/art/lights/ambient_hutt_palace_jaguuna.dds
 /resources/art/lights/ambient_hutt_palace_jaguuna.tex
 /resources/art/lights/ambient_jedi_temple.dds
@@ -821,6 +823,8 @@
 /resources/art/lights/lum_soft.tex
 /resources/art/lights/lum_square_clouds.dds
 /resources/art/lights/lum_square_clouds.tex
+/resources/art/lights/lum_square_soft.dds
+/resources/art/lights/lum_square_soft.tex
 /resources/art/lights/lum_warehouse_light_03.dds
 /resources/art/lights/lum_warehouse_light_03.tex
 /resources/art/lights/lum_warehouse_light_03.tiny.dds

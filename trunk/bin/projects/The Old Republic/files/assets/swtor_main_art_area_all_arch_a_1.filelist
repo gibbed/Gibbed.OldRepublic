@@ -1,4 +1,4 @@
-; 2705/3574 (75%)
+; 2716/3574 (75%)
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_01.mat
@@ -60,11 +60,16 @@
 /resources/art/shaders/materials/all_arch_imp_building_props_interior.mat
 /resources/art/shaders/materials/all_arch_imp_cantina_floordesign.mat
 /resources/art/shaders/materials/all_arch_imp_cantina_holopads.mat
+/resources/art/shaders/materials/all_arch_imp_fort_hallway_comppanel_03_suv.mat
 /resources/art/shaders/materials/all_arch_imp_fort_hallway_strips_01.mat
 /resources/art/shaders/materials/all_arch_imp_guardhouse.mat
 /resources/art/shaders/materials/all_arch_imp_holo_table_base.mat
 /resources/art/shaders/materials/all_arch_imp_holo_table_top.mat
 /resources/art/shaders/materials/all_arch_imp_holo_table_trim.mat
+/resources/art/shaders/materials/all_arch_imp_house_a_pipe_01.mat
+/resources/art/shaders/materials/all_arch_imp_house_b_cooling_units01.mat
+/resources/art/shaders/materials/all_arch_imp_house_b_metal02.mat
+/resources/art/shaders/materials/all_arch_imp_house_b_wall01.mat
 /resources/art/shaders/materials/all_arch_imp_house_b_wall02.mat
 /resources/art/shaders/materials/all_arch_imp_mandalorian_arena_ceiling_centerpiece.mat
 /resources/art/shaders/materials/all_arch_imp_mandalorian_arena_column.mat
@@ -1105,6 +1110,7 @@
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tyt_rep_building_grey_lighter_d.tiny.dds
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_barracks_ceiling_light.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_barracks_control_panel.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_barracks_tech_01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_barracks_wall_detail.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_barracks_wall_detail_straight_01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_barracks_wall_detail_straight_02.gr2
@@ -1114,6 +1120,8 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_building_props_lights_02.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_building_props_lights_04.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_building_props_lights_06.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_building_props_panels_01.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_building_props_panels_02.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_building_props_transformers_01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_building_props_transformers_02.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_building_props_vent.gr2
@@ -1147,8 +1155,10 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_a_light_01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_a_light_02.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_antennae.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_ceiling_tech.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_ceiling_vent.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_ceiling_vent02.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_extpipe.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_pillar02.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_interior_war_room.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_large_tech.gr2
@@ -1180,6 +1190,7 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_elevator_pad.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_elevator_tubedoor.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_vault_door_closed.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_store_tech_02.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_vehicle_hangar_door_half.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_vehicle_hangar_lift_01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_war_room_tech_cabinet.gr2

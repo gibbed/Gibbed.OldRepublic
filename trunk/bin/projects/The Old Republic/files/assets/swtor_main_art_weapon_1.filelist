@@ -1,4 +1,4 @@
-; 3598/4686 (76%)
+; 3604/4686 (76%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -2644,6 +2644,12 @@
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high04_a01_v04_s.dds
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high04_a01_v04_s.tex
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high04_a01_v04_s.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low01_a01_v_03_n.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low01_a01_v_03_n.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low01_a01_v04_d.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low01_a01_v04_d.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low01_a01_v04_s.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low01_a01_v04_s.tiny.dds
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_shotgunhigh03_a01_v05_d.dds
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_shotgunhigh03_a01_v05_d.tex
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_shotgunhigh03_a01_v05_d.tiny.dds
