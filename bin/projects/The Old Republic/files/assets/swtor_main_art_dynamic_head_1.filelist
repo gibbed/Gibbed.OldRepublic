@@ -1,4 +1,4 @@
-; 6347/19795 (32%)
+; 6404/19795 (32%)
 /resources/art/dynamic/eyecolor/index.xml
 /resources/art/dynamic/face/index.xml
 /resources/art/dynamic/face/model/face_bhgoggles01_bma_archetype.gr2
@@ -20,6 +20,10 @@
 /resources/art/dynamic/face/model/face_gehelmet03_bms_archetype.gr2
 /resources/art/dynamic/face/model/face_gehelmet21_bfn_archetype.gr2
 /resources/art/dynamic/face/model/face_gehelmet21_bfn_light_ge_a21_flair.gr2
+/resources/art/dynamic/face/model/face_gehelmet22_bms_archetype.gr2
+/resources/art/dynamic/face/model/face_gehelmet22_bms_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_gehelmet22_bms_heavy_ge_a18_fangs.gr2
+/resources/art/dynamic/face/model/face_gehelmet22_bms_heavy_ge_a18_fangs.lod.gr2
 /resources/art/dynamic/face/model/face_gehelmet23_bma_archetype.gr2
 /resources/art/dynamic/face/model/face_gehelmet23_bma_med_ge_a01_goggles.gr2
 /resources/art/dynamic/face/model/face_gehelmet23_bmn_archetype.gr2
@@ -46,6 +50,7 @@
 /resources/art/dynamic/facehair/model/facehair_bloodsith_bms_non_a02.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfa_asian_mako_cyber01.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfa_asian_mako_cyber01.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bfa_asian_sm_cyber02_bottom.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfa_asian_sp_cyber01_cheek.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfa_asian_sp_cyber01_ear.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfa_asian_sp_cyber01_glasses.lod.gr2
@@ -53,7 +58,10 @@
 /resources/art/dynamic/facehair/model/facehair_human_bfa_caucasian_sm_cyber04_bottom.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfa_caucasian_sp_cyber01_cheek.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfa_caucasian_sp_cyber01_ear.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bfa_caucasian_sp_cyber03_brow.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bfa_caucasian_sp_cyber03_ear.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfn_asian_sm_cyber04_front.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bfn_asian_sw_cyber04_top.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfn_caucasian_sp_cyber01_cheek.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfn_caucasian_sp_cyber01_ear.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfn_caucasian_sp_cyber03_brow.gr2
@@ -102,6 +110,9 @@
 /resources/art/dynamic/facehair/model/facehair_human_bmn_african_sm_cyber03_beard.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_african_sm_cyber03_sideburns.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_african_sm_cyber03_top.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bmn_african_sp_cyber01_ear.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bmn_african_sp_cyber01_glasses.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bmn_african_sp_cyber01_jaw.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_african_sp_cyber03_ear.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_african_sp_cyber03_eye.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_african_sp_cyber03_side.lod.gr2
@@ -134,7 +145,11 @@
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber04_bottom.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber04_stache.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber04_top.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sp_cyber01_cheek.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sp_cyber01_ear.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sp_cyber01_ear.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sp_cyber01_glasses.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sp_cyber01_jaw.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sw_cyber02_side01.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sw_cyber02_side02.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sw_cyber04_front.lod.gr2
@@ -146,6 +161,7 @@
 /resources/art/dynamic/facehair/model/facehair_human_bms_asian_sw_cyber03_side02.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_asian_sw_cyber03_top02.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_asian_sw_cyber03_top02.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_asian_sw_cyber04_front.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_a01_mustache.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_a01_mustache.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_a02_chops.gr2
@@ -161,6 +177,9 @@
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_a04_mustache.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_a05_chops.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sp_cyber01_ear.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sp_cyber01_ear.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sp_cyber01_jaw.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sp_cyber02_glasses.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sw_cyber01_bottom.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sw_cyber02_side01.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sw_cyber03_side01.lod.gr2
@@ -185,12 +204,21 @@
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfa_african_a01_nosebead.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfa_african_a01_nosechain.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfa_african_a01_nosechain.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_rattataki_bfa_asian_a01_bullring.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_rattataki_bfa_asian_a01_cheek.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_rattataki_bfa_asian_a01_ear.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_rattataki_bfa_asian_a01_earring.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_rattataki_bfa_asian_a01_forehead.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_rattataki_bfa_asian_a01_head.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_rattataki_bfa_asian_a01_nosebead.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_rattataki_bfa_asian_a01_nosechain.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfa_caucasian_a01_cheek.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfa_caucasian_a01_cheek.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfa_caucasian_a01_earring.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfa_caucasian_a01_earring.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfa_caucasian_a01_nosebead.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfa_caucasian_a01_nosebead.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_rattataki_bfb_caucasian_a01_nosebead.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfn_asian_a01_ear.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfn_asian_a01_forehead.gr2
 /resources/art/dynamic/facehair/model/facehair_rattataki_bfn_asian_a01_head.gr2
@@ -234,6 +262,7 @@
 /resources/art/dynamic/hair/model/hair_evocii_bma_non_a04.gr2
 /resources/art/dynamic/hair/model/hair_evocii_bma_non_a04.lod.gr2
 /resources/art/dynamic/hair/model/hair_evocii_bma_non_a05.gr2
+/resources/art/dynamic/hair/model/hair_evocii_bma_non_a05.lod.gr2
 /resources/art/dynamic/hair/model/hair_evocii_bma_non_a06.gr2
 /resources/art/dynamic/hair/model/hair_evocii_bma_non_a06.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfa_child_a01_base.gr2
@@ -280,6 +309,11 @@
 /resources/art/dynamic/hair/model/hair_human_bfa_non_a12_sides.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfa_non_a12_wrap.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfa_non_a13.lod.gr2
+/resources/art/dynamic/hair/model/hair_human_bfa_non_a13_bangs.clo
+/resources/art/dynamic/hair/model/hair_human_bfa_non_a13_bangs.lod.gr2
+/resources/art/dynamic/hair/model/hair_human_bfa_non_a13_wrap.lod.gr2
+/resources/art/dynamic/hair/model/hair_human_bfa_non_a14.clo
+/resources/art/dynamic/hair/model/hair_human_bfa_non_a14.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfb_non_a01.clo
 /resources/art/dynamic/hair/model/hair_human_bfb_non_a01.gr2
 /resources/art/dynamic/hair/model/hair_human_bfb_non_a02.gr2
@@ -341,6 +375,9 @@
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a03.clo
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a03.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a03.lod.gr2
+/resources/art/dynamic/hair/model/hair_human_bfn_non_a03_bangs.lod.gr2
+/resources/art/dynamic/hair/model/hair_human_bfn_non_a03_length.clo
+/resources/art/dynamic/hair/model/hair_human_bfn_non_a03_length.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a04.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a04.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a04_ponytail.clo
@@ -363,8 +400,13 @@
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a07_ponytail.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a08_backspikes.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a08_base.gr2
+/resources/art/dynamic/hair/model/hair_human_bfn_non_a08_base.lod.gr2
+/resources/art/dynamic/hair/model/hair_human_bfn_non_a08_frontspikes.clo
+/resources/art/dynamic/hair/model/hair_human_bfn_non_a08_frontspikes.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a09.gr2
+/resources/art/dynamic/hair/model/hair_human_bfn_non_a09.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a09_jewel.gr2
+/resources/art/dynamic/hair/model/hair_human_bfn_non_a09_wrap.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a10.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a10.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bfn_non_a10_spikes.gr2
@@ -537,6 +579,7 @@
 /resources/art/dynamic/hair/model/hair_zabrakimp_bmn_non_a01_base.lod.gr2
 /resources/art/dynamic/hair/model/hair_zabrakimp_bmn_non_a02_base.gr2
 /resources/art/dynamic/hair/model/hair_zabrakimp_bmn_non_a02_base.lod.gr2
+/resources/art/dynamic/hair/model/hair_zabrakimp_bmn_non_a02_front.lod.gr2
 /resources/art/dynamic/hair/model/hair_zabrakimp_bmn_non_a04_base.gr2
 /resources/art/dynamic/hair/model/hair_zabrakimp_bmn_non_a04_side.gr2
 /resources/art/dynamic/hair/model/hair_zabrakimp_bmn_non_a08.gr2
@@ -545,6 +588,7 @@
 /resources/art/dynamic/hair/model/hair_zabrakimp_bms_non_a02_base.lod.gr2
 /resources/art/dynamic/hair/model/hair_zabrakimp_bms_non_a02_front.lod.gr2
 /resources/art/dynamic/hair/model/hair_zabrakimp_bms_non_a05.lod.gr2
+/resources/art/dynamic/hair/model/hair_zabrakimp_bms_non_a08.lod.gr2
 /resources/art/dynamic/hair/model/hair_zabrakrep_bfn_non_a02_base.lod.gr2
 /resources/art/dynamic/hair/model/hair_zabrakrep_bmn_non_a01_base.gr2
 /resources/art/dynamic/hair/model/hair_zabrakrep_bmn_non_a01_side.gr2
@@ -671,6 +715,7 @@
 /resources/art/dynamic/head/model/head_human_bfb_caucasian_a01.gr2
 /resources/art/dynamic/head/model/head_human_bfb_caucasian_a02.gr2
 /resources/art/dynamic/head/model/head_human_bfb_caucasian_a03.gr2
+/resources/art/dynamic/head/model/head_human_bfb_caucasian_a03.lod.gr2
 /resources/art/dynamic/head/model/head_human_bfb_caucasian_a04.gr2
 /resources/art/dynamic/head/model/head_human_bfb_caucasian_a05.gr2
 /resources/art/dynamic/head/model/head_human_bfb_caucasian_a05.lod.gr2
@@ -688,6 +733,7 @@
 /resources/art/dynamic/head/model/head_human_bfn_asian_a01.gr2
 /resources/art/dynamic/head/model/head_human_bfn_asian_a01.lod.gr2
 /resources/art/dynamic/head/model/head_human_bfn_asian_a02.gr2
+/resources/art/dynamic/head/model/head_human_bfn_asian_a02.lod.gr2
 /resources/art/dynamic/head/model/head_human_bfn_asian_a03.gr2
 /resources/art/dynamic/head/model/head_human_bfn_asian_a04.gr2
 /resources/art/dynamic/head/model/head_human_bfn_asian_a04.lod.gr2
@@ -4608,6 +4654,16 @@
 /resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet21_light_ge_a21dancer02_f_m.tex
 /resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet21_light_ge_a21dancer02_f_s.dds
 /resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet21_light_ge_a21dancer02_f_s.tex
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_d.dds
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_d.tex
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_h.dds
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_h.tex
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_m.dds
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_m.tex
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_n.dds
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_n.tex
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_s.dds
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gehelmet22_heavy_ge_a18mercenary07_u_s.tex
 /resources/art/dynamic/player_character/outfit/gehelmets/texture/___psd/face_gecollar01_med_ge_a20slave01_u_03_n.dds
 /resources/art/dynamic/player_character/outfit/gehelmets/texture/___psd/face_gecollar01_med_ge_a20slave02_u_d.dds
 /resources/art/dynamic/player_character/outfit/gehelmets/texture/___psd/face_gecollar01_med_ge_a20slave02_u_s.dds
@@ -6134,6 +6190,7 @@
 /resources/art/shaders/materials/head_chiss_bmn_african_a01_c01.mat
 /resources/art/shaders/materials/head_chiss_bmn_african_a01_c02.mat
 /resources/art/shaders/materials/head_chiss_bmn_asian_a01_c02.mat
+/resources/art/shaders/materials/head_chiss_bmn_asian_a01_c03.mat
 /resources/art/shaders/materials/head_chiss_bmn_asian_a01_c04.mat
 /resources/art/shaders/materials/head_chiss_bms_african_a01_c01.mat
 /resources/art/shaders/materials/head_chiss_bms_asian_a01_c01.mat

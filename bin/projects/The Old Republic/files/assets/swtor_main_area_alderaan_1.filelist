@@ -1,4 +1,4 @@
-; 2153/2575 (83%)
+; 2154/2575 (83%)
 /resources/art/fx/texture/misc/blastermark_large.dds
 /resources/art/fx/texture/misc/blastermark_large.tex
 /resources/art/fx/texture/misc/blastermark_large.tiny.dds
@@ -22,6 +22,7 @@
 /resources/art/shaders/materials/all_item_decal_stripes_red01.mat
 /resources/art/shaders/materials/all_item_factory_decal_orange.mat
 /resources/art/shaders/materials/all_item_tech_panel_02.mat
+/resources/art/shaders/materials/all_item_tech_panel_04.mat
 /resources/art/shaders/materials/all_item_tech_panel_05.mat
 /resources/art/shaders/materials/all_item_techcave_pipe.mat
 /resources/art/shaders/materials/blastermark_large.mat

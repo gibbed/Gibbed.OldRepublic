@@ -1,4 +1,4 @@
-; 1112/1548 (71%)
+; 1115/1548 (72%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -30,6 +30,8 @@
 /resources/art/shaders/materials/veh_neu_speeder_taxi.mat
 /resources/art/shaders/materials/veh_neu_speeder_van_rebake01.mat
 /resources/art/shaders/materials/veh_neu_starship_condor.mat
+/resources/art/shaders/materials/veh_neu_starship_condor_damage01.mat
+/resources/art/shaders/materials/veh_neu_starship_condor_damage02.mat
 /resources/art/shaders/materials/veh_neu_taxi_air_speeder.mat
 /resources/art/shaders/materials/veh_neu_taxi_air_speeder_glass.mat
 /resources/art/shaders/materials/veh_neu_traffic.mat
@@ -715,6 +717,7 @@
 /resources/art/static/vehicle/neutral/veh_neu_speeder_taxi_static.gr2
 /resources/art/static/vehicle/neutral/veh_neu_speeder_van.gr2
 /resources/art/static/vehicle/neutral/veh_neu_starship_condor.gr2
+/resources/art/static/vehicle/neutral/veh_neu_starship_condor_damage.gr2
 /resources/art/static/vehicle/neutral/veh_neu_starship_condor_engine.gr2
 /resources/art/static/vehicle/neutral/veh_neu_starship_condor_wing.gr2
 /resources/art/static/vehicle/neutral/veh_neu_tat_air_balloon_datacron.gr2

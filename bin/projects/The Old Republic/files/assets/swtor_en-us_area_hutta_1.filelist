@@ -1,8 +1,9 @@
-; 82/124 (66%)
+; 88/124 (70%)
 /resources/en-us/bnk2/cnv_location_hutta_ambient_cc_poi_barks.acb
 /resources/en-us/bnk2/cnv_location_hutta_ambient_nemro_cantina.acb
 /resources/en-us/bnk2/cnv_location_hutta_ambient_poison_pit.acb
 /resources/en-us/bnk2/cnv_location_hutta_ambient_rust_yard_worker_camp.acb
+/resources/en-us/bnk2/cnv_location_hutta_ambient_spaceport.acb
 /resources/en-us/bnk2/cnv_location_hutta_bronze_a_slight_lean_chief_enforcer.acb
 /resources/en-us/bnk2/cnv_location_hutta_bronze_a_slight_lean_morsel.acb
 /resources/en-us/bnk2/cnv_location_hutta_bronze_death_mark_wanted_sign_cantina.acb
@@ -10,6 +11,7 @@
 /resources/en-us/bnk2/cnv_location_hutta_bronze_hostage_situation_foreman_rhamm.acb
 /resources/en-us/bnk2/cnv_location_hutta_bronze_subtle_sabotage_peblack.acb
 /resources/en-us/bnk2/cnv_location_hutta_bronze_subtle_sabotage_rudd.acb
+/resources/en-us/bnk2/cnv_location_hutta_bronze_tech_jealousy_doctor_terrab.acb
 /resources/en-us/bnk2/cnv_location_hutta_bronze_trainers_agent_linh.acb
 /resources/en-us/bnk2/cnv_location_hutta_class_spy_dheno_rey.acb
 /resources/en-us/bnk2/cnv_location_hutta_class_spy_holo_archives.acb
@@ -21,6 +23,7 @@
 /resources/en-us/bnk2/cnv_location_hutta_class_spy_nohn_veyaiko.acb
 /resources/en-us/bnk2/cnv_location_hutta_class_spy_odeph.acb
 /resources/en-us/bnk2/cnv_location_hutta_class_spy_targen.acb
+/resources/en-us/bnk2/cnv_location_hutta_class_spy_the_hood.acb
 /resources/en-us/bnk2/cnv_location_hutta_class_spy_tothlazhen.acb
 /resources/en-us/bnk2/cnv_location_hutta_world_dreams_of_korriban_gianna.acb
 /resources/en-us/bnk2/cnv_location_hutta_world_dreams_of_korriban_mekks.acb
@@ -43,6 +46,7 @@
 /resources/en-us/fxe/cnv/location/hutta/ambient/nemro_cantina.fxe
 /resources/en-us/fxe/cnv/location/hutta/ambient/poison_pit.fxe
 /resources/en-us/fxe/cnv/location/hutta/ambient/rust_yard_worker_camp.fxe
+/resources/en-us/fxe/cnv/location/hutta/ambient/spaceport.fxe
 /resources/en-us/fxe/cnv/location/hutta/bronze/a_slight_lean/chief_enforcer.fxe
 /resources/en-us/fxe/cnv/location/hutta/bronze/a_slight_lean/morsel.fxe
 /resources/en-us/fxe/cnv/location/hutta/bronze/death_mark/wanted_sign_cantina.fxe
@@ -50,6 +54,7 @@
 /resources/en-us/fxe/cnv/location/hutta/bronze/hostage_situation/foreman_rhamm.fxe
 /resources/en-us/fxe/cnv/location/hutta/bronze/subtle_sabotage/peblack.fxe
 /resources/en-us/fxe/cnv/location/hutta/bronze/subtle_sabotage/rudd.fxe
+/resources/en-us/fxe/cnv/location/hutta/bronze/tech_jealousy/doctor_terrab.fxe
 /resources/en-us/fxe/cnv/location/hutta/bronze/trainers/agent/linh.fxe
 /resources/en-us/fxe/cnv/location/hutta/class/spy/dheno_rey.fxe
 /resources/en-us/fxe/cnv/location/hutta/class/spy/holo_archives.fxe
@@ -61,6 +66,7 @@
 /resources/en-us/fxe/cnv/location/hutta/class/spy/nohn_veyaiko.fxe
 /resources/en-us/fxe/cnv/location/hutta/class/spy/odeph.fxe
 /resources/en-us/fxe/cnv/location/hutta/class/spy/targen.fxe
+/resources/en-us/fxe/cnv/location/hutta/class/spy/the_hood.fxe
 /resources/en-us/fxe/cnv/location/hutta/class/spy/tothlazhen.fxe
 /resources/en-us/fxe/cnv/location/hutta/world/dreams_of_korriban/gianna.fxe
 /resources/en-us/fxe/cnv/location/hutta/world/dreams_of_korriban/mekks.fxe

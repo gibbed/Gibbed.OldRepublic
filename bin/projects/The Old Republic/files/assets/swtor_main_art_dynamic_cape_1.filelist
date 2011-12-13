@@ -1,4 +1,4 @@
-; 515/4371 (11%)
+; 526/4371 (12%)
 /resources/art/dynamic/chest/model/chest_jacket_bfa_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bfa_med_ge_a31_arm.lod.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bfa_med_ge_a31_scarf.lod.gr2
@@ -44,6 +44,10 @@
 /resources/art/dynamic/chest/model/chest_trench_bfa_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_trencharmor_bmn_archetype.clo
 /resources/art/dynamic/chest/model/chest_trencharmor_bmn_archetype.gr2
+/resources/art/dynamic/chest/model/chest_trenchtight_bfn_archetype.clo
+/resources/art/dynamic/chest/model/chest_trenchtight_bfn_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_trenchtight_bfn_heavy_bh_a05_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_trenchtight_bfn_heavy_bh_a05_plate.lod.gr2
 /resources/art/dynamic/chest/model/chest_trenchtight_bms_archetype.clo
 /resources/art/dynamic/chest/model/chest_trenchtight_bms_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_trenchtight_bms_heavy_bh_a05_back.lod.gr2
@@ -57,6 +61,7 @@
 /resources/art/dynamic/player_character/outfit/bh_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_bh_a05c03_f_01_n.dds
 /resources/art/dynamic/player_character/outfit/bh_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_bh_a05c03_f_01_n.tex
 /resources/art/dynamic/player_character/outfit/bh_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_bh_a05c03_f_01_n.tiny.dds
+/resources/art/dynamic/player_character/outfit/bh_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_bh_a05c03_f_n.dds
 /resources/art/dynamic/player_character/outfit/bh_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_bh_a05c03_m_01_n.dds
 /resources/art/dynamic/player_character/outfit/bh_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_bh_a05c03_m_01_n.tex
 /resources/art/dynamic/player_character/outfit/bh_trenchtight_heavy_a05/texture/___psd/chest_trenchtight_heavy_bh_a05c03_m_01_n.tiny.dds
@@ -99,10 +104,15 @@
 /resources/art/dynamic/player_character/outfit/ge_jacket_med_a31/texture/___psd/chest_jacket_med_ge_a31tribal01_u_m.dds
 /resources/art/dynamic/player_character/outfit/ge_jacket_med_a31/texture/___psd/chest_jacket_med_ge_a31tribal01_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_m_n.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_m_n.tex
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_u_d.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_u_d.tex
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_u_h.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_u_h.tex
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_u_m.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_u_m.tex
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_u_s.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/chest_robe01_light_ge_a29doctor01_u_s.tex
 /resources/art/dynamic/player_character/outfit/jk_capetight_heavy_a10/texture/___psd/chest_capetight_heavy_jk_a10c01_f_01_n.dds
 /resources/art/dynamic/player_character/outfit/jk_capetight_heavy_a10/texture/___psd/chest_capetight_heavy_jk_a10c01_f_01_n.tex
 /resources/art/dynamic/player_character/outfit/jk_capetight_heavy_a10/texture/___psd/chest_capetight_heavy_jk_a10c01_f_01_n.tiny.dds
@@ -508,6 +518,7 @@
 /resources/art/shaders/materials/chest_trencharmor_heavy_tr_a06c02_u.mat
 /resources/art/shaders/materials/chest_trencharmor_heavy_tr_a06c03_u.mat
 /resources/art/shaders/materials/chest_trencharmor_heavy_tr_a06c04_u.mat
+/resources/art/shaders/materials/chest_trenchtight_heavy_bh_a05c03_f.mat
 /resources/art/shaders/materials/chest_trenchtight_heavy_bh_a05c03_m.mat
 /resources/art/shaders/materials/chest_trenchtight_heavy_tr_a05c02_f.mat
 /resources/art/shaders/materials/chest_trenchtight_light_ge_a25formalmale01_u.mat
