@@ -1,4 +1,4 @@
-; 288/3625 (7%)
+; 296/3625 (8%)
 /resources/en-us/str/abl.stb
 /resources/en-us/str/abl/agent/skill.stb
 /resources/en-us/str/abl/player/grant_codex_xp.stb
@@ -19,23 +19,31 @@
 /resources/en-us/str/cnv/location/dromund_kaas/advanced_class/imperial_agent/agent_advanced_class_trainer.stb
 /resources/en-us/str/cnv/location/dromund_kaas/advanced_class/imperial_agent/commander_dorne.stb
 /resources/en-us/str/cnv/location/dromund_kaas/ambient/cc_poi_barks.stb
+/resources/en-us/str/cnv/location/dromund_kaas/bronze/explosive_discontent/bounty_board.stb
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/on_the_scent/chisssecurityofficer.stb
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/on_the_scent/manda.stb
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/on_the_scent/minder20.stb
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/on_the_scent/mkru.stb
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/personal_challenge/vort_norman.stb
+/resources/en-us/str/cnv/location/dromund_kaas/bronze/saving_face/vol_kolla.stb
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/status_report/captain_tolto.stb
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/status_report/guardpost_commander_kullin.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/spy/darth_jadus.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/fixer_twelve.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/kaliyo.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/keeper.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/lodenth_kashar.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/spy/samara_mindak.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/spy/slave_captain.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/watcher_three.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/watcher_two.stb
+/resources/en-us/str/cnv/location/dromund_kaas/world/initiation/sandor.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/sport_hunting/renegin.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/sport_hunting/weng_wrightsyn.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/testing_grounds/lord_drowl.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/testing_grounds/sergeant_slarin.stb
+/resources/en-us/str/cnv/location/dromund_kaas/world/the_slave_killers/ensign_shye.stb
+/resources/en-us/str/cnv/location/dromund_kaas/world/the_slave_killers/slave_cultist.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/warning_sign/commander_rilan.stb
 /resources/en-us/str/cnv/location/hutta/ambient/cc_poi_barks.stb
 /resources/en-us/str/cnv/location/hutta/ambient/nemro_cantina.stb

@@ -1,4 +1,4 @@
-; 1193/3798 (31%)
+; 1230/3798 (32%)
 /resources/art/dynamic/chest/model/chest_tight_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_light_ge_a26_shaw.lod.gr2
@@ -36,6 +36,7 @@
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ge_a15_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ge_a15_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ge_a20_hooddown.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_loin.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_tunic.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfn_archetype.gr2
@@ -55,6 +56,8 @@
 /resources/art/dynamic/chest/model/chest_tight_bfn_med_ge_a15_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfn_med_ge_a15_hooddown.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfn_med_ge_a20_hooddown.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfn_med_ge_a20_hooddown.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfn_med_ge_a20_tunic.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfn_med_sp_a02_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfn_med_sp_a03_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfn_med_ss_a01_loin.lod.gr2
@@ -172,6 +175,7 @@
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ge_a20_hooddown.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ge_a20_hooddown.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ge_a20_hoodup.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bmn_med_ge_a20_shld.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ge_a20_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ge_a20_tunic.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ge_a20_tunic.lod.gr2
@@ -227,6 +231,8 @@
 /resources/art/dynamic/chest/model/chest_tight_bms_med_ge_a15_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bms_med_ge_a20_hooddown.gr2
 /resources/art/dynamic/chest/model/chest_tight_bms_med_ge_a20_hooddown.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bms_med_ge_a20_shld.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bms_med_ge_a20_tunic.gr2
 /resources/art/dynamic/chest/model/chest_tight_bms_med_ge_a20_tunic.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bms_med_sp_a04_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bms_med_sp_a04_chest.lod.gr2
@@ -262,12 +268,19 @@
 /resources/art/dynamic/chest/model/chest_tightskin_bma_light_ss_a06_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bma_light_ss_a06_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bmf_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_tightskin_bmn_archetype.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bmn_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_tightskin_bmn_light_sw_a03_back.gr2
+/resources/art/dynamic/chest/model/chest_tightskin_bmn_light_sw_a03_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bmn_light_sw_a03_collar.clo
+/resources/art/dynamic/chest/model/chest_tightskin_bmn_light_sw_a03_collar.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bmn_light_sw_a03_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bmn_light_sw_a03_loin.clo
 /resources/art/dynamic/chest/model/chest_tightskin_bmn_light_sw_a03_loin.lod.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bms_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_tightskin_bms_light_ss_a06_arm.lod.gr2
+/resources/art/dynamic/chest/model/chest_tightskin_bms_light_ss_a06_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_tightskin_bms_light_ss_a06_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bms_light_sw_a03_collar.clo
 /resources/art/dynamic/chest/model/chest_tightskin_bms_light_sw_a03_collar.lod.gr2
 /resources/art/dynamic/player_character/outfit/all_naked_body/texture/___psd/chest_tightskin_non_non_a01underwear01_f_d.dds
@@ -301,6 +314,7 @@
 /resources/art/dynamic/player_character/outfit/ge_tight_heavy_a03/texture/___psd/chest_tight_heavy_ge_a03reptrooper02_m_n.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_heavy_a03/texture/___psd/chest_tight_heavy_ge_a03reptrooper02_m_n.tiny.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen01_f_n.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen01_f_n.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen01_m_n.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen01_m_n.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen01_u_d.dds
@@ -312,9 +326,13 @@
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen01_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen01_u_s.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen02_u_d.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen02_u_d.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen02_u_h.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen02_u_h.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen02_u_m.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen02_u_m.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen02_u_s.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen02_u_s.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen03_u_d.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen03_u_h.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/chest_tight_light_ge_a13impcitizen03_u_m.dds
@@ -547,11 +565,17 @@
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20refugee02_u_m.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20refugee02_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20refugee02_u_s.tex
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_f_n.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_m_n.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_m_n.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_u_d.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_u_d.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_u_h.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_u_h.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_u_m.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_u_m.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_u_s.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a20/texture/___psd/chest_tight_med_ge_a20slave01_u_s.tex
 /resources/art/dynamic/player_character/outfit/ge_tightskirt_light_a26/texture/___psd/chest_tight_light_ge_a26formaldress01_f_n.dds
 /resources/art/dynamic/player_character/outfit/ge_tightskirt_light_a26/texture/___psd/chest_tight_light_ge_a26formaldress02_f_d.dds
 /resources/art/dynamic/player_character/outfit/ge_tightskirt_light_a26/texture/___psd/chest_tight_light_ge_a26formaldress02_f_h.dds
@@ -858,6 +882,11 @@
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a06/texture/___psd/chest_tightskin_light_ss_a06c05_u_s.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a06/texture/___psd/chest_tightskin_light_ss_a06c05_u_s.tex
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a06/texture/___psd/chest_tightskin_light_ss_a06c05_u_s.tiny.dds
+/resources/art/dynamic/player_character/outfit/ss_tightskirt_med_a01/texture/___psd/chest_tight_med_ss_a01c01_f_n.dds
+/resources/art/dynamic/player_character/outfit/ss_tightskirt_med_a01/texture/___psd/chest_tight_med_ss_a01c01_u_d.dds
+/resources/art/dynamic/player_character/outfit/ss_tightskirt_med_a01/texture/___psd/chest_tight_med_ss_a01c01_u_h.dds
+/resources/art/dynamic/player_character/outfit/ss_tightskirt_med_a01/texture/___psd/chest_tight_med_ss_a01c01_u_m.dds
+/resources/art/dynamic/player_character/outfit/ss_tightskirt_med_a01/texture/___psd/chest_tight_med_ss_a01c01_u_s.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_med_a01/texture/___psd/chest_tight_med_ss_a01c02_f_02_n.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_med_a01/texture/___psd/chest_tight_med_ss_a01c02_f_n.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_med_a01/texture/___psd/chest_tight_med_ss_a01c02_m_02_n.dds
@@ -892,12 +921,16 @@
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c02_u_s.dds
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_f_n.dds
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_m_n.dds
+/resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_m_n.tex
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_u_d.dds
+/resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_u_d.tex
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_u_h.dds
+/resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_u_h.tex
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_u_m.dds
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_u_m.tex
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_u_m.tiny.dds
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_u_s.dds
+/resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/chest_tight_med_sw_a01c03_u_s.tex
 /resources/art/dynamic/player_character/outfit/sw_tightskirt_light_a03/texture/___psd/chest_tightskin_light_sw_a03c01_f_m.dds
 /resources/art/dynamic/player_character/outfit/sw_tightskirt_light_a03/texture/___psd/chest_tightskin_light_sw_a03c01_f_m.tex
 /resources/art/dynamic/player_character/outfit/sw_tightskirt_light_a03/texture/___psd/chest_tightskin_light_sw_a03c01_f_m.tiny.dds
@@ -1103,6 +1136,7 @@
 /resources/art/shaders/materials/chest_tight_heavy_jk_a11c01_m.mat
 /resources/art/shaders/materials/chest_tight_light_ge_a08repcitizen02_m.mat
 /resources/art/shaders/materials/chest_tight_light_ge_a13impcitizen01_m.mat
+/resources/art/shaders/materials/chest_tight_light_ge_a13impcitizen02_f.mat
 /resources/art/shaders/materials/chest_tight_light_ge_a13impcitizen02_m.mat
 /resources/art/shaders/materials/chest_tight_light_ge_a13impcitizen03_f.mat
 /resources/art/shaders/materials/chest_tight_light_ge_a13impcitizen03_m.mat
@@ -1150,6 +1184,7 @@
 /resources/art/shaders/materials/chest_tight_med_ge_a20refugee01_m.mat
 /resources/art/shaders/materials/chest_tight_med_ge_a20refugee02_f.mat
 /resources/art/shaders/materials/chest_tight_med_ge_a20refugee02_m.mat
+/resources/art/shaders/materials/chest_tight_med_ge_a20slave01_f.mat
 /resources/art/shaders/materials/chest_tight_med_ge_a20slave01_m.mat
 /resources/art/shaders/materials/chest_tight_med_sm_a04c01_f.mat
 /resources/art/shaders/materials/chest_tight_med_sm_a04c02_m.mat
@@ -1163,6 +1198,7 @@
 /resources/art/shaders/materials/chest_tight_med_sp_a04c01_m.mat
 /resources/art/shaders/materials/chest_tight_med_sp_a04c02_m.mat
 /resources/art/shaders/materials/chest_tight_med_sp_a04c05_m.mat
+/resources/art/shaders/materials/chest_tight_med_ss_a01c01_f.mat
 /resources/art/shaders/materials/chest_tight_med_ss_a01c01_m.mat
 /resources/art/shaders/materials/chest_tight_med_ss_a01c02_f.mat
 /resources/art/shaders/materials/chest_tight_med_ss_a01c02_m.mat
@@ -1185,6 +1221,7 @@
 /resources/art/shaders/materials/chest_tightskin_light_ss_a06c05_u.mat
 /resources/art/shaders/materials/chest_tightskin_light_sw_a03c01_m.mat
 /resources/art/shaders/materials/chest_tightskin_light_sw_a03c02_f.mat
+/resources/art/shaders/materials/chest_tightskin_light_sw_a03c02_m.mat
 /resources/art/shaders/materials/chest_tightskin_light_sw_a03c03_u.mat
 /resources/art/shaders/materials/chest_tightskin_light_sw_a03c04_u.mat
 /resources/art/shaders/materials/chest_tightskin_med_jk_a07c01_f.mat

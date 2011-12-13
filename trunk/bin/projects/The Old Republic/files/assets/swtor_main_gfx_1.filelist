@@ -1,4 +1,4 @@
-; 1025/52255 (1%)
+; 1035/52255 (1%)
 /resources/gfx/codex/cdx.crew_skills.archaeology.dds
 /resources/gfx/codex/cdx.crew_skills.armormech.dds
 /resources/gfx/codex/cdx.crew_skills.armstech.dds
@@ -14,6 +14,7 @@
 /resources/gfx/codex/cdx.game_rules.tutorials.combat.dds
 /resources/gfx/codex/cdx.location.dromund_kaas.imperial_intelligence.dds
 /resources/gfx/codex/cdx.location.dromund_kaas.kaas_city.dds
+/resources/gfx/codex/cdx.location.dromund_kaas.the_sith_consulate.dds
 /resources/gfx/codex/cdx.location.dromund_kaas.the_unfinished_colossus.dds
 /resources/gfx/codex/cdx.location.dromund_kaas.the_wilds.dds
 /resources/gfx/codex/cdx.location.hutta.faathras_palace.dds
@@ -43,6 +44,7 @@
 /resources/gfx/codex/cdx.tutorial.crafting_exceptional_items.dds
 /resources/gfx/codex/cdx.tutorial.crew_skill_trainers.dds
 /resources/gfx/codex/cdx.tutorial.equip.dds
+/resources/gfx/codex/cdx.tutorial.gathering_resources.dds
 /resources/gfx/codex/cdx.tutorial.group_story.dds
 /resources/gfx/codex/cdx.tutorial.incapacitated.dds
 /resources/gfx/codex/cdx.tutorial.inventory.dds
@@ -306,6 +308,7 @@
 /resources/gfx/gfx_production/warzone_alderaan_overlay.gfx
 /resources/gfx/gfx_production/warzone_arena_overlay.gfx
 /resources/gfx/gfx_production/warzone_voidstar_overlay.gfx
+/resources/gfx/icons/absorbtionfield.dds
 /resources/gfx/icons/accesscardcolorvariant1.dds
 /resources/gfx/icons/accesscardcolorvariant2.dds
 /resources/gfx/icons/accomplishedsawbones.dds
@@ -335,6 +338,7 @@
 /resources/gfx/icons/barrage.dds
 /resources/gfx/icons/barrel1_cun.dds
 /resources/gfx/icons/basicgrenade.dds
+/resources/gfx/icons/battlefrenzy.dds
 /resources/gfx/icons/beacon.dds
 /resources/gfx/icons/bioelectricshieldenhancer.dds
 /resources/gfx/icons/bladerush.dds
@@ -512,6 +516,7 @@
 /resources/gfx/icons/ipp.class.bh.ls_ds.rdps1.dark.hands.dds
 /resources/gfx/icons/ipp.class.bh.ls_ds.rdps1.light.feet.dds
 /resources/gfx/icons/ipp.class.bh.ls_ds.rdps1.light.hands.dds
+/resources/gfx/icons/ipp.class.bh.quest.rtank.t2x2.feet.dds
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t1x1.wrists.dds
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t1x2.chest.dds
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t1x2.waist.dds
@@ -606,6 +611,7 @@
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t1x2.legs.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t1x2.waist.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t1x2.wrists.dds
+/resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x1.feet.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x1.legs.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x1.waist.dds
 /resources/gfx/icons/ipp.class.spy.raid.tdps1.t8x1.chest.dds
@@ -629,6 +635,7 @@
 /resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x2.feet.dds
 /resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x2.legs.dds
 /resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x2.waist.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t2x1.chest.dds
 /resources/gfx/icons/ipp.class.spy.starting.tdps1.t1x1.chest.dds
 /resources/gfx/icons/ipp.class.spy.starting.tdps1.t1x1.feet.dds
 /resources/gfx/icons/ipp.class.spy.starting.tdps1.t1x1.legs.dds
@@ -767,6 +774,7 @@
 /resources/gfx/icons/republiccommendation.dds
 /resources/gfx/icons/research.dds
 /resources/gfx/icons/returntothefray.dds
+/resources/gfx/icons/revive.dds
 /resources/gfx/icons/rifle.high04.a03_v01.dds
 /resources/gfx/icons/rifle.low01.a01_v02.dds
 /resources/gfx/icons/rifle.low01.a01_v04.dds
@@ -774,6 +782,7 @@
 /resources/gfx/icons/rifle.low03.a03_v04.dds
 /resources/gfx/icons/rifle.low06.a01_v01.dds
 /resources/gfx/icons/rifle.low06.a01_v03.dds
+/resources/gfx/icons/rifle.low06.a03_v04.dds
 /resources/gfx/icons/rifle.shotgunhigh02.a03_v04.dds
 /resources/gfx/icons/rifle.sniperlow01.a01_v01.dds
 /resources/gfx/icons/rifle.sniperlow02.a01_v01.dds
@@ -899,6 +908,7 @@
 /resources/gfx/icons/taunt.dds
 /resources/gfx/icons/tenacity.dds
 /resources/gfx/icons/thermaldetonation.dds
+/resources/gfx/icons/thermaldetonator.dds
 /resources/gfx/icons/thrown.dds
 /resources/gfx/icons/tissuesample1.dds
 /resources/gfx/icons/toolbox.dds

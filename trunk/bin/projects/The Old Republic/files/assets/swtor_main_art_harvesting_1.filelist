@@ -1,8 +1,10 @@
-; 705/862 (81%)
+; 724/862 (83%)
 /resources/art/shaders/materials/har_broken_vehicle_component.mat
 /resources/art/shaders/materials/har_bush_green.mat
 /resources/art/shaders/materials/har_bush_orange.mat
 /resources/art/shaders/materials/har_bush_purple.mat
+/resources/art/shaders/materials/har_crystal_amorphous_blue.mat
+/resources/art/shaders/materials/har_crystal_amorphous_red.mat
 /resources/art/shaders/materials/har_crystal_clear_large.mat
 /resources/art/shaders/materials/har_crystal_clear_small.mat
 /resources/art/shaders/materials/har_crystal_solid_large_blue.mat
@@ -46,6 +48,8 @@
 /resources/art/static/harvesting/har_bush_green.gr2
 /resources/art/static/harvesting/har_bush_orange.gr2
 /resources/art/static/harvesting/har_bush_purple.gr2
+/resources/art/static/harvesting/har_crystal_amorphous_blue.gr2
+/resources/art/static/harvesting/har_crystal_amorphous_red.gr2
 /resources/art/static/harvesting/har_crystal_clear_large.gr2
 /resources/art/static/harvesting/har_crystal_clear_small.gr2
 /resources/art/static/harvesting/har_crystal_sheen_large.gr2
@@ -144,6 +148,21 @@
 /resources/art/static/harvesting/texture/har_bush_purple_s.dds
 /resources/art/static/harvesting/texture/har_bush_purple_s.tex
 /resources/art/static/harvesting/texture/har_bush_purple_s.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_amorphous_blue_d.tex
+/resources/art/static/harvesting/texture/har_crystal_amorphous_blue_d.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_amorphous_blue_n.tex
+/resources/art/static/harvesting/texture/har_crystal_amorphous_blue_n.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_amorphous_blue_s.tex
+/resources/art/static/harvesting/texture/har_crystal_amorphous_blue_s.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_amorphous_red_d.dds
+/resources/art/static/harvesting/texture/har_crystal_amorphous_red_d.tex
+/resources/art/static/harvesting/texture/har_crystal_amorphous_red_d.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_amorphous_red_n.dds
+/resources/art/static/harvesting/texture/har_crystal_amorphous_red_n.tex
+/resources/art/static/harvesting/texture/har_crystal_amorphous_red_n.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_amorphous_red_s.dds
+/resources/art/static/harvesting/texture/har_crystal_amorphous_red_s.tex
+/resources/art/static/harvesting/texture/har_crystal_amorphous_red_s.tiny.dds
 /resources/art/static/harvesting/texture/har_crystal_clear_large_d.dds
 /resources/art/static/harvesting/texture/har_crystal_clear_large_d.tex
 /resources/art/static/harvesting/texture/har_crystal_clear_large_d.tiny.dds
