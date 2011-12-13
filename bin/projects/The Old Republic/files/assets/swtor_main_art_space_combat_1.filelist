@@ -1,4 +1,4 @@
-; 404/513 (78%)
+; 412/513 (80%)
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.dds
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tex
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tiny.dds
@@ -9,10 +9,18 @@
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_s.tex
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_s.tiny.dds
 /resources/art/shaders/materials/sc_imp_capital_destroyer_hanger.mat
+/resources/art/shaders/materials/sc_skyscene_m01_planet.mat
+/resources/art/shaders/materials/sc_skyscene_m01_planet_clouds.mat
+/resources/art/shaders/materials/sc_skyscene_m05_moon_01.mat
+/resources/art/shaders/materials/sc_skyscene_m05_moonclouds_01.mat
 /resources/art/shaders/materials/sc_skyscene_starfield_01.mat
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_06_n.dds
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_06_n.tex
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_06_n.tiny.dds
+/resources/art/static/space_combat/sc_skyscene_m01_planet.gr2
+/resources/art/static/space_combat/sc_skyscene_m01_planet_clouds.gr2
+/resources/art/static/space_combat/sc_skyscene_m05_moon_01.gr2
+/resources/art/static/space_combat/sc_skyscene_m05_moonclouds_01.gr2
 /resources/art/static/space_combat/sc_skyscene_starfield_01.gr2
 /resources/art/static/space_combat/skyscenetextures/common/sc_skyscene_starfield_01_d.dds
 /resources/art/static/space_combat/skyscenetextures/common/sc_skyscene_starfield_01_d.tex

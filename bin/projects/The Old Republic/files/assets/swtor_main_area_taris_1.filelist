@@ -1,4 +1,4 @@
-; 1427/1793 (79%)
+; 1440/1793 (80%)
 /resources/art/shaders/materials/all_item_debris_ship_large_b.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_b_01.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_b_trim.mat
@@ -649,6 +649,19 @@
 /resources/art/static/area/tar_taris/sky/tar2_skyscene_cards_01_n.dds
 /resources/art/static/area/tar_taris/sky/tar2_skyscene_cards_01_n.tex
 /resources/art/static/area/tar_taris/sky/tar2_skyscene_cards_01_n.tiny.dds
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_01.spt
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse.dds
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse.tex
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse_billboards.dds
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse_billboards.tex
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_normal.dds
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_normal.tex
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_normal_billboards.dds
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_normal_billboards.tex
+/resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_d.dds
+/resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_d.tex
+/resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_n.dds
+/resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_n.tex
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_debris_d.dds
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_debris_d.tex
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_debris_d.tiny.dds

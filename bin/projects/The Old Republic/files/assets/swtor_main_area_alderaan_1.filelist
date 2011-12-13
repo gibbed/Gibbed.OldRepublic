@@ -1,4 +1,4 @@
-; 2154/2575 (83%)
+; 2159/2575 (83%)
 /resources/art/fx/texture/misc/blastermark_large.dds
 /resources/art/fx/texture/misc/blastermark_large.tex
 /resources/art/fx/texture/misc/blastermark_large.tiny.dds
@@ -8,9 +8,12 @@
 /resources/art/lights/hut_interior_lit_ramp.dds
 /resources/art/lights/hut_interior_lit_ramp.tex
 /resources/art/lights/hut_interior_lit_ramp.tiny.dds
+/resources/art/shaders/materials/all_arch_imp_fort_hallway_ceiling_comps_01.mat
+/resources/art/shaders/materials/all_arch_imp_fort_hallway_comppanel_01.mat
 /resources/art/shaders/materials/all_arch_imp_fort_hallway_comppanel_03.mat
 /resources/art/shaders/materials/all_arch_imp_house_b_wall02a.mat
 /resources/art/shaders/materials/all_arch_imp_pillar_computer_details.mat
+/resources/art/shaders/materials/all_arch_imp_pillar_computer_top_suv.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_floor_dkgray.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_trims03.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_trims06.mat
@@ -21,7 +24,9 @@
 /resources/art/shaders/materials/all_item_city_wall_tech.mat
 /resources/art/shaders/materials/all_item_decal_stripes_red01.mat
 /resources/art/shaders/materials/all_item_factory_decal_orange.mat
+/resources/art/shaders/materials/all_item_imp_life_support_pump.mat
 /resources/art/shaders/materials/all_item_tech_panel_02.mat
+/resources/art/shaders/materials/all_item_tech_panel_03.mat
 /resources/art/shaders/materials/all_item_tech_panel_04.mat
 /resources/art/shaders/materials/all_item_tech_panel_05.mat
 /resources/art/shaders/materials/all_item_techcave_pipe.mat
