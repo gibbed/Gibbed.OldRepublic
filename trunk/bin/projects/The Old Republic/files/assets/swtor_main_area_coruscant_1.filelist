@@ -1,4 +1,4 @@
-; 2053/2157 (95%)
+; 2060/2157 (95%)
 /resources/art/defaultassets/occluder.dds
 /resources/art/defaultassets/occluder.tex
 /resources/art/fx/texture/uv_atlas/all_item_works_huge_generator_lights_d.dds
@@ -22,6 +22,7 @@
 /resources/art/shaders/materials/cor_arch_senate_hall_trim01.mat
 /resources/art/shaders/materials/cor_arch_senate_ornament.mat
 /resources/art/shaders/materials/cor_arch_senate_pillar_03.mat
+/resources/art/shaders/materials/cor_arch_senate_podium.mat
 /resources/art/shaders/materials/cor_arch_senate_round_ceiling.mat
 /resources/art/shaders/materials/cor_arch_senate_round_ceiling_02.mat
 /resources/art/shaders/materials/cor_arch_senate_round_ceiling_dmg.mat
@@ -335,6 +336,12 @@
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_pillar_03_s.dds
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_pillar_03_s.tex
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_pillar_03_s.tiny.dds
+/resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_podium_d.tex
+/resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_podium_d.tiny.dds
+/resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_podium_n.tex
+/resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_podium_n.tiny.dds
+/resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_podium_s.tex
+/resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_podium_s.tiny.dds
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_round_ceiling_02_d.dds
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_round_ceiling_02_d.tex
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_round_ceiling_02_d.tiny.dds

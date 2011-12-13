@@ -1,4 +1,4 @@
-; 1269/1290 (98%)
+; 1272/1290 (98%)
 /resources/art/environmentmaps/kor_rebuild_test/area2.dds
 /resources/art/environmentmaps/kor_rebuild_test/area2.tex
 /resources/art/environmentmaps/kor_rebuild_test/area2.tiny.dds
@@ -21,6 +21,7 @@
 /resources/art/shaders/materials/kor_acad_column_4sides.mat
 /resources/art/shaders/materials/kor_acad_doorjam_pillars.mat
 /resources/art/shaders/materials/kor_acad_doorjam_stairs.mat
+/resources/art/shaders/materials/kor_acad_elevator_platform.mat
 /resources/art/shaders/materials/kor_acad_foyerpillar.mat
 /resources/art/shaders/materials/kor_acad_hall_stairs.mat
 /resources/art/shaders/materials/kor_acad_higharch.mat
@@ -47,6 +48,7 @@
 /resources/art/shaders/materials/kor_tomb_item_brazier_ancient_blue.mat
 /resources/art/shaders/materials/kor_tomb_item_halberd_rack.mat
 /resources/art/shaders/materials/kor_tomb_item_hate_machine.mat
+/resources/art/shaders/materials/kor_tomb_item_holocron.mat
 /resources/art/shaders/materials/kor_tomb_item_sarcophagus_ruin.mat
 /resources/art/shaders/materials/kor_tomb_item_sconce_01.mat
 /resources/art/shaders/materials/kor_tomb_item_sconce_01_blue.mat
@@ -801,6 +803,7 @@
 /resources/art/static/area/kor_korriban/item/kor_vodl_item_pickaxe.gr2
 /resources/art/static/area/kor_korriban/item/kor_vodl_item_shipping_crate.gr2
 /resources/art/static/area/kor_korriban/item/kor_vodl_item_shipping_pallet.gr2
+/resources/art/static/area/kor_korriban/item/kor_vodl_item_shipping_pallet_02.gr2
 /resources/art/static/area/kor_korriban/item/kor_vodl_item_shovel.gr2
 /resources/art/static/area/kor_korriban/item/texture/kor_item_acad_rug_d.dds
 /resources/art/static/area/kor_korriban/item/texture/kor_item_acad_rug_d.tex

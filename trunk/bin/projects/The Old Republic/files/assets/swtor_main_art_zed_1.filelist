@@ -1,4 +1,4 @@
-; 141/421 (33%)
+; 143/421 (33%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/dynamic/age/index.xml
@@ -7,6 +7,7 @@
 /resources/art/dynamic/creature/index.xml
 /resources/art/dynamic/creature/model/ge_dancer01_light_a21_dancer01_holo.gr2
 /resources/art/dynamic/index.xml
+/resources/art/dynamic/placeable/e3doormed/e3doormed_all_arch_imp_space_door_med.gr2
 /resources/art/dynamic/player_character/outfit/ge_naked_light_a21/texture/___psd/character_holo_d.dds
 /resources/art/dynamic/player_character/outfit/ge_naked_light_a21/texture/___psd/character_holo_d.tex
 /resources/art/dynamic/player_character/outfit/ge_naked_light_a21/texture/___psd/character_holo_d.tiny.dds
@@ -38,6 +39,7 @@
 /resources/art/lodschemas3.lod
 /resources/art/noise_texture.dds
 /resources/art/noise_texture.tex
+/resources/art/shaders/materials/e3doormed_all_arch_imp_space_hall_door_med.mat
 /resources/art/shaders/materials/ge_dancer01_a21_holo.mat
 /resources/art/shaders/materials/horn_zabrakimp_non_a01_v01.mat
 /resources/art/shaders/materials/horn_zabrakrep_non_a01_v01.mat

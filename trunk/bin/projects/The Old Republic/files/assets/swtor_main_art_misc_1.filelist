@@ -1,4 +1,4 @@
-; 1111/2181 (50%)
+; 1155/2181 (52%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -100,6 +100,10 @@
 /resources/art/defaultassets/ltpurp.tex
 /resources/art/defaultassets/ltred.dds
 /resources/art/defaultassets/ltred.tex
+/resources/art/defaultassets/mini_map_override.dds
+/resources/art/defaultassets/mini_map_override.tex
+/resources/art/defaultassets/mini_map_space.dds
+/resources/art/defaultassets/mini_map_space.tex
 /resources/art/defaultassets/missing_granny.gr2
 /resources/art/defaultassets/missing_granny_d.dds
 /resources/art/defaultassets/missing_granny_d.tex
@@ -475,6 +479,9 @@
 /resources/art/environmentmaps/z_shared/z_ruins_tower.dds
 /resources/art/environmentmaps/z_shared/z_ruins_tower.tex
 /resources/art/environmentmaps/z_shared/z_ruins_tower.tiny.dds
+/resources/art/environmentmaps/z_shared/z_spaceport.dds
+/resources/art/environmentmaps/z_shared/z_spaceport.tex
+/resources/art/environmentmaps/z_shared/z_spaceport.tiny.dds
 /resources/art/environmentmaps/z_shared/z_spc_jumpstation.dds
 /resources/art/environmentmaps/z_shared/z_spc_jumpstation.tex
 /resources/art/environmentmaps/z_shared/z_spc_jumpstation.tiny.dds
@@ -505,6 +512,8 @@
 /resources/art/lights/185_084_093.tex
 /resources/art/lights/208_018_091.dds
 /resources/art/lights/208_018_091.tex
+/resources/art/lights/235_033_096.dds
+/resources/art/lights/235_033_096.tex
 /resources/art/lights/255_255_255.dds
 /resources/art/lights/255_255_255.tex
 /resources/art/lights/345_068_052.dds
@@ -529,6 +538,12 @@
 /resources/art/lights/ambient_cor_senate_interior.tex
 /resources/art/lights/ambient_cor_works.dds
 /resources/art/lights/ambient_cor_works.tex
+/resources/art/lights/ambient_dro_darktemple.dds
+/resources/art/lights/ambient_dro_darktemple.tex
+/resources/art/lights/ambient_dro_imperial_entrances.dds
+/resources/art/lights/ambient_dro_imperial_entrances.tex
+/resources/art/lights/ambient_dro_imperial_fort.dds
+/resources/art/lights/ambient_dro_imperial_fort.tex
 /resources/art/lights/ambient_dro_imperial_interiors.dds
 /resources/art/lights/ambient_dro_imperial_interiors.tex
 /resources/art/lights/ambient_hutt_palace_jaguuna.dds
@@ -538,6 +553,8 @@
 /resources/art/lights/ambient_kor_tomb_02.tex
 /resources/art/lights/ambient_kor_tomb01.dds
 /resources/art/lights/ambient_kor_tomb01.tex
+/resources/art/lights/ambient_pvp_voidstar_hangar.dds
+/resources/art/lights/ambient_pvp_voidstar_hangar.tex
 /resources/art/lights/ambient_republic_interior.dds
 /resources/art/lights/ambient_republic_interior.tex
 /resources/art/lights/ambient_sith_academy.dds
@@ -551,6 +568,8 @@
 /resources/art/lights/andrew_test_fill.tex
 /resources/art/lights/andrew_test_fill2.dds
 /resources/art/lights/andrew_test_fill2.tex
+/resources/art/lights/bal_exterior_lightramp.dds
+/resources/art/lights/bal_exterior_lightramp.tex
 /resources/art/lights/bel_interior_rep_prison_lightramp.dds
 /resources/art/lights/bel_interior_rep_prison_lightramp.tex
 /resources/art/lights/bel_whiteroom_lightramp.dds
@@ -563,6 +582,8 @@
 /resources/art/lights/defaultlightramp.dds
 /resources/art/lights/defaultlightramp.tex
 /resources/art/lights/defaultlightramp.tiny.dds
+/resources/art/lights/dro_exterior_lightramp.dds
+/resources/art/lights/dro_exterior_lightramp.tex
 /resources/art/lights/falloff_ambient.dds
 /resources/art/lights/falloff_ambient.tex
 /resources/art/lights/falloff_ambient.tiny.dds
@@ -679,6 +700,10 @@
 /resources/art/lights/fill_235_210_207.dds
 /resources/art/lights/fill_235_210_207.tex
 /resources/art/lights/fill_235_210_207.tiny.dds
+/resources/art/lights/fill_240_046_053.dds
+/resources/art/lights/fill_240_046_053.tex
+/resources/art/lights/fill_250_31_75.dds
+/resources/art/lights/fill_250_31_75.tex
 /resources/art/lights/fill_255_024_090.dds
 /resources/art/lights/fill_255_024_090.tex
 /resources/art/lights/fill_255_024_090.tiny.dds
@@ -701,6 +726,10 @@
 /resources/art/lights/fill_all_white_d.tex
 /resources/art/lights/fill_cor_market_exterior.dds
 /resources/art/lights/fill_cor_market_exterior.tex
+/resources/art/lights/fill_dro_darktemple_green.dds
+/resources/art/lights/fill_dro_darktemple_green.tex
+/resources/art/lights/fill_dro_darktemple_yellow.dds
+/resources/art/lights/fill_dro_darktemple_yellow.tex
 /resources/art/lights/fill_imp_st_ceiling_blue.dds
 /resources/art/lights/fill_imp_st_ceiling_blue.tex
 /resources/art/lights/fill_imp_st_ceiling_blue.tiny.dds
@@ -769,6 +798,8 @@
 /resources/art/lights/lum_cor_senate_interior.tex
 /resources/art/lights/lum_double_pillar.dds
 /resources/art/lights/lum_double_pillar.tex
+/resources/art/lights/lum_dro_dark_temple_01.dds
+/resources/art/lights/lum_dro_dark_temple_01.tex
 /resources/art/lights/lum_droidstack.dds
 /resources/art/lights/lum_droidstack.tex
 /resources/art/lights/lum_exponential_round.dds
@@ -780,6 +811,8 @@
 /resources/art/lights/lum_generator.dds
 /resources/art/lights/lum_generator.tex
 /resources/art/lights/lum_generator.tiny.dds
+/resources/art/lights/lum_grate_01.dds
+/resources/art/lights/lum_grate_01.tex
 /resources/art/lights/lum_grate_03.dds
 /resources/art/lights/lum_grate_03.tex
 /resources/art/lights/lum_grate_large.dds
@@ -798,6 +831,8 @@
 /resources/art/lights/lum_latern.tex
 /resources/art/lights/lum_light_cone.dds
 /resources/art/lights/lum_light_cone.tex
+/resources/art/lights/lum_meditation_chamber.dds
+/resources/art/lights/lum_meditation_chamber.tex
 /resources/art/lights/lum_nar_signglow.dds
 /resources/art/lights/lum_nar_signglow.tex
 /resources/art/lights/lum_nar_signglow.tiny.dds
@@ -805,6 +840,8 @@
 /resources/art/lights/lum_round.tex
 /resources/art/lights/lum_round_donut.dds
 /resources/art/lights/lum_round_donut.tex
+/resources/art/lights/lum_round_donut_02.dds
+/resources/art/lights/lum_round_donut_02.tex
 /resources/art/lights/lum_round_fourpix_clouds.dds
 /resources/art/lights/lum_round_fourpix_clouds.tex
 /resources/art/lights/lum_round_fourpix_clouds_180.dds
@@ -833,6 +870,8 @@
 /resources/art/lights/lum_square_clouds.tex
 /resources/art/lights/lum_square_soft.dds
 /resources/art/lights/lum_square_soft.tex
+/resources/art/lights/lum_warehouse_light.dds
+/resources/art/lights/lum_warehouse_light.tex
 /resources/art/lights/lum_warehouse_light_03.dds
 /resources/art/lights/lum_warehouse_light_03.tex
 /resources/art/lights/lum_warehouse_light_03.tiny.dds
@@ -855,6 +894,8 @@
 /resources/art/lights/spc_exterior_lightramp_imp_foundry.dds
 /resources/art/lights/spc_exterior_lightramp_imp_foundry.tex
 /resources/art/lights/spc_exterior_lightramp_imp_foundry.tiny.dds
+/resources/art/lights/spc_vault_space_cin_imp.dds
+/resources/art/lights/spc_vault_space_cin_imp.tex
 /resources/art/lights/square_clouds.dds
 /resources/art/lights/square_clouds.tex
 /resources/art/lights/square_clouds02.tex
@@ -1090,6 +1131,9 @@
 /resources/art/static/designblockout/signs/dbo_hub1.gr2
 /resources/art/static/designblockout/signs/dbo_red_box.gr2
 /resources/art/static/designblockout/signs/dbo_utility_tomb_handle.gr2
+/resources/art/static/designblockout/signs/sign_bountyhunter_class_instance.gr2
+/resources/art/static/designblockout/signs/sign_cantina.gr2
+/resources/art/static/designblockout/signs/sign_elevator.gr2
 /resources/art/static/designblockout/signs/sign_sorcerer_class_instance.gr2
 /resources/art/static/designblockout/signs/sign_spy_class_instance.gr2
 /resources/art/static/designblockout/station/dbo_all_item_imp_turret_manned_small.gr2

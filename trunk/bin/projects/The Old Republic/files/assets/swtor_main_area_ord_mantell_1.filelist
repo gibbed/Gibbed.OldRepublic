@@ -1,4 +1,4 @@
-; 615/663 (92%)
+; 616/663 (92%)
 /resources/art/environmentmaps/ord_resize/area.dds
 /resources/art/environmentmaps/ord_resize/area.tex
 /resources/art/environmentmaps/ord_resize/area.tiny.dds
@@ -55,6 +55,7 @@
 /resources/art/shaders/materials/ter_ord_yellow_mud.mat
 /resources/art/shaders/materials/tyt_arch_fleshraider_junk_pile_1.mat
 /resources/art/shaders/materials/tyt_arch_fleshraider_junk_pile_2.mat
+/resources/art/static/area/ord_ordmantell/env/ord_env_base_groundmetal_panel.gr2
 /resources/art/static/area/ord_ordmantell/env/ord_env_boulder_overhang.gr2
 /resources/art/static/area/ord_ordmantell/env/ord_env_boulders_lrg_no_moss_01.gr2
 /resources/art/static/area/ord_ordmantell/env/ord_env_boulders_med_no_moss_01.gr2

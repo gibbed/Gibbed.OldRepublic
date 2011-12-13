@@ -1,4 +1,4 @@
-; 1807/2911 (62%)
+; 1814/2911 (62%)
 /resources/art/shaders/materials/all_item_factory_cauldron_metal.mat
 /resources/art/shaders/materials/cor_arch_works_grating.mat
 /resources/art/shaders/materials/crl_arch_city_ext_bwall_new.mat
@@ -11,7 +11,10 @@
 /resources/art/shaders/materials/crl_arch_city_extwalkway_windows02.mat
 /resources/art/shaders/materials/crl_arch_city_foundation_pipes_dmg.mat
 /resources/art/shaders/materials/crl_arch_city_foundation_rubble.mat
+/resources/art/shaders/materials/crl_arch_city_island_foundation.mat
 /resources/art/shaders/materials/crl_arch_city_wallset_trans01_new.mat
+/resources/art/shaders/materials/crl_item_statue_sitting.mat
+/resources/art/shaders/materials/crl_speedtree_pampasgrass01.mat
 /resources/art/shaders/materials/ord_speedtree_boxwood01_fronds.mat
 /resources/art/static/area/ald_alderaan/item/texture/ald_item_banners_d.dds
 /resources/art/static/area/ald_alderaan/item/texture/ald_item_banners_d.tex
@@ -122,6 +125,8 @@
 /resources/art/static/area/crl_corellia/arch/city/crl_arch_city_foundation_rubble06.gr2
 /resources/art/static/area/crl_corellia/arch/city/crl_arch_city_foundation_rubble07.gr2
 /resources/art/static/area/crl_corellia/arch/city/crl_arch_city_holding_cell_door.gr2
+/resources/art/static/area/crl_corellia/arch/city/crl_arch_city_island_foundation.gr2
+/resources/art/static/area/crl_corellia/arch/city/crl_arch_city_island_foundation_corner.gr2
 /resources/art/static/area/crl_corellia/arch/city/crl_arch_city_large_pillar_base.gr2
 /resources/art/static/area/crl_corellia/arch/city/crl_arch_city_wall_tech.gr2
 /resources/art/static/area/crl_corellia/arch/city/crl_arch_city_wallset01_straight_doorway_stack.gr2
@@ -744,6 +749,7 @@
 /resources/art/static/area/crl_corellia/item/crl_item_skylight_n.dds
 /resources/art/static/area/crl_corellia/item/crl_item_skylight_n.tex
 /resources/art/static/area/crl_corellia/item/crl_item_skylight_n.tiny.dds
+/resources/art/static/area/crl_corellia/item/crl_item_statue_sitting.gr2
 /resources/art/static/area/crl_corellia/item/crl_item_tram_rocketsled.gr2
 /resources/art/static/area/crl_corellia/item/texture/all_item_corellia_large_sign_01_d.dds
 /resources/art/static/area/crl_corellia/item/texture/all_item_corellia_large_sign_01_d.tex
@@ -908,6 +914,7 @@
 /resources/art/static/area/crl_corellia/speedtree/crl_speedtree_longleaf_02.spt
 /resources/art/static/area/crl_corellia/speedtree/crl_speedtree_longleaf_trunk.dds
 /resources/art/static/area/crl_corellia/speedtree/crl_speedtree_longleaf_trunk.tex
+/resources/art/static/area/crl_corellia/speedtree/crl_speedtree_pampasgrass01.gr2
 /resources/art/static/area/crl_corellia/speedtree/crl_speedtree_pampasgrass01_d.dds
 /resources/art/static/area/crl_corellia/speedtree/crl_speedtree_pampasgrass01_d.tex
 /resources/art/static/area/crl_corellia/speedtree/crl_speedtree_trunk_n.dds
