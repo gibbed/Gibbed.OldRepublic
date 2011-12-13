@@ -1,4 +1,4 @@
-; 2152/2575 (83%)
+; 2153/2575 (83%)
 /resources/art/fx/texture/misc/blastermark_large.dds
 /resources/art/fx/texture/misc/blastermark_large.tex
 /resources/art/fx/texture/misc/blastermark_large.tiny.dds
@@ -992,6 +992,7 @@
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_fort_hallway_comppanel_02_s.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_fort_hallway_comppanel_02_s.tex
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_fort_hallway_comppanel_02_s.tiny.dds
+/resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_fort_hallway_comppanel_03_d.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_fort_hallway_comppanel_03_d.tex
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_fort_hallway_comppanel_03_d.tiny.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_fort_hallway_comppanel_03_n.dds

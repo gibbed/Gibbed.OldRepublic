@@ -1,4 +1,4 @@
-; 1254/1290 (97%)
+; 1269/1290 (98%)
 /resources/art/environmentmaps/kor_rebuild_test/area2.dds
 /resources/art/environmentmaps/kor_rebuild_test/area2.tex
 /resources/art/environmentmaps/kor_rebuild_test/area2.tiny.dds
@@ -21,6 +21,7 @@
 /resources/art/shaders/materials/kor_acad_column_4sides.mat
 /resources/art/shaders/materials/kor_acad_doorjam_pillars.mat
 /resources/art/shaders/materials/kor_acad_doorjam_stairs.mat
+/resources/art/shaders/materials/kor_acad_foyerpillar.mat
 /resources/art/shaders/materials/kor_acad_hall_stairs.mat
 /resources/art/shaders/materials/kor_acad_higharch.mat
 /resources/art/shaders/materials/kor_acad_library_bottom_wall.mat
@@ -29,7 +30,9 @@
 /resources/art/shaders/materials/kor_acad_marble_floor_basic.mat
 /resources/art/shaders/materials/kor_arch_tulak_horde_central_statue_ped.mat
 /resources/art/shaders/materials/kor_env_cactus.mat
+/resources/art/shaders/materials/kor_flora_rock_4way_00.mat
 /resources/art/shaders/materials/kor_item_acad_rug.mat
+/resources/art/shaders/materials/kor_item_dark_council_throne.mat
 /resources/art/shaders/materials/kor_item_sithtomb_statue.mat
 /resources/art/shaders/materials/kor_skyscene_horizon.mat
 /resources/art/shaders/materials/kor_skyscene_mountains.mat
@@ -38,7 +41,9 @@
 /resources/art/shaders/materials/kor_tomb_holocron_room_ceiling.mat
 /resources/art/shaders/materials/kor_tomb_holocron_room_floor.mat
 /resources/art/shaders/materials/kor_tomb_holocron_room_pillar.mat
+/resources/art/shaders/materials/kor_tomb_item_armor_rack_a.mat
 /resources/art/shaders/materials/kor_tomb_item_armor_rack_b.mat
+/resources/art/shaders/materials/kor_tomb_item_brazier_ancient.mat
 /resources/art/shaders/materials/kor_tomb_item_brazier_ancient_blue.mat
 /resources/art/shaders/materials/kor_tomb_item_halberd_rack.mat
 /resources/art/shaders/materials/kor_tomb_item_hate_machine.mat
@@ -51,8 +56,10 @@
 /resources/art/shaders/materials/kor_tomb_item_statue_04.mat
 /resources/art/shaders/materials/kor_tomb_item_urn.mat
 /resources/art/shaders/materials/kor_tomb_item_urn_broken.mat
+/resources/art/shaders/materials/kor_tomb_item_warblade_rack.mat
 /resources/art/shaders/materials/kor_tomb_room_doorway.mat
 /resources/art/shaders/materials/kor_tomb_rubble_mound_01a.mat
+/resources/art/shaders/materials/kor_tomb_rubble_mound_01a_no_collision.mat
 /resources/art/shaders/materials/kor_tomb_rubble_mound_01b.mat
 /resources/art/shaders/materials/kor_tomb_stairs.mat
 /resources/art/shaders/materials/kor_tomb_stone_doorwall.mat
@@ -62,6 +69,7 @@
 /resources/art/shaders/materials/kor_tomb_stonetrim01.mat
 /resources/art/shaders/materials/kor_tomb_stonewall01.mat
 /resources/art/shaders/materials/kor_tomb_stonewall02.mat
+/resources/art/shaders/materials/kor_tomb_support_statue.mat
 /resources/art/shaders/materials/kor_tombs_tablet01.mat
 /resources/art/shaders/materials/kor_vod_elev_floor.mat
 /resources/art/shaders/materials/kor_vod_elev_parts.mat
@@ -90,6 +98,7 @@
 /resources/art/shaders/materials/kor_vod_ruins_wall.mat
 /resources/art/shaders/materials/kor_vodl_item_ancient_pottery.mat
 /resources/art/shaders/materials/kor_vodl_item_floodlight.mat
+/resources/art/shaders/materials/kor_vodl_item_great_pyramid_brazier.mat
 /resources/art/shaders/materials/kor_vodl_item_shipping_crate.mat
 /resources/art/shaders/materials/kor_vodl_item_shipping_pallet.mat
 /resources/art/shaders/materials/kor_vodl_item_shovel.mat
@@ -1125,9 +1134,15 @@
 /resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden_n.dds
 /resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden_n.tex
 /resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden_n.tiny.dds
+/resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden_s.dds
+/resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden_s.tex
+/resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden_s.tiny.dds
 /resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden2_d.dds
 /resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden2_d.tex
 /resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden2_d.tiny.dds
+/resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden2_s.dds
+/resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden2_s.tex
+/resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_trodden2_s.tiny.dds
 /resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_windblown_d.dds
 /resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_windblown_d.tex
 /resources/art/static/area/kor_korriban/terrain_map/ter_kor_sand_windblown_d.tiny.dds

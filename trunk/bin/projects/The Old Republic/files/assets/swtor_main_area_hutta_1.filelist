@@ -1,4 +1,4 @@
-; 1177/1268 (92%)
+; 1212/1268 (95%)
 /resources/art/environmentmaps/hut_main/default.dds
 /resources/art/environmentmaps/hut_main/default.tex
 /resources/art/environmentmaps/hut_main/default.tiny.dds
@@ -71,6 +71,7 @@
 /resources/art/shaders/materials/hut_arch_und_huttpalace_room_wall_standard.mat
 /resources/art/shaders/materials/hut_arch_und_huttpalace_throne_room_wall.mat
 /resources/art/shaders/materials/hut_arch_und_metal_shoring.mat
+/resources/art/shaders/materials/hut_bigtree_vines.mat
 /resources/art/shaders/materials/hut_cattail_fruit.mat
 /resources/art/shaders/materials/hut_env_cover.mat
 /resources/art/shaders/materials/hut_env_cover_rock.mat
@@ -78,6 +79,7 @@
 /resources/art/shaders/materials/hut_env_interior_trans_dark.mat
 /resources/art/shaders/materials/hut_env_swamp_crop_01.mat
 /resources/art/shaders/materials/hut_env_treestump.mat
+/resources/art/shaders/materials/hut_evocii_totem.mat
 /resources/art/shaders/materials/hut_grass01.mat
 /resources/art/shaders/materials/hut_grass02.mat
 /resources/art/shaders/materials/hut_grass04.mat
@@ -295,6 +297,7 @@
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_room_entrance_transition.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_wall_small_monitor.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_industrial_metal_floor.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_industrial_metal_floor_corner.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_metal_shoring.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_metal_shoring_support.gr2
 /resources/art/static/area/hut_hutta/arch/texture/hut_arch_industrial_concrete_d.dds
@@ -879,6 +882,8 @@
 /resources/art/static/area/hut_hutta/speedtree/01/hut_tree_03_cluster_normal.tex
 /resources/art/static/area/hut_hutta/speedtree/01/hut_tree_03_cluster_normal_billboards.dds
 /resources/art/static/area/hut_hutta/speedtree/01/hut_tree_03_cluster_normal_billboards.tex
+/resources/art/static/area/hut_hutta/speedtree/01/hut_tree_bark_01_d.dds
+/resources/art/static/area/hut_hutta/speedtree/01/hut_tree_bark_01_d.tex
 /resources/art/static/area/hut_hutta/speedtree/01/hut_tree_bark_01_n.dds
 /resources/art/static/area/hut_hutta/speedtree/01/hut_tree_bark_01_n.tex
 /resources/art/static/area/hut_hutta/speedtree/01/hut_tree_bark_02.dds
@@ -890,13 +895,40 @@
 /resources/art/static/area/hut_hutta/speedtree/cattail/hut_cattail_fruit_d.tex
 /resources/art/static/area/hut_hutta/speedtree/cattail/hut_cattail_fruit_n.dds
 /resources/art/static/area/hut_hutta/speedtree/cattail/hut_cattail_fruit_n.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree_vines.gr2
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree_vines2.gr2
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree1.spt
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree1a.spt
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree1b.spt
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree1c.spt
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree2.spt
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_01_diffuse.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_01_diffuse.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_01_diffuse_billboards.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_01_diffuse_billboards.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_01_normal.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_01_normal.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_01_normal_billboards.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_01_normal_billboards.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_02_diffuse.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_02_diffuse.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_02_diffuse_billboards.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_02_diffuse_billboards.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_02_normal.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_02_normal.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_02_normal_billboards.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_02_normal_billboards.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_03_diffuse.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_03_diffuse.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_03_diffuse_billboards.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_03_diffuse_billboards.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_03_normal.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_03_normal.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_03_normal_billboards.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtrees_03_normal_billboards.tex
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_medtree1.spt
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_tree_bark_01_d.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_tree_bark_01_d.tex
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_tree_bark_01_n.dds
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_tree_bark_01_n.tex
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_tree_bark_02.dds
@@ -1007,6 +1039,9 @@
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampground5_n.dds
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampground5_n.tex
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampground5_n.tiny.dds
+/resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampground5_s.dds
+/resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampground5_s.tex
+/resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampground5_s.tiny.dds
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampmuck_d.dds
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampmuck_d.tex
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampmuck_d.tiny.dds

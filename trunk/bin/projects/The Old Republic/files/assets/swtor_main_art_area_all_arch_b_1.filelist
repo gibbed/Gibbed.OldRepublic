@@ -1,4 +1,4 @@
-; 5376/6335 (84%)
+; 5378/6335 (84%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -214,6 +214,7 @@
 /resources/art/shaders/materials/all_arch_und_generator_level3.mat
 /resources/art/shaders/materials/all_arch_und_generator_pipe_console.mat
 /resources/art/shaders/materials/all_arch_und_house_a_canopy_d_colormask_green.mat
+/resources/art/shaders/materials/all_arch_und_house_a_canopy_nocollision.mat
 /resources/art/shaders/materials/all_arch_und_house_a_exterior_1.mat
 /resources/art/shaders/materials/all_arch_und_house_a_exterior_cylinder_low.mat
 /resources/art/shaders/materials/all_arch_und_house_b_wall_top.mat
@@ -279,6 +280,7 @@
 /resources/art/shaders/materials/all_arch_volcano_light.mat
 /resources/art/shaders/materials/all_arch_volcano_walkway_nolight.mat
 /resources/art/shaders/materials/all_arch_volcano_walkway_panel.mat
+/resources/art/shaders/materials/all_imperial_guard_post.mat
 /resources/art/shaders/materials/all_med_facility_imperial.mat
 /resources/art/shaders/materials/all_med_facility_imperial_generator.mat
 /resources/art/shaders/materials/all_sith_banner_stand.mat

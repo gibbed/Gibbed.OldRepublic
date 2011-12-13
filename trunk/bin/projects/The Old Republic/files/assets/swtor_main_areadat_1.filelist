@@ -1,4 +1,4 @@
-; 1214/10428 (11%)
+; 1216/10428 (11%)
 /resources/world/areas/4611686018427650020/area.dat
 /resources/world/areas/4611686019047870293/_audio_regions_todd.dat
 /resources/world/areas/4611686019047870293/_everywhere_.dat
@@ -535,6 +535,7 @@
 /resources/world/areas/4611686019802841877/industrial_area_02.dat
 /resources/world/areas/4611686019802841877/int_sith_warrior_act1_hall.dat
 /resources/world/areas/4611686019802841877/int_sith_warrior_act1_room.dat
+/resources/world/areas/4611686019802841877/lost_and_found.dat
 /resources/world/areas/4611686019802841877/map_fow_poi.dat
 /resources/world/areas/4611686019802841877/s_int_abandoned_evo_01.dat
 /resources/world/areas/4611686019802841877/s_int_abandoned_evo_02.dat
@@ -881,6 +882,7 @@
 /resources/world/areas/4611686022825732973/_scan_tombs.dat
 /resources/world/areas/4611686022825732973/_todd_audio_temp.dat
 /resources/world/areas/4611686022825732973/a_skydome_spc_garage_imp.dat
+/resources/world/areas/4611686022825732973/a_spc_garage_imp_exterior.dat
 /resources/world/areas/4611686022825732973/a_spc_garage_imp_hub_01.dat
 /resources/world/areas/4611686022825732973/a_spc_garage_imp_hub_01_jump.dat
 /resources/world/areas/4611686022825732973/a_spc_garage_imp_hub_02.dat

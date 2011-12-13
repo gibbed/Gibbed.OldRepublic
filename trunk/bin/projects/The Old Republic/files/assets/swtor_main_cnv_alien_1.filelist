@@ -1,3 +1,19 @@
-; 2/187 (1%)
+; 18/187 (9%)
+/resources/alien/fxe/cnv/alien_vo/arcona/male_med.fxe
+/resources/alien/fxe/cnv/alien_vo/astromechdroid/temp.fxe
+/resources/alien/fxe/cnv/alien_vo/dashade/male_khem_val.fxe
+/resources/alien/fxe/cnv/alien_vo/hutt/male_a.fxe
+/resources/alien/fxe/cnv/alien_vo/hutttwilek/male.fxe
+/resources/alien/fxe/cnv/alien_vo/neimoidian/male_med.fxe
+/resources/alien/fxe/cnv/alien_vo/rodian/f_med.fxe
+/resources/alien/fxe/cnv/alien_vo/ugnaught/male_low.fxe
+/resources/bnk2/cnv_alien_vo_arcona_male_med.acb
+/resources/bnk2/cnv_alien_vo_astromechdroid_temp.acb
+/resources/bnk2/cnv_alien_vo_dashade_male_khem_val.acb
+/resources/bnk2/cnv_alien_vo_hutt_male_a.acb
+/resources/bnk2/cnv_alien_vo_hutttwilek_male.acb
+/resources/bnk2/cnv_alien_vo_neimoidian_male_med.acb
+/resources/bnk2/cnv_alien_vo_rodian_f_med.acb
+/resources/bnk2/cnv_alien_vo_ugnaught_male_low.acb
 ft.sig
 metadata.bin

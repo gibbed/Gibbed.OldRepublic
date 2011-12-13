@@ -1,4 +1,4 @@
-; 1099/2181 (50%)
+; 1111/2181 (50%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -724,10 +724,14 @@
 /resources/art/lights/fill_undergound_ruins.tiny.dds
 /resources/art/lights/fill_warm_jedi_temple.dds
 /resources/art/lights/fill_warm_jedi_temple.tex
+/resources/art/lights/fill_warm_space.dds
+/resources/art/lights/fill_warm_space.tex
 /resources/art/lights/fx_lum_sp_recuperate.dds
 /resources/art/lights/fx_lum_sp_recuperate.tex
 /resources/art/lights/fx_ramp_backface_01.dds
 /resources/art/lights/fx_ramp_backface_01.tex
+/resources/art/lights/fx_ramp_edge_01.dds
+/resources/art/lights/fx_ramp_edge_01.tex
 /resources/art/lights/fx_ramp_full_wrap.dds
 /resources/art/lights/fx_ramp_full_wrap.tex
 /resources/art/lights/fx_ramp_slightwrap_01.dds
@@ -771,6 +775,8 @@
 /resources/art/lights/lum_exponential_round.tex
 /resources/art/lights/lum_exponential_round_sheidow.dds
 /resources/art/lights/lum_exponential_round_sheidow.tex
+/resources/art/lights/lum_factory_ceiling.dds
+/resources/art/lights/lum_factory_ceiling.tex
 /resources/art/lights/lum_generator.dds
 /resources/art/lights/lum_generator.tex
 /resources/art/lights/lum_generator.tiny.dds
@@ -788,6 +794,8 @@
 /resources/art/lights/lum_imp_st_bridge.tex
 /resources/art/lights/lum_jeditemple_ceiling_emissive.dds
 /resources/art/lights/lum_jeditemple_ceiling_emissive.tex
+/resources/art/lights/lum_latern.dds
+/resources/art/lights/lum_latern.tex
 /resources/art/lights/lum_light_cone.dds
 /resources/art/lights/lum_light_cone.tex
 /resources/art/lights/lum_nar_signglow.dds
@@ -1004,6 +1012,7 @@
 /resources/art/planets/texture/planets_voss_s.tiny.dds
 /resources/art/planets/tython.gr2
 /resources/art/shaders/materials/__white.mat
+/resources/art/shaders/materials/dbo_universal_superexclusion_test.mat
 /resources/art/shaders/materials/missing_granny.mat
 /resources/art/shaders/materials/planets_tython.mat
 /resources/art/shaders/materials/spawner_gold.mat
@@ -1014,6 +1023,7 @@
 /resources/art/shaders/materials/util_green_hidden.mat
 /resources/art/shaders/materials/util_red.mat
 /resources/art/shaders/materials/util_red_hidden.mat
+/resources/art/shaders/materials/util_yellow_hidden.mat
 /resources/art/shaders/materials/white_utility_hidden.mat
 /resources/art/static/area/all_all/arch/texture/all_arch_pal_house_trim_s.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_pal_house_trim_s.tex
@@ -1092,8 +1102,10 @@
 /resources/art/water/lava_bump_map_n.tex
 /resources/art/water/surface_map_hut_01.dds
 /resources/art/water/surface_map_hut_01.tex
+/resources/art/water/surface_map_hut_01.tiny.dds
 /resources/art/water/water_bump_map_n.dds
 /resources/art/water/water_bump_map_n.tex
+/resources/art/water/water_bump_map_n.tiny.dds
 /resources/art/water/water_bump_map02_n.dds
 /resources/art/water/water_bump_map02_n.tex
 ft.sig

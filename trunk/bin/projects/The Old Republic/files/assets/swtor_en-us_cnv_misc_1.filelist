@@ -1,3 +1,17 @@
-; 2/244 (0%)
+; 16/244 (6%)
+/resources/en-us/bnk2/cnv_misc_combat_cc_agent_kaliyo.acb
+/resources/en-us/bnk2/cnv_misc_generic_lines_sith_sorcerer_f.acb
+/resources/en-us/bnk2/cnv_misc_generic_lines_spy_m.acb
+/resources/en-us/bnk2/cnv_misc_system_ccs_lines.acb
+/resources/en-us/bnk2/cnv_misc_vendor_droid_taxisurly_rep.acb
+/resources/en-us/bnk2/cnv_misc_vendor_human_f_friendly_rep.acb
+/resources/en-us/bnk2/cnv_misc_vendor_human_m_military_imp2.acb
+/resources/en-us/bnk2/cnv_misc_vendor_human_m_traineragent_imp.acb
+/resources/en-us/fxe/cnv/misc/combat/cc/agent/kaliyo.fxe
+/resources/en-us/fxe/cnv/misc/system/ccs_lines.fxe
+/resources/en-us/fxe/cnv/misc/vendor/droid_taxisurly_rep.fxe
+/resources/en-us/fxe/cnv/misc/vendor/human_f_friendly_rep.fxe
+/resources/en-us/fxe/cnv/misc/vendor/human_m_military_imp2.fxe
+/resources/en-us/fxe/cnv/misc/vendor/human_m_traineragent_imp.fxe
 ft.sig
 metadata.bin

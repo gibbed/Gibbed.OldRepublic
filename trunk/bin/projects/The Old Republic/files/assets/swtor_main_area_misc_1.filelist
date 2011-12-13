@@ -1,4 +1,4 @@
-; 4206/5536 (75%)
+; 4209/5536 (76%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -115,6 +115,7 @@
 /resources/art/shaders/materials/spc_item_crafting_cybertech.mat
 /resources/art/shaders/materials/spc_item_crafting_guns.mat
 /resources/art/shaders/materials/spc_item_crafting_saber.mat
+/resources/art/shaders/materials/spc_item_emperor_throne.mat
 /resources/art/shaders/materials/spc_item_planetsign_cor.mat
 /resources/art/shaders/materials/spc_item_planetsign_hutta.mat
 /resources/art/shaders/materials/spc_item_planetsign_kor.mat
@@ -123,6 +124,7 @@
 /resources/art/shaders/materials/spc_item_ps_bh_holo_communicator.mat
 /resources/art/shaders/materials/spc_item_ps_chair_imp.mat
 /resources/art/shaders/materials/spc_item_ps_engine_sith.mat
+/resources/art/shaders/materials/spc_item_ps_engine_sith_suv.mat
 /resources/art/shaders/materials/spc_item_ps_jedi_holo_communicator.mat
 /resources/art/shaders/materials/spc_item_ps_sith_holo_communicator.mat
 /resources/art/shaders/materials/spc_item_ps_smug_furniture_a.mat
@@ -247,6 +249,7 @@
 /resources/art/shaders/materials/spc_ps_trooper_int_wall01.mat
 /resources/art/shaders/materials/spc_ps_trooper_int_wall02.mat
 /resources/art/shaders/materials/util_collision_hidden.mat
+/resources/art/shaders/materials/veh_imp_capital_destroyer_details03.mat
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_ext_bwall_wall01_n.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_ext_bwall_wall01_n.tex
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_ext_bwall_wall01_n.tiny.dds

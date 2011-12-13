@@ -1,4 +1,4 @@
-; 795/823 (96%)
+; 798/823 (96%)
 /resources/art/dynamic/creature/model/manta_baspoorglider_a01.gr2
 /resources/art/dynamic/creature/model/manta_thranta_a01.gr2
 /resources/art/dynamic/creature/model/manta_thrantamount_a01.gr2
@@ -540,6 +540,7 @@
 /resources/art/dynamic/creature/wraid/texture/___psd/wraid_yozusk_a01_v01_s.tex
 /resources/art/dynamic/creature/wraid/texture/___psd/wraid_yozusk_a01_v01_s.tiny.dds
 /resources/art/dynamic/droid/mouse_droid/mouse_droid_a01.gr2
+/resources/art/dynamic/droid/mouse_droid/mouse_droid_a02.gr2
 /resources/art/dynamic/droid/mouse_droid/texture/___psd/mouse_droid_a01_v01_d.dds
 /resources/art/dynamic/droid/mouse_droid/texture/___psd/mouse_droid_a01_v01_d.tex
 /resources/art/dynamic/droid/mouse_droid/texture/___psd/mouse_droid_a01_v01_d.tiny.dds
@@ -717,6 +718,7 @@
 /resources/art/dynamic/spec/terentatek_skeleton.gr2
 /resources/art/dynamic/spec/terentatekboss_skeleton.gr2
 /resources/art/dynamic/spec/turretneusmall_skeleton.gr2
+/resources/art/dynamic/spec/turretneusmallbase_skeleton.gr2
 /resources/art/dynamic/spec/walker_skeleton.gr2
 /resources/art/dynamic/spec/walkerhw_skeleton.gr2
 /resources/art/dynamic/spec/wampa_skeleton.gr2
@@ -734,6 +736,7 @@
 /resources/art/shaders/materials/manta_thrantamount_a01_v01.mat
 /resources/art/shaders/materials/mote_mote_a01_v01.mat
 /resources/art/shaders/materials/mouse_droid_a01_v01.mat
+/resources/art/shaders/materials/mouse_droid_a02_v01.mat
 /resources/art/shaders/materials/mynock_wingmaw_a01_v01.mat
 /resources/art/shaders/materials/mynock_xuvvasoarer_a01_v01.mat
 /resources/art/shaders/materials/probe_czerka_a01_v01.mat

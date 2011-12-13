@@ -1,4 +1,4 @@
-; 1341/1507 (88%)
+; 1347/1507 (89%)
 /resources/art/fx/texture/uv_atlas/all_item_forcefields_01_base_a.dds
 /resources/art/fx/texture/uv_atlas/all_item_forcefields_01_base_a.tex
 /resources/art/fx/texture/uv_atlas/all_item_forcefields_01_base_a.tiny.dds
@@ -46,6 +46,12 @@
 /resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_base_metal_d.dds
 /resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_base_metal_d.tex
 /resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_base_metal_d.tiny.dds
+/resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_base_metal_n.dds
+/resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_base_metal_n.tex
+/resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_base_metal_n.tiny.dds
+/resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_base_metal_s.dds
+/resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_base_metal_s.tex
+/resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_base_metal_s.tiny.dds
 /resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_trim_d.dds
 /resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_trim_d.tex
 /resources/art/static/area/all_all/arch/underworld/texture/all_arch_und_smokestack_trim_d.tiny.dds

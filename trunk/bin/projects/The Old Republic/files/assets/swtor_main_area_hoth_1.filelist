@@ -1,12 +1,14 @@
-; 3688/4697 (78%)
+; 3691/4697 (78%)
 /resources/art/shaders/materials/all_arch_rep_atv_interior_wall1_01.mat
 /resources/art/shaders/materials/all_arch_rep_fort_columns01.mat
+/resources/art/shaders/materials/all_arch_rep_fort_elevatortrack.mat
 /resources/art/shaders/materials/all_arch_rep_fort_exterior_strips.mat
 /resources/art/shaders/materials/all_arch_rep_fort_walldetails01.mat
 /resources/art/shaders/materials/all_arch_rep_house_b02.mat
 /resources/art/shaders/materials/all_item_rep_fort_wall_panels.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_d01.mat
 /resources/art/shaders/materials/all_item_tech_computer_terminal_screen.mat
+/resources/art/shaders/materials/hth_arch_tower_trim01.mat
 /resources/art/shaders/materials/hth_env_cliff_snow.mat
 /resources/art/shaders/materials/hth_item_debris_ship_large_b.mat
 /resources/art/shaders/materials/hth_item_debris_ship_large_b_01.mat
@@ -267,6 +269,7 @@
 /resources/art/static/area/hth_hoth/arch/hth_arch_ductset_curve_01.gr2
 /resources/art/static/area/hth_hoth/arch/hth_arch_ductset_curve_02.gr2
 /resources/art/static/area/hth_hoth/arch/hth_arch_ductset_straight_01.gr2
+/resources/art/static/area/hth_hoth/arch/hth_arch_ibeam_32m.gr2
 /resources/art/static/area/hth_hoth/arch/hth_arch_industrial_pipe.gr2
 /resources/art/static/area/hth_hoth/arch/hth_arch_industrial_tower_01.gr2
 /resources/art/static/area/hth_hoth/arch/hth_arch_neu_farm_silo.gr2

@@ -1,4 +1,4 @@
-; 2716/3574 (75%)
+; 2729/3574 (76%)
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_01.mat
@@ -60,6 +60,7 @@
 /resources/art/shaders/materials/all_arch_imp_building_props_interior.mat
 /resources/art/shaders/materials/all_arch_imp_cantina_floordesign.mat
 /resources/art/shaders/materials/all_arch_imp_cantina_holopads.mat
+/resources/art/shaders/materials/all_arch_imp_door_01.mat
 /resources/art/shaders/materials/all_arch_imp_fort_hallway_comppanel_03_suv.mat
 /resources/art/shaders/materials/all_arch_imp_fort_hallway_strips_01.mat
 /resources/art/shaders/materials/all_arch_imp_guardhouse.mat
@@ -79,6 +80,7 @@
 /resources/art/shaders/materials/all_arch_imp_space_hall_door_large.mat
 /resources/art/shaders/materials/all_arch_imp_space_hall_floor02.mat
 /resources/art/shaders/materials/all_arch_imp_space_mod_room_pillar.mat
+/resources/art/shaders/materials/all_arch_imp_war_room_tech_cabinet.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_tower_trim01.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_floor01.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_trims01.mat
@@ -104,6 +106,11 @@
 /resources/art/shaders/materials/kor_acad_interrogation_wall.mat
 /resources/art/shaders/materials/kor_acad_lobby_column.mat
 /resources/art/shaders/materials/kor_acad_main_topfloor.mat
+/resources/art/shaders/materials/veh_imp_capital_destroyer_details01.mat
+/resources/art/shaders/materials/veh_imp_capital_destroyer_details02.mat
+/resources/art/shaders/materials/veh_imp_capital_destroyer_panels01.mat
+/resources/art/shaders/materials/veh_imp_capital_destroyer_panels02.mat
+/resources/art/shaders/materials/veh_imp_capital_destroyer_trims01.mat
 /resources/art/static/area/ald_alderaan/arch/texture/ald_arch_outpost_stairs_d.dds
 /resources/art/static/area/ald_alderaan/arch/texture/ald_arch_outpost_stairs_d.tex
 /resources/art/static/area/ald_alderaan/arch/texture/ald_arch_outpost_stairs_d.tiny.dds
@@ -2205,6 +2212,12 @@
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_wallset_base_02_d.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_wallset_base_02_d.tex
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_wallset_base_02_d.tiny.dds
+/resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_war_room_tech_cabinet_d.tex
+/resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_war_room_tech_cabinet_d.tiny.dds
+/resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_war_room_tech_cabinet_n.tex
+/resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_war_room_tech_cabinet_n.tiny.dds
+/resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_war_room_tech_cabinet_s.tex
+/resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_war_room_tech_cabinet_s.tiny.dds
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_droid_factory_stack_d.dds
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_droid_factory_stack_d.tex
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_droid_factory_stack_d.tiny.dds
