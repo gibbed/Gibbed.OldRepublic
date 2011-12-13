@@ -1,4 +1,4 @@
-; 2241/6699 (33%)
+; 2261/6699 (33%)
 /resources/art/defaultassets/ltorange.dds
 /resources/art/defaultassets/ltorange.tex
 /resources/art/shaders/materials/engine_staging_human_03.mat
@@ -6,6 +6,7 @@
 /resources/art/shaders/materials/engine_staging_human_05.mat
 /resources/art/shaders/materials/engine_staging_props.mat
 /resources/art/shaders/materials/util_yellow.mat
+/resources/engine/cleangame/resources/common/utility_box_white01.gr2
 /resources/engine/map/engine_map_mapnode.gr2
 /resources/engine/spawner/spawner_encounter.gr2
 /resources/engine/spawner/spawner_group.gr2
@@ -2234,6 +2235,25 @@
 /resources/guixml/stylesetgui.xml
 /resources/guixml/transform3dpropertypanel_v2.xml
 /resources/guixml/unsavedchangesdialog.xml
+/resources/server/facefx/bfa_base.fxa
+/resources/server/facefx/bfb_base.fxa
+/resources/server/facefx/bfn_base.fxa
+/resources/server/facefx/bfs_base.fxa
+/resources/server/facefx/bma_base.fxa
+/resources/server/facefx/bmf_base.fxa
+/resources/server/facefx/bmn_base.fxa
+/resources/server/facefx/bms_base.fxa
+/resources/server/facefx/chevin_base.fxa
+/resources/server/facefx/colicoid_base.fxa
+/resources/server/facefx/dwarf_base.fxa
+/resources/server/facefx/eshka_base.fxa
+/resources/server/facefx/geonosian_base.fxa
+/resources/server/facefx/hutt_base.fxa
+/resources/server/facefx/hutt_hutt_base.fxa
+/resources/server/facefx/huttsit_base.fxa
+/resources/server/facefx/ithorian_base.fxa
+/resources/server/facefx/ortolan_base.fxa
+/resources/server/facefx/rakghoul_base.fxa
 /resources/server/tbl/chrbackground.tbl
 /resources/server/tbl/chrspec.tbl
 /resources/server/tbl/fxhuecolors.tbl

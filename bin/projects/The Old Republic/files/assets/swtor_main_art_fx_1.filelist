@@ -1,4 +1,4 @@
-; 13199/22915 (57%)
+; 13206/22915 (57%)
 /resources/art/defaultassets/white.dds
 /resources/art/defaultassets/white.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_mini_a01_v01_d.dds
@@ -240,6 +240,7 @@
 /resources/art/fx/fxspec/environments/all/env_light_ray_streaks.fxspec
 /resources/art/fx/fxspec/environments/all/env_power_up_health.fxspec
 /resources/art/fx/fxspec/environments/balmora/env_bal_flak.fxspec
+/resources/art/fx/fxspec/environments/character_select/char_sel_bh_steam.fxspec
 /resources/art/fx/fxspec/environments/character_select/char_sel_rep_fighter_open_anim.fxspec
 /resources/art/fx/fxspec/environments/character_select/char_sel_trooper_open_anim.fxspec
 /resources/art/fx/fxspec/environments/coruscant/env_cor_flashing_lights_blue_01.fxspec
@@ -4779,6 +4780,8 @@
 /resources/art/fx/particles/fx_cauldron_hot_metal_drips_p.prt
 /resources/art/fx/particles/fx_char_sel_ambient_engine_burst.prt
 /resources/art/fx/particles/fx_char_sel_ambient_engine_burst_p.prt
+/resources/art/fx/particles/fx_char_sel_bh_steam.prt
+/resources/art/fx/particles/fx_char_sel_bh_steam_p.prt
 /resources/art/fx/particles/fx_char_sel_destroyer_imp_fighter_launch.prt
 /resources/art/fx/particles/fx_char_sel_destroyer_imp_fighter_launch_p.prt
 /resources/art/fx/particles/fx_char_sel_large_ship.prt
@@ -5630,7 +5633,11 @@
 /resources/art/fx/particles/fx_thick_dirt_chunks_blast.prt
 /resources/art/fx/particles/fx_thick_dirt_chunks_blast_p.prt
 /resources/art/fx/particles/fx_waterinteract_rings_01.prt
+/resources/art/fx/particles/fx_waterinteract_rings_01_idle.prt
+/resources/art/fx/particles/fx_waterinteract_rings_01_idle_p.prt
 /resources/art/fx/particles/fx_waterinteract_rings_01_p.prt
+/resources/art/fx/particles/fx_waterinteract_single_splash.prt
+/resources/art/fx/particles/fx_waterinteract_single_splash_p.prt
 /resources/art/fx/particles/fx_wispy_dark_smoke.prt
 /resources/art/fx/particles/fx_wispy_dark_smoke_p.prt
 /resources/art/fx/particles/fx_wispy_smoke.prt

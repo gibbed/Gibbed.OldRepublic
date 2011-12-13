@@ -1,4 +1,4 @@
-; 552/52255 (1%)
+; 555/52255 (1%)
 /resources/gfx/codex/cdx.location.hutta.jiguuna.dds
 /resources/gfx/codex/cdx.location.korriban.valley_of_the_dark_lords.dds
 /resources/gfx/codex/cdx.location.ord_mantell.drelliad_village.dds
@@ -487,6 +487,7 @@
 /resources/gfx/icons/whirling_blow.dds
 /resources/gfx/icons/whitefurfleece.dds
 /resources/gfx/icons/wrappedparcel.dds
+/resources/gfx/loadingscreen/background_tile.dds
 /resources/gfx/loadingscreen/bwa_splash.dds
 /resources/gfx/loadingscreen/bwa_splash.tex
 /resources/gfx/loadingscreen/imp_overlay.dds
@@ -542,10 +543,12 @@
 /resources/gfx/portraits/companions/rep_companions/yuun_light.dds
 /resources/gfx/portraits/companions/rep_companions/zenith_light.dds
 /resources/gfx/portraits/head_rodian_bma_non_a01.dds
+/resources/gfx/symbols/button_plus.dds
 /resources/gfx/symbols/credits.dds
 /resources/gfx/symbols/dark_side.dds
 /resources/gfx/symbols/light_side.dds
 /resources/gfx/symbols/modstation.dds
+/resources/gfx/symbols/refresh.dds
 /resources/gfx/symbols/social.dds
 /resources/gfx/symbols/vendor.dds
 /resources/gfx/symbols/x_14pt_red.dds

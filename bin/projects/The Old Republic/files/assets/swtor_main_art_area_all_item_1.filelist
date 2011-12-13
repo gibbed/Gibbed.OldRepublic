@@ -1,4 +1,4 @@
-; 7595/8930 (85%)
+; 7598/8930 (85%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -290,6 +290,7 @@
 /resources/art/shaders/materials/all_item_construction_spool.mat
 /resources/art/shaders/materials/all_item_construction_spool_01.mat
 /resources/art/shaders/materials/all_item_construction_workbench_tools.mat
+/resources/art/shaders/materials/all_item_crate_weapon_01.mat
 /resources/art/shaders/materials/all_item_crate_weapon_02.mat
 /resources/art/shaders/materials/all_item_creature_dung.mat
 /resources/art/shaders/materials/all_item_creature_klorslug_egg_smashed.mat
@@ -494,6 +495,7 @@
 /resources/art/shaders/materials/all_item_temple_holo_pedestal_holotech_device.mat
 /resources/art/shaders/materials/all_item_temple_holotable.mat
 /resources/art/shaders/materials/all_item_temple_lamp.mat
+/resources/art/shaders/materials/all_item_temple_light_yellow.mat
 /resources/art/shaders/materials/all_item_temple_meditation.mat
 /resources/art/shaders/materials/all_item_temple_meeting_table_holodish_holodish.mat
 /resources/art/shaders/materials/all_item_temple_meeting_table_holodish_table.mat
@@ -5965,6 +5967,7 @@
 /resources/art/static/area/all_all/item/temple/all_item_temple_lamp.gr2
 /resources/art/static/area/all_all/item/temple/all_item_temple_light.gr2
 /resources/art/static/area/all_all/item/temple/all_item_temple_light_gold.gr2
+/resources/art/static/area/all_all/item/temple/all_item_temple_light_yellow.gr2
 /resources/art/static/area/all_all/item/temple/all_item_temple_meditation.gr2
 /resources/art/static/area/all_all/item/temple/all_item_temple_meditation_animated.gr2
 /resources/art/static/area/all_all/item/temple/all_item_temple_meditation_base.gr2

@@ -1,4 +1,4 @@
-; 1206/10428 (11%)
+; 1214/10428 (11%)
 /resources/world/areas/4611686018427650020/area.dat
 /resources/world/areas/4611686019047870293/_audio_regions_todd.dat
 /resources/world/areas/4611686019047870293/_everywhere_.dat
@@ -1191,6 +1191,14 @@
 /resources/world/areas/4611686198204660000/area.dat
 /resources/world/livecontent/systemgenerated/3758002374/_everywhere_.dat
 /resources/world/livecontent/systemgenerated/3758002374/area.dat
+/resources/world/livecontent/systemgenerated/3758002374/char_select_agent.dat
+/resources/world/livecontent/systemgenerated/3758002374/char_select_bountyhunter.dat
+/resources/world/livecontent/systemgenerated/3758002374/char_select_consular.dat
+/resources/world/livecontent/systemgenerated/3758002374/char_select_inquisitor.dat
+/resources/world/livecontent/systemgenerated/3758002374/char_select_knight.dat
+/resources/world/livecontent/systemgenerated/3758002374/char_select_smuggler.dat
+/resources/world/livecontent/systemgenerated/3758002374/char_select_trooper.dat
+/resources/world/livecontent/systemgenerated/3758002374/char_select_warrior.dat
 /resources/world/livecontent/systemgenerated/3758002374/default.dat
 /resources/world/livecontent/systemgenerated/3758002374/faction_select.dat
 /resources/world/livecontent/systemgenerated/3758002374/imperial_agent.dat
