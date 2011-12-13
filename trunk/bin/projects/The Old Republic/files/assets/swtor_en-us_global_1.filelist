@@ -1,4 +1,4 @@
-; 250/3625 (6%)
+; 255/3625 (7%)
 /resources/en-us/str/abl.stb
 /resources/en-us/str/abl/agent/skill.stb
 /resources/en-us/str/abl/player/grant_codex_xp.stb
@@ -20,6 +20,7 @@
 /resources/en-us/str/cnv/location/hutta/ambient/nemro_cantina.stb
 /resources/en-us/str/cnv/location/hutta/ambient/poison_pit.stb
 /resources/en-us/str/cnv/location/hutta/ambient/rust_yard_worker_camp.stb
+/resources/en-us/str/cnv/location/hutta/ambient/spaceport.stb
 /resources/en-us/str/cnv/location/hutta/bronze/a_slight_lean/chief_enforcer.stb
 /resources/en-us/str/cnv/location/hutta/bronze/a_slight_lean/morsel.stb
 /resources/en-us/str/cnv/location/hutta/bronze/death_mark/wanted_sign_cantina.stb
@@ -28,6 +29,7 @@
 /resources/en-us/str/cnv/location/hutta/bronze/subtle_sabotage/peblack.stb
 /resources/en-us/str/cnv/location/hutta/bronze/subtle_sabotage/rudd.stb
 /resources/en-us/str/cnv/location/hutta/bronze/tech_jealousy/dead_rodian.stb
+/resources/en-us/str/cnv/location/hutta/bronze/tech_jealousy/doctor_terrab.stb
 /resources/en-us/str/cnv/location/hutta/bronze/trainers/agent/linh.stb
 /resources/en-us/str/cnv/location/hutta/class/spy/dheno_rey.stb
 /resources/en-us/str/cnv/location/hutta/class/spy/holo_archives.stb
@@ -39,7 +41,9 @@
 /resources/en-us/str/cnv/location/hutta/class/spy/nohn_veyaiko.stb
 /resources/en-us/str/cnv/location/hutta/class/spy/odeph.stb
 /resources/en-us/str/cnv/location/hutta/class/spy/targen.stb
+/resources/en-us/str/cnv/location/hutta/class/spy/the_hood.stb
 /resources/en-us/str/cnv/location/hutta/class/spy/tothlazhen.stb
+/resources/en-us/str/cnv/location/hutta/data_holocron/datacron_matrix_hutta.stb
 /resources/en-us/str/cnv/location/hutta/world/dreams_of_korriban/gianna.stb
 /resources/en-us/str/cnv/location/hutta/world/dreams_of_korriban/mekks.stb
 /resources/en-us/str/cnv/location/hutta/world/gang_warfare/lew_brell.stb
@@ -61,6 +65,7 @@
 /resources/en-us/str/cnv/misc/combat/cc/agent/kaliyo.stb
 /resources/en-us/str/cnv/misc/generic_lines.stb
 /resources/en-us/str/cnv/misc/vendor/droid_taxisurly_rep.stb
+/resources/en-us/str/cnv/misc/vendor/gran_m_generic_alien.stb
 /resources/en-us/str/cnv/misc/vendor/human_f_friendly_rep.stb
 /resources/en-us/str/cnv/misc/vendor/human_m_military_imp2.stb
 /resources/en-us/str/cnv/misc/vendor/human_m_traineragent_imp.stb
