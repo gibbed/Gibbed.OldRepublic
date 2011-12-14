@@ -1,4 +1,4 @@
-; 109/412 (26%)
+; 115/412 (27%)
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
 /resources/bnk2/voc_akk.bnk
@@ -12,6 +12,7 @@
 /resources/bnk2/voc_assassindroidwar.bnk
 /resources/bnk2/voc_astromechimperial.bnk
 /resources/bnk2/voc_astromechtg6.bnk
+/resources/bnk2/voc_basedroid01.bnk
 /resources/bnk2/voc_battledroidimperial.bnk
 /resources/bnk2/voc_battledroidindustrial.bnk
 /resources/bnk2/voc_battledroidliberation.bnk
@@ -19,6 +20,7 @@
 /resources/bnk2/voc_bith_m_alien_low_soundset.bnk
 /resources/bnk2/voc_chagrian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_chemilizard.bnk
+/resources/bnk2/voc_chevin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_devaronian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_duros_m_alien_high_soundset.bnk
 /resources/bnk2/voc_duros_m_alien_low_soundset.bnk
@@ -47,10 +49,13 @@
 /resources/bnk2/voc_imphuman_m_med_4_soundset.bnk
 /resources/bnk2/voc_imphuman_m_med_5_soundset.bnk
 /resources/bnk2/voc_imphumanlieu_m_med_1_soundset.bnk
+/resources/bnk2/voc_jurgoran.bnk
 /resources/bnk2/voc_kaliyo.bnk
 /resources/bnk2/voc_khem_val.bnk
 /resources/bnk2/voc_kintanenforcer.bnk
 /resources/bnk2/voc_kitonak_m_alien_low_soundset.bnk
+/resources/bnk2/voc_klorsluglarva.bnk
+/resources/bnk2/voc_kubaz_m_alien_low_soundset.bnk
 /resources/bnk2/voc_kubaz_m_alien_med_soundset.bnk
 /resources/bnk2/voc_mako.bnk
 /resources/bnk2/voc_nautolan_f_alien_high_soundset.bnk
@@ -74,6 +79,7 @@
 /resources/bnk2/voc_rephuman_f_med_1_soundset.bnk
 /resources/bnk2/voc_rephuman_f_med_2_soundset.bnk
 /resources/bnk2/voc_rephuman_f_med_3_soundset.bnk
+/resources/bnk2/voc_rephuman_f_med_4_soundset.bnk
 /resources/bnk2/voc_rephuman_m_high_1_soundset.bnk
 /resources/bnk2/voc_rephuman_m_high_2_soundset.bnk
 /resources/bnk2/voc_rephuman_m_high_3_soundset.bnk

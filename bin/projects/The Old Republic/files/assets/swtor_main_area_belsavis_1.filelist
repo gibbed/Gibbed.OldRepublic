@@ -1,4 +1,4 @@
-; 2111/2659 (79%)
+; 2112/2659 (79%)
 /resources/art/shaders/materials/all_arch_rakata_wall_set03.mat
 /resources/art/shaders/materials/all_arch_rep_house_trim_interior.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_wall1a.mat
@@ -10,6 +10,7 @@
 /resources/art/shaders/materials/bel_arch_rakata_int_wall01.mat
 /resources/art/shaders/materials/bel_arch_rakata_prison_cell_wall.mat
 /resources/art/shaders/materials/bel_arch_rakata_prison_door.mat
+/resources/art/shaders/materials/bel_arch_rakata_prop_light_hanging.mat
 /resources/art/shaders/materials/ord_env_boulder_overhang.mat
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_atv_interior_basemetal_01_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_atv_interior_basemetal_01_d.tex
