@@ -1,4 +1,4 @@
-; 4771/13633 (34%)
+; 4795/13633 (35%)
 /resources/art/dynamic/bracer/index.xml
 /resources/art/dynamic/bracer/model/bracer_short_bfa_archetype.gr2
 /resources/art/dynamic/bracer/model/bracer_short_bfa_archetype.lod.gr2
@@ -36,6 +36,7 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_ge_a07_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_ss_a01_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_sw_a01_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_sw_a02_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_tr_a01_front.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfb_archetype.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfb_light_ss_a03_wrist.lod.gr2
@@ -181,6 +182,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_ge_a31_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_archetype.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_archetype.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfn_light_ge_a22_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_light_ge_a32_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_light_ss_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_light_sw_a03_wrist.lod.gr2
@@ -213,10 +215,12 @@
 /resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a10_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a11_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a11_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a15_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a20_cuff.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a20_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a31_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_med_ge_a31_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bma_med_sp_a03_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_med_sp_a04_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_archetype.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_archetype.lod.gr2
@@ -238,6 +242,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bmn_archetype.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_heavy_bh_a06_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_heavy_tr_a02_bracer.gr2
+/resources/art/dynamic/hand/model/hand_glove_bmn_light_ge_a13_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_ge_a13_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_ge_a32_cuff.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_ge_a32_cuff.lod.gr2
@@ -618,6 +623,7 @@
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c01_u_s.dds
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c01_u_s.tex
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c01_u_s.tiny.dds
+/resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c03_u_01_n.dds
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c03_u_d.dds
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c03_u_d.tex
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c03_u_h.dds
@@ -628,6 +634,10 @@
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c03_u_n.tex
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c03_u_s.dds
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c03_u_s.tex
+/resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c04_u_d.dds
+/resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c04_u_h.dds
+/resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c04_u_m.dds
+/resources/art/dynamic/player_character/outfit/bh_armor_heavy_a03/texture/___psd/hand_gauntlet_heavy_bh_a03c04_u_s.dds
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a04/texture/___psd/bracer_short_heavy_bh_a04c01_u_v01_n.dds
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a04/texture/___psd/bracer_short_heavy_bh_a04c01_u_v01_n.tex
 /resources/art/dynamic/player_character/outfit/bh_armor_heavy_a04/texture/___psd/bracer_short_heavy_bh_a04c01_u_v01_n.tiny.dds
@@ -1681,6 +1691,11 @@
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a22/texture/___psd/bracer_short_light_ge_a22noble01_u_v01_m.dds
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a22/texture/___psd/bracer_short_light_ge_a22noble01_u_v01_n.dds
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a22/texture/___psd/bracer_short_light_ge_a22noble01_u_v01_s.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a22/texture/___psd/hand_glove_light_ge_a22noble01_u_d.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a22/texture/___psd/hand_glove_light_ge_a22noble01_u_h.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a22/texture/___psd/hand_glove_light_ge_a22noble01_u_m.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a22/texture/___psd/hand_glove_light_ge_a22noble01_u_n.dds
+/resources/art/dynamic/player_character/outfit/ge_robe01_light_a22/texture/___psd/hand_glove_light_ge_a22noble01_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/bracer_short_light_ge_a29doctor01_u_v01_d.dds
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/bracer_short_light_ge_a29doctor01_u_v01_d.tex
 /resources/art/dynamic/player_character/outfit/ge_robe01_light_a29/texture/___psd/bracer_short_light_ge_a29doctor01_u_v01_h.dds
@@ -1767,6 +1782,10 @@
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a08/texture/___psd/hand_glove_light_ge_a08repcitizen01_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a08/texture/___psd/hand_glove_light_ge_a08repcitizen01_u_s.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a08/texture/___psd/hand_glove_light_ge_a08repcitizen01_u_s.tiny.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_light_a08/texture/___psd/hand_glove_light_ge_a08repcitizen03_u_d.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_light_a08/texture/___psd/hand_glove_light_ge_a08repcitizen03_u_h.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_light_a08/texture/___psd/hand_glove_light_ge_a08repcitizen03_u_m.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_light_a08/texture/___psd/hand_glove_light_ge_a08repcitizen03_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/bracer_short_light_ge_a13impcitizen01_u_v01_d.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/bracer_short_light_ge_a13impcitizen01_u_v01_d.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_light_a13/texture/___psd/bracer_short_light_ge_a13impcitizen01_u_v01_h.dds
@@ -2832,6 +2851,11 @@
 /resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c01_u_s.dds
 /resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c01_u_s.tex
 /resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c01_u_s.tiny.dds
+/resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c02_u_d.dds
+/resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c02_u_h.dds
+/resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c02_u_m.dds
+/resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c02_u_n.dds
+/resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c02_u_s.dds
 /resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c03_u_d.dds
 /resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c03_u_d.tex
 /resources/art/dynamic/player_character/outfit/sw_baggy_heavy_a05/texture/___psd/hand_gauntlet_heavy_sw_a05c03_u_d.tiny.dds

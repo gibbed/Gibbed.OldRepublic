@@ -1,4 +1,5 @@
-; 115/412 (27%)
+; 118/412 (28%)
+/resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
 /resources/bnk2/voc_akk.bnk
@@ -8,6 +9,7 @@
 /resources/bnk2/voc_assassindroidczerkasecurity.bnk
 /resources/bnk2/voc_assassindroidhuttmilitary.bnk
 /resources/bnk2/voc_assassindroidmining.bnk
+/resources/bnk2/voc_assassindroidrogue.bnk
 /resources/bnk2/voc_assassindroidstealthrecon.bnk
 /resources/bnk2/voc_assassindroidwar.bnk
 /resources/bnk2/voc_astromechimperial.bnk
@@ -30,6 +32,7 @@
 /resources/bnk2/voc_evocii_m_alien_low_soundset.bnk
 /resources/bnk2/voc_evocii_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gamorrean_m_alien_med_soundset.bnk
+/resources/bnk2/voc_gand_m_alien_low_soundset.bnk
 /resources/bnk2/voc_gonkdroid.bnk
 /resources/bnk2/voc_gran_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gundark.bnk

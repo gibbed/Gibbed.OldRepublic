@@ -1,4 +1,4 @@
-; 1080/52255 (2%)
+; 1156/52255 (2%)
 /resources/gfx/codex/cdx.crew_skills.archaeology.dds
 /resources/gfx/codex/cdx.crew_skills.armormech.dds
 /resources/gfx/codex/cdx.crew_skills.armstech.dds
@@ -12,6 +12,7 @@
 /resources/gfx/codex/cdx.crew_skills.treasure_hunting.dds
 /resources/gfx/codex/cdx.crew_skills.underworld_trading.dds
 /resources/gfx/codex/cdx.game_rules.tutorials.combat.dds
+/resources/gfx/codex/cdx.location.dromund_kaas.dark_temple.dds
 /resources/gfx/codex/cdx.location.dromund_kaas.grathan_estate.dds
 /resources/gfx/codex/cdx.location.dromund_kaas.imperial_intelligence.dds
 /resources/gfx/codex/cdx.location.dromund_kaas.kaas_city.dds
@@ -45,6 +46,7 @@
 /resources/gfx/codex/cdx.tutorial.crafting_droids_and_workstations.dds
 /resources/gfx/codex/cdx.tutorial.crafting_exceptional_items.dds
 /resources/gfx/codex/cdx.tutorial.crew_skill_trainers.dds
+/resources/gfx/codex/cdx.tutorial.damaged_items.dds
 /resources/gfx/codex/cdx.tutorial.equip.dds
 /resources/gfx/codex/cdx.tutorial.gathering_resources.dds
 /resources/gfx/codex/cdx.tutorial.group_story.dds
@@ -311,6 +313,7 @@
 /resources/gfx/gfx_production/warzone_arena_overlay.gfx
 /resources/gfx/gfx_production/warzone_voidstar_overlay.gfx
 /resources/gfx/icons/absorbtionfield.dds
+/resources/gfx/icons/accesscard.dds
 /resources/gfx/icons/accesscardcolorvariant1.dds
 /resources/gfx/icons/accesscardcolorvariant2.dds
 /resources/gfx/icons/accomplishedsawbones.dds
@@ -328,6 +331,7 @@
 /resources/gfx/icons/antitoxinprobe.dds
 /resources/gfx/icons/armament2.dds
 /resources/gfx/icons/armament3.dds
+/resources/gfx/icons/armorpiercingclip.dds
 /resources/gfx/icons/armorreduced.dds
 /resources/gfx/icons/armorunderlay1.dds
 /resources/gfx/icons/armorunderlay1_gen.dds
@@ -337,6 +341,7 @@
 /resources/gfx/icons/assault.dds
 /resources/gfx/icons/assaultcannon.low04.a01_v04.dds
 /resources/gfx/icons/assaultcannonshockabsorber.dds
+/resources/gfx/icons/astrodroideyestalk.dds
 /resources/gfx/icons/astrodroidhead.dds
 /resources/gfx/icons/backpack.dds
 /resources/gfx/icons/backstab.dds
@@ -352,6 +357,7 @@
 /resources/gfx/icons/blaster.low01.a01_v03.dds
 /resources/gfx/icons/blaster.low01.a03_v04.dds
 /resources/gfx/icons/blaster.low02.a01_v01.dds
+/resources/gfx/icons/blaster.low04.a01_v04.dds
 /resources/gfx/icons/blaster.low05.a01_v01.dds
 /resources/gfx/icons/blaster.low06.a01_v01.dds
 /resources/gfx/icons/blaster.low06.a02_v03.dds
@@ -396,6 +402,7 @@
 /resources/gfx/icons/cheapshot.dds
 /resources/gfx/icons/childoftheempire.dds
 /resources/gfx/icons/chipped_chitin.dds
+/resources/gfx/icons/chipset.dds
 /resources/gfx/icons/circuitry1_cun.dds
 /resources/gfx/icons/claninsignia.dds
 /resources/gfx/icons/cleave.dds
@@ -413,12 +420,14 @@
 /resources/gfx/icons/creepingterror.dds
 /resources/gfx/icons/cripplingfire.dds
 /resources/gfx/icons/criticalblade.dds
+/resources/gfx/icons/crushed.dds
 /resources/gfx/icons/cull.dds
 /resources/gfx/icons/cyberneticexperiement.dds
 /resources/gfx/icons/cyborgveteran.dds
 /resources/gfx/icons/cycloneattack.dds
 /resources/gfx/icons/damaged_spike.dds
 /resources/gfx/icons/damagevulnerability.dds
+/resources/gfx/icons/dark_embrace.dds
 /resources/gfx/icons/darkgift.dds
 /resources/gfx/icons/darkinfusion.dds
 /resources/gfx/icons/darksiderelic3.dds
@@ -468,6 +477,7 @@
 /resources/gfx/icons/firebomb.dds
 /resources/gfx/icons/firstaid.dds
 /resources/gfx/icons/firstaidbox.dds
+/resources/gfx/icons/flameburst.dds
 /resources/gfx/icons/flamethrower.dds
 /resources/gfx/icons/flashbang.dds
 /resources/gfx/icons/flashgrenade.dds
@@ -477,6 +487,8 @@
 /resources/gfx/icons/followthrough.dds
 /resources/gfx/icons/force.dds
 /resources/gfx/icons/forcecharge.dds
+/resources/gfx/icons/forcefocus1.dds
+/resources/gfx/icons/forcefocus3.dds
 /resources/gfx/icons/forceimbuedzeydcloth.dds
 /resources/gfx/icons/forceleap.dds
 /resources/gfx/icons/fullauto.dds
@@ -520,6 +532,9 @@
 /resources/gfx/icons/introspection.dds
 /resources/gfx/icons/ionclip.dds
 /resources/gfx/icons/ipp.class.bh.bis.rdps1.t1x2.chest.dds
+/resources/gfx/icons/ipp.class.bh.bis.rdps1.t2x1.wrists.dds
+/resources/gfx/icons/ipp.class.bh.bis.rdps1.t2x2.hands.dds
+/resources/gfx/icons/ipp.class.bh.bis.rdps1.t2x2.waist.dds
 /resources/gfx/icons/ipp.class.bh.g16.c03.s01.hands_v01.dds
 /resources/gfx/icons/ipp.class.bh.g16.c03.s01.waist_v01.dds
 /resources/gfx/icons/ipp.class.bh.g16.c09.s01.legs_v01.dds
@@ -529,6 +544,10 @@
 /resources/gfx/icons/ipp.class.bh.graytrash.rdps2.t1x2.hands.dds
 /resources/gfx/icons/ipp.class.bh.graytrash.rdps2.t1x2.legs.dds
 /resources/gfx/icons/ipp.class.bh.graytrash.rdps2.t1x2.wrists.dds
+/resources/gfx/icons/ipp.class.bh.graytrash.rdps2.t2x1.chest.dds
+/resources/gfx/icons/ipp.class.bh.graytrash.rdps2.t2x1.feet.dds
+/resources/gfx/icons/ipp.class.bh.graytrash.rdps2.t2x1.hands.dds
+/resources/gfx/icons/ipp.class.bh.graytrash.rdps2.t2x1.legs.dds
 /resources/gfx/icons/ipp.class.bh.ls_ds.rdps1.dark.feet.dds
 /resources/gfx/icons/ipp.class.bh.ls_ds.rdps1.dark.hands.dds
 /resources/gfx/icons/ipp.class.bh.ls_ds.rdps1.light.feet.dds
@@ -536,11 +555,20 @@
 /resources/gfx/icons/ipp.class.bh.quest.rtank.t2x2.chest.dds
 /resources/gfx/icons/ipp.class.bh.quest.rtank.t2x2.feet.dds
 /resources/gfx/icons/ipp.class.bh.quest.rtank.t2x2.hands.dds
+/resources/gfx/icons/ipp.class.bh.quest.rtank.t2x2.legs.dds
 /resources/gfx/icons/ipp.class.bh.quest.rtank.t2x2.wrists.dds
+/resources/gfx/icons/ipp.class.bh.randblue.rdps2.t2x1.wrists.dds
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t1x1.wrists.dds
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t1x2.chest.dds
+/resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t1x2.feet.dds
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t1x2.waist.dds
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t1x2.wrists.dds
+/resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t2x1.chest.dds
+/resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t2x1.feet.dds
+/resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t2x1.legs.dds
+/resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t2x1.wrists.dds
+/resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t2x2.feet.dds
+/resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t2x2.hands.dds
 /resources/gfx/icons/ipp.class.ge.a20.c01.s01.chest_v03.dds
 /resources/gfx/icons/ipp.class.ge.a27.c01.s01.chest_v03.dds
 /resources/gfx/icons/ipp.class.ge.a27.c01.s01.feet_v03.dds
@@ -556,6 +584,11 @@
 /resources/gfx/icons/ipp.class.inq.a03.c01.s01.chest_v01.dds
 /resources/gfx/icons/ipp.class.inq.a03.c01.s01.feet_v01.dds
 /resources/gfx/icons/ipp.class.inq.a03.c03.s01.hands_v01.dds
+/resources/gfx/icons/ipp.class.inq.bis.cdps1.t2x2.hands.dds
+/resources/gfx/icons/ipp.class.inq.graytrash.cdps1.t2x1.chest.dds
+/resources/gfx/icons/ipp.class.inq.graytrash.cdps1.t2x1.feet.dds
+/resources/gfx/icons/ipp.class.inq.graytrash.cdps1.t2x1.hands.dds
+/resources/gfx/icons/ipp.class.inq.graytrash.cdps1.t2x1.legs.dds
 /resources/gfx/icons/ipp.class.inq.ls_ds.cdps1.dark.feet.dds
 /resources/gfx/icons/ipp.class.inq.ls_ds.cdps1.dark.hands.dds
 /resources/gfx/icons/ipp.class.inq.randblue.cdps1.t2x1.hands.dds
@@ -604,6 +637,9 @@
 /resources/gfx/icons/ipp.class.spy.a01.c03.s02.waist_v01.dds
 /resources/gfx/icons/ipp.class.spy.bis.tdps2.t1x2.chest.dds
 /resources/gfx/icons/ipp.class.spy.bis.tdps2.t2x1.feet.dds
+/resources/gfx/icons/ipp.class.spy.bis.tdps2.t2x1.hands.dds
+/resources/gfx/icons/ipp.class.spy.bis.tdps2.t2x2.hands.dds
+/resources/gfx/icons/ipp.class.spy.crafting.tdps2.t2x1.hands.dds
 /resources/gfx/icons/ipp.class.spy.g33.c01.s02.chest_v02.dds
 /resources/gfx/icons/ipp.class.spy.g33.c01.s02.hands_v02.dds
 /resources/gfx/icons/ipp.class.spy.graytrash.tdps1.t1x1.chest.dds
@@ -614,6 +650,10 @@
 /resources/gfx/icons/ipp.class.spy.graytrash.tdps1.t1x2.feet.dds
 /resources/gfx/icons/ipp.class.spy.graytrash.tdps1.t1x2.hands.dds
 /resources/gfx/icons/ipp.class.spy.graytrash.tdps1.t1x2.legs.dds
+/resources/gfx/icons/ipp.class.spy.graytrash.tdps1.t2x1.chest.dds
+/resources/gfx/icons/ipp.class.spy.graytrash.tdps1.t2x1.feet.dds
+/resources/gfx/icons/ipp.class.spy.graytrash.tdps1.t2x1.hands.dds
+/resources/gfx/icons/ipp.class.spy.graytrash.tdps1.t2x1.legs.dds
 /resources/gfx/icons/ipp.class.spy.heroic.tdps2.t1x2.feet.dds
 /resources/gfx/icons/ipp.class.spy.heroic.tdps2.t1x2.hands.dds
 /resources/gfx/icons/ipp.class.spy.heroic.tdps2.t1x2.legs.dds
@@ -622,6 +662,7 @@
 /resources/gfx/icons/ipp.class.spy.ls_ds.tdps1.dark.hands.dds
 /resources/gfx/icons/ipp.class.spy.ls_ds.tdps1.light.feet.dds
 /resources/gfx/icons/ipp.class.spy.ls_ds.tdps1.light.hands.dds
+/resources/gfx/icons/ipp.class.spy.moddable.act1.chest.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t1x1.chest.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t1x1.feet.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t1x1.hands.dds
@@ -638,6 +679,8 @@
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x1.waist.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x2.feet.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x2.legs.dds
+/resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x2.waist.dds
+/resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x2.wrists.dds
 /resources/gfx/icons/ipp.class.spy.raid.tdps1.t8x1.chest.dds
 /resources/gfx/icons/ipp.class.spy.raid.tdps1.t8x1.feet.dds
 /resources/gfx/icons/ipp.class.spy.raid.tdps1.t8x1.hands.dds
@@ -654,12 +697,22 @@
 /resources/gfx/icons/ipp.class.spy.raid.theal.t8x1.head.dds
 /resources/gfx/icons/ipp.class.spy.raid.theal.t8x1.legs.dds
 /resources/gfx/icons/ipp.class.spy.randblue.tdps1.t1x2.waist.dds
+/resources/gfx/icons/ipp.class.spy.randblue.tdps1.t1x2.wrists.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x1.feet.dds
 /resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x1.hands.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x1.legs.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x1.wrists.dds
 /resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x2.chest.dds
 /resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x2.feet.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x2.hands.dds
 /resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x2.legs.dds
 /resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t1x2.waist.dds
 /resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t2x1.chest.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t2x1.feet.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t2x1.hands.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t2x1.legs.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t2x2.feet.dds
+/resources/gfx/icons/ipp.class.spy.randgreen.tdps1.t2x2.wrists.dds
 /resources/gfx/icons/ipp.class.spy.starting.tdps1.t1x1.chest.dds
 /resources/gfx/icons/ipp.class.spy.starting.tdps1.t1x1.feet.dds
 /resources/gfx/icons/ipp.class.spy.starting.tdps1.t1x1.legs.dds
@@ -674,10 +727,27 @@
 /resources/gfx/icons/ipp.class.war.a01.c01.s01.legs_v01.dds
 /resources/gfx/icons/ipp.class.war.a01.c04.s01.feet_v02.dds
 /resources/gfx/icons/ipp.class.war.bis.mdps1.t2x1.feet.dds
+/resources/gfx/icons/ipp.class.war.bis.mdps1.t2x1.head.dds
+/resources/gfx/icons/ipp.class.war.bis.mdps1.t2x2.hands.dds
+/resources/gfx/icons/ipp.class.war.bis.mdps2.t2x2.hands.dds
+/resources/gfx/icons/ipp.class.war.crafting.mdps2.t2x1.waist.dds
 /resources/gfx/icons/ipp.class.war.ls_ds.mdps2.dark.feet.dds
 /resources/gfx/icons/ipp.class.war.ls_ds.mdps2.dark.hands.dds
 /resources/gfx/icons/ipp.class.war.ls_ds.mdps2.light.feet.dds
 /resources/gfx/icons/ipp.class.war.ls_ds.mdps2.light.hands.dds
+/resources/gfx/icons/ipp.class.war.randblue.mdps1.t2x2.chest.dds
+/resources/gfx/icons/ipp.class.war.randblue.mdps1.t2x2.hands.dds
+/resources/gfx/icons/ipp.class.war.randblue.mdps2.t1x2.waist.dds
+/resources/gfx/icons/ipp.class.war.randblue.mdps2.t2x2.wrists.dds
+/resources/gfx/icons/ipp.class.war.randgreen.mdps1.t1x1.chest.dds
+/resources/gfx/icons/ipp.class.war.randgreen.mdps1.t1x1.feet.dds
+/resources/gfx/icons/ipp.class.war.randgreen.mdps1.t1x2.chest.dds
+/resources/gfx/icons/ipp.class.war.randgreen.mdps1.t1x2.feet.dds
+/resources/gfx/icons/ipp.class.war.randgreen.mdps1.t1x2.legs.dds
+/resources/gfx/icons/ipp.class.war.randgreen.mdps1.t2x1.hands.dds
+/resources/gfx/icons/ipp.class.war.randgreen.mdps1.t2x1.wrists.dds
+/resources/gfx/icons/ipp.class.war.randgreen.mdps1.t2x2.wrists.dds
+/resources/gfx/icons/ipp.class.war.randgreen.mdps2.t2x1.feet.dds
 /resources/gfx/icons/ipp.class.war.starting.mdps1.t1x1.chest.dds
 /resources/gfx/icons/ipp.class.war.starting.mdps1.t1x1.feet.dds
 /resources/gfx/icons/ipp.class.war.starting.mdps1.t1x1.legs.dds
@@ -722,6 +792,7 @@
 /resources/gfx/icons/larger/swwarhardenednoble_desat.dds
 /resources/gfx/icons/larger/tips.lfg.dds
 /resources/gfx/icons/lazetarget.dds
+/resources/gfx/icons/lesserbluestimpack.dds
 /resources/gfx/icons/lessermedpac.dds
 /resources/gfx/icons/lesserorangeadrenal.dds
 /resources/gfx/icons/lifedrain.dds
@@ -788,6 +859,7 @@
 /resources/gfx/icons/plasmaprobe.dds
 /resources/gfx/icons/poisonmeat.dds
 /resources/gfx/icons/portablecover.dds
+/resources/gfx/icons/powercell.dds
 /resources/gfx/icons/powercore.dds
 /resources/gfx/icons/protontorpedotube.dds
 /resources/gfx/icons/quest.warblade.a01_v01.dds
@@ -811,6 +883,7 @@
 /resources/gfx/icons/rifle.high02.a01_v04.dds
 /resources/gfx/icons/rifle.high04.a03_v01.dds
 /resources/gfx/icons/rifle.high05.a01_v01.dds
+/resources/gfx/icons/rifle.high05.a01_v02.dds
 /resources/gfx/icons/rifle.low01.a01_v02.dds
 /resources/gfx/icons/rifle.low01.a01_v04.dds
 /resources/gfx/icons/rifle.low01.a02_v03.dds
@@ -847,6 +920,7 @@
 /resources/gfx/icons/shadowcloak.dds
 /resources/gfx/icons/shadowwalk.dds
 /resources/gfx/icons/shieldgenerator3.dds
+/resources/gfx/icons/shieldgenerator4.dds
 /resources/gfx/icons/shieldgeneratorproficiency.dds
 /resources/gfx/icons/shieldprobe.dds
 /resources/gfx/icons/shiicho.dds
@@ -931,6 +1005,7 @@
 /resources/gfx/icons/spyrecuperate.dds
 /resources/gfx/icons/starmap.dds
 /resources/gfx/icons/stealth.dds
+/resources/gfx/icons/stealthgenerator.dds
 /resources/gfx/icons/stickygrenade.dds
 /resources/gfx/icons/stimpack.dds
 /resources/gfx/icons/stimulants.dds
@@ -1040,6 +1115,7 @@
 /resources/gfx/symbols/bank.dds
 /resources/gfx/symbols/bindpoint.dds
 /resources/gfx/symbols/button_plus.dds
+/resources/gfx/symbols/buy_button.dds
 /resources/gfx/symbols/combat.dds
 /resources/gfx/symbols/credits.dds
 /resources/gfx/symbols/credits_14pt_disabled.dds

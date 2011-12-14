@@ -1,4 +1,4 @@
-; 34/244 (13%)
+; 36/244 (14%)
 /resources/en-us/bnk2/cnv_misc_combat_cc_agent_kaliyo.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_sith_sorcerer_f.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_sith_warrior_m.acb
@@ -8,6 +8,7 @@
 /resources/en-us/bnk2/cnv_misc_vendor_droid_taxihelpful_imp.acb
 /resources/en-us/bnk2/cnv_misc_vendor_droid_taxihelpful_rep.acb
 /resources/en-us/bnk2/cnv_misc_vendor_droid_taxisurly_rep.acb
+/resources/en-us/bnk2/cnv_misc_vendor_human_f_friendly_imp.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_f_friendly_rep.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_f_military_imp.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_f_military_imp2.acb
@@ -23,6 +24,7 @@
 /resources/en-us/fxe/cnv/misc/vendor/droid_taxihelpful_imp.fxe
 /resources/en-us/fxe/cnv/misc/vendor/droid_taxihelpful_rep.fxe
 /resources/en-us/fxe/cnv/misc/vendor/droid_taxisurly_rep.fxe
+/resources/en-us/fxe/cnv/misc/vendor/human_f_friendly_imp.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_f_friendly_rep.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_f_military_imp.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_f_skeevy_rep.fxe

@@ -1,4 +1,4 @@
-; 319/3625 (8%)
+; 324/3625 (8%)
 /resources/en-us/str/abl.stb
 /resources/en-us/str/abl/agent/skill.stb
 /resources/en-us/str/abl/player/grant_codex_xp.stb
@@ -30,6 +30,7 @@
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/shadow_spawn/lord_sunder.stb
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/status_report/captain_tolto.stb
 /resources/en-us/str/cnv/location/dromund_kaas/bronze/status_report/guardpost_commander_kullin.stb
+/resources/en-us/str/cnv/location/dromund_kaas/bronze/the_accursed/major_swaine_loth.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/darth_jadus.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/fixer_twelve.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/kaliyo.stb
@@ -37,6 +38,7 @@
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/lodenth_kashar.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/samara_mindak.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/slave_captain.stb
+/resources/en-us/str/cnv/location/dromund_kaas/class/spy/theovor_mindak.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/watcher_three.stb
 /resources/en-us/str/cnv/location/dromund_kaas/class/spy/watcher_two.stb
 /resources/en-us/str/cnv/location/dromund_kaas/data_holocron/datacron_matrix_drokaas.stb
@@ -55,6 +57,7 @@
 /resources/en-us/str/cnv/location/dromund_kaas/world/sport_hunting/renegin.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/sport_hunting/weng_wrightsyn.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/strange_weapons/captain_bryn.stb
+/resources/en-us/str/cnv/location/dromund_kaas/world/strange_weapons/po_12.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/testing_grounds/lord_drowl.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/testing_grounds/sergeant_slarin.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/the_mask_of_revan/ladra.stb
@@ -65,6 +68,7 @@
 /resources/en-us/str/cnv/location/dromund_kaas/world/the_war_machine/captain_sarnova.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/the_war_machine/console.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/the_war_machine/ohk_99.stb
+/resources/en-us/str/cnv/location/dromund_kaas/world/unauthorized_transmission/captain_isen.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/warning_sign/commander_rilan.stb
 /resources/en-us/str/cnv/location/hutta/ambient/cc_poi_barks.stb
 /resources/en-us/str/cnv/location/hutta/ambient/nemro_cantina.stb
@@ -123,6 +127,7 @@
 /resources/en-us/str/cnv/misc/vendor/droid_taxihelpful_rep.stb
 /resources/en-us/str/cnv/misc/vendor/droid_taxisurly_rep.stb
 /resources/en-us/str/cnv/misc/vendor/gran_m_generic_alien.stb
+/resources/en-us/str/cnv/misc/vendor/human_f_friendly_imp.stb
 /resources/en-us/str/cnv/misc/vendor/human_f_friendly_rep.stb
 /resources/en-us/str/cnv/misc/vendor/human_f_military_imp.stb
 /resources/en-us/str/cnv/misc/vendor/human_f_military_imp2.stb

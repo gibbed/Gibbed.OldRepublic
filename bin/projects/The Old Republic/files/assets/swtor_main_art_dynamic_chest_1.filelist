@@ -1,4 +1,4 @@
-; 1575/3873 (40%)
+; 1587/3873 (40%)
 /resources/art/dynamic/chest/index.xml
 /resources/art/dynamic/chest/model/chest_armor01_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfa_med_ge_a11_back.gr2
@@ -34,6 +34,7 @@
 /resources/art/dynamic/chest/model/chest_armor01_bfs_heavy_bh_a03_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfs_med_ge_a11_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfs_med_ge_a11_shld.lod.gr2
+/resources/art/dynamic/chest/model/chest_armor01_bma_archetype.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bma_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bma_heavy_bh_a02_arm.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bma_heavy_bh_a02_shld.lod.gr2
@@ -41,7 +42,9 @@
 /resources/art/dynamic/chest/model/chest_armor01_bma_heavy_tr_a03_shld.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bma_med_ge_a11_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bma_med_ge_a11_loin.clo
+/resources/art/dynamic/chest/model/chest_armor01_bma_med_ge_a11_loin.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bma_med_ge_a11_loin.lod.gr2
+/resources/art/dynamic/chest/model/chest_armor01_bma_med_ge_a11_shld.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bma_med_ge_a11_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bmf_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bmf_heavy_bh_a02_arm.lod.gr2
@@ -94,6 +97,7 @@
 /resources/art/dynamic/chest/model/chest_baggy_bfa_heavy_ge_a18_back.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfa_heavy_ge_a18_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfa_heavy_ge_a18_chest.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfa_heavy_ge_a18_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfa_heavy_sw_a05_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfa_heavy_sw_a05_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfa_light_ge_a12_collar.gr2
@@ -143,6 +147,8 @@
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a18_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a18_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_sw_a05_chest.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_sw_a05_chest.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_sw_a05_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_sw_a05_shld.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_light_ge_a12_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_light_ge_a12_loinlight.gr2
@@ -801,6 +807,11 @@
 /resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary02_u_m.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary02_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary02_u_s.tex
+/resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary03_f_n.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary03_u_d.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary03_u_h.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary03_u_m.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary03_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary07_f_n.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary07_f_n.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_heavy_a18/texture/___psd/chest_baggy_heavy_ge_a18mercenary07_f_n.tiny.dds
@@ -1476,6 +1487,7 @@
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a18mercenary01_m.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a18mercenary02_f.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a18mercenary02_m.mat
+/resources/art/shaders/materials/chest_baggy_heavy_ge_a18mercenary03_f.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a18mercenary04_m.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a18mercenary08_f.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a18mercenary08_m.mat

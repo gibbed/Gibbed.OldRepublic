@@ -1,4 +1,4 @@
-; 735/1210 (60%)
+; 743/1210 (61%)
 /resources/art/dynamic/creature/model/dwarf_drall_a01.gr2
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.clo
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.gr2
@@ -273,6 +273,9 @@
 /resources/art/dynamic/npc/gand/head/texture/___psd/eye_gand_non_a01_c01_s.dds
 /resources/art/dynamic/npc/gand/head/texture/___psd/eye_gand_non_a01_c01_s.tex
 /resources/art/dynamic/npc/gand/head/texture/___psd/eye_gand_non_a01_c01_s.tiny.dds
+/resources/art/dynamic/npc/gand/texture/___psd/head_gand_bmn_non_a02_v01_d.dds
+/resources/art/dynamic/npc/gand/texture/___psd/head_gand_bmn_non_a02_v01_n.dds
+/resources/art/dynamic/npc/gand/texture/___psd/head_gand_bmn_non_a02_v01_s.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a01_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a01_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a01_v01_d.tiny.dds
@@ -594,6 +597,10 @@
 /resources/art/dynamic/npc/yoda/texture/___psd/eye_yoda_non_a01_c01_s.dds
 /resources/art/dynamic/npc/yoda/texture/___psd/eye_yoda_non_a01_c01_s.tex
 /resources/art/dynamic/npc/yoda/texture/___psd/eye_yoda_non_a01_c01_s.tiny.dds
+/resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_d.dds
+/resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_h.dds
+/resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_n.dds
+/resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_s.dds
 /resources/art/dynamic/player_character/chagrian/head/texture/___psd/head_chagrian_bmn_non_a01_v01_d.dds
 /resources/art/dynamic/player_character/chagrian/head/texture/___psd/head_chagrian_bmn_non_a01_v01_d.tex
 /resources/art/dynamic/player_character/chagrian/head/texture/___psd/head_chagrian_bmn_non_a01_v01_h.dds
@@ -684,6 +691,7 @@
 /resources/art/shaders/materials/hair_evocii_non_a01_v01_m.mat
 /resources/art/shaders/materials/hair_evocii_non_a03_v01_m.mat
 /resources/art/shaders/materials/hair_evocii_non_a06_v01_f.mat
+/resources/art/shaders/materials/head_abyssin_bma_non_a01_v01.mat
 /resources/art/shaders/materials/head_advozsec_bmn_non_a01_v01.mat
 /resources/art/shaders/materials/head_anomid_bma_non_a01_v01.mat
 /resources/art/shaders/materials/head_bith_bmn_non_a01_v01.mat
