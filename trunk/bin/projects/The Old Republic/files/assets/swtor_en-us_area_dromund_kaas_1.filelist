@@ -1,4 +1,4 @@
-; 90/233 (38%)
+; 98/233 (42%)
 /resources/en-us/bnk2/cnv_location_dromund_kaas_advanced_class_imperial_agent_commander_dorne.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_ambient_cc_poi_barks.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_bronze_lightning_in_a_bottle_sergeant_torken.acb
@@ -10,6 +10,7 @@
 /resources/en-us/bnk2/cnv_location_dromund_kaas_bronze_shadow_spawn_lord_sunder.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_bronze_status_report_captain_tolto.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_bronze_status_report_guardpost_commander_kullin.acb
+/resources/en-us/bnk2/cnv_location_dromund_kaas_bronze_the_accursed_major_swaine_loth.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_class_spy_darth_jadus.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_class_spy_fixer_twelve.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_class_spy_kaliyo.acb
@@ -17,6 +18,7 @@
 /resources/en-us/bnk2/cnv_location_dromund_kaas_class_spy_lodenth_kashar.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_class_spy_samara_mindak.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_class_spy_slave_captain.acb
+/resources/en-us/bnk2/cnv_location_dromund_kaas_class_spy_theovor_mindak.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_class_spy_watcher_three.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_class_spy_watcher_two.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_black_science_ismar_brengle.acb
@@ -33,6 +35,7 @@
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_sport_hunting_renegin.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_sport_hunting_weng_wrightsyn.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_strange_weapons_captain_bryn.acb
+/resources/en-us/bnk2/cnv_location_dromund_kaas_world_strange_weapons_po_12.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_testing_grounds_lord_drowl.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_testing_grounds_sergeant_slarin.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_the_mask_of_revan_ladra.acb
@@ -41,6 +44,7 @@
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_the_slave_killers_slave_cultist.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_the_war_machine_captain_sarnova.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_the_war_machine_ohk_99.acb
+/resources/en-us/bnk2/cnv_location_dromund_kaas_world_unauthorized_transmission_captain_isen.acb
 /resources/en-us/bnk2/cnv_location_dromund_kaas_world_warning_sign_commander_rilan.acb
 /resources/en-us/fxe/cnv/location/dromund_kaas/advanced_class/imperial_agent/agent_advanced_class_trainer.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/advanced_class/imperial_agent/commander_dorne.fxe
@@ -55,6 +59,7 @@
 /resources/en-us/fxe/cnv/location/dromund_kaas/bronze/shadow_spawn/lord_sunder.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/bronze/status_report/captain_tolto.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/bronze/status_report/guardpost_commander_kullin.fxe
+/resources/en-us/fxe/cnv/location/dromund_kaas/bronze/the_accursed/major_swaine_loth.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/class/spy/darth_jadus.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/class/spy/fixer_twelve.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/class/spy/kaliyo.fxe
@@ -62,6 +67,7 @@
 /resources/en-us/fxe/cnv/location/dromund_kaas/class/spy/lodenth_kashar.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/class/spy/samara_mindak.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/class/spy/slave_captain.fxe
+/resources/en-us/fxe/cnv/location/dromund_kaas/class/spy/theovor_mindak.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/class/spy/watcher_three.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/class/spy/watcher_two.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/black_science/ismar_brengle.fxe
@@ -78,6 +84,7 @@
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/sport_hunting/renegin.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/sport_hunting/weng_wrightsyn.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/strange_weapons/captain_bryn.fxe
+/resources/en-us/fxe/cnv/location/dromund_kaas/world/strange_weapons/po_12.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/testing_grounds/lord_drowl.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/testing_grounds/sergeant_slarin.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/the_mask_of_revan/ladra.fxe
@@ -86,6 +93,7 @@
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/the_slave_killers/slave_cultist.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/the_war_machine/captain_sarnova.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/the_war_machine/ohk_99.fxe
+/resources/en-us/fxe/cnv/location/dromund_kaas/world/unauthorized_transmission/captain_isen.fxe
 /resources/en-us/fxe/cnv/location/dromund_kaas/world/warning_sign/commander_rilan.fxe
 ft.sig
 metadata.bin
