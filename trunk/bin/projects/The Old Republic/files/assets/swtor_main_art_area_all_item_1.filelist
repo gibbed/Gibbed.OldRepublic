@@ -1,4 +1,4 @@
-; 7927/8930 (88%)
+; 7935/8930 (88%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -463,7 +463,9 @@
 /resources/art/shaders/materials/all_item_rep_wall_computer_01_suv.mat
 /resources/art/shaders/materials/all_item_rep_wall_computer_screen.mat
 /resources/art/shaders/materials/all_item_rep_wardrobe.mat
+/resources/art/shaders/materials/all_item_revan_mask_plate.mat
 /resources/art/shaders/materials/all_item_ruins_dark_altar.mat
+/resources/art/shaders/materials/all_item_ruins_dark_altar_b.mat
 /resources/art/shaders/materials/all_item_ruins_jedi_statue_02.mat
 /resources/art/shaders/materials/all_item_ruins_rubble_01a.mat
 /resources/art/shaders/materials/all_item_ruins_rubble_01b.mat
@@ -497,6 +499,7 @@
 /resources/art/shaders/materials/all_item_tech_canister_destroyed.mat
 /resources/art/shaders/materials/all_item_tech_canister_electric.mat
 /resources/art/shaders/materials/all_item_tech_canister_fire.mat
+/resources/art/shaders/materials/all_item_tech_canister_ice.mat
 /resources/art/shaders/materials/all_item_tech_canister_smoke.mat
 /resources/art/shaders/materials/all_item_tech_carbonite_face01.mat
 /resources/art/shaders/materials/all_item_tech_carbonite_face02.mat
@@ -533,6 +536,7 @@
 /resources/art/shaders/materials/all_item_tech_grate01.mat
 /resources/art/shaders/materials/all_item_tech_hearthstone_terminal.mat
 /resources/art/shaders/materials/all_item_tech_holo_terminal.mat
+/resources/art/shaders/materials/all_item_tech_holocron_jedi_01.mat
 /resources/art/shaders/materials/all_item_tech_holocron_sith_01.mat
 /resources/art/shaders/materials/all_item_tech_holocron_sith_02.mat
 /resources/art/shaders/materials/all_item_tech_holocron_sith_03.mat
@@ -570,6 +574,7 @@
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_03.mat
 /resources/art/shaders/materials/all_item_tech_missiles_large_fin.mat
 /resources/art/shaders/materials/all_item_tech_missiles_small.mat
+/resources/art/shaders/materials/all_item_tech_monitorcracks_d.mat
 /resources/art/shaders/materials/all_item_tech_neu_cthon_pod.mat
 /resources/art/shaders/materials/all_item_tech_neu_cthon_pod_glass.mat
 /resources/art/shaders/materials/all_item_tech_neu_generator.mat
@@ -722,6 +727,7 @@
 /resources/art/shaders/materials/corpse_jk_baggy_med_a04_body.mat
 /resources/art/shaders/materials/corpse_sm_tight_med_a04_c01_body.mat
 /resources/art/shaders/materials/corpse_sp_tight_med_a01_c01_body.mat
+/resources/art/shaders/materials/corpse_sw_baggy_heavy_a05_c01_body.mat
 /resources/art/shaders/materials/corpse_sw_tight_med_a01_c01_body.mat
 /resources/art/shaders/materials/dog_tukata_a01_v01.mat
 /resources/art/shaders/materials/eye_voss_non_a01_c02.mat
@@ -757,6 +763,7 @@
 /resources/art/shaders/materials/item_furn_table_planning_imperial_suv.mat
 /resources/art/shaders/materials/item_furn_terminal_desk_imperial.mat
 /resources/art/shaders/materials/item_furn_terminal_desk_imperial_suv.mat
+/resources/art/shaders/materials/item_furn_terminal_desk_imperial_suv_off.mat
 /resources/art/shaders/materials/item_furn_terminal_wall_imperial.mat
 /resources/art/shaders/materials/item_furn_terminal_wall_imperial_suv.mat
 /resources/art/shaders/materials/item_furn_training_apparatus_imperial.mat
@@ -7764,6 +7771,7 @@
 /resources/art/static/item/furniture/item_furn_sword_rack_imperial.gr2
 /resources/art/static/item/furniture/item_furn_table_planning_imperial.gr2
 /resources/art/static/item/furniture/item_furn_terminal_desk_imperial.gr2
+/resources/art/static/item/furniture/item_furn_terminal_desk_imperial_off.gr2
 /resources/art/static/item/furniture/item_furn_terminal_wall_imperial.gr2
 /resources/art/static/item/furniture/item_furn_training_apparatus_imperial.gr2
 /resources/art/static/item/furniture/item_furn_training_dummy_imperial.gr2

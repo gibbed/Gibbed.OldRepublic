@@ -1,4 +1,10 @@
-; 3691/4697 (78%)
+; 3697/4697 (78%)
+/resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.dds
+/resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tex
+/resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_n.dds
+/resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_n.tex
+/resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_s.dds
+/resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_s.tex
 /resources/art/shaders/materials/all_arch_rep_atv_interior_wall1_01.mat
 /resources/art/shaders/materials/all_arch_rep_fort_columns01.mat
 /resources/art/shaders/materials/all_arch_rep_fort_elevatortrack.mat

@@ -1,4 +1,4 @@
-; 3119/3574 (87%)
+; 3120/3574 (87%)
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_01.mat
@@ -1101,6 +1101,7 @@
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_base03_d.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_base03_d.tex
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_base03_d.tiny.dds
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_base03_n.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_base03_n.tex
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_base03_n.tiny.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_base03_s.dds
