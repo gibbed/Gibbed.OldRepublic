@@ -1,4 +1,4 @@
-; 5503/6335 (86%)
+; 5506/6335 (86%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -4729,10 +4729,13 @@
 /resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_s.dds
 /resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_s.tex
 /resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_s.tiny.dds
+/resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_white_detail_d.dds
 /resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_white_detail_d.tex
 /resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_white_detail_d.tiny.dds
+/resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_white_detail_n.dds
 /resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_white_detail_n.tex
 /resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_white_detail_n.tiny.dds
+/resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_white_detail_s.dds
 /resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_white_detail_s.tex
 /resources/art/static/area/all_all/arch/texture/kor_tomb_room_doorway_recolor_white_detail_s.tiny.dds
 /resources/art/static/area/all_all/arch/texture/temp_metal_d.dds

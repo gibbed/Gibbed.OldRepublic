@@ -1,4 +1,4 @@
-; 3923/4686 (83%)
+; 3924/4686 (83%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -3762,6 +3762,7 @@
 /resources/art/dynamic/weapon/turret/wep_turret_republic.gr2
 /resources/art/shaders/materials/assaultcannon_high01_a01_v04.mat
 /resources/art/shaders/materials/assaultcannon_high03_a01_v01.mat
+/resources/art/shaders/materials/assaultcannon_high03_a01_v04.mat
 /resources/art/shaders/materials/assaultcannon_low01_a01_v01.mat
 /resources/art/shaders/materials/assaultcannon_low01_a01_v04.mat
 /resources/art/shaders/materials/assaultcannon_low03_a01_v01.mat

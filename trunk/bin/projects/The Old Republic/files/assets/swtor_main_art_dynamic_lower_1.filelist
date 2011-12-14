@@ -1,4 +1,4 @@
-; 7974/24239 (32%)
+; 8019/24239 (33%)
 /resources/art/dynamic/boot/index.xml
 /resources/art/dynamic/boot/model/boot_arcona_bmn_archetype.gr2
 /resources/art/dynamic/boot/model/boot_arcona_bmn_archetype.lod.gr2
@@ -147,6 +147,7 @@
 /resources/art/dynamic/boot/model/boot_tall_bma_med_ge_a15_shin.lod.gr2
 /resources/art/dynamic/boot/model/boot_tall_bma_med_ge_a17_knee.gr2
 /resources/art/dynamic/boot/model/boot_tall_bma_med_ge_a17_knee.lod.gr2
+/resources/art/dynamic/boot/model/boot_tall_bma_med_ge_a20_straps.gr2
 /resources/art/dynamic/boot/model/boot_tall_bma_med_ge_a20_straps.lod.gr2
 /resources/art/dynamic/boot/model/boot_tall_bma_med_ge_a31_shin.gr2
 /resources/art/dynamic/boot/model/boot_tall_bma_med_ge_a31_shin.lod.gr2
@@ -208,6 +209,7 @@
 /resources/art/dynamic/boot/model/boot_tall_bmn_light_ss_a03_cuff.lod.gr2
 /resources/art/dynamic/boot/model/boot_tall_bmn_light_ss_a05_shin.gr2
 /resources/art/dynamic/boot/model/boot_tall_bmn_light_ss_a05_shin.lod.gr2
+/resources/art/dynamic/boot/model/boot_tall_bmn_light_ss_a06_shin.gr2
 /resources/art/dynamic/boot/model/boot_tall_bmn_light_ss_a06_shin.lod.gr2
 /resources/art/dynamic/boot/model/boot_tall_bmn_light_sw_a03_cuff.lod.gr2
 /resources/art/dynamic/boot/model/boot_tall_bmn_med_bh_a01_shin.lod.gr2
@@ -3383,6 +3385,10 @@
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary01_u_n.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary01_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary01_u_s.tex
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary02_u_d.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary02_u_h.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary02_u_m.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary02_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary03_u_d.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary03_u_h.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/boot_tall_med_ge_a15mercenary03_u_m.dds
@@ -3418,6 +3424,10 @@
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary01_u_v02_m.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary01_u_v02_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary01_u_v02_s.tex
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary02_u_v02_d.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary02_u_v02_h.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary02_u_v02_m.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary02_u_v02_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary03_u_v02_d.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary03_u_v02_h.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary03_u_v02_m.dds
@@ -3442,8 +3452,13 @@
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_f_v02_n.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_f_v02_n.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_f_v02_n.tiny.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_m_v01_n.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_m_v02_n.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_m_v02_n.tex
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_u_v01_d.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_u_v01_h.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_u_v01_m.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_u_v01_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_u_v02_d.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_u_v02_d.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/leg_pant_med_ge_a15mercenary05_u_v02_d.tiny.dds
@@ -3462,6 +3477,10 @@
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary01_u_n.tex
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary01_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary01_u_s.tex
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary02_u_d.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary02_u_h.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary02_u_m.dds
+/resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary02_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary03_u_d.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary03_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_tight_med_a15/texture/___psd/waist_belt_med_ge_a15mercenary04_u_d.dds
@@ -4310,6 +4329,7 @@
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c01_u_d.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c01_u_d.tex
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c01_u_d.tiny.dds
+/resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c01_u_h.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c01_u_m.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c01_u_m.tex
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c01_u_m.tiny.dds
@@ -4322,6 +4342,7 @@
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c02_u_d.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c02_u_d.tex
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c02_u_d.tiny.dds
+/resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c02_u_h.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c02_u_m.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c02_u_m.tex
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/boot_tall_light_ss_a02c02_u_m.tiny.dds
@@ -4398,6 +4419,7 @@
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/leg_skirt_light_ss_a02c03_u_v01_d.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/leg_skirt_light_ss_a02c03_u_v01_d.tex
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/leg_skirt_light_ss_a02c03_u_v01_d.tiny.dds
+/resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/leg_skirt_light_ss_a02c03_u_v01_h.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/leg_skirt_light_ss_a02c03_u_v01_m.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/leg_skirt_light_ss_a02c03_u_v01_m.tex
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/leg_skirt_light_ss_a02c03_u_v01_m.tiny.dds
@@ -4452,6 +4474,7 @@
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/waist_belt_light_ss_a02c03_u_d.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/waist_belt_light_ss_a02c03_u_d.tex
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/waist_belt_light_ss_a02c03_u_d.tiny.dds
+/resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/waist_belt_light_ss_a02c03_u_h.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/waist_belt_light_ss_a02c03_u_m.dds
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/waist_belt_light_ss_a02c03_u_m.tex
 /resources/art/dynamic/player_character/outfit/ss_tightskirt_light_a02/texture/___psd/waist_belt_light_ss_a02c03_u_m.tiny.dds
@@ -4990,6 +5013,7 @@
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/boot_thigh_heavy_sw_a06c02_u_d.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/boot_thigh_heavy_sw_a06c02_u_d.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/boot_thigh_heavy_sw_a06c02_u_d.tiny.dds
+/resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/boot_thigh_heavy_sw_a06c02_u_h.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/boot_thigh_heavy_sw_a06c02_u_m.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/boot_thigh_heavy_sw_a06c02_u_m.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/boot_thigh_heavy_sw_a06c02_u_m.tiny.dds
@@ -5014,6 +5038,7 @@
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/leg_pant_heavy_sw_a06c02_u_v02_d.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/leg_pant_heavy_sw_a06c02_u_v02_d.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/leg_pant_heavy_sw_a06c02_u_v02_d.tiny.dds
+/resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/leg_pant_heavy_sw_a06c02_u_v02_h.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/leg_pant_heavy_sw_a06c02_u_v02_m.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/leg_pant_heavy_sw_a06c02_u_v02_m.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/leg_pant_heavy_sw_a06c02_u_v02_m.tiny.dds
@@ -5045,6 +5070,7 @@
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/waist_belt_heavy_sw_a06c02_u_d.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/waist_belt_heavy_sw_a06c02_u_d.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/waist_belt_heavy_sw_a06c02_u_d.tiny.dds
+/resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/waist_belt_heavy_sw_a06c02_u_h.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/waist_belt_heavy_sw_a06c02_u_m.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/waist_belt_heavy_sw_a06c02_u_m.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/waist_belt_heavy_sw_a06c02_u_m.tiny.dds
@@ -5168,6 +5194,10 @@
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/leg_pant_med_sw_a01c04_u_v01_h.dds
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/leg_pant_med_sw_a01c04_u_v01_m.dds
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/leg_pant_med_sw_a01c04_u_v01_s.dds
+/resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/leg_pant_med_sw_a01c04_u_v02_d.dds
+/resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/leg_pant_med_sw_a01c04_u_v02_h.dds
+/resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/leg_pant_med_sw_a01c04_u_v02_m.dds
+/resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/leg_pant_med_sw_a01c04_u_v02_s.dds
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/waist_belt_med_sw_a01c01_u_d.dds
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/waist_belt_med_sw_a01c01_u_d.tex
 /resources/art/dynamic/player_character/outfit/sw_tight_med_a01/texture/___psd/waist_belt_med_sw_a01c01_u_h.dds
@@ -6699,6 +6729,8 @@
 /resources/art/dynamic/waist/model/waist_belt_bfn_heavy_bh_a03_back.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_heavy_bh_a03_front.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_heavy_bh_a03_front.lod.gr2
+/resources/art/dynamic/waist/model/waist_belt_bfn_heavy_bh_a05_back.lod.gr2
+/resources/art/dynamic/waist/model/waist_belt_bfn_heavy_bh_a05_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_heavy_ge_a18_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_heavy_sw_a05_back.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_heavy_sw_a05_front.gr2
@@ -6713,6 +6745,7 @@
 /resources/art/dynamic/waist/model/waist_belt_bfn_light_ge_a32_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_light_ge_a33_back.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_light_ge_a33_front.lod.gr2
+/resources/art/dynamic/waist/model/waist_belt_bfn_light_ss_a02_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_light_ss_a03_back.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_light_ss_a03_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bfn_light_ss_a04_back.lod.gr2
@@ -6829,7 +6862,9 @@
 /resources/art/dynamic/waist/model/waist_belt_bma_med_ge_a15_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bma_med_ge_a15_sling.gr2
 /resources/art/dynamic/waist/model/waist_belt_bma_med_ge_a15_sling.lod.gr2
+/resources/art/dynamic/waist/model/waist_belt_bma_med_ge_a20_back.gr2
 /resources/art/dynamic/waist/model/waist_belt_bma_med_ge_a20_back.lod.gr2
+/resources/art/dynamic/waist/model/waist_belt_bma_med_ge_a20_front.gr2
 /resources/art/dynamic/waist/model/waist_belt_bma_med_ge_a20_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bma_med_ge_a27_sling.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bma_med_ge_a31_back.gr2
@@ -6937,6 +6972,7 @@
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ge_a33_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a02_back.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a02_front.gr2
+/resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a02_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a03_back.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a03_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a05_back.gr2
@@ -6944,7 +6980,9 @@
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a05_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a05_sling.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a05_sling.lod.gr2
+/resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a06_back.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a06_back.lod.gr2
+/resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a06_front.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_ss_a06_front.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_sw_a03_back.lod.gr2
 /resources/art/dynamic/waist/model/waist_belt_bmn_light_sw_a03_front.lod.gr2
@@ -7600,6 +7638,7 @@
 /resources/art/shaders/materials/leg_pant_heavy_sw_a05c03_f_v02.mat
 /resources/art/shaders/materials/leg_pant_heavy_sw_a05c03_m_v02.mat
 /resources/art/shaders/materials/leg_pant_heavy_sw_a06c01_m_v02.mat
+/resources/art/shaders/materials/leg_pant_heavy_sw_a06c02_m_v02.mat
 /resources/art/shaders/materials/leg_pant_heavy_sw_a06c04_m_v02.mat
 /resources/art/shaders/materials/leg_pant_heavy_tr_a05c02_m_v02.mat
 /resources/art/shaders/materials/leg_pant_heavy_tr_a06c01_u_v02.mat
@@ -7680,11 +7719,13 @@
 /resources/art/shaders/materials/leg_pant_med_ge_a15mercenary01_f_v02.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a15mercenary01_m_v01.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a15mercenary01_m_v02.mat
+/resources/art/shaders/materials/leg_pant_med_ge_a15mercenary02_m_v02.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a15mercenary03_f_v02.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a15mercenary03_m_v02.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a15mercenary04_m_v01.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a15mercenary04_m_v02.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a15mercenary05_f_v02.mat
+/resources/art/shaders/materials/leg_pant_med_ge_a15mercenary05_m_v01.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a15mercenary05_m_v02.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a17military01_f_v02.mat
 /resources/art/shaders/materials/leg_pant_med_ge_a17military01_m_v01.mat
@@ -7744,6 +7785,7 @@
 /resources/art/shaders/materials/leg_pant_med_sw_a01c02_f_v02.mat
 /resources/art/shaders/materials/leg_pant_med_sw_a01c03_f_v02.mat
 /resources/art/shaders/materials/leg_pant_med_sw_a01c03_m_v02.mat
+/resources/art/shaders/materials/leg_pant_med_sw_a01c04_f_v02.mat
 /resources/art/shaders/materials/leg_pant_med_sw_a01c04_m_v01.mat
 /resources/art/shaders/materials/leg_pant_med_sw_a02c01_m_v01.mat
 /resources/art/shaders/materials/leg_pant_med_sw_a02c01_m_v02.mat
@@ -7869,6 +7911,7 @@
 /resources/art/shaders/materials/waist_belt_heavy_sw_a05c01_u.mat
 /resources/art/shaders/materials/waist_belt_heavy_sw_a05c02_u.mat
 /resources/art/shaders/materials/waist_belt_heavy_sw_a06c01_u.mat
+/resources/art/shaders/materials/waist_belt_heavy_sw_a06c02_u.mat
 /resources/art/shaders/materials/waist_belt_heavy_sw_a06c04_u.mat
 /resources/art/shaders/materials/waist_belt_heavy_sw_a07c04_u.mat
 /resources/art/shaders/materials/waist_belt_heavy_tr_a03c01_u.mat
@@ -7894,6 +7937,7 @@
 /resources/art/shaders/materials/waist_belt_light_ge_a38c01_u.mat
 /resources/art/shaders/materials/waist_belt_light_jw_a01c03_u.mat
 /resources/art/shaders/materials/waist_belt_light_ss_a02c01_u.mat
+/resources/art/shaders/materials/waist_belt_light_ss_a02c03_u.mat
 /resources/art/shaders/materials/waist_belt_light_ss_a03c01_u.mat
 /resources/art/shaders/materials/waist_belt_light_ss_a03c02_u.mat
 /resources/art/shaders/materials/waist_belt_light_ss_a03c03_u.mat
@@ -7924,6 +7968,7 @@
 /resources/art/shaders/materials/waist_belt_med_ge_a14military02_u.mat
 /resources/art/shaders/materials/waist_belt_med_ge_a14military05_u.mat
 /resources/art/shaders/materials/waist_belt_med_ge_a15mercenary01_u.mat
+/resources/art/shaders/materials/waist_belt_med_ge_a15mercenary02_u.mat
 /resources/art/shaders/materials/waist_belt_med_ge_a15mercenary03_u.mat
 /resources/art/shaders/materials/waist_belt_med_ge_a15mercenary04_u.mat
 /resources/art/shaders/materials/waist_belt_med_ge_a15mercenary05_u.mat
