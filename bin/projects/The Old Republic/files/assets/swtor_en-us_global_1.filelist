@@ -1,4 +1,4 @@
-; 324/3625 (8%)
+; 327/3625 (9%)
 /resources/en-us/str/abl.stb
 /resources/en-us/str/abl/agent/skill.stb
 /resources/en-us/str/abl/player/grant_codex_xp.stb
@@ -44,6 +44,7 @@
 /resources/en-us/str/cnv/location/dromund_kaas/data_holocron/datacron_matrix_drokaas.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/black_science/ismar_brengle.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/black_science/lanniter_droge.stb
+/resources/en-us/str/cnv/location/dromund_kaas/world/buried_power/keleth_ur.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/death_and_life/jhorval.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/death_and_life/revanite_altar.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/flashes_in_the_dark/captain_jeelg.stb
@@ -54,6 +55,7 @@
 /resources/en-us/str/cnv/location/dromund_kaas/world/pilgrimage/major_pathel.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/pilgrimage/morrun.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/pilgrimage/raymon.stb
+/resources/en-us/str/cnv/location/dromund_kaas/world/secret_kinds_of_darkness/lord_pharshol.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/sport_hunting/renegin.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/sport_hunting/weng_wrightsyn.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/strange_weapons/captain_bryn.stb
@@ -68,6 +70,7 @@
 /resources/en-us/str/cnv/location/dromund_kaas/world/the_war_machine/captain_sarnova.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/the_war_machine/console.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/the_war_machine/ohk_99.stb
+/resources/en-us/str/cnv/location/dromund_kaas/world/the_wretch_king/dorian.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/unauthorized_transmission/captain_isen.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/warning_sign/commander_rilan.stb
 /resources/en-us/str/cnv/location/hutta/ambient/cc_poi_barks.stb

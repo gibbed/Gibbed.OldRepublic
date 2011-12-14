@@ -1,4 +1,4 @@
-; 1587/3873 (40%)
+; 1592/3873 (41%)
 /resources/art/dynamic/chest/index.xml
 /resources/art/dynamic/chest/model/chest_armor01_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfa_med_ge_a11_back.gr2
@@ -140,6 +140,9 @@
 /resources/art/dynamic/chest/model/chest_baggy_bfb_med_ge_a17_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfb_med_ge_a17_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfb_med_ge_a17_shld.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfb_med_ge_a34_hoodup.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfb_med_ge_a34_loin.clo
+/resources/art/dynamic/chest/model/chest_baggy_bfb_med_ge_a34_loin.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_archetype.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a16_back.lod.gr2
@@ -173,6 +176,8 @@
 /resources/art/dynamic/chest/model/chest_baggy_bfs_heavy_ge_a18_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfs_heavy_ge_a18_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfs_heavy_sw_a05_shld.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfs_light_ss_a03_hoodup.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfs_light_ss_a03_tunic.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfs_med_ge_a34_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfs_med_ge_a34_loin.clo
 /resources/art/dynamic/chest/model/chest_baggy_bfs_med_ge_a34_loin.lod.gr2

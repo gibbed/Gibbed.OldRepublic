@@ -1,4 +1,4 @@
-; 1156/52255 (2%)
+; 1163/52255 (2%)
 /resources/gfx/codex/cdx.crew_skills.archaeology.dds
 /resources/gfx/codex/cdx.crew_skills.armormech.dds
 /resources/gfx/codex/cdx.crew_skills.armstech.dds
@@ -328,6 +328,7 @@
 /resources/gfx/icons/animalskull.dds
 /resources/gfx/icons/animaltalon.dds
 /resources/gfx/icons/animaltaloncolorvariant1.dds
+/resources/gfx/icons/animalwhisker.dds
 /resources/gfx/icons/antitoxinprobe.dds
 /resources/gfx/icons/armament2.dds
 /resources/gfx/icons/armament3.dds
@@ -403,6 +404,7 @@
 /resources/gfx/icons/childoftheempire.dds
 /resources/gfx/icons/chipped_chitin.dds
 /resources/gfx/icons/chipset.dds
+/resources/gfx/icons/choke.dds
 /resources/gfx/icons/circuitry1_cun.dds
 /resources/gfx/icons/claninsignia.dds
 /resources/gfx/icons/cleave.dds
@@ -501,10 +503,12 @@
 /resources/gfx/icons/glitterstim.dds
 /resources/gfx/icons/grapple.dds
 /resources/gfx/icons/greatermedpac.dds
+/resources/gfx/icons/greaterpurpleadrenal.dds
 /resources/gfx/icons/hammershot.dds
 /resources/gfx/icons/hamstring.dds
 /resources/gfx/icons/headshot.dds
 /resources/gfx/icons/heavyarmors.dds
+/resources/gfx/icons/heavydutyorangeadrenal.dds
 /resources/gfx/icons/hiltstrike.dds
 /resources/gfx/icons/hulking_mandible.dds
 /resources/gfx/icons/hydraulicpiston.dds
@@ -677,6 +681,7 @@
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x1.head.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x1.legs.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x1.waist.dds
+/resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x2.chest.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x2.feet.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x2.legs.dds
 /resources/gfx/icons/ipp.class.spy.quest.tdps2.t2x2.waist.dds
@@ -738,6 +743,7 @@
 /resources/gfx/icons/ipp.class.war.randblue.mdps1.t2x2.chest.dds
 /resources/gfx/icons/ipp.class.war.randblue.mdps1.t2x2.hands.dds
 /resources/gfx/icons/ipp.class.war.randblue.mdps2.t1x2.waist.dds
+/resources/gfx/icons/ipp.class.war.randblue.mdps2.t2x2.waist.dds
 /resources/gfx/icons/ipp.class.war.randblue.mdps2.t2x2.wrists.dds
 /resources/gfx/icons/ipp.class.war.randgreen.mdps1.t1x1.chest.dds
 /resources/gfx/icons/ipp.class.war.randgreen.mdps1.t1x1.feet.dds
@@ -939,6 +945,7 @@
 /resources/gfx/icons/sithholocron3.dds
 /resources/gfx/icons/sithmask.dds
 /resources/gfx/icons/sithsorcerer.dds
+/resources/gfx/icons/sithstonetablet.dds
 /resources/gfx/icons/sithwarrior.dds
 /resources/gfx/icons/sizabrakcriminal.dds
 /resources/gfx/icons/slash.dds

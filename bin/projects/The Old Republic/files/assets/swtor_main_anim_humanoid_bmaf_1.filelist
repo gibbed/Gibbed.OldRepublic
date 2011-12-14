@@ -1,4 +1,4 @@
-; 4309/14292 (30%)
+; 4316/14292 (30%)
 /resources/anim/humanoid/bmanew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bmanew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bmanew/ad_2pistol_2h_yaw_up.jba
@@ -3429,9 +3429,15 @@
 /resources/anim/humanoid/bmfnew/em_salute_2.jba
 /resources/anim/humanoid/bmfnew/em_salute_3.jba
 /resources/anim/humanoid/bmfnew/em_search_low.jba
+/resources/anim/humanoid/bmfnew/em_shy.jba
+/resources/anim/humanoid/bmfnew/em_sing.jba
+/resources/anim/humanoid/bmfnew/em_startle.jba
 /resources/anim/humanoid/bmfnew/em_taunt_1.jba
 /resources/anim/humanoid/bmfnew/em_taunt_2.jba
+/resources/anim/humanoid/bmfnew/em_thank.jba
+/resources/anim/humanoid/bmfnew/em_torture.jba
 /resources/anim/humanoid/bmfnew/em_wave_1.jba
+/resources/anim/humanoid/bmfnew/em_wave_2.jba
 /resources/anim/humanoid/bmfnew/em_wave_3.jba
 /resources/anim/humanoid/bmfnew/em_weight_shift_2.jba
 /resources/anim/humanoid/bmfnew/em_wipe_mouth.jba
@@ -3614,6 +3620,7 @@
 /resources/anim/humanoid/bmfnew/humanoid_action_autogen000190.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_autogen000222.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_autogen000240.mph
+/resources/anim/humanoid/bmfnew/humanoid_action_autogen000241.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_autogen000243.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_autogen000245.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_autogen000246.mph

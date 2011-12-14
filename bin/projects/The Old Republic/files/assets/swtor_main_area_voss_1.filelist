@@ -1,4 +1,4 @@
-; 2628/3358 (78%)
+; 2630/3358 (78%)
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tiny.dds
@@ -1135,8 +1135,10 @@
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_d.dds
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_d.tex
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_d.tiny.dds
+/resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_dmg_d.dds
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_dmg_d.tex
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_dmg_d.tiny.dds
+/resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_dmg_n.dds
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_dmg_n.tex
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_dmg_n.tiny.dds
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_sconce_n.dds
