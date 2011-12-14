@@ -1,4 +1,4 @@
-; 1987/2112 (94%)
+; 1994/2112 (94%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
 /resources/art/defaultassets/default_age.dds
@@ -276,9 +276,15 @@
 /resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_mantellianflutterplume_a01_s.dds
 /resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_mantellianflutterplume_a01_s.tex
 /resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_mantellianflutterplume_a01_s.tiny.dds
+/resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_d.dds
+/resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_d.tex
+/resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_d.tiny.dds
 /resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_m.dds
 /resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_m.tex
 /resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_m.tiny.dds
+/resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_n.dds
+/resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_n.tex
+/resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_n.tiny.dds
 /resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_s.dds
 /resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_s.tex
 /resources/art/dynamic/creature/dragonbat/texture/___psd/dragonbat_shyrack_a01_v01_s.tiny.dds
@@ -1943,6 +1949,7 @@
 /resources/art/shaders/materials/dog_kathhound_a01_v01.mat
 /resources/art/shaders/materials/dog_salkyhound_a01_v01.mat
 /resources/art/shaders/materials/dog_swampsnarler_a01_v01.mat
+/resources/art/shaders/materials/dog_tukata_a02_v01.mat
 /resources/art/shaders/materials/dog_tukata_a03_v01.mat
 /resources/art/shaders/materials/dog_tukata_greater_a01_v01.mat
 /resources/art/shaders/materials/dragonbat_bogstalker_a01_v01.mat

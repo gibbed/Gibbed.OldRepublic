@@ -1,4 +1,4 @@
-; 7935/8930 (88%)
+; 7950/8930 (89%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -347,6 +347,7 @@
 /resources/art/shaders/materials/all_item_farm_plow.mat
 /resources/art/shaders/materials/all_item_furn_chair.mat
 /resources/art/shaders/materials/all_item_furn_conf_table_neu.mat
+/resources/art/shaders/materials/all_item_furn_ps_sith_bunks.mat
 /resources/art/shaders/materials/all_item_furn_rep_space_chair.mat
 /resources/art/shaders/materials/all_item_furn_senate_table.mat
 /resources/art/shaders/materials/all_item_furn_shop_counter.mat
@@ -522,7 +523,9 @@
 /resources/art/shaders/materials/all_item_tech_console_large_screen_suv.mat
 /resources/art/shaders/materials/all_item_tech_controlpanels01.mat
 /resources/art/shaders/materials/all_item_tech_controlpanels01_damaged.mat
+/resources/art/shaders/materials/all_item_tech_datacron_endurance.mat
 /resources/art/shaders/materials/all_item_tech_datacron_min_max_choice.mat
+/resources/art/shaders/materials/all_item_tech_datacron_willpower.mat
 /resources/art/shaders/materials/all_item_tech_datapad_01.mat
 /resources/art/shaders/materials/all_item_tech_datapad_ancient_01.mat
 /resources/art/shaders/materials/all_item_tech_eradicator.mat
@@ -605,6 +608,7 @@
 /resources/art/shaders/materials/all_item_tech_small_generator.mat
 /resources/art/shaders/materials/all_item_tech_small_holoprojector.mat
 /resources/art/shaders/materials/all_item_tech_sonic_device.mat
+/resources/art/shaders/materials/all_item_tech_space_mission_panel.mat
 /resources/art/shaders/materials/all_item_tech_tat_solar_panel.mat
 /resources/art/shaders/materials/all_item_tech_torture_machine_imperial.mat
 /resources/art/shaders/materials/all_item_tech_und_monitor.mat
@@ -2785,6 +2789,7 @@
 /resources/art/static/area/all_all/item/furniture/all_item_furn_chair.gr2
 /resources/art/static/area/all_all/item/furniture/all_item_furn_conf_table_neu.gr2
 /resources/art/static/area/all_all/item/furniture/all_item_furn_game_table_large.gr2
+/resources/art/static/area/all_all/item/furniture/all_item_furn_ps_sith_bunks.gr2
 /resources/art/static/area/all_all/item/furniture/all_item_furn_rep_space_chair.gr2
 /resources/art/static/area/all_all/item/furniture/all_item_furn_senate_table.gr2
 /resources/art/static/area/all_all/item/furniture/all_item_furn_shop_counter.gr2
@@ -4629,6 +4634,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_small_holoprojector.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_small_holoprojector_bottom.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_sonic_device.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_space_mission_panel.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_stealth_generator.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_stealth_generator_mount.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_tat_solar_panel.gr2
@@ -6055,6 +6061,15 @@
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_sonic_device_s.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_sonic_device_s.tex
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_sonic_device_s.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_space_mission_panel_d.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_space_mission_panel_d.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_space_mission_panel_d.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_space_mission_panel_n.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_space_mission_panel_n.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_space_mission_panel_n.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_space_mission_panel_s.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_space_mission_panel_s.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_space_mission_panel_s.tiny.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_speaker_d.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_speaker_d.tex
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_speaker_d.tiny.dds

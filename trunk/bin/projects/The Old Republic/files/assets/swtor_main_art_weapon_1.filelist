@@ -1,4 +1,4 @@
-; 3924/4686 (83%)
+; 3953/4686 (84%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -1435,6 +1435,12 @@
 /resources/art/dynamic/weapon/dualsaber/texture/dualsaber_sithhigh02_a01_v01_n.dds
 /resources/art/dynamic/weapon/dualsaber/texture/dualsaber_sithhigh02_a01_v01_n.tex
 /resources/art/dynamic/weapon/dualsaber/texture/dualsaber_sithhigh02_a01_v01_n.tiny.dds
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high01_a01_v01_d.tex
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high01_a01_v01_d.tiny.dds
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high01_a01_v01_n.tex
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high01_a01_v01_n.tiny.dds
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high01_a01_v01_s.tex
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high01_a01_v01_s.tiny.dds
 /resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_low03_a01_v01_d.dds
 /resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_low03_a01_v01_d.tex
 /resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_low03_a01_v01_d.tiny.dds
@@ -1499,6 +1505,15 @@
 /resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_chiss01_a01_v01_s.dds
 /resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_chiss01_a01_v01_s.tex
 /resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_chiss01_a01_v01_s.tiny.dds
+/resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high02_a01_v01_d.dds
+/resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high02_a01_v01_d.tex
+/resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high02_a01_v01_d.tiny.dds
+/resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high02_a01_v01_n.dds
+/resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high02_a01_v01_n.tex
+/resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high02_a01_v01_n.tiny.dds
+/resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high02_a01_v01_s.dds
+/resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high02_a01_v01_s.tex
+/resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high02_a01_v01_s.tiny.dds
 /resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high03_a01_v01_d.dds
 /resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high03_a01_v01_d.tex
 /resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_high03_a01_v01_d.tiny.dds
@@ -2556,6 +2571,15 @@
 /resources/art/dynamic/weapon/npc_weapon/texture/npcwep_rifleeshka_a01_v04_s.dds
 /resources/art/dynamic/weapon/npc_weapon/texture/npcwep_rifleeshka_a01_v04_s.tex
 /resources/art/dynamic/weapon/npc_weapon/texture/npcwep_rifleeshka_a01_v04_s.tiny.dds
+/resources/art/dynamic/weapon/quest/texture/___psd/wep_quest_warblade_d.dds
+/resources/art/dynamic/weapon/quest/texture/___psd/wep_quest_warblade_d.tex
+/resources/art/dynamic/weapon/quest/texture/___psd/wep_quest_warblade_d.tiny.dds
+/resources/art/dynamic/weapon/quest/texture/___psd/wep_quest_warblade_n.dds
+/resources/art/dynamic/weapon/quest/texture/___psd/wep_quest_warblade_n.tex
+/resources/art/dynamic/weapon/quest/texture/___psd/wep_quest_warblade_n.tiny.dds
+/resources/art/dynamic/weapon/quest/texture/___psd/wep_quest_warblade_s.dds
+/resources/art/dynamic/weapon/quest/texture/___psd/wep_quest_warblade_s.tex
+/resources/art/dynamic/weapon/quest/texture/___psd/wep_quest_warblade_s.tiny.dds
 /resources/art/dynamic/weapon/quest/texture/wep_quest_burning_brand_d.dds
 /resources/art/dynamic/weapon/quest/texture/wep_quest_burning_brand_d.tex
 /resources/art/dynamic/weapon/quest/texture/wep_quest_burning_brand_d.tiny.dds
@@ -3806,16 +3830,20 @@
 /resources/art/shaders/materials/blaster_low10_a01_v02.mat
 /resources/art/shaders/materials/blaster_low10_a01_v03.mat
 /resources/art/shaders/materials/blaster_low10_a01_v04.mat
+/resources/art/shaders/materials/blaster_low12_a01_v02.mat
 /resources/art/shaders/materials/blaster_low12_a01_v03.mat
 /resources/art/shaders/materials/dualsaber_low01_a01_v01.mat
 /resources/art/shaders/materials/dualsaber_low02_a01_v01.mat
 /resources/art/shaders/materials/dualsaber_sithhigh03_a01_v01.mat
 /resources/art/shaders/materials/dualsaber_sithlow03_a01_v01.mat
+/resources/art/shaders/materials/electroblade_high01_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low01_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low02_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low03_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low04_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low05_a01_v01.mat
+/resources/art/shaders/materials/electrostaff_high02_a01_v01.mat
+/resources/art/shaders/materials/electrostaff_high03_a01_v01.mat
 /resources/art/shaders/materials/electrostaff_high04_a01_v01.mat
 /resources/art/shaders/materials/electrostaff_low01_a01_v01.mat
 /resources/art/shaders/materials/melee_trainingsaber_a01_v01.mat
@@ -3876,6 +3904,7 @@
 /resources/art/shaders/materials/saber_sithlow02_a01_v01.mat
 /resources/art/shaders/materials/saber_sithlow03_a01_v01.mat
 /resources/art/shaders/materials/shotgun_low01_a01_v01.mat
+/resources/art/shaders/materials/wep_quest_warblade.mat
 /resources/art/shaders/materials/wep_rifle_low01.mat
 /resources/art/shaders/materials/wep_swd_practice_sword.mat
 /resources/art/shaders/materials/wep_swd_saber_sith_warrior_01.mat

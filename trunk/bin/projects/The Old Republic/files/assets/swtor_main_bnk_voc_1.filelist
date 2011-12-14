@@ -1,4 +1,4 @@
-; 119/412 (28%)
+; 124/412 (30%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
@@ -57,7 +57,9 @@
 /resources/bnk2/voc_khem_val.bnk
 /resources/bnk2/voc_kintanenforcer.bnk
 /resources/bnk2/voc_kitonak_m_alien_low_soundset.bnk
+/resources/bnk2/voc_klorslug.bnk
 /resources/bnk2/voc_klorsluglarva.bnk
+/resources/bnk2/voc_klorslugqueen.bnk
 /resources/bnk2/voc_kubaz_m_alien_low_soundset.bnk
 /resources/bnk2/voc_kubaz_m_alien_med_soundset.bnk
 /resources/bnk2/voc_mako.bnk
@@ -99,9 +101,12 @@
 /resources/bnk2/voc_rodian_f_alien_med_soundset.bnk
 /resources/bnk2/voc_rodian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_scavengerdroid.bnk
+/resources/bnk2/voc_shyrack.bnk
 /resources/bnk2/voc_sleen.bnk
 /resources/bnk2/voc_swampsnarler.bnk
 /resources/bnk2/voc_togruta_f_alien_med_soundset.bnk
+/resources/bnk2/voc_tukata.bnk
+/resources/bnk2/voc_tukatasmall.bnk
 /resources/bnk2/voc_twilek_f_alien_high_soundset.bnk
 /resources/bnk2/voc_twilek_f_alien_low_soundset.bnk
 /resources/bnk2/voc_twilek_m_alien_high_soundset.bnk
