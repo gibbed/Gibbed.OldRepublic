@@ -1,4 +1,4 @@
-; 1385/14180 (9%)
+; 1404/14180 (9%)
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_up.jba
@@ -272,6 +272,9 @@
 /resources/anim/humanoid/bfanew/ad_saber_idle_knight_yaw_down.jba
 /resources/anim/humanoid/bfanew/ad_saber_idle_knight_yaw_mid.jba
 /resources/anim/humanoid/bfanew/ad_saber_idle_knight_yaw_up.jba
+/resources/anim/humanoid/bfanew/ad_saber_idle_warrior_yaw_down.jba
+/resources/anim/humanoid/bfanew/ad_saber_idle_warrior_yaw_mid.jba
+/resources/anim/humanoid/bfanew/ad_saber_idle_warrior_yaw_up.jba
 /resources/anim/humanoid/bfanew/ad_saber_jump_mid.jba
 /resources/anim/humanoid/bfanew/ad_saber_jump_yaw.jba
 /resources/anim/humanoid/bfanew/ad_saber_throw_yaw.jba
@@ -519,6 +522,7 @@
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000048.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000050.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000070.mph
+/resources/anim/humanoid/bfanew/humanoid_action_autogen000071.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000075.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000078.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000082.mph
@@ -627,6 +631,7 @@
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000295.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000304.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000305.mph
+/resources/anim/humanoid/bfanew/humanoid_action_autogen000306.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000307.mph
 /resources/anim/humanoid/bfanew/humanoid_action_combat_2pistol.mph
 /resources/anim/humanoid/bfanew/humanoid_action_combat_ballistic.mph
@@ -666,8 +671,10 @@
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000001.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000002.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000003.mph
+/resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000010.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000011.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000015.mph
+/resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000016.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000017.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000021.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000022.mph
@@ -731,6 +738,7 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_rifle_falling.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_rifle_sniper.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_saber_01.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_combat_saber_02.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_saber_04.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_saber_falling.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_unarmed.mph
@@ -749,6 +757,7 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_dance_01.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_dance_female_01.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_dance_female_02.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_dance_female_pole.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_embarrassed.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_lean_clean_bar.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_look_around_search.mph
@@ -766,6 +775,7 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_talk_hold_on.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_talk_little_pumped.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_talk_normal_01.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_talk_normal_02.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_talk_normal_03.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_talk_pleading.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_talk_thinking.mph
@@ -781,6 +791,8 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_use_rifle_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_use_rifle_idle_headset.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_use_rifle_threaten_01.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_use_saber_train_02.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_view_map_talk.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_kneeling.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_knockeddown.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_normal.mph
@@ -788,6 +800,7 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_stunned.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_stunned_knockeddown.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_am_2p_angry_talk_1.mph
+/resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_am_2p_sit_table_1.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_am_pace_inplace.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_am_shovel.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_am_slave_labor_1.mph
@@ -812,6 +825,7 @@
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_lean_wall_right_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_out_breath_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_sit_ground_2_idle.mph
+/resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_sit_ground_3_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_sit_ground_4_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_overlay.mph
 /resources/anim/humanoid/bfanew/humanoid_overlay_autogen_ad_blank.mph
@@ -876,6 +890,10 @@
 /resources/anim/humanoid/bfanew/po_injured_head_righthand_07.jba
 /resources/anim/humanoid/bfanew/po_injured_head_righthand_08.jba
 /resources/anim/humanoid/bfanew/po_injured_head_to_normal.jba
+/resources/anim/humanoid/bfanew/po_injured_kneel_death_01.jba
+/resources/anim/humanoid/bfanew/po_injured_kneel_death_02.jba
+/resources/anim/humanoid/bfanew/po_injured_kneel_death_03.jba
+/resources/anim/humanoid/bfanew/po_injured_kneel_death_04.jba
 /resources/anim/humanoid/bfanew/po_injured_kneel_idle.jba
 /resources/anim/humanoid/bfanew/po_injured_kneel_lefthand_01.jba
 /resources/anim/humanoid/bfanew/po_injured_kneel_lefthand_02.jba
@@ -1254,6 +1272,7 @@
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000050.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000070.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000075.mph
+/resources/anim/humanoid/bfbnew/humanoid_action_autogen000082.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000083.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000085.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000092.mph

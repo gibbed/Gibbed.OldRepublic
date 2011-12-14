@@ -1,4 +1,4 @@
-; 412/513 (80%)
+; 423/513 (82%)
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.dds
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tex
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tiny.dds
@@ -11,16 +11,24 @@
 /resources/art/shaders/materials/sc_imp_capital_destroyer_hanger.mat
 /resources/art/shaders/materials/sc_skyscene_m01_planet.mat
 /resources/art/shaders/materials/sc_skyscene_m01_planet_clouds.mat
+/resources/art/shaders/materials/sc_skyscene_m02_sun_02.mat
+/resources/art/shaders/materials/sc_skyscene_m03_moon_05.mat
+/resources/art/shaders/materials/sc_skyscene_m03_moonclouds_02.mat
 /resources/art/shaders/materials/sc_skyscene_m05_moon_01.mat
 /resources/art/shaders/materials/sc_skyscene_m05_moonclouds_01.mat
+/resources/art/shaders/materials/sc_skyscene_m09_asteroidrings.mat
 /resources/art/shaders/materials/sc_skyscene_starfield_01.mat
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_06_n.dds
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_06_n.tex
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_06_n.tiny.dds
 /resources/art/static/space_combat/sc_skyscene_m01_planet.gr2
 /resources/art/static/space_combat/sc_skyscene_m01_planet_clouds.gr2
+/resources/art/static/space_combat/sc_skyscene_m02_sun_02.gr2
+/resources/art/static/space_combat/sc_skyscene_m03_moon_05.gr2
+/resources/art/static/space_combat/sc_skyscene_m03_moonclouds_02.gr2
 /resources/art/static/space_combat/sc_skyscene_m05_moon_01.gr2
 /resources/art/static/space_combat/sc_skyscene_m05_moonclouds_01.gr2
+/resources/art/static/space_combat/sc_skyscene_m09_asteroidrings.gr2
 /resources/art/static/space_combat/sc_skyscene_starfield_01.gr2
 /resources/art/static/space_combat/skyscenetextures/common/sc_skyscene_starfield_01_d.dds
 /resources/art/static/space_combat/skyscenetextures/common/sc_skyscene_starfield_01_d.tex
@@ -70,6 +78,9 @@
 /resources/art/static/space_combat/skyscenetextures/m02/sc_skyscene_m02_sun_01_n.dds
 /resources/art/static/space_combat/skyscenetextures/m02/sc_skyscene_m02_sun_01_n.tex
 /resources/art/static/space_combat/skyscenetextures/m02/sc_skyscene_m02_sun_01_n.tiny.dds
+/resources/art/static/space_combat/skyscenetextures/m02/sc_skyscene_m02_sun_01_s.dds
+/resources/art/static/space_combat/skyscenetextures/m02/sc_skyscene_m02_sun_01_s.tex
+/resources/art/static/space_combat/skyscenetextures/m02/sc_skyscene_m02_sun_01_s.tiny.dds
 /resources/art/static/space_combat/skyscenetextures/m02/sc_skyscene_m02_sun_02_d.dds
 /resources/art/static/space_combat/skyscenetextures/m02/sc_skyscene_m02_sun_02_d.tex
 /resources/art/static/space_combat/skyscenetextures/m02/sc_skyscene_m02_sun_02_d.tiny.dds

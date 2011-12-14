@@ -1,4 +1,4 @@
-; 1157/2181 (53%)
+; 1177/2181 (53%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -582,6 +582,8 @@
 /resources/art/lights/defaultlightramp.dds
 /resources/art/lights/defaultlightramp.tex
 /resources/art/lights/defaultlightramp.tiny.dds
+/resources/art/lights/dro_dark_temple_exterior_lightramp.dds
+/resources/art/lights/dro_dark_temple_exterior_lightramp.tex
 /resources/art/lights/dro_exterior_lightramp.dds
 /resources/art/lights/dro_exterior_lightramp.tex
 /resources/art/lights/falloff_ambient.dds
@@ -757,6 +759,8 @@
 /resources/art/lights/fill_warm_space.tex
 /resources/art/lights/fx_falloff_linear_01.dds
 /resources/art/lights/fx_falloff_linear_01.tex
+/resources/art/lights/fx_gal_map_asteroid_field_lightramp.dds
+/resources/art/lights/fx_gal_map_asteroid_field_lightramp.tex
 /resources/art/lights/fx_lum_sp_recuperate.dds
 /resources/art/lights/fx_lum_sp_recuperate.tex
 /resources/art/lights/fx_ramp_backface_01.dds
@@ -769,6 +773,8 @@
 /resources/art/lights/fx_ramp_slightwrap_01.tex
 /resources/art/lights/fx_ramp_standard_01.dds
 /resources/art/lights/fx_ramp_standard_01.tex
+/resources/art/lights/galaxymap_main_d.dds
+/resources/art/lights/galaxymap_main_d.tex
 /resources/art/lights/holo_lightramp_v04.dds
 /resources/art/lights/holo_lightramp_v04.tex
 /resources/art/lights/hut_exterior_lightramp.dds
@@ -921,6 +927,12 @@
 /resources/art/marketing/green_dome.dds
 /resources/art/marketing/green_dome.tex
 /resources/art/marketing/green_dome.tiny.dds
+/resources/art/planets/belsavis.gr2
+/resources/art/planets/coruscant.gr2
+/resources/art/planets/dromund_kass.gr2
+/resources/art/planets/hoth.gr2
+/resources/art/planets/korriban.gr2
+/resources/art/planets/taris.gr2
 /resources/art/planets/texture/clouds_dromund_d.dds
 /resources/art/planets/texture/clouds_dromund_d.tex
 /resources/art/planets/texture/clouds_dromund_d.tiny.dds
@@ -1055,8 +1067,15 @@
 /resources/art/planets/texture/planets_voss_s.tiny.dds
 /resources/art/planets/tython.gr2
 /resources/art/shaders/materials/__white.mat
+/resources/art/shaders/materials/clouds_dromund.mat
 /resources/art/shaders/materials/dbo_universal_superexclusion_test.mat
 /resources/art/shaders/materials/missing_granny.mat
+/resources/art/shaders/materials/planets_belsavis.mat
+/resources/art/shaders/materials/planets_coruscant.mat
+/resources/art/shaders/materials/planets_dromund_kass.mat
+/resources/art/shaders/materials/planets_hoth.mat
+/resources/art/shaders/materials/planets_korriban.mat
+/resources/art/shaders/materials/planets_taris.mat
 /resources/art/shaders/materials/planets_tython.mat
 /resources/art/shaders/materials/spawner_gold.mat
 /resources/art/shaders/materials/spawner_red.mat
@@ -1086,6 +1105,7 @@
 /resources/art/static/area/kor_korriban/arch/texture/kor_acad_standard_wall_s.dds
 /resources/art/static/area/kor_korriban/arch/texture/kor_acad_standard_wall_s.tex
 /resources/art/static/area/kor_korriban/arch/texture/kor_acad_standard_wall_s.tiny.dds
+/resources/art/static/designblockout/collision/dbo_collision_cube.gr2
 /resources/art/static/designblockout/collision/dbo_collision_cylinder_10m.gr2
 /resources/art/static/designblockout/cover_objects/dbo_universal_superexclusion_test.gr2
 /resources/art/static/designblockout/dbo_blocking_volume_16x10.gr2

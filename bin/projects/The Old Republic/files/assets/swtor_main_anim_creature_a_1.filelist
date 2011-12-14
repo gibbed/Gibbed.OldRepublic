@@ -1,4 +1,4 @@
-; 925/9320 (9%)
+; 926/9320 (9%)
 /resources/anim/creature/acklaydroid/ad_blank.jba
 /resources/anim/creature/acklaydroid/ad_body_pitch.jba
 /resources/anim/creature/acklaydroid/ad_body_yaw.jba
@@ -419,6 +419,7 @@
 /resources/anim/creature/dog/cb_sp_attack_2.jba
 /resources/anim/creature/dog/cb_spawn.jba
 /resources/anim/creature/dog/creature_action_common.mph
+/resources/anim/creature/dog/creature_loco_idle.mph
 /resources/anim/creature/dog/creature_overlay.mph
 /resources/anim/creature/dog/creature_quad_loco.mph
 /resources/anim/creature/dog/dg_crit_damage_1.jba
