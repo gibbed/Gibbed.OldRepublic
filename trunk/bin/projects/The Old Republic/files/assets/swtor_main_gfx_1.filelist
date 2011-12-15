@@ -1,4 +1,4 @@
-; 1444/52255 (2%)
+; 1477/52255 (2%)
 /resources/gfx/codex/cdx.advanced_classes.operative.dds
 /resources/gfx/codex/cdx.advanced_classes.sniper.dds
 /resources/gfx/codex/cdx.bestiary.akk_dog.dds
@@ -61,6 +61,7 @@
 /resources/gfx/codex/cdx.persons.agent.darth_jadus.dds
 /resources/gfx/codex/cdx.persons.agent.kaliyo_djannis.dds
 /resources/gfx/codex/cdx.persons.agent.keeper.dds
+/resources/gfx/codex/cdx.persons.bounty_hunter.braden.dds
 /resources/gfx/codex/cdx.persons.hutta.nemro.dds
 /resources/gfx/codex/cdx.planets.balmorra.dds
 /resources/gfx/codex/cdx.planets.dromund_kaas.dds
@@ -454,7 +455,9 @@
 /resources/gfx/icons/bubblydrink.dds
 /resources/gfx/icons/burned.dds
 /resources/gfx/icons/burst.dds
+/resources/gfx/icons/callontheforce.dds
 /resources/gfx/icons/carbonitereinforcedshield.dds
+/resources/gfx/icons/carbonized.dds
 /resources/gfx/icons/cc_attack.dds
 /resources/gfx/icons/cc_defensive.dds
 /resources/gfx/icons/cc_passive.dds
@@ -579,6 +582,7 @@
 /resources/gfx/icons/forcefocus3.dds
 /resources/gfx/icons/forceimbuedzeydcloth.dds
 /resources/gfx/icons/forceleap.dds
+/resources/gfx/icons/forcestrike.dds
 /resources/gfx/icons/fullauto.dds
 /resources/gfx/icons/fungalsample1.dds
 /resources/gfx/icons/genericcannister.dds
@@ -669,6 +673,9 @@
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t2x2.feet.dds
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t2x2.hands.dds
 /resources/gfx/icons/ipp.class.bh.randgreen.rdps2.t2x2.wrists.dds
+/resources/gfx/icons/ipp.class.bh.starting.rdps1.t1x1.chest.dds
+/resources/gfx/icons/ipp.class.bh.starting.rdps1.t1x1.feet.dds
+/resources/gfx/icons/ipp.class.bh.starting.rdps1.t1x1.legs.dds
 /resources/gfx/icons/ipp.class.ge.a20.c01.s01.chest_v03.dds
 /resources/gfx/icons/ipp.class.ge.a27.c01.s01.chest_v03.dds
 /resources/gfx/icons/ipp.class.ge.a27.c01.s01.feet_v03.dds
@@ -719,6 +726,7 @@
 /resources/gfx/icons/ipp.class.kni.a05.c01.s03.waist_v02.dds
 /resources/gfx/icons/ipp.class.kni.a05.c01.s03.wrists_v02.dds
 /resources/gfx/icons/ipp.class.kni.g20.c02.s01.legs_v03.dds
+/resources/gfx/icons/ipp.class.kni.quest.mdps1.t1x1.feet.dds
 /resources/gfx/icons/ipp.class.kni.quest.mdps1.t4x1.chest.dds
 /resources/gfx/icons/ipp.class.kni.quest.mdps1.t4x1.feet.dds
 /resources/gfx/icons/ipp.class.kni.quest.mdps1.t4x1.hands.dds
@@ -726,6 +734,9 @@
 /resources/gfx/icons/ipp.class.kni.quest.mdps1.t4x1.legs.dds
 /resources/gfx/icons/ipp.class.kni.quest.mdps1.t4x1.waist.dds
 /resources/gfx/icons/ipp.class.kni.quest.mdps1.t4x1.wrists.dds
+/resources/gfx/icons/ipp.class.kni.starting.mdps1.t1x1.chest.dds
+/resources/gfx/icons/ipp.class.kni.starting.mdps1.t1x1.feet.dds
+/resources/gfx/icons/ipp.class.kni.starting.mdps1.t1x1.legs.dds
 /resources/gfx/icons/ipp.class.smu.a01.c01.s01.chest_v01.dds
 /resources/gfx/icons/ipp.class.smu.a01.c01.s01.chest_v03.dds
 /resources/gfx/icons/ipp.class.smu.a01.c01.s01.feet_v01.dds
@@ -972,21 +983,33 @@
 /resources/gfx/icons/largecrate.dds
 /resources/gfx/icons/larger/bhoutlaw.dds
 /resources/gfx/icons/larger/bhrattatakigladiator.dds
+/resources/gfx/icons/larger/bhrattatakigladiator_desat.dds
 /resources/gfx/icons/larger/bountyhunter.dds
 /resources/gfx/icons/larger/bountyhunter_desat.dds
 /resources/gfx/icons/larger/iachisssecretpolice.dds
+/resources/gfx/icons/larger/iachisssecretpolice_desat.dds
+/resources/gfx/icons/larger/jcmirlalanwanderer.dds
+/resources/gfx/icons/larger/jediconsular.dds
+/resources/gfx/icons/larger/jediconsular_desat.dds
+/resources/gfx/icons/larger/jediknight.dds
+/resources/gfx/icons/larger/jediknight_desat.dds
+/resources/gfx/icons/larger/jkmiralukansurvivor.dds
+/resources/gfx/icons/larger/jkmiralukansurvivor_desat.dds
 /resources/gfx/icons/larger/loading_tip_002.dds
 /resources/gfx/icons/larger/sithsorcerer.dds
 /resources/gfx/icons/larger/sithsorcerer_desat.dds
 /resources/gfx/icons/larger/sithwarrior.dds
 /resources/gfx/icons/larger/sithwarrior_desat.dds
 /resources/gfx/icons/larger/sitwilekrenegade.dds
+/resources/gfx/icons/larger/sitwilekrenegade_desat.dds
 /resources/gfx/icons/larger/sizabrakcriminal.dds
 /resources/gfx/icons/larger/sizabrakcriminal_desat.dds
+/resources/gfx/icons/larger/smuggler.dds
 /resources/gfx/icons/larger/souterrimpirate.dds
 /resources/gfx/icons/larger/souterrimpirate_desat.dds
 /resources/gfx/icons/larger/spy.dds
 /resources/gfx/icons/larger/spy_desat.dds
+/resources/gfx/icons/larger/stwilekrogue.dds
 /resources/gfx/icons/larger/swsithpureblood.dds
 /resources/gfx/icons/larger/swsithpureblood_desat.dds
 /resources/gfx/icons/larger/swwarhardenednoble.dds
@@ -994,6 +1017,8 @@
 /resources/gfx/icons/larger/tips.lfg.dds
 /resources/gfx/icons/larger/tips.mission.tab.dds
 /resources/gfx/icons/larger/tips.social.dds
+/resources/gfx/icons/larger/trooper.dds
+/resources/gfx/icons/larger/tzabrakguerillafighter.dds
 /resources/gfx/icons/lazetarget.dds
 /resources/gfx/icons/lesserbluestimpack.dds
 /resources/gfx/icons/lessermedpac.dds
@@ -1084,7 +1109,9 @@
 /resources/gfx/icons/powercore.dds
 /resources/gfx/icons/protontorpedotube.dds
 /resources/gfx/icons/quest.warblade.a01_v01.dds
+/resources/gfx/icons/quickkick.dds
 /resources/gfx/icons/rapidscan.dds
+/resources/gfx/icons/rapidshots.dds
 /resources/gfx/icons/rattaki.dds
 /resources/gfx/icons/reactiveshots.dds
 /resources/gfx/icons/reanimation.dds
@@ -1213,6 +1240,7 @@
 /resources/gfx/icons/sithstonetablet.dds
 /resources/gfx/icons/sithwarrior.dds
 /resources/gfx/icons/sizabrakcriminal.dds
+/resources/gfx/icons/skydrop.dds
 /resources/gfx/icons/slash.dds
 /resources/gfx/icons/sleepdart.dds
 /resources/gfx/icons/slicedroid.dds
@@ -1249,6 +1277,7 @@
 /resources/gfx/icons/slot_power_crystal.dds
 /resources/gfx/icons/slot_proton_torpedo.dds
 /resources/gfx/icons/slot_ranged1.dds
+/resources/gfx/icons/slot_ranged2.dds
 /resources/gfx/icons/slot_relic.dds
 /resources/gfx/icons/slot_scope.dds
 /resources/gfx/icons/slot_support.dds
@@ -1272,6 +1301,7 @@
 /resources/gfx/icons/spaceupgradepowerconversionmodule.dds
 /resources/gfx/icons/specialegg.dds
 /resources/gfx/icons/spined_carapace.dds
+/resources/gfx/icons/spinningslash.dds
 /resources/gfx/icons/sprint.dds
 /resources/gfx/icons/spy.dds
 /resources/gfx/icons/spyrecuperate.dds
@@ -1316,18 +1346,21 @@
 /resources/gfx/icons/unload.dds
 /resources/gfx/icons/unwaveringresolve.dds
 /resources/gfx/icons/utilitybeltwithmanyslots.dds
+/resources/gfx/icons/vengefulstrike.dds
 /resources/gfx/icons/vent.dds
 /resources/gfx/icons/vialofmysteryliquid.dds
 /resources/gfx/icons/vialofpoison.dds
 /resources/gfx/icons/vibroblades.dds
 /resources/gfx/icons/vibrosheath.dds
 /resources/gfx/icons/viciousslash.dds
+/resources/gfx/icons/weakenresolve.dds
 /resources/gfx/icons/weldingtorch.dds
 /resources/gfx/icons/whirling_blow.dds
 /resources/gfx/icons/whirlwind.dds
 /resources/gfx/icons/whitefurfleece.dds
 /resources/gfx/icons/wither.dds
 /resources/gfx/icons/wrappedparcel.dds
+/resources/gfx/icons/xpbonus.dds
 /resources/gfx/icons/yellowlesserlightsabercrystal.dds
 /resources/gfx/loadingscreen/background_tile.dds
 /resources/gfx/loadingscreen/bwa_splash.dds

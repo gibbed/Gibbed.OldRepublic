@@ -1,4 +1,4 @@
-; 969/3115 (31%)
+; 973/3115 (31%)
 /resources/anim/humanoid/am_dwarf.xml
 /resources/anim/humanoid/am_humanoid.xml
 /resources/anim/humanoid/am_humanoid_npc.xml
@@ -178,6 +178,10 @@
 /resources/anim/placeable/repdropship/mv_crashed_hover1_idle.jba
 /resources/anim/placeable/repdropship/mv_crashed_hover2_idle.jba
 /resources/anim/placeable/repdropship/mv_crashed_vertical_idle.jba
+/resources/anim/placeable/repdropship/mv_evasive_left.jba
+/resources/anim/placeable/repdropship/mv_evasive_loop.jba
+/resources/anim/placeable/repdropship/mv_evasive_right.jba
+/resources/anim/placeable/repdropship/mv_evasive_straight.jba
 /resources/anim/placeable/repdropship/mv_fly_in_high_center.jba
 /resources/anim/placeable/repdropship/mv_fly_in_high_left.jba
 /resources/anim/placeable/repdropship/mv_fly_in_high_right.jba

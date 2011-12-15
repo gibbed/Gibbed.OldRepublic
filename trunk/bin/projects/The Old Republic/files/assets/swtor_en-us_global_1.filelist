@@ -1,4 +1,4 @@
-; 353/3625 (9%)
+; 362/3625 (9%)
 /resources/en-us/str/abl.stb
 /resources/en-us/str/abl/agent/skill.stb
 /resources/en-us/str/abl/player/grant_codex_xp.stb
@@ -91,6 +91,7 @@
 /resources/en-us/str/cnv/location/hutta/bronze/tech_jealousy/dead_rodian.stb
 /resources/en-us/str/cnv/location/hutta/bronze/tech_jealousy/doctor_terrab.stb
 /resources/en-us/str/cnv/location/hutta/bronze/trainers/agent/linh.stb
+/resources/en-us/str/cnv/location/hutta/class/bounty_hunter/braden.stb
 /resources/en-us/str/cnv/location/hutta/class/spy/dheno_rey.stb
 /resources/en-us/str/cnv/location/hutta/class/spy/holo_archives.stb
 /resources/en-us/str/cnv/location/hutta/class/spy/industrial_facility_computer.stb
@@ -143,6 +144,12 @@
 /resources/en-us/str/cnv/location/open_worlds/class/imperial_spy/chapter_1/multi/watcher_two.stb
 /resources/en-us/str/cnv/location/pvp/warzone/quests/empire_pvp_bounty_board.stb
 /resources/en-us/str/cnv/location/ship/agent/ship_exit.stb
+/resources/en-us/str/cnv/location/tython/bronze/release_the_cubs/captured_manka_cub.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/benor_unaw.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/callef.stb
+/resources/en-us/str/cnv/location/tython/class/jedi_knight_new/derrin_weller.stb
+/resources/en-us/str/cnv/location/tython/world/early_lessons/avitla.stb
+/resources/en-us/str/cnv/location/tython/world/early_lessons/relnex.stb
 /resources/en-us/str/cnv/location/universal/imperial_flight_commander.stb
 /resources/en-us/str/cnv/location/universal/space/imperial_fleet_terminal.stb
 /resources/en-us/str/cnv/misc/combat/cc/agent/kaliyo.stb
@@ -151,6 +158,7 @@
 /resources/en-us/str/cnv/misc/generic_placeable.stb
 /resources/en-us/str/cnv/misc/vendor/droid_friendly_imp.stb
 /resources/en-us/str/cnv/misc/vendor/droid_taxi_military_imp.stb
+/resources/en-us/str/cnv/misc/vendor/droid_taxi_military_rep.stb
 /resources/en-us/str/cnv/misc/vendor/droid_taxihelpful_imp.stb
 /resources/en-us/str/cnv/misc/vendor/droid_taxihelpful_rep.stb
 /resources/en-us/str/cnv/misc/vendor/droid_taxisurly_rep.stb
@@ -166,6 +174,7 @@
 /resources/en-us/str/cnv/misc/vendor/human_m_military_imp.stb
 /resources/en-us/str/cnv/misc/vendor/human_m_military_imp2.stb
 /resources/en-us/str/cnv/misc/vendor/human_m_traineragent_imp.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_trainerknight_rep.stb
 /resources/en-us/str/cnv/tutorial/imperial_fleet/bounty_board.stb
 /resources/en-us/str/gui/abilities.stb
 /resources/en-us/str/gui/abilitypanel.stb

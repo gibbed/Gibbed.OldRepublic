@@ -1,4 +1,4 @@
-; 3981/4686 (84%)
+; 3994/4686 (85%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -341,6 +341,7 @@
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low04_a01_v04_s.tex
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low04_a01_v04_s.tiny.dds
 /resources/art/dynamic/weapon/blaster/blaster_low04_a01.gr2
+/resources/art/dynamic/weapon/blaster/blaster_low04_a01_v02.gr2
 /resources/art/dynamic/weapon/blaster/blaster_low06_a01.gr2
 /resources/art/dynamic/weapon/blaster/blaster_low06_a02.gr2
 /resources/art/dynamic/weapon/blaster/blaster_low06_a03.gr2
@@ -3083,6 +3084,15 @@
 /resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh01_a01_v01_s.dds
 /resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh01_a01_v01_s.tex
 /resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh01_a01_v01_s.tiny.dds
+/resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh05_a01_v01_d.dds
+/resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh05_a01_v01_d.tex
+/resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh05_a01_v01_d.tiny.dds
+/resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh05_a01_v01_n.dds
+/resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh05_a01_v01_n.tex
+/resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh05_a01_v01_n.tiny.dds
+/resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh05_a01_v01_s.dds
+/resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh05_a01_v01_s.tex
+/resources/art/dynamic/weapon/saber/texture/___psd/saber_jedihigh05_a01_v01_s.tiny.dds
 /resources/art/dynamic/weapon/saber/texture/___psd/saber_jedilow01_a01_v01_d.dds
 /resources/art/dynamic/weapon/saber/texture/___psd/saber_jedilow01_a01_v01_d.tex
 /resources/art/dynamic/weapon/saber/texture/___psd/saber_jedilow01_a01_v01_d.tiny.dds
@@ -3818,6 +3828,7 @@
 /resources/art/shaders/materials/blaster_high09_a01_v04.mat
 /resources/art/shaders/materials/blaster_high10_a01_v04.mat
 /resources/art/shaders/materials/blaster_high11_a01_v02.mat
+/resources/art/shaders/materials/blaster_high13_a01_v02.mat
 /resources/art/shaders/materials/blaster_high13_a01_v03.mat
 /resources/art/shaders/materials/blaster_high13_a01_v04.mat
 /resources/art/shaders/materials/blaster_high14_a01_v04.mat
@@ -3841,6 +3852,7 @@
 /resources/art/shaders/materials/blaster_low06_a01_v01.mat
 /resources/art/shaders/materials/blaster_low06_a01_v03.mat
 /resources/art/shaders/materials/blaster_low06_a01_v04.mat
+/resources/art/shaders/materials/blaster_low07_a01_v02.mat
 /resources/art/shaders/materials/blaster_low08_a01_v01.mat
 /resources/art/shaders/materials/blaster_low08_a01_v02.mat
 /resources/art/shaders/materials/blaster_low08_a01_v03.mat
@@ -3912,6 +3924,7 @@
 /resources/art/shaders/materials/rifle_sniperlow02_a01_v03.mat
 /resources/art/shaders/materials/rifle_sniperlow02_a01_v04.mat
 /resources/art/shaders/materials/rifle_sniperlow04_a01_v03.mat
+/resources/art/shaders/materials/saber_jedihigh05_a01_v01.mat
 /resources/art/shaders/materials/saber_jedilow01_a01_v01.mat
 /resources/art/shaders/materials/saber_jedilow02_a01_v01.mat
 /resources/art/shaders/materials/saber_jedilow03_a01_v01.mat

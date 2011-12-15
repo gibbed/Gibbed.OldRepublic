@@ -1,4 +1,4 @@
-; 7975/8930 (89%)
+; 7987/8930 (89%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -143,6 +143,8 @@
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_d.dds
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_d.tex
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_d.tiny.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_h.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_h.tex
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_m.dds
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_m.tex
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_m.tiny.dds
@@ -272,6 +274,7 @@
 /resources/art/shaders/materials/all_item_camp_stone_table_weapons.mat
 /resources/art/shaders/materials/all_item_camp_urn.mat
 /resources/art/shaders/materials/all_item_caves_boulders_ald.mat
+/resources/art/shaders/materials/all_item_caves_boulders_neu.mat
 /resources/art/shaders/materials/all_item_caves_floor_mound.mat
 /resources/art/shaders/materials/all_item_caves_mushrooms.mat
 /resources/art/shaders/materials/all_item_caves_rbl_mounds_neu_02.mat
@@ -504,6 +507,7 @@
 /resources/art/shaders/materials/all_item_tech_bounty_board.mat
 /resources/art/shaders/materials/all_item_tech_bounty_board_kiosk_dropoff.mat
 /resources/art/shaders/materials/all_item_tech_bounty_board_kiosk_pickup.mat
+/resources/art/shaders/materials/all_item_tech_camera.mat
 /resources/art/shaders/materials/all_item_tech_canister_destroyed.mat
 /resources/art/shaders/materials/all_item_tech_canister_electric.mat
 /resources/art/shaders/materials/all_item_tech_canister_fire.mat
@@ -754,6 +758,7 @@
 /resources/art/shaders/materials/geonosian_eshka_a03_v01.mat
 /resources/art/shaders/materials/geonosian_eshka_a04_v01.mat
 /resources/art/shaders/materials/hair_evocii_bma_non_a01_v01.mat
+/resources/art/shaders/materials/hair_evocii_non_a07_v01_f.mat
 /resources/art/shaders/materials/head_evocii_bfa_non_a01_v01.mat
 /resources/art/shaders/materials/head_evocii_bma_non_a01_v01.mat
 /resources/art/shaders/materials/item_con_crate_ancient_01.mat
@@ -4417,6 +4422,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_bounty_board.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_bounty_board_kiosk_dropoff.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_bounty_board_kiosk_pickup.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_camera.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_canister_destroyed.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_canister_electric.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_canister_fire.gr2
@@ -4871,6 +4877,12 @@
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_bounty_board_s.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_bounty_board_s.tex
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_bounty_board_s.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_camera_d.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_camera_d.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_camera_n.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_camera_n.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_camera_s.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_camera_s.tiny.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_canister_destroyed_d.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_canister_destroyed_d.tex
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_canister_destroyed_d.tiny.dds

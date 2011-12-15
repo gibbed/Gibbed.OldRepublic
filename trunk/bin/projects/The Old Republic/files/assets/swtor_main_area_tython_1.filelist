@@ -1,4 +1,4 @@
-; 1533/1614 (94%)
+; 1541/1614 (95%)
 /resources/art/shaders/materials/all_arch_rep_water_tower_pool.mat
 /resources/art/shaders/materials/all_arch_ruins_house2.mat
 /resources/art/shaders/materials/all_arch_ruins_tower_floor.mat
@@ -129,6 +129,7 @@
 /resources/art/shaders/materials/tyt_speedtree_bush1.mat
 /resources/art/shaders/materials/tyt_speedtree_farm_plant_tall.mat
 /resources/art/shaders/materials/tyt_speedtree_thicket.mat
+/resources/art/shaders/materials/tyt_tree_dead_sapling_nocollision.mat
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_water_tower_pool_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_water_tower_pool_d.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_water_tower_pool_d.tiny.dds
@@ -350,6 +351,7 @@
 /resources/art/static/area/tyt_tython/arch/texture/tyt_arch_jedi_temple_ext_courtyard_concrete2_s.tiny.dds
 /resources/art/static/area/tyt_tython/arch/texture/tyt_arch_jedi_temple_ext_courtyard_floor01_d.dds
 /resources/art/static/area/tyt_tython/arch/texture/tyt_arch_jedi_temple_ext_courtyard_floor01_d.tex
+/resources/art/static/area/tyt_tython/arch/texture/tyt_arch_jedi_temple_ext_courtyard_floor01_d.tiny.dds
 /resources/art/static/area/tyt_tython/arch/texture/tyt_arch_jedi_temple_ext_courtyard_floor01_n.dds
 /resources/art/static/area/tyt_tython/arch/texture/tyt_arch_jedi_temple_ext_courtyard_floor01_n.tex
 /resources/art/static/area/tyt_tython/arch/texture/tyt_arch_jedi_temple_ext_courtyard_floor01_n.tiny.dds
@@ -1283,6 +1285,12 @@
 /resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_blend.dds
 /resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_blend.tex
 /resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_blend.tiny.dds
+/resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_blend_n.dds
+/resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_blend_n.tex
+/resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_blend_n.tiny.dds
+/resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_blend_s.dds
+/resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_blend_s.tex
+/resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_blend_s.tiny.dds
 /resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_d.dds
 /resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_d.tex
 /resources/art/static/area/tyt_tython/terrain_map/ter_tyt_grass_dead_d.tiny.dds

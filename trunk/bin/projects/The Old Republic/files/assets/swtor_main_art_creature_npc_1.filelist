@@ -1,4 +1,4 @@
-; 743/1210 (61%)
+; 756/1210 (62%)
 /resources/art/dynamic/creature/model/dwarf_drall_a01.gr2
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.clo
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.gr2
@@ -531,6 +531,9 @@
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v01_n.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v02_d.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v02_s.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_n.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v03_d.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v03_s.dds
 /resources/art/dynamic/npc/trandoshan/head/texture/___psd/eye_trandoshan_non_a01_c01_d.dds
 /resources/art/dynamic/npc/trandoshan/head/texture/___psd/eye_trandoshan_non_a01_c01_d.tex
 /resources/art/dynamic/npc/trandoshan/head/texture/___psd/eye_trandoshan_non_a01_c01_d.tiny.dds
@@ -598,9 +601,13 @@
 /resources/art/dynamic/npc/yoda/texture/___psd/eye_yoda_non_a01_c01_s.tex
 /resources/art/dynamic/npc/yoda/texture/___psd/eye_yoda_non_a01_c01_s.tiny.dds
 /resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_d.dds
+/resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_d.tex
 /resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_h.dds
+/resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_h.tex
 /resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_n.dds
+/resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_n.tex
 /resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_s.dds
+/resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_s.tex
 /resources/art/dynamic/player_character/chagrian/head/texture/___psd/head_chagrian_bmn_non_a01_v01_d.dds
 /resources/art/dynamic/player_character/chagrian/head/texture/___psd/head_chagrian_bmn_non_a01_v01_d.tex
 /resources/art/dynamic/player_character/chagrian/head/texture/___psd/head_chagrian_bmn_non_a01_v01_h.dds
@@ -645,6 +652,12 @@
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bfa_non_a01_v01_h.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bfa_non_a01_v01_n.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bfa_non_a01_v01_s.dds
+/resources/art/dynamic/player_character/trandoshan/head/texture/___psd/head_trandoshan_bms_non_a01_v01_d.dds
+/resources/art/dynamic/player_character/trandoshan/head/texture/___psd/head_trandoshan_bms_non_a01_v01_d.tex
+/resources/art/dynamic/player_character/trandoshan/head/texture/___psd/head_trandoshan_bms_non_a01_v01_n.dds
+/resources/art/dynamic/player_character/trandoshan/head/texture/___psd/head_trandoshan_bms_non_a01_v01_n.tex
+/resources/art/dynamic/player_character/trandoshan/head/texture/___psd/head_trandoshan_bms_non_a01_v01_s.dds
+/resources/art/dynamic/player_character/trandoshan/head/texture/___psd/head_trandoshan_bms_non_a01_v01_s.tex
 /resources/art/dynamic/spec/dwarf_skeleton.gr2
 /resources/art/dynamic/spec/eshka_skeleton.gr2
 /resources/art/dynamic/spec/ithorian_skeleton.gr2

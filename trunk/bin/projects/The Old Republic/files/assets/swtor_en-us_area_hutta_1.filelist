@@ -1,4 +1,4 @@
-; 88/124 (70%)
+; 90/124 (72%)
 /resources/en-us/bnk2/cnv_location_hutta_ambient_cc_poi_barks.acb
 /resources/en-us/bnk2/cnv_location_hutta_ambient_nemro_cantina.acb
 /resources/en-us/bnk2/cnv_location_hutta_ambient_poison_pit.acb
@@ -13,6 +13,7 @@
 /resources/en-us/bnk2/cnv_location_hutta_bronze_subtle_sabotage_rudd.acb
 /resources/en-us/bnk2/cnv_location_hutta_bronze_tech_jealousy_doctor_terrab.acb
 /resources/en-us/bnk2/cnv_location_hutta_bronze_trainers_agent_linh.acb
+/resources/en-us/bnk2/cnv_location_hutta_class_bounty_hunter_braden.acb
 /resources/en-us/bnk2/cnv_location_hutta_class_spy_dheno_rey.acb
 /resources/en-us/bnk2/cnv_location_hutta_class_spy_holo_archives.acb
 /resources/en-us/bnk2/cnv_location_hutta_class_spy_industrial_facility_computer.acb
@@ -56,6 +57,7 @@
 /resources/en-us/fxe/cnv/location/hutta/bronze/subtle_sabotage/rudd.fxe
 /resources/en-us/fxe/cnv/location/hutta/bronze/tech_jealousy/doctor_terrab.fxe
 /resources/en-us/fxe/cnv/location/hutta/bronze/trainers/agent/linh.fxe
+/resources/en-us/fxe/cnv/location/hutta/class/bounty_hunter/braden.fxe
 /resources/en-us/fxe/cnv/location/hutta/class/spy/dheno_rey.fxe
 /resources/en-us/fxe/cnv/location/hutta/class/spy/holo_archives.fxe
 /resources/en-us/fxe/cnv/location/hutta/class/spy/industrial_facility_computer.fxe

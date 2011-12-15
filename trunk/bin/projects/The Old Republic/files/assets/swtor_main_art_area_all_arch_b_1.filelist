@@ -1,4 +1,4 @@
-; 5622/6335 (88%)
+; 5643/6335 (89%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -82,7 +82,9 @@
 /resources/art/shaders/materials/all_arch_rep_bridge_pillar.mat
 /resources/art/shaders/materials/all_arch_rep_bridge_top.mat
 /resources/art/shaders/materials/all_arch_rep_building_props_01.mat
+/resources/art/shaders/materials/all_arch_rep_building_props_02.mat
 /resources/art/shaders/materials/all_arch_rep_cantina_dance_stage.mat
+/resources/art/shaders/materials/all_arch_rep_cantina_stairs.mat
 /resources/art/shaders/materials/all_arch_rep_fence.mat
 /resources/art/shaders/materials/all_arch_rep_fort_ceilings01.mat
 /resources/art/shaders/materials/all_arch_rep_fort_columns01_noglow.mat
@@ -143,6 +145,7 @@
 /resources/art/shaders/materials/all_arch_rep_stairs.mat
 /resources/art/shaders/materials/all_arch_rep_store_metal.mat
 /resources/art/shaders/materials/all_arch_rep_store_prop02.mat
+/resources/art/shaders/materials/all_arch_rep_tent_large.mat
 /resources/art/shaders/materials/all_arch_rep_tower_tech.mat
 /resources/art/shaders/materials/all_arch_rep_training_bay.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_door.mat
@@ -346,6 +349,7 @@
 /resources/art/shaders/materials/all_wallset_imperial_containment_base.mat
 /resources/art/shaders/materials/all_wallset_imperial_containment_turret.mat
 /resources/art/shaders/materials/all_wallset_imperial_containment_wall_base.mat
+/resources/art/shaders/materials/arch_rep_temple_rotunda_holocron_nocollision.mat
 /resources/art/shaders/materials/cor_arch_city_wallset_vista_01.mat
 /resources/art/shaders/materials/cor_arch_city_wallset_vista_02.mat
 /resources/art/shaders/materials/kor_acad_ceiling_panel_stripes.mat
@@ -1894,6 +1898,7 @@
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_space_wlkwy_rail_seg_crnr01.gr2
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_temple_rotunda_holocron.gr2
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_temple_rotunda_holocron_small.gr2
+/resources/art/static/area/all_all/arch/republic/all_arch_rep_tent_large.gr2
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_tower.gr2
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_tower_gate.gr2
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_tower_gate_entrance.gr2
@@ -2164,6 +2169,15 @@
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_01_s.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_01_s.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_01_s.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_02_d.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_02_d.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_02_d.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_02_n.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_02_n.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_02_n.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_02_s.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_02_s.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_building_props_02_s.tiny.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_cantina_dance_stage_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_cantina_dance_stage_d.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_cantina_dance_stage_d.tiny.dds
@@ -3319,6 +3333,8 @@
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_cobweb_s.dds
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_cobweb_s.tex
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_cobweb_s.tiny.dds
+/resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_crystal_d.tex
+/resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_crystal_d.tiny.dds
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_crystal_n.dds
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_crystal_n.tex
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_crystal_n.tiny.dds
@@ -4440,6 +4456,7 @@
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_floor_broken_s.tiny.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_floor_design_d.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_floor_design_d.tex
+/resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_floor_design_d.tiny.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_floor_design_n.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_floor_design_n.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_floor_design_n.tiny.dds
@@ -4485,6 +4502,10 @@
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_d.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_d.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_d.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_n.tex
+/resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_n.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_s.tex
+/resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_s.tiny.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_podium_d.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_podium_d.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_podium_d.tiny.dds
