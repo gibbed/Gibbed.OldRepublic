@@ -1,6 +1,8 @@
-; 40/244 (16%)
+; 44/244 (18%)
 /resources/en-us/bnk2/cnv_location_universal_imperial_flight_commander.acb
 /resources/en-us/bnk2/cnv_misc_combat_cc_agent_kaliyo.acb
+/resources/en-us/bnk2/cnv_misc_combat_cc_multi_2vr8.acb
+/resources/en-us/bnk2/cnv_misc_generic_lines_bounty_hunter_m.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_sith_sorcerer_f.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_sith_warrior_m.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_spy_m.acb
@@ -18,6 +20,7 @@
 /resources/en-us/bnk2/cnv_misc_vendor_human_f_traineragent_imp.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_m_friendly_imp.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_m_friendly_rep.acb
+/resources/en-us/bnk2/cnv_misc_vendor_human_m_military_imp.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_m_military_imp2.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_m_traineragent_imp.acb
 /resources/en-us/fxe/cnv/location/universal/imperial_flight_commander.fxe
@@ -35,6 +38,7 @@
 /resources/en-us/fxe/cnv/misc/vendor/human_f_traineragent_imp.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_m_friendly_imp.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_m_friendly_rep.fxe
+/resources/en-us/fxe/cnv/misc/vendor/human_m_military_imp.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_m_military_imp2.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_m_traineragent_imp.fxe
 ft.sig

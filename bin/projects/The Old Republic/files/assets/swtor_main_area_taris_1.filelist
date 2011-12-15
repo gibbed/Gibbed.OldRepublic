@@ -1,9 +1,11 @@
-; 1440/1793 (80%)
+; 1442/1793 (80%)
 /resources/art/shaders/materials/all_item_debris_ship_large_b.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_b_01.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_b_trim.mat
 /resources/art/shaders/materials/tar_arch_cables.mat
 /resources/art/shaders/materials/tar_arch_scaffold_mesh.mat
+/resources/art/shaders/materials/tar_arch_transport_track.mat
+/resources/art/shaders/materials/tar_arch_transport_track_details.mat
 /resources/art/static/area/all_all/item/debris/texture/all_item_debris_ship_large_a_d.dds
 /resources/art/static/area/all_all/item/debris/texture/all_item_debris_ship_large_a_d.tex
 /resources/art/static/area/all_all/item/debris/texture/all_item_debris_ship_large_a_d.tiny.dds

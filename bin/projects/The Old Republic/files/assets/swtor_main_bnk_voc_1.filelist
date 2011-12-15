@@ -1,4 +1,4 @@
-; 124/412 (30%)
+; 130/412 (31%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
@@ -9,6 +9,7 @@
 /resources/bnk2/voc_assassindroidczerkasecurity.bnk
 /resources/bnk2/voc_assassindroidhuttmilitary.bnk
 /resources/bnk2/voc_assassindroidmining.bnk
+/resources/bnk2/voc_assassindroidpeacekeeper.bnk
 /resources/bnk2/voc_assassindroidrogue.bnk
 /resources/bnk2/voc_assassindroidstealthrecon.bnk
 /resources/bnk2/voc_assassindroidwar.bnk
@@ -19,6 +20,7 @@
 /resources/bnk2/voc_battledroidindustrial.bnk
 /resources/bnk2/voc_battledroidliberation.bnk
 /resources/bnk2/voc_battledroidrogue.bnk
+/resources/bnk2/voc_battledroidwarbot.bnk
 /resources/bnk2/voc_bith_m_alien_low_soundset.bnk
 /resources/bnk2/voc_chagrian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_chemilizard.bnk
@@ -51,6 +53,7 @@
 /resources/bnk2/voc_imphuman_m_med_2_soundset.bnk
 /resources/bnk2/voc_imphuman_m_med_4_soundset.bnk
 /resources/bnk2/voc_imphuman_m_med_5_soundset.bnk
+/resources/bnk2/voc_imphumanlieu_f_med_1_soundset.bnk
 /resources/bnk2/voc_imphumanlieu_m_med_1_soundset.bnk
 /resources/bnk2/voc_jurgoran.bnk
 /resources/bnk2/voc_kaliyo.bnk
@@ -63,6 +66,7 @@
 /resources/bnk2/voc_kubaz_m_alien_low_soundset.bnk
 /resources/bnk2/voc_kubaz_m_alien_med_soundset.bnk
 /resources/bnk2/voc_mako.bnk
+/resources/bnk2/voc_moncalamari_m_alien_med_soundset.bnk
 /resources/bnk2/voc_nautolan_f_alien_high_soundset.bnk
 /resources/bnk2/voc_neimoidian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_nikto_m_alien_med_soundset.bnk
@@ -81,6 +85,8 @@
 /resources/bnk2/voc_protocoldroiddroservice.bnk
 /resources/bnk2/voc_protocoldroidgenmedical.bnk
 /resources/bnk2/voc_protocoldroidimpmedical.bnk
+/resources/bnk2/voc_protocoldroidpo12.bnk
+/resources/bnk2/voc_repassaultdroid.bnk
 /resources/bnk2/voc_rephuman_f_med_1_soundset.bnk
 /resources/bnk2/voc_rephuman_f_med_2_soundset.bnk
 /resources/bnk2/voc_rephuman_f_med_3_soundset.bnk

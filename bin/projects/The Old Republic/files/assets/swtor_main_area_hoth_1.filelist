@@ -1,4 +1,4 @@
-; 3697/4697 (78%)
+; 3701/4697 (78%)
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_n.dds
@@ -11,11 +11,15 @@
 /resources/art/shaders/materials/all_arch_rep_fort_exterior_strips.mat
 /resources/art/shaders/materials/all_arch_rep_fort_walldetails01.mat
 /resources/art/shaders/materials/all_arch_rep_house_b02.mat
+/resources/art/shaders/materials/all_item_city_support_beam.mat
 /resources/art/shaders/materials/all_item_rep_fort_wall_panels.mat
+/resources/art/shaders/materials/all_item_rep_scaffold.mat
+/resources/art/shaders/materials/all_item_rep_scaffold_elevator.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_d01.mat
 /resources/art/shaders/materials/all_item_tech_computer_terminal_screen.mat
 /resources/art/shaders/materials/hth_arch_tower_trim01.mat
 /resources/art/shaders/materials/hth_env_cliff_snow.mat
+/resources/art/shaders/materials/hth_item_construction_crane.mat
 /resources/art/shaders/materials/hth_item_debris_ship_large_b.mat
 /resources/art/shaders/materials/hth_item_debris_ship_large_b_01.mat
 /resources/art/shaders/materials/hth_item_debris_ship_large_b_trim.mat

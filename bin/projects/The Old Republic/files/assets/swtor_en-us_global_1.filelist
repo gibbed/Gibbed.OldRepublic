@@ -1,4 +1,4 @@
-; 338/3625 (9%)
+; 353/3625 (9%)
 /resources/en-us/str/abl.stb
 /resources/en-us/str/abl/agent/skill.stb
 /resources/en-us/str/abl/player/grant_codex_xp.stb
@@ -75,6 +75,7 @@
 /resources/en-us/str/cnv/location/dromund_kaas/world/unauthorized_transmission/captain_isen.stb
 /resources/en-us/str/cnv/location/dromund_kaas/world/warning_sign/commander_rilan.stb
 /resources/en-us/str/cnv/location/flashpoint/daily/imperial/daily_mission_board_1.stb
+/resources/en-us/str/cnv/location/flashpoint/shared/bringing_down_the_hammer/imperial/n4_01.stb
 /resources/en-us/str/cnv/location/hutta/ambient/cc_poi_barks.stb
 /resources/en-us/str/cnv/location/hutta/ambient/nemro_cantina.stb
 /resources/en-us/str/cnv/location/hutta/ambient/poison_pit.stb
@@ -121,7 +122,19 @@
 /resources/en-us/str/cnv/location/hutta/world/trophy_hunter/the_black_death.stb
 /resources/en-us/str/cnv/location/hutta/world/trophy_hunter/varsoonta.stb
 /resources/en-us/str/cnv/location/hutta/world/unfinished_business/nemro_agent.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/black_talon_computer.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/chief_engineer.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/commander_ghulil.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/engineer.stb
 /resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/firstclassvalet.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/imperial_marine_1.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/imperial_marine_3.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/lieutenant_sylas.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/nr_02.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/starfighter.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/the_general.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/transport_droid.stb
+/resources/en-us/str/cnv/location/imperial_transition/world_arc/imperial/yadira_ban.stb
 /resources/en-us/str/cnv/location/korriban/ambient/tomb_of_ajunta_pall.stb
 /resources/en-us/str/cnv/location/korriban/bronze/armed_and_dangerous/bounty_board.stb
 /resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/overseer_harkun.stb
@@ -133,6 +146,7 @@
 /resources/en-us/str/cnv/location/universal/imperial_flight_commander.stb
 /resources/en-us/str/cnv/location/universal/space/imperial_fleet_terminal.stb
 /resources/en-us/str/cnv/misc/combat/cc/agent/kaliyo.stb
+/resources/en-us/str/cnv/misc/combat/cc/multi/2vr8.stb
 /resources/en-us/str/cnv/misc/generic_lines.stb
 /resources/en-us/str/cnv/misc/generic_placeable.stb
 /resources/en-us/str/cnv/misc/vendor/droid_friendly_imp.stb
@@ -149,6 +163,7 @@
 /resources/en-us/str/cnv/misc/vendor/human_f_traineragent_imp.stb
 /resources/en-us/str/cnv/misc/vendor/human_m_friendly_imp.stb
 /resources/en-us/str/cnv/misc/vendor/human_m_friendly_rep.stb
+/resources/en-us/str/cnv/misc/vendor/human_m_military_imp.stb
 /resources/en-us/str/cnv/misc/vendor/human_m_military_imp2.stb
 /resources/en-us/str/cnv/misc/vendor/human_m_traineragent_imp.stb
 /resources/en-us/str/cnv/tutorial/imperial_fleet/bounty_board.stb

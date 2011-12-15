@@ -1,4 +1,4 @@
-; 1177/2181 (53%)
+; 1195/2181 (54%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -497,6 +497,8 @@
 /resources/art/lights/000_099_096.dds
 /resources/art/lights/000_099_096.tex
 /resources/art/lights/000_099_096.tiny.dds
+/resources/art/lights/003_058_090.dds
+/resources/art/lights/003_058_090.tex
 /resources/art/lights/018_080_096.dds
 /resources/art/lights/018_080_096.tex
 /resources/art/lights/023_044_090.dds
@@ -519,6 +521,8 @@
 /resources/art/lights/345_068_052.dds
 /resources/art/lights/345_068_052.tex
 /resources/art/lights/44_79_99.dds
+/resources/art/lights/72_162_136.dds
+/resources/art/lights/72_162_136.tex
 /resources/art/lights/ald_exterior_lightramp.dds
 /resources/art/lights/ald_exterior_lightramp.tex
 /resources/art/lights/ald_exterior_lightramp.tiny.dds
@@ -570,6 +574,8 @@
 /resources/art/lights/andrew_test_fill2.tex
 /resources/art/lights/bal_exterior_lightramp.dds
 /resources/art/lights/bal_exterior_lightramp.tex
+/resources/art/lights/bal_interior_lightramp_arms_factory.dds
+/resources/art/lights/bal_interior_lightramp_arms_factory.tex
 /resources/art/lights/bel_interior_rep_prison_lightramp.dds
 /resources/art/lights/bel_interior_rep_prison_lightramp.tex
 /resources/art/lights/bel_whiteroom_lightramp.dds
@@ -769,6 +775,8 @@
 /resources/art/lights/fx_ramp_edge_01.tex
 /resources/art/lights/fx_ramp_full_wrap.dds
 /resources/art/lights/fx_ramp_full_wrap.tex
+/resources/art/lights/fx_ramp_hardline_tightgrad_wrap.dds
+/resources/art/lights/fx_ramp_hardline_tightgrad_wrap.tex
 /resources/art/lights/fx_ramp_slightwrap_01.dds
 /resources/art/lights/fx_ramp_slightwrap_01.tex
 /resources/art/lights/fx_ramp_standard_01.dds
@@ -883,6 +891,10 @@
 /resources/art/lights/lum_warehouse_light_03.dds
 /resources/art/lights/lum_warehouse_light_03.tex
 /resources/art/lights/lum_warehouse_light_03.tiny.dds
+/resources/art/lights/lum_water.dds
+/resources/art/lights/lum_water.tex
+/resources/art/lights/lum_works_bridge.dds
+/resources/art/lights/lum_works_bridge.tex
 /resources/art/lights/ord_exterior_lightramp_csr.dds
 /resources/art/lights/ord_exterior_lightramp_csr.tex
 /resources/art/lights/ord_exterior_lightramp_volcano.dds
@@ -909,6 +921,8 @@
 /resources/art/lights/square_clouds02.tex
 /resources/art/lights/test_ac_exterior_nonsat.dds
 /resources/art/lights/test_ac_exterior_nonsat.tex
+/resources/art/lights/test_ac_interior_nonsat_dark.dds
+/resources/art/lights/test_ac_interior_nonsat_dark.tex
 /resources/art/lights/test_andrew_point.dds
 /resources/art/lights/test_andrew_point.tex
 /resources/art/lights/tomb4_ramp.dds
@@ -1144,7 +1158,11 @@
 /resources/art/static/designblockout/droids/gonk_armor_head.gr2
 /resources/art/static/designblockout/imp_arc/dbo_all_arch_imp_space_door_med_busted.gr2
 /resources/art/static/designblockout/imp_arc/dbo_imp_arc_wire_hang_a_01.gr2
+/resources/art/static/designblockout/imp_arc/dbo_imp_arc_wire_hang_b_01.gr2
+/resources/art/static/designblockout/imp_arc/dbo_imp_arc_wire_hang_d_01.gr2
+/resources/art/static/designblockout/imp_arc/dbo_imp_arc_wire_hang_e_02.gr2
 /resources/art/static/designblockout/imp_arc/dbo_imp_arc_wire_still_c_01.gr2
+/resources/art/static/designblockout/imp_arc/dbo_item_furn_chair_imperial.gr2
 /resources/art/static/designblockout/imp_arc/dbo_lightspeed_stars_base_05.gr2
 /resources/art/static/designblockout/imperial/dbo_all_sith_interior_door_transition2tombs_door_closed_01.gr2
 /resources/art/static/designblockout/imperial/imperial_body/designblockout_imperial_body.gr2
