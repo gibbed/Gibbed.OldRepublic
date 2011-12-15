@@ -1,4 +1,4 @@
-; 395/715 (55%)
+; 403/715 (56%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -80,6 +80,14 @@
 /resources/art/dynamic/mags/pvpimptransport/mag_pvpimptransport_collision_ship.gr2
 /resources/art/dynamic/mags/pvpreptransport/mag_pvpreptransport_collision.gr2
 /resources/art/dynamic/mags/pvpreptransport/mag_pvpreptransport_collision_ship.gr2
+/resources/art/dynamic/mags/repdropship/mag_repdropship_collision_backward_ramp.gr2
+/resources/art/dynamic/mags/repdropship/mag_repdropship_collision_backward_wingsdown.gr2
+/resources/art/dynamic/mags/repdropship/mag_repdropship_collision_crashed_flyin.gr2
+/resources/art/dynamic/mags/repdropship/mag_repdropship_collision_forward_ramp.gr2
+/resources/art/dynamic/mags/repdropship/mag_repdropship_collision_forward_wingsdown.gr2
+/resources/art/dynamic/mags/repdropship/mag_repdropship_collision_forward_wingsup.gr2
+/resources/art/dynamic/mags/repdropship/mag_repdropship_door.gr2
+/resources/art/dynamic/mags/repdropship/mag_repdropship_door_backward.gr2
 /resources/art/dynamic/mags/shipimpdropship/mag_shipimpdropship_door.gr2
 /resources/art/dynamic/mags/shipimpdropship/mag_shipimpdropship_v01_collision_landed.gr2
 /resources/art/dynamic/mags/shipimpdropship/mag_shipimpdropship_v01_collision_landed_ramp.gr2

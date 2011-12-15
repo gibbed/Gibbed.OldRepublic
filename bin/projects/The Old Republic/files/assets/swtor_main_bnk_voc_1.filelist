@@ -1,4 +1,4 @@
-; 130/412 (31%)
+; 141/412 (34%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
@@ -14,6 +14,7 @@
 /resources/bnk2/voc_assassindroidstealthrecon.bnk
 /resources/bnk2/voc_assassindroidwar.bnk
 /resources/bnk2/voc_astromechimperial.bnk
+/resources/bnk2/voc_astromechrepublic.bnk
 /resources/bnk2/voc_astromechtg6.bnk
 /resources/bnk2/voc_basedroid01.bnk
 /resources/bnk2/voc_battledroidimperial.bnk
@@ -33,6 +34,9 @@
 /resources/bnk2/voc_evocii_lt_m_alien_med_soundset.bnk
 /resources/bnk2/voc_evocii_m_alien_low_soundset.bnk
 /resources/bnk2/voc_evocii_m_alien_med_soundset.bnk
+/resources/bnk2/voc_fleshrdr_lt_m_alien_med_soundset.bnk
+/resources/bnk2/voc_fleshrdr_m_alien_high_soundset.bnk
+/resources/bnk2/voc_fleshrdr_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gamorrean_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gand_m_alien_low_soundset.bnk
 /resources/bnk2/voc_gonkdroid.bnk
@@ -66,6 +70,7 @@
 /resources/bnk2/voc_kubaz_m_alien_low_soundset.bnk
 /resources/bnk2/voc_kubaz_m_alien_med_soundset.bnk
 /resources/bnk2/voc_mako.bnk
+/resources/bnk2/voc_manka.bnk
 /resources/bnk2/voc_moncalamari_m_alien_med_soundset.bnk
 /resources/bnk2/voc_nautolan_f_alien_high_soundset.bnk
 /resources/bnk2/voc_neimoidian_m_alien_low_soundset.bnk
@@ -73,6 +78,9 @@
 /resources/bnk2/voc_ortolan_m_alien_low_soundset.bnk
 /resources/bnk2/voc_player_bounty_hunter_f.bnk
 /resources/bnk2/voc_player_bounty_hunter_m.bnk
+/resources/bnk2/voc_player_jedi_knight_f.bnk
+/resources/bnk2/voc_player_jedi_knight_m.bnk
+/resources/bnk2/voc_player_jedi_wizard_m.bnk
 /resources/bnk2/voc_player_sith_sorcerer_f.bnk
 /resources/bnk2/voc_player_sith_sorcerer_m.bnk
 /resources/bnk2/voc_player_sith_warrior_f.bnk
@@ -86,6 +94,7 @@
 /resources/bnk2/voc_protocoldroidgenmedical.bnk
 /resources/bnk2/voc_protocoldroidimpmedical.bnk
 /resources/bnk2/voc_protocoldroidpo12.bnk
+/resources/bnk2/voc_protocoldroidrepmedical.bnk
 /resources/bnk2/voc_repassaultdroid.bnk
 /resources/bnk2/voc_rephuman_f_med_1_soundset.bnk
 /resources/bnk2/voc_rephuman_f_med_2_soundset.bnk
@@ -120,11 +129,13 @@
 /resources/bnk2/voc_twilek_m_alien_med_soundset.bnk
 /resources/bnk2/voc_ugnaught_m_alien_low_soundset.bnk
 /resources/bnk2/voc_ugnaught_m_alien_med_soundset.bnk
+/resources/bnk2/voc_uxibeast.bnk
 /resources/bnk2/voc_vette.bnk
 /resources/bnk2/voc_vinecat.bnk
 /resources/bnk2/voc_wampa.bnk
 /resources/bnk2/voc_weequay_m_alien_low_soundset.bnk
 /resources/bnk2/voc_weequay_m_alien_med_soundset.bnk
+/resources/bnk2/voc_wingmaw.bnk
 /resources/bnk2/voc_xuvvasoarer.bnk
 /resources/bnk2/voc_yozusk.bnk
 ft.sig

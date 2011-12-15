@@ -1,4 +1,4 @@
-; 30/187 (16%)
+; 32/187 (17%)
 /resources/alien/fxe/cnv/alien_vo/arcona/male_med.fxe
 /resources/alien/fxe/cnv/alien_vo/astromechdroid/generic_med.fxe
 /resources/alien/fxe/cnv/alien_vo/astromechdroid/temp.fxe
@@ -11,6 +11,7 @@
 /resources/alien/fxe/cnv/alien_vo/hutttwilek/male_low.fxe
 /resources/alien/fxe/cnv/alien_vo/keldor/male_low.fxe
 /resources/alien/fxe/cnv/alien_vo/neimoidian/male_med.fxe
+/resources/alien/fxe/cnv/alien_vo/nikto/male_med.fxe
 /resources/alien/fxe/cnv/alien_vo/rodian/f_med.fxe
 /resources/alien/fxe/cnv/alien_vo/ugnaught/male_low.fxe
 /resources/bnk2/cnv_alien_vo_arcona_male_med.acb
@@ -25,6 +26,7 @@
 /resources/bnk2/cnv_alien_vo_hutttwilek_male_low.acb
 /resources/bnk2/cnv_alien_vo_keldor_male_low.acb
 /resources/bnk2/cnv_alien_vo_neimoidian_male_med.acb
+/resources/bnk2/cnv_alien_vo_nikto_male_med.acb
 /resources/bnk2/cnv_alien_vo_rodian_f_med.acb
 /resources/bnk2/cnv_alien_vo_ugnaught_male_low.acb
 ft.sig

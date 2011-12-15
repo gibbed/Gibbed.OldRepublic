@@ -1,4 +1,4 @@
-; 9/50 (18%)
+; 10/50 (20%)
 /resources/bnk2/location_characterselect_media.bnk
 /resources/bnk2/location_dromundkaas_media.bnk
 /resources/bnk2/location_fp_imperial_spacedock_media.bnk
@@ -6,5 +6,6 @@
 /resources/bnk2/location_hutta_media.bnk
 /resources/bnk2/location_korriban_media.bnk
 /resources/bnk2/location_player_ships_media.bnk
+/resources/bnk2/location_tython_media.bnk
 ft.sig
 metadata.bin
