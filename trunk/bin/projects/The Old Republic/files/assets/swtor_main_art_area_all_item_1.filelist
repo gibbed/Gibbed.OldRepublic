@@ -1,4 +1,4 @@
-; 7950/8930 (89%)
+; 7975/8930 (89%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -296,6 +296,7 @@
 /resources/art/shaders/materials/all_item_city_sign_vertical_horizontal_cards.mat
 /resources/art/shaders/materials/all_item_city_statue.mat
 /resources/art/shaders/materials/all_item_city_statue_02.mat
+/resources/art/shaders/materials/all_item_city_streetlamp.mat
 /resources/art/shaders/materials/all_item_city_techsigns_01.mat
 /resources/art/shaders/materials/all_item_city_techsigns_01_cards.mat
 /resources/art/shaders/materials/all_item_city_techsigns_02.mat
@@ -339,8 +340,10 @@
 /resources/art/shaders/materials/all_item_debris_ship_medium_c_trim_02.mat
 /resources/art/shaders/materials/all_item_debris_ship_medium_d.mat
 /resources/art/shaders/materials/all_item_decal_circle_shadow.mat
+/resources/art/shaders/materials/all_item_decal_debris_pile.mat
 /resources/art/shaders/materials/all_item_decal_lava.mat
 /resources/art/shaders/materials/all_item_decal_paper.mat
+/resources/art/shaders/materials/all_item_decal_rep_logo.mat
 /resources/art/shaders/materials/all_item_farm_grain_container.mat
 /resources/art/shaders/materials/all_item_farm_plant_med_01.mat
 /resources/art/shaders/materials/all_item_farm_plant_short_01.mat
@@ -420,6 +423,7 @@
 /resources/art/shaders/materials/all_item_red_crystal.mat
 /resources/art/shaders/materials/all_item_relics_vase.mat
 /resources/art/shaders/materials/all_item_rep_ammo_box.mat
+/resources/art/shaders/materials/all_item_rep_banner.mat
 /resources/art/shaders/materials/all_item_rep_barricade_concrete.mat
 /resources/art/shaders/materials/all_item_rep_barricade_metal.mat
 /resources/art/shaders/materials/all_item_rep_bunk.mat
@@ -427,6 +431,7 @@
 /resources/art/shaders/materials/all_item_rep_computer_table.mat
 /resources/art/shaders/materials/all_item_rep_console01.mat
 /resources/art/shaders/materials/all_item_rep_crate_02.mat
+/resources/art/shaders/materials/all_item_rep_crate_02_broken.mat
 /resources/art/shaders/materials/all_item_rep_crate_02_open.mat
 /resources/art/shaders/materials/all_item_rep_desk_computer_01.mat
 /resources/art/shaders/materials/all_item_rep_desk_computer_01_suv.mat
@@ -452,6 +457,7 @@
 /resources/art/shaders/materials/all_item_rep_saberremote.mat
 /resources/art/shaders/materials/all_item_rep_sandbag.mat
 /resources/art/shaders/materials/all_item_rep_sandbag_ao.mat
+/resources/art/shaders/materials/all_item_rep_scaffold_light.mat
 /resources/art/shaders/materials/all_item_rep_signpost.mat
 /resources/art/shaders/materials/all_item_rep_table_lamp.mat
 /resources/art/shaders/materials/all_item_rep_table_platform.mat
@@ -488,6 +494,7 @@
 /resources/art/shaders/materials/all_item_taxi_holo_sign_alpha.mat
 /resources/art/shaders/materials/all_item_taxi_kiosk.mat
 /resources/art/shaders/materials/all_item_tech_archive_terminal.mat
+/resources/art/shaders/materials/all_item_tech_armory_locker.mat
 /resources/art/shaders/materials/all_item_tech_auction_house_kiosk.mat
 /resources/art/shaders/materials/all_item_tech_auction_house_kiosk_02_suv.mat
 /resources/art/shaders/materials/all_item_tech_auction_house_kiosk_suv.mat
@@ -523,6 +530,7 @@
 /resources/art/shaders/materials/all_item_tech_console_large_screen_suv.mat
 /resources/art/shaders/materials/all_item_tech_controlpanels01.mat
 /resources/art/shaders/materials/all_item_tech_controlpanels01_damaged.mat
+/resources/art/shaders/materials/all_item_tech_core_drum.mat
 /resources/art/shaders/materials/all_item_tech_datacron_endurance.mat
 /resources/art/shaders/materials/all_item_tech_datacron_min_max_choice.mat
 /resources/art/shaders/materials/all_item_tech_datacron_willpower.mat
@@ -575,8 +583,10 @@
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_01.mat
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_02.mat
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_03.mat
+/resources/art/shaders/materials/all_item_tech_missiles_large_all_item_tech_missiles.mat
 /resources/art/shaders/materials/all_item_tech_missiles_large_fin.mat
 /resources/art/shaders/materials/all_item_tech_missiles_small.mat
+/resources/art/shaders/materials/all_item_tech_monitor_decal_02.mat
 /resources/art/shaders/materials/all_item_tech_monitorcracks_d.mat
 /resources/art/shaders/materials/all_item_tech_neu_cthon_pod.mat
 /resources/art/shaders/materials/all_item_tech_neu_cthon_pod_glass.mat
@@ -591,6 +601,8 @@
 /resources/art/shaders/materials/all_item_tech_radar_small.mat
 /resources/art/shaders/materials/all_item_tech_reinforced_door.mat
 /resources/art/shaders/materials/all_item_tech_remote_detonator.mat
+/resources/art/shaders/materials/all_item_tech_rep_comp_terminal.mat
+/resources/art/shaders/materials/all_item_tech_rep_comp_terminal_suv.mat
 /resources/art/shaders/materials/all_item_tech_rep_flatbed.mat
 /resources/art/shaders/materials/all_item_tech_resurrection_point.mat
 /resources/art/shaders/materials/all_item_tech_science_centrifuge.mat
@@ -609,6 +621,7 @@
 /resources/art/shaders/materials/all_item_tech_small_holoprojector.mat
 /resources/art/shaders/materials/all_item_tech_sonic_device.mat
 /resources/art/shaders/materials/all_item_tech_space_mission_panel.mat
+/resources/art/shaders/materials/all_item_tech_support.mat
 /resources/art/shaders/materials/all_item_tech_tat_solar_panel.mat
 /resources/art/shaders/materials/all_item_tech_torture_machine_imperial.mat
 /resources/art/shaders/materials/all_item_tech_und_monitor.mat
@@ -1341,6 +1354,7 @@
 /resources/art/static/area/all_all/item/city/all_item_market_banner_canopy.gr2
 /resources/art/static/area/all_all/item/city/all_item_market_banner_canopy_01.gr2
 /resources/art/static/area/all_all/item/city/all_item_market_banner_canopy_02.gr2
+/resources/art/static/area/all_all/item/city/all_item_streetlamp_lamp_solo.gr2
 /resources/art/static/area/all_all/item/city/texture/all_item_city_bar_d.dds
 /resources/art/static/area/all_all/item/city/texture/all_item_city_bar_d.tex
 /resources/art/static/area/all_all/item/city/texture/all_item_city_bar_d.tiny.dds
@@ -2559,6 +2573,9 @@
 /resources/art/static/area/all_all/item/decal/all_item_decal_paper.gr2
 /resources/art/static/area/all_all/item/decal/all_item_decal_rep_logo.gr2
 /resources/art/static/area/all_all/item/decal/all_item_decal_stripes_red_cap01_4m.gr2
+/resources/art/static/area/all_all/item/decal/all_item_decal_stripes_red_corner_01_4m.gr2
+/resources/art/static/area/all_all/item/decal/all_item_decal_stripes_red_straight_2m.gr2
+/resources/art/static/area/all_all/item/decal/all_item_decal_stripes_red_straight_4m.gr2
 /resources/art/static/area/all_all/item/decal/all_item_decal_stripes_red_straight02_4m.gr2
 /resources/art/static/area/all_all/item/decal/all_item_decal_thick_red_corner_4m.gr2
 /resources/art/static/area/all_all/item/decal/all_item_decal_thick_red_straight_4m.gr2
@@ -2596,6 +2613,7 @@
 /resources/art/static/area/all_all/item/decal/texture/all_item_decal_rep_logo_d.tiny.dds
 /resources/art/static/area/all_all/item/factory/all_item_factory_cauldron.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_cauldron_arm.gr2
+/resources/art/static/area/all_all/item/factory/all_item_factory_cauldron_metal.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_cauldron_stand.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_control_tower.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_arm.gr2
@@ -3653,6 +3671,10 @@
 /resources/art/static/area/all_all/item/republic/all_item_rep_crate.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_crate_02_broken.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_crate_02_open.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_crate_02a.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_crate_02b.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_crate_02c.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_crate_02d.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_crate_w_pallet.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_desk_computer_01.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_desk_computer_damaged.gr2
@@ -3719,6 +3741,7 @@
 /resources/art/static/area/all_all/item/republic/all_item_rep_peasant_chair.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_peasant_lamp.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_peasant_table.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_platform_support.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_saberremote.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_saberremote_anim.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_sandbag.gr2
@@ -3729,6 +3752,7 @@
 /resources/art/static/area/all_all/item/republic/all_item_rep_scaffold_elevator_platform.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_scaffold_light.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_scaffold_platform_b.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_scaffold_post.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_scaffold_small_light.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_signpost_base.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_signpost_marker.gr2
@@ -4637,6 +4661,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_space_mission_panel.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_stealth_generator.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_stealth_generator_mount.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_support_02.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_tat_solar_panel.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_tat_solar_panel_damaged.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_tat_solar_panel_damaged_piece.gr2

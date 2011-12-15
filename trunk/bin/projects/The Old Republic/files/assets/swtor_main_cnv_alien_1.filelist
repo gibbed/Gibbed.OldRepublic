@@ -1,5 +1,6 @@
-; 28/187 (14%)
+; 30/187 (16%)
 /resources/alien/fxe/cnv/alien_vo/arcona/male_med.fxe
+/resources/alien/fxe/cnv/alien_vo/astromechdroid/generic_med.fxe
 /resources/alien/fxe/cnv/alien_vo/astromechdroid/temp.fxe
 /resources/alien/fxe/cnv/alien_vo/bith/m_med.fxe
 /resources/alien/fxe/cnv/alien_vo/dashade/male_khem_val.fxe
@@ -13,6 +14,7 @@
 /resources/alien/fxe/cnv/alien_vo/rodian/f_med.fxe
 /resources/alien/fxe/cnv/alien_vo/ugnaught/male_low.fxe
 /resources/bnk2/cnv_alien_vo_arcona_male_med.acb
+/resources/bnk2/cnv_alien_vo_astromechdroid_generic_med.acb
 /resources/bnk2/cnv_alien_vo_astromechdroid_temp.acb
 /resources/bnk2/cnv_alien_vo_bith_m_med.acb
 /resources/bnk2/cnv_alien_vo_dashade_male_khem_val.acb

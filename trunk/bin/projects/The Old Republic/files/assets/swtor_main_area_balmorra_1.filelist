@@ -1,4 +1,4 @@
-; 1347/1507 (89%)
+; 1348/1507 (89%)
 /resources/art/fx/texture/uv_atlas/all_item_forcefields_01_base_a.dds
 /resources/art/fx/texture/uv_atlas/all_item_forcefields_01_base_a.tex
 /resources/art/fx/texture/uv_atlas/all_item_forcefields_01_base_a.tiny.dds
@@ -19,6 +19,7 @@
 /resources/art/shaders/materials/cor_arch_works_lights.mat
 /resources/art/shaders/materials/cor_arch_works_wall_pipe.mat
 /resources/art/shaders/materials/cor_arch_works_wall02.mat
+/resources/art/shaders/materials/tar_ibeam_middle.mat
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_market_stand_d.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_market_stand_d.tex
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_market_stand_d.tiny.dds

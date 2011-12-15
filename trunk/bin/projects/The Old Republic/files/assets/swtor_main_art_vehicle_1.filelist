@@ -1,4 +1,4 @@
-; 1171/1548 (75%)
+; 1179/1548 (76%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -70,6 +70,8 @@
 /resources/art/shaders/materials/veh_rep_destroyer_metal01.mat
 /resources/art/shaders/materials/veh_rep_destroyer_metal02.mat
 /resources/art/shaders/materials/veh_rep_destroyer_trim.mat
+/resources/art/shaders/materials/veh_rep_fighter02_01.mat
+/resources/art/shaders/materials/veh_rep_fighter02_02.mat
 /resources/art/shaders/materials/veh_rep_ps_shuttle_01.mat
 /resources/art/shaders/materials/veh_rep_ps_shuttle_02.mat
 /resources/art/shaders/materials/veh_rep_troop_transport_01.mat
@@ -314,7 +316,11 @@
 /resources/art/static/vehicle/imp/veh_imp_capital_destroyer_lod02.gr2
 /resources/art/static/vehicle/imp/veh_imp_capital_destroyer_lod03.gr2
 /resources/art/static/vehicle/imp/veh_imp_friggate.gr2
+/resources/art/static/vehicle/imp/veh_imp_friggate_dome.gr2
 /resources/art/static/vehicle/imp/veh_imp_friggate_lod01.gr2
+/resources/art/static/vehicle/imp/veh_imp_friggate_view_bridge.gr2
+/resources/art/static/vehicle/imp/veh_imp_friggate_view_hangar.gr2
+/resources/art/static/vehicle/imp/veh_imp_friggate_view_hangar_right.gr2
 /resources/art/static/vehicle/imp/veh_imp_ps_shuttle.gr2
 /resources/art/static/vehicle/imp/veh_imp_starfighter_bomber.gr2
 /resources/art/static/vehicle/imp/veh_imp_starfighter_interceptor.gr2
@@ -1162,8 +1168,10 @@
 /resources/art/static/vehicle/republic/texture/veh_rep_troop_transport_02_s.tiny.dds
 /resources/art/static/vehicle/republic/veh_rep_capital_ship_lod01.gr2
 /resources/art/static/vehicle/republic/veh_rep_destroyer.gr2
+/resources/art/static/vehicle/republic/veh_rep_destroyer_distant.gr2
 /resources/art/static/vehicle/republic/veh_rep_destroyer_lod01.gr2
 /resources/art/static/vehicle/republic/veh_rep_fighter.gr2
+/resources/art/static/vehicle/republic/veh_rep_fighter02_03_static.gr2
 /resources/art/static/vehicle/republic/veh_rep_ps_shuttle.gr2
 /resources/art/static/vehicle/republic/veh_rep_troop_transport.gr2
 /resources/art/static/vehicle/republic/veh_rep_troop_transport_flight.gr2

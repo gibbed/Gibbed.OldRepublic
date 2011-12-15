@@ -1,4 +1,4 @@
-; 3120/3574 (87%)
+; 3153/3574 (88%)
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_01.mat
@@ -19,6 +19,7 @@
 /resources/art/shaders/materials/all_arch_city_ext_bwall_a_new_02.mat
 /resources/art/shaders/materials/all_arch_city_ext_bwall_a_new_03.mat
 /resources/art/shaders/materials/all_arch_city_ext_bwall_door_lg.mat
+/resources/art/shaders/materials/all_arch_city_guard_tower.mat
 /resources/art/shaders/materials/all_arch_city_large_pillar.mat
 /resources/art/shaders/materials/all_arch_city_mall_sunshade.mat
 /resources/art/shaders/materials/all_arch_city_market_stand.mat
@@ -135,6 +136,12 @@
 /resources/art/shaders/materials/all_arch_imp_sith_ruins_statue_chair.mat
 /resources/art/shaders/materials/all_arch_imp_space_airlock.mat
 /resources/art/shaders/materials/all_arch_imp_space_ceiling_truss.mat
+/resources/art/shaders/materials/all_arch_imp_space_engine_large01.mat
+/resources/art/shaders/materials/all_arch_imp_space_engine_large02.mat
+/resources/art/shaders/materials/all_arch_imp_space_engine_large03.mat
+/resources/art/shaders/materials/all_arch_imp_space_engine_large04.mat
+/resources/art/shaders/materials/all_arch_imp_space_engine_large05.mat
+/resources/art/shaders/materials/all_arch_imp_space_genmetal01_burnt.mat
 /resources/art/shaders/materials/all_arch_imp_space_genmetal02.mat
 /resources/art/shaders/materials/all_arch_imp_space_hall_cmprt01.mat
 /resources/art/shaders/materials/all_arch_imp_space_hall_details.mat
@@ -142,6 +149,7 @@
 /resources/art/shaders/materials/all_arch_imp_space_hall_door_med.mat
 /resources/art/shaders/materials/all_arch_imp_space_hall_door_med_blasted.mat
 /resources/art/shaders/materials/all_arch_imp_space_hall_floor02.mat
+/resources/art/shaders/materials/all_arch_imp_space_hall_lgbrace.mat
 /resources/art/shaders/materials/all_arch_imp_space_hall_ventcon.mat
 /resources/art/shaders/materials/all_arch_imp_space_hall_wallpanel01.mat
 /resources/art/shaders/materials/all_arch_imp_space_mod_room_pillar.mat
@@ -169,6 +177,8 @@
 /resources/art/shaders/materials/all_arch_rep_jedi_retreat_wall_01.mat
 /resources/art/shaders/materials/all_arch_rep_jedi_retreat_wall_02.mat
 /resources/art/shaders/materials/all_arch_rep_space_door_lg.mat
+/resources/art/shaders/materials/all_arch_rep_space_elevator.mat
+/resources/art/shaders/materials/all_arch_rep_space_elevator_door.mat
 /resources/art/shaders/materials/all_arch_rep_space_escape_pod_latch.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_wall2.mat
 /resources/art/shaders/materials/all_arch_und_factory_int_liquid.mat
@@ -1366,6 +1376,7 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_a_light_01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_a_light_02.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_antennae.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_b_pillar01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_ceiling_tech.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_ceiling_vent.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_house_ceiling_vent02.gr2
@@ -1406,6 +1417,7 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_airlock.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_airlock_back.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_airlock_door_closed.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_airlock_door_open.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_airlock_hallbrace.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_ceiling_truss_4seg.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_ceiling_truss01.gr2
@@ -1418,6 +1430,9 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_door_med_blasted.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_door_med_closed.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_door_med_open.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_door_med_open_collision.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_engine_large_animated.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_engine_rotpad.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_b_20m.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_ceiling_lower01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_ceiling_lower02.gr2
@@ -1426,6 +1441,7 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_console_lower01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_console_upper01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_corner_a.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_cross_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_d_20m.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_door_sm_cap01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_door_wall_cap01.gr2
@@ -1439,11 +1455,13 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_wall_panel01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hall_wall_window01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_crnr01.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_cross01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_mod_corner.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_mod_door_left.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_mod_door_right.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_seg01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_seg01_5m.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_seg01_ramp.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_seg01_ramp_5m.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_seg01_short.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_hallsm_tsec01.gr2
@@ -1497,19 +1515,28 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_post_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_rail_corner_in_8m_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_rail_corner_out_4m_a.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_rail_corner_out_8m_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_rail_ramp_ls_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_rail_ramp_rs_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_rail_seg_4m_a01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_rail_seg_8m_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_ramp_8m_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_seg01.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_seg02.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_walkway_8m_a.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_walkway_corner_a.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pf_walkway_tsec_a.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_pillar01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge_center.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge_center_short.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge_exterior.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge_left.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge_left_short.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge_left_wing_door.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge_right_wing.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge_right_wing_door.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_bridge_right_wing_short.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_control.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_control_ext.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_control_ext_shutters.gr2
@@ -1517,12 +1544,15 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_elevator_pad.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_elevator_tubecap.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_elevator_tubedoor.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_generic_med01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_generic_med01_mirror.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_generic_small01.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_hangar_med.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_hangar_med_door.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_hangar_pillar.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_hangar_wallseg01.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_large.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_large_ceiling_engine.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_large_ceiling_low.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_large_lgdrway.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_large_lgdrway_low.gr2
@@ -1531,7 +1561,10 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_skylight.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_vb_arch_15_half.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_vb_arch_30.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_vb_entrance.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_vb_entrance_30m.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_vb_wall.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_viewblocker.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_room_viewblocker_floor_pit.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_space_vault_door_closed.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_store_ceilinglight.gr2
