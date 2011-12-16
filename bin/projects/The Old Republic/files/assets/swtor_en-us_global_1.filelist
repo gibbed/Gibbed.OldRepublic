@@ -1,4 +1,4 @@
-; 378/3625 (10%)
+; 385/3625 (10%)
 /resources/en-us/str/abl.stb
 /resources/en-us/str/abl/agent/skill.stb
 /resources/en-us/str/abl/player/grant_codex_xp.stb
@@ -150,13 +150,20 @@
 /resources/en-us/str/cnv/location/korriban/class/sith_sorcerer/spindrall.stb
 /resources/en-us/str/cnv/location/korriban/class/sith_warrior/overseer_tremel2.stb
 /resources/en-us/str/cnv/location/korriban/world/allegiance/inquisitor_arzanon.stb
+/resources/en-us/str/cnv/location/korriban/world/jailbreak/inquisitor_urinth.stb
+/resources/en-us/str/cnv/location/korriban/world/jailbreak/quorian_dorjis.stb
 /resources/en-us/str/cnv/location/korriban/world/klorslug_infestation/sergeant_cormun_revised_by_hall.stb
 /resources/en-us/str/cnv/location/korriban/world/lost_supplies/sentry_tavon.stb
 /resources/en-us/str/cnv/location/korriban/world/lost_supplies/sergeant_garus.stb
+/resources/en-us/str/cnv/location/korriban/world/purity/lord_abaron.stb
+/resources/en-us/str/cnv/location/korriban/world/the_blood_legacy/overseer_ragate.stb
 /resources/en-us/str/cnv/location/korriban/world/the_brains_of_the_beast/apprentice_malora.stb
 /resources/en-us/str/cnv/location/korriban/world/the_brains_of_the_beast/lord_renning.stb
 /resources/en-us/str/cnv/location/open_worlds/class/imperial_spy/chapter_1/multi/darth_zhorrid.stb
 /resources/en-us/str/cnv/location/open_worlds/class/imperial_spy/chapter_1/multi/watcher_two.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/corso_riggs.stb
+/resources/en-us/str/cnv/location/ord_mantell/class/smuggler/skavak.stb
+/resources/en-us/str/cnv/location/ord_mantell/world/clearing_the_air/sergeant_blyes.stb
 /resources/en-us/str/cnv/location/pvp/warzone/quests/empire_pvp_bounty_board.stb
 /resources/en-us/str/cnv/location/ship/agent/ship_exit.stb
 /resources/en-us/str/cnv/location/tython/bronze/release_the_cubs/captured_manka_cub.stb

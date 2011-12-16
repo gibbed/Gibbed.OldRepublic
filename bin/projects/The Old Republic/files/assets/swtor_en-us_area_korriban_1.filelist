@@ -1,4 +1,4 @@
-; 36/110 (32%)
+; 44/110 (40%)
 /resources/en-us/bnk2/cnv_location_korriban_ambient_tomb_of_ajunta_pall.acb
 /resources/en-us/bnk2/cnv_location_korriban_bronze_experimental_needs_krevan.acb
 /resources/en-us/bnk2/cnv_location_korriban_bronze_experimental_needs_varacen.acb
@@ -11,9 +11,13 @@
 /resources/en-us/bnk2/cnv_location_korriban_class_sith_sorcerer_spindrall.acb
 /resources/en-us/bnk2/cnv_location_korriban_class_sith_warrior_overseer_tremel2.acb
 /resources/en-us/bnk2/cnv_location_korriban_world_allegiance_inquisitor_arzanon.acb
+/resources/en-us/bnk2/cnv_location_korriban_world_jailbreak_inquisitor_urinth.acb
+/resources/en-us/bnk2/cnv_location_korriban_world_jailbreak_quorian_dorjis.acb
 /resources/en-us/bnk2/cnv_location_korriban_world_klorslug_infestation_sergeant_cormun_revised_by_hall.acb
 /resources/en-us/bnk2/cnv_location_korriban_world_lost_supplies_sentry_tavon.acb
 /resources/en-us/bnk2/cnv_location_korriban_world_lost_supplies_sergeant_garus.acb
+/resources/en-us/bnk2/cnv_location_korriban_world_purity_lord_abaron.acb
+/resources/en-us/bnk2/cnv_location_korriban_world_the_blood_legacy_overseer_ragate.acb
 /resources/en-us/bnk2/cnv_location_korriban_world_the_brains_of_the_beast_apprentice_malora.acb
 /resources/en-us/bnk2/cnv_location_korriban_world_the_brains_of_the_beast_lord_renning.acb
 /resources/en-us/fxe/cnv/location/korriban/ambient/tomb_of_ajunta_pall.fxe
@@ -28,9 +32,13 @@
 /resources/en-us/fxe/cnv/location/korriban/class/sith_sorcerer/spindrall.fxe
 /resources/en-us/fxe/cnv/location/korriban/class/sith_warrior/overseer_tremel2.fxe
 /resources/en-us/fxe/cnv/location/korriban/world/allegiance/inquisitor_arzanon.fxe
+/resources/en-us/fxe/cnv/location/korriban/world/jailbreak/inquisitor_urinth.fxe
+/resources/en-us/fxe/cnv/location/korriban/world/jailbreak/quorian_dorjis.fxe
 /resources/en-us/fxe/cnv/location/korriban/world/klorslug_infestation/sergeant_cormun_revised_by_hall.fxe
 /resources/en-us/fxe/cnv/location/korriban/world/lost_supplies/sentry_tavon.fxe
 /resources/en-us/fxe/cnv/location/korriban/world/lost_supplies/sergeant_garus.fxe
+/resources/en-us/fxe/cnv/location/korriban/world/purity/lord_abaron.fxe
+/resources/en-us/fxe/cnv/location/korriban/world/the_blood_legacy/overseer_ragate.fxe
 /resources/en-us/fxe/cnv/location/korriban/world/the_brains_of_the_beast/apprentice_malora.fxe
 /resources/en-us/fxe/cnv/location/korriban/world/the_brains_of_the_beast/lord_renning.fxe
 ft.sig

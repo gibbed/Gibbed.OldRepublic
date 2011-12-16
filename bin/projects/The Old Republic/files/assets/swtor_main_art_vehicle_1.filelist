@@ -1,4 +1,4 @@
-; 1183/1548 (76%)
+; 1186/1548 (76%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -57,6 +57,8 @@
 /resources/art/shaders/materials/veh_neu_taxi_air_speeder.mat
 /resources/art/shaders/materials/veh_neu_taxi_air_speeder_glass.mat
 /resources/art/shaders/materials/veh_neu_traffic.mat
+/resources/art/shaders/materials/veh_nue_starship_ricker_body.mat
+/resources/art/shaders/materials/veh_nue_starship_ricker_wings.mat
 /resources/art/shaders/materials/veh_pl_mt_speeder_greatwhite_a.mat
 /resources/art/shaders/materials/veh_pl_mt_speeder_wasp_05.mat
 /resources/art/shaders/materials/veh_rep_capital_ship_detail01.mat
@@ -747,6 +749,7 @@
 /resources/art/static/vehicle/neutral/veh_neu_bus_large.gr2
 /resources/art/static/vehicle/neutral/veh_neu_bus_medium.gr2
 /resources/art/static/vehicle/neutral/veh_neu_dropship.gr2
+/resources/art/static/vehicle/neutral/veh_neu_frigate.gr2
 /resources/art/static/vehicle/neutral/veh_neu_garbage_scow.gr2
 /resources/art/static/vehicle/neutral/veh_neu_heavy_utility_starship.gr2
 /resources/art/static/vehicle/neutral/veh_neu_mine_layer.gr2

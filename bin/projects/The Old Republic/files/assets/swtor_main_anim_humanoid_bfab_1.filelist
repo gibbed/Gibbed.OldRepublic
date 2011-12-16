@@ -1,4 +1,4 @@
-; 1511/14180 (10%)
+; 1512/14180 (10%)
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_up.jba
@@ -721,6 +721,7 @@
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000043.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000064.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000079.mph
+/resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000082.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000101.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000103.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000104.mph

@@ -1,4 +1,4 @@
-; 1907/10428 (18%)
+; 1908/10428 (18%)
 /resources/world/areas/4611686018427650020/area.dat
 /resources/world/areas/4611686019047870293/_audio_regions_todd.dat
 /resources/world/areas/4611686019047870293/_everywhere_.dat
@@ -954,6 +954,7 @@
 /resources/world/areas/4611686019802843831/a_spc_garage_rep_hub_trans_01.dat
 /resources/world/areas/4611686019802843831/a_spc_garage_rep_hub_trans_02.dat
 /resources/world/areas/4611686019802843831/a_spc_garage_rep_lobby.dat
+/resources/world/areas/4611686019802843831/a_spc_garage_rep_outer_space.dat
 /resources/world/areas/4611686019802843831/area.dat
 /resources/world/areas/4611686019802843831/csr1.dat
 /resources/world/areas/4611686019802843831/csr1_int01.dat
