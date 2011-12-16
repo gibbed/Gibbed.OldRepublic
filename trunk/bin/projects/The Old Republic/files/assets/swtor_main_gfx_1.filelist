@@ -1,4 +1,4 @@
-; 10067/52255 (19%)
+; 10095/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -930,6 +930,7 @@
 /resources/gfx/codex/cdx.tutorial.unavailable_mission.dds
 /resources/gfx/codex/cdx.tutorial.vendors.dds
 /resources/gfx/codex/default.dds
+/resources/gfx/credits/credits.xml
 /resources/gfx/drawtext_fonts.swf
 /resources/gfx/fonts/swtor_fonts.gfx
 /resources/gfx/gfx_production/bwa_uitexture_1.dds
@@ -9950,16 +9951,43 @@
 /resources/gfx/icons/yellowsuperiorlightsabercrystal.dds
 /resources/gfx/icons/zalalloy.dds
 /resources/gfx/icons/zeydcloth.dds
+/resources/gfx/loadingscreen/ald_overlay.dds
 /resources/gfx/loadingscreen/background_tile.dds
+/resources/gfx/loadingscreen/bal_overlay.dds
+/resources/gfx/loadingscreen/bel_overlay.dds
 /resources/gfx/loadingscreen/bwa_splash.dds
 /resources/gfx/loadingscreen/bwa_splash.tex
 /resources/gfx/loadingscreen/class_load_screen.dds
+/resources/gfx/loadingscreen/cor_overlay.dds
+/resources/gfx/loadingscreen/coruscant_overlay.dds
 /resources/gfx/loadingscreen/dro_overlay.dds
 /resources/gfx/loadingscreen/dro_overlay_text.dds
+/resources/gfx/loadingscreen/dromund_kaas_overlay.dds
+/resources/gfx/loadingscreen/hoth_overlay.dds
+/resources/gfx/loadingscreen/hutta_overlay.dds
+/resources/gfx/loadingscreen/ilum_overlay.dds
 /resources/gfx/loadingscreen/imp_overlay.dds
 /resources/gfx/loadingscreen/korriban_overlay.dds
 /resources/gfx/loadingscreen/korriban_overlay_text.dds
+/resources/gfx/loadingscreen/nar_overlay.dds
+/resources/gfx/loadingscreen/ord_overlay.dds
+/resources/gfx/loadingscreen/quesh_overlay.dds
 /resources/gfx/loadingscreen/republic_overlay.dds
+/resources/gfx/loadingscreen/spc_overlay_m01.dds
+/resources/gfx/loadingscreen/spc_overlay_m02.dds
+/resources/gfx/loadingscreen/spc_overlay_m03.dds
+/resources/gfx/loadingscreen/spc_overlay_m04.dds
+/resources/gfx/loadingscreen/spc_overlay_m05.dds
+/resources/gfx/loadingscreen/spc_overlay_m07.dds
+/resources/gfx/loadingscreen/spc_overlay_m08.dds
+/resources/gfx/loadingscreen/spc_overlay_m09.dds
+/resources/gfx/loadingscreen/taris_overlay.dds
+/resources/gfx/loadingscreen/tatooine_overlay.dds
+/resources/gfx/loadingscreen/tython_overlay.dds
+/resources/gfx/loadingscreen/voss_overlay.dds
+/resources/gfx/loadingscreen/warzone_alderaan_overlay.dds
+/resources/gfx/loadingscreen/warzone_arena_overlay.dds
+/resources/gfx/loadingscreen/warzone_voidstar_overlay.dds
 /resources/gfx/placeables/galaxy_map/noise_3.swf
 /resources/gfx/portrait/_inventory_portrait_mask.dds
 /resources/gfx/portrait/_inventory_portrait_mask.tex
