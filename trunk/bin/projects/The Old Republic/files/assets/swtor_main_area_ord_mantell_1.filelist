@@ -1,4 +1,4 @@
-; 618/663 (93%)
+; 643/663 (96%)
 /resources/art/environmentmaps/ord_resize/area.dds
 /resources/art/environmentmaps/ord_resize/area.tex
 /resources/art/environmentmaps/ord_resize/area.tiny.dds
@@ -89,6 +89,7 @@
 /resources/art/static/area/ord_ordmantell/env/texture/ord_env_base_metalground_s.tiny.dds
 /resources/art/static/area/ord_ordmantell/env/texture/ord_env_boulders_no_moss_d.dds
 /resources/art/static/area/ord_ordmantell/env/texture/ord_env_boulders_no_moss_d.tex
+/resources/art/static/area/ord_ordmantell/env/texture/ord_env_boulders_no_moss_d.tiny.dds
 /resources/art/static/area/ord_ordmantell/env/texture/ord_env_boulders_no_moss_n.dds
 /resources/art/static/area/ord_ordmantell/env/texture/ord_env_boulders_no_moss_n.tex
 /resources/art/static/area/ord_ordmantell/env/texture/ord_env_boulders_no_moss_n.tiny.dds
@@ -142,6 +143,7 @@
 /resources/art/static/area/ord_ordmantell/env/texture/ord_env_plant01_n.tiny.dds
 /resources/art/static/area/ord_ordmantell/env/texture/ord_wilds_cliff_large_d.dds
 /resources/art/static/area/ord_ordmantell/env/texture/ord_wilds_cliff_large_d.tex
+/resources/art/static/area/ord_ordmantell/env/texture/ord_wilds_cliff_large_d.tiny.dds
 /resources/art/static/area/ord_ordmantell/env/texture/ord_wilds_cliff_large_s.dds
 /resources/art/static/area/ord_ordmantell/env/texture/ord_wilds_cliff_large_s.tex
 /resources/art/static/area/ord_ordmantell/env/texture/ord_wilds_cliff_large_s.tiny.dds
@@ -204,6 +206,14 @@
 /resources/art/static/area/ord_ordmantell/sky/texture/sky_ord_skydome_d.tiny.dds
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_burnt01.gr2
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_burnt01.spt
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_diffuse.dds
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_diffuse.tex
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_diffuse_billboards.dds
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_diffuse_billboards.tex
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_normal.dds
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_normal.tex
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_normal_billboards.dds
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia_normal_billboards.tex
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01.spt
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_burnt_d.dds
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_burnt_d.tex
@@ -260,6 +270,12 @@
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass02_d.dds
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass02_d.tex
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass02_d.tiny.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass02_n.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass02_n.tex
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass02_n.tiny.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass02_s.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass02_s.tex
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass02_s.tiny.dds
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass03_d.dds
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass03_d.tex
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_grass03_d.tiny.dds
@@ -317,6 +333,12 @@
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavaglow_01_d.dds
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavaglow_01_d.tex
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavaglow_01_d.tiny.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavaglow_01_n.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavaglow_01_n.tex
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavaglow_01_n.tiny.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavaglow_01_s.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavaglow_01_s.tex
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavaglow_01_s.tiny.dds
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavarock_d.dds
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavarock_d.tex
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_lavarock_d.tiny.dds
@@ -413,6 +435,9 @@
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_sand01_n.dds
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_sand01_n.tex
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_sand01_n.tiny.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_sand01_s.dds
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_sand01_s.tex
+/resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_sand01_s.tiny.dds
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_yellow_mud_d.dds
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_yellow_mud_d.tex
 /resources/art/static/area/ord_ordmantell/terrain_map/ter_ord_yellow_mud_d.tiny.dds

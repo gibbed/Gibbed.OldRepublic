@@ -1,4 +1,4 @@
-; 7988/8930 (89%)
+; 7990/8930 (89%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -496,6 +496,7 @@
 /resources/art/shaders/materials/all_item_taxi_holo_sign.mat
 /resources/art/shaders/materials/all_item_taxi_holo_sign_alpha.mat
 /resources/art/shaders/materials/all_item_taxi_kiosk.mat
+/resources/art/shaders/materials/all_item_tech_aa_remote_control.mat
 /resources/art/shaders/materials/all_item_tech_archive_terminal.mat
 /resources/art/shaders/materials/all_item_tech_armory_locker.mat
 /resources/art/shaders/materials/all_item_tech_auction_house_kiosk.mat
@@ -4449,6 +4450,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_computer_terminal.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_back.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_controls.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_console_large_controls_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_screen.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_elevswitch.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_keyboard01.gr2

@@ -1,4 +1,4 @@
-; 403/715 (56%)
+; 405/715 (56%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -48,6 +48,7 @@
 /resources/art/dynamic/mag/model/mag_shipplayeragent_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipplayerbountyhunter_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipplayersith_v01.gr2
+/resources/art/dynamic/mag/model/mag_shipplayersmuggler_v01.gr2
 /resources/art/dynamic/mag/model/mag_spacecombatdestroyableasteroidb_spc_env_asteroid_med_b.gr2
 /resources/art/dynamic/mag/model/mag_spacecombatdestroyableasteroidc_spc_env_asteroid_med_c.gr2
 /resources/art/dynamic/mag/model/mag_spacecombatimperialdestroyer_sc_imp_capital_destroyer.gr2
@@ -325,6 +326,7 @@
 /resources/art/dynamic/spec/shipplayeragent_skeleton.gr2
 /resources/art/dynamic/spec/shipplayerbountyhunter_skeleton.gr2
 /resources/art/dynamic/spec/shipplayersith_skeleton.gr2
+/resources/art/dynamic/spec/shipplayersmuggler_skeleton.gr2
 /resources/art/dynamic/spec/spc_arch_imp_ss_social_ani_rings.mag
 /resources/art/dynamic/spec/spc_arch_imp_ss_social_ani_rings_skeleton.gr2
 /resources/art/dynamic/spec/spc_arch_imp_ss_social_ani_rings02.mag

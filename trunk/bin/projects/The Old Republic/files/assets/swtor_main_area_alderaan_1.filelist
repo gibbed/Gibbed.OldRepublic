@@ -1,4 +1,4 @@
-; 2159/2575 (83%)
+; 2160/2575 (83%)
 /resources/art/fx/texture/misc/blastermark_large.dds
 /resources/art/fx/texture/misc/blastermark_large.tex
 /resources/art/fx/texture/misc/blastermark_large.tiny.dds
@@ -25,6 +25,7 @@
 /resources/art/shaders/materials/all_item_decal_stripes_red01.mat
 /resources/art/shaders/materials/all_item_factory_decal_orange.mat
 /resources/art/shaders/materials/all_item_imp_life_support_pump.mat
+/resources/art/shaders/materials/all_item_tech_aa_remote_control_damaged.mat
 /resources/art/shaders/materials/all_item_tech_panel_02.mat
 /resources/art/shaders/materials/all_item_tech_panel_03.mat
 /resources/art/shaders/materials/all_item_tech_panel_04.mat

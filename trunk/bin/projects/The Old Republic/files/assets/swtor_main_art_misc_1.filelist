@@ -1,4 +1,4 @@
-; 1195/2181 (54%)
+; 1198/2181 (54%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -1134,6 +1134,7 @@
 /resources/art/static/designblockout/designutility/dbo_collision_box_human.gr2
 /resources/art/static/designblockout/designutility/dbo_collision_cube.gr2
 /resources/art/static/designblockout/designutility/dbo_decal_red_x.gr2
+/resources/art/static/designblockout/designutility/dbo_invisible_sphere.gr2
 /resources/art/static/designblockout/designutility/dbo_sign_cinematics_gandalf.gr2
 /resources/art/static/designblockout/designutility/dbo_sign_ilum.gr2
 /resources/art/static/designblockout/designutility/dbo_sign_taris.gr2
@@ -1182,8 +1183,10 @@
 /resources/art/static/designblockout/underworld/dbo_tech_skyhopper.gr2
 /resources/art/water/lava_bump_map_02_n.dds
 /resources/art/water/lava_bump_map_02_n.tex
+/resources/art/water/lava_bump_map_02_n.tiny.dds
 /resources/art/water/lava_bump_map_n.dds
 /resources/art/water/lava_bump_map_n.tex
+/resources/art/water/lava_bump_map_n.tiny.dds
 /resources/art/water/surface_map_hut_01.dds
 /resources/art/water/surface_map_hut_01.tex
 /resources/art/water/surface_map_hut_01.tiny.dds

@@ -1,4 +1,4 @@
-; 141/412 (34%)
+; 146/412 (35%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
@@ -8,6 +8,7 @@
 /resources/bnk2/voc_assassindroidautotrooper.bnk
 /resources/bnk2/voc_assassindroidczerkasecurity.bnk
 /resources/bnk2/voc_assassindroidhuttmilitary.bnk
+/resources/bnk2/voc_assassindroidkcpd.bnk
 /resources/bnk2/voc_assassindroidmining.bnk
 /resources/bnk2/voc_assassindroidpeacekeeper.bnk
 /resources/bnk2/voc_assassindroidrogue.bnk
@@ -26,6 +27,7 @@
 /resources/bnk2/voc_chagrian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_chemilizard.bnk
 /resources/bnk2/voc_chevin_m_alien_med_soundset.bnk
+/resources/bnk2/voc_corso.bnk
 /resources/bnk2/voc_devaronian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_duros_m_alien_high_soundset.bnk
 /resources/bnk2/voc_duros_m_alien_low_soundset.bnk
@@ -85,8 +87,11 @@
 /resources/bnk2/voc_player_sith_sorcerer_m.bnk
 /resources/bnk2/voc_player_sith_warrior_f.bnk
 /resources/bnk2/voc_player_sith_warrior_m.bnk
+/resources/bnk2/voc_player_smuggler_m.bnk
 /resources/bnk2/voc_player_spy_f.bnk
 /resources/bnk2/voc_player_spy_m.bnk
+/resources/bnk2/voc_player_trooper_f.bnk
+/resources/bnk2/voc_player_trooper_m.bnk
 /resources/bnk2/voc_probeczerka.bnk
 /resources/bnk2/voc_probeinclimatecondition.bnk
 /resources/bnk2/voc_proberecon.bnk

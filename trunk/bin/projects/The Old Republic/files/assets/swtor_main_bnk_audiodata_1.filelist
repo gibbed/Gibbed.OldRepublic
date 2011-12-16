@@ -1,4 +1,4 @@
-; 23/63 (36%)
+; 24/63 (38%)
 /resources/bnk2/abilities_creatures_data.bnk
 /resources/bnk2/abilities_general_data.bnk
 /resources/bnk2/abilities_imperialmelee_data.bnk
@@ -13,6 +13,7 @@
 /resources/bnk2/location_fp_imperial_transition_data.bnk
 /resources/bnk2/location_hutta_data.bnk
 /resources/bnk2/location_korriban_data.bnk
+/resources/bnk2/location_ordmantell_data.bnk
 /resources/bnk2/location_player_ships_data.bnk
 /resources/bnk2/location_tython_data.bnk
 /resources/bnk2/movement_data.bnk

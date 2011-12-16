@@ -1,4 +1,4 @@
-; 5643/6335 (89%)
+; 5644/6335 (89%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -430,6 +430,7 @@
 /resources/art/static/area/all_all/arch/all_arch_techcave_corridor_90_02.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_corridor_frame.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_door_large_door.gr2
+/resources/art/static/area/all_all/arch/all_arch_techcave_door_large_frame.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_door_large01.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_door_small01.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_entrance_beam.gr2

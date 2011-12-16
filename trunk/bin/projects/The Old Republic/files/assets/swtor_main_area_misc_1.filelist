@@ -1,4 +1,4 @@
-; 4379/5536 (79%)
+; 4389/5536 (79%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -172,6 +172,7 @@
 /resources/art/shaders/materials/spc_item_ps_chair_imp.mat
 /resources/art/shaders/materials/spc_item_ps_desk_screen_imp.mat
 /resources/art/shaders/materials/spc_item_ps_desk_screen_neu.mat
+/resources/art/shaders/materials/spc_item_ps_desk_screen_neu_damaged.mat
 /resources/art/shaders/materials/spc_item_ps_engine_sith.mat
 /resources/art/shaders/materials/spc_item_ps_engine_sith_suv.mat
 /resources/art/shaders/materials/spc_item_ps_jedi_holo_communicator.mat
@@ -280,6 +281,12 @@
 /resources/art/shaders/materials/spc_ps_sith_int_wallpanel01.mat
 /resources/art/shaders/materials/spc_ps_sith_int_wallpanel02.mat
 /resources/art/shaders/materials/spc_ps_sith_int_wallpanel03.mat
+/resources/art/shaders/materials/spc_ps_smuggler_ext_body01.mat
+/resources/art/shaders/materials/spc_ps_smuggler_ext_body02.mat
+/resources/art/shaders/materials/spc_ps_smuggler_ext_body03.mat
+/resources/art/shaders/materials/spc_ps_smuggler_ext_body04.mat
+/resources/art/shaders/materials/spc_ps_smuggler_ext_body05.mat
+/resources/art/shaders/materials/spc_ps_smuggler_ext_body06.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_ceiling01.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_door01.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_door02.mat
@@ -288,6 +295,7 @@
 /resources/art/shaders/materials/spc_ps_smuggler_int_floor03.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_grate01.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_grate02.mat
+/resources/art/shaders/materials/spc_ps_smuggler_int_grate03.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_metal01.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_panel01.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_panel02.mat
@@ -296,6 +304,7 @@
 /resources/art/shaders/materials/spc_ps_smuggler_int_panel06.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_panel07.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_panel08.mat
+/resources/art/shaders/materials/spc_ps_smuggler_int_panel09.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_panel11.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_panel12.mat
 /resources/art/shaders/materials/spc_ps_smuggler_int_pipes01.mat
@@ -2298,6 +2307,7 @@
 /resources/art/static/area/spc_space/playership/spc_ps_smuggler_int_door_escape.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_smuggler_int_door_ext.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_smuggler_int_door01.gr2
+/resources/art/static/area/spc_space/playership/spc_ps_smuggler_int_entrance.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_smuggler_int_hall01.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_trooper_int_door_escape.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_trooper_int_door_ext.gr2
