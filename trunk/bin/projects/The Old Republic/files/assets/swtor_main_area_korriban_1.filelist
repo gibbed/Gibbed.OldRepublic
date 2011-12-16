@@ -1,4 +1,4 @@
-; 1272/1290 (98%)
+; 1277/1290 (98%)
 /resources/art/environmentmaps/kor_rebuild_test/area2.dds
 /resources/art/environmentmaps/kor_rebuild_test/area2.tex
 /resources/art/environmentmaps/kor_rebuild_test/area2.tiny.dds
@@ -152,6 +152,7 @@
 /resources/art/static/area/kor_korriban/arch/kor_acad_doorjam_stairs.gr2
 /resources/art/static/area/kor_korriban/arch/kor_acad_elevator_platform.gr2
 /resources/art/static/area/kor_korriban/arch/kor_acad_foyerpillar.gr2
+/resources/art/static/area/kor_korriban/arch/kor_acad_higharch.gr2
 /resources/art/static/area/kor_korriban/arch/kor_acad_main_room_stairs.gr2
 /resources/art/static/area/kor_korriban/arch/kor_arch_sithtomb_statue_01.gr2
 /resources/art/static/area/kor_korriban/arch/kor_arch_sithtomb_statue_02.gr2
@@ -193,6 +194,7 @@
 /resources/art/static/area/kor_korriban/arch/kor_vod_ruins_wall_cap.gr2
 /resources/art/static/area/kor_korriban/arch/kor_vod_ruins_walldoor.gr2
 /resources/art/static/area/kor_korriban/arch/kor_vod_ruins_walldoor_connect.gr2
+/resources/art/static/area/kor_korriban/arch/kor_vod_tomb_foyer3.gr2
 /resources/art/static/area/kor_korriban/arch/kor_vod_tomb_lightcap.gr2
 /resources/art/static/area/kor_korriban/arch/texture/kor_acad_blood_pool_d.dds
 /resources/art/static/area/kor_korriban/arch/texture/kor_acad_blood_pool_d.tex
@@ -643,7 +645,9 @@
 /resources/art/static/area/kor_korriban/arch/texture/kor_vod_ruins_wall_s.tiny.dds
 /resources/art/static/area/kor_korriban/env/kor_env_cactus.gr2
 /resources/art/static/area/kor_korriban/env/kor_env_lair.gr2
+/resources/art/static/area/kor_korriban/env/kor_flora_rock_med_02.gr2
 /resources/art/static/area/kor_korriban/env/kor_flora_rock_med_group_01.gr2
+/resources/art/static/area/kor_korriban/env/kor_flora_rock_sml_03.gr2
 /resources/art/static/area/kor_korriban/env/kor_vod_rock_01.gr2
 /resources/art/static/area/kor_korriban/env/kor_vod_rock_02.gr2
 /resources/art/static/area/kor_korriban/env/kor_vod_rock_03.gr2
@@ -765,6 +769,7 @@
 /resources/art/static/area/kor_korriban/item/kor_tomb_item_halberd_rack.gr2
 /resources/art/static/area/kor_korriban/item/kor_tomb_item_hate_machine.gr2
 /resources/art/static/area/kor_korriban/item/kor_tomb_item_holocron.gr2
+/resources/art/static/area/kor_korriban/item/kor_tomb_item_rope.gr2
 /resources/art/static/area/kor_korriban/item/kor_tomb_item_sarcophagus.gr2
 /resources/art/static/area/kor_korriban/item/kor_tomb_item_sarcophagus_ruin.gr2
 /resources/art/static/area/kor_korriban/item/kor_tomb_item_sconce_01.gr2

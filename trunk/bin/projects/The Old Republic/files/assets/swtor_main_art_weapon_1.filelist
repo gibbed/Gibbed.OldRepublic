@@ -1,4 +1,4 @@
-; 4014/4686 (85%)
+; 4021/4686 (85%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -1367,6 +1367,8 @@
 /resources/art/dynamic/weapon/blaster/texture/wep_blaster_low01_s.dds
 /resources/art/dynamic/weapon/blaster/texture/wep_blaster_low01_s.tex
 /resources/art/dynamic/weapon/blaster/texture/wep_blaster_low01_s.tiny.dds
+/resources/art/dynamic/weapon/blaster/wep_blaster_high01.gr2
+/resources/art/dynamic/weapon/blaster/wep_blaster_low01.gr2
 /resources/art/dynamic/weapon/dualsaber/texture/___psd/dualsaber_high01_a01_v01_d.dds
 /resources/art/dynamic/weapon/dualsaber/texture/___psd/dualsaber_high01_a01_v01_d.tex
 /resources/art/dynamic/weapon/dualsaber/texture/___psd/dualsaber_high01_a01_v01_d.tiny.dds
@@ -1505,6 +1507,7 @@
 /resources/art/dynamic/weapon/electroblade/texture/wep_electroblade_low01_s.dds
 /resources/art/dynamic/weapon/electroblade/texture/wep_electroblade_low01_s.tex
 /resources/art/dynamic/weapon/electroblade/texture/wep_electroblade_low01_s.tiny.dds
+/resources/art/dynamic/weapon/electroblade/wep_electroblade_low01.gr2
 /resources/art/dynamic/weapon/electrostaff/electrostaff_a01_v01.gr2
 /resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_chiss01_a01_v01_d.dds
 /resources/art/dynamic/weapon/electrostaff/texture/___psd/electrostaff_chiss01_a01_v01_d.tex
@@ -1605,6 +1608,10 @@
 /resources/art/dynamic/weapon/lightsaber/texture/wep_saber_sith_low02_s.dds
 /resources/art/dynamic/weapon/lightsaber/texture/wep_saber_sith_low02_s.tex
 /resources/art/dynamic/weapon/lightsaber/texture/wep_saber_sith_low02_s.tiny.dds
+/resources/art/dynamic/weapon/lightsaber/wep_saber_jedi_high01.gr2
+/resources/art/dynamic/weapon/lightsaber/wep_saber_low01.gr2
+/resources/art/dynamic/weapon/lightsaber/wep_saber_sith_high01.gr2
+/resources/art/dynamic/weapon/lightsaber/wep_saber_sith_low02.gr2
 /resources/art/dynamic/weapon/melee/texture/___psd/melee_trainingsaber_a01_v01_d.dds
 /resources/art/dynamic/weapon/melee/texture/___psd/melee_trainingsaber_a01_v01_d.tex
 /resources/art/dynamic/weapon/melee/texture/___psd/melee_trainingsaber_a01_v01_d.tiny.dds

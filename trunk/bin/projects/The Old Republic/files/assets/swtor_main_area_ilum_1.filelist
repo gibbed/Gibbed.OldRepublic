@@ -1,4 +1,4 @@
-; 372/563 (66%)
+; 398/563 (70%)
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.tiny.dds
@@ -14,6 +14,8 @@
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_s.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_s.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_s.tiny.dds
+/resources/art/static/area/ilm_ilum/env/ilm_env_ceiling_single_light_01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_ceiling_single_light_02.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_crystal_formation.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_crystal_formation_green.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_crystal_formation_purple.gr2
@@ -21,12 +23,34 @@
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_blue_full05.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_blue_full07.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_blue_full08.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_blue11.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_blue12.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_blue14.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_green_broken.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_green_full02.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_green_full04.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_green02.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_green04.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_green06.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystal_purple10.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_broken01_blue01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_broken01_green.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_broken01_purple01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_broken02_blue01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_broken02_green.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_broken02_purple01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit01_blue01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit01_green.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit01_purple01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit02_blue01.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit02_green.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit02_purple01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit03_blue01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit03_green.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit03_purple01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit04_blue01.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit04_green.gr2
+/resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit04_purple01.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit05_blue01.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit05_green.gr2
 /resources/art/static/area/ilm_ilum/env/ilm_env_forcecrystals_deposit05_purple01.gr2
@@ -54,6 +78,8 @@
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_green_s.dds
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_green_s.tex
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_green_s.tiny.dds
+/resources/art/static/area/ilm_ilum/sky/ilm_skyscene.gr2
+/resources/art/static/area/ilm_ilum/sky/ilm_skyscene_flashpoint.gr2
 /resources/art/static/area/ilm_ilum/sky/texture/ilm_skyscene_tiles_d.dds
 /resources/art/static/area/ilm_ilum/sky/texture/ilm_skyscene_tiles_d.tex
 /resources/art/static/area/ilm_ilum/sky/texture/ilm_skyscene_tiles_d.tiny.dds

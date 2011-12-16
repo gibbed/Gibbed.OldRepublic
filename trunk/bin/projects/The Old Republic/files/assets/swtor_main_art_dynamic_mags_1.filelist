@@ -1,4 +1,4 @@
-; 405/715 (56%)
+; 442/715 (61%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -15,6 +15,7 @@
 /resources/art/dynamic/droid/walker/texture/___psd/walker_atst_a01_v01_s.tex
 /resources/art/dynamic/droid/walker/texture/___psd/walker_atst_a01_v01_s.tiny.dds
 /resources/art/dynamic/mag/model/all_arch_neu_windmill.gr2
+/resources/art/dynamic/mag/model/all_arch_rep_tower_weather_top.gr2
 /resources/art/dynamic/mag/model/all_arch_und_farm_windmill_2.gr2
 /resources/art/dynamic/mag/model/bal_arch_okara_power_core.gr2
 /resources/art/dynamic/mag/model/cor_arch_works_fan.gr2
@@ -30,6 +31,7 @@
 /resources/art/dynamic/mag/model/mag_envfactorybelt_impfighterbody.gr2
 /resources/art/dynamic/mag/model/mag_envfactorybelt_impfighterwing.gr2
 /resources/art/dynamic/mag/model/mag_envindderrick_quesh.gr2
+/resources/art/dynamic/mag/model/mag_envraidsoaplatform_in2.gr2
 /resources/art/dynamic/mag/model/mag_envrevanasteroids_a.gr2
 /resources/art/dynamic/mag/model/mag_envshipjump_repdestroyerside.gr2
 /resources/art/dynamic/mag/model/mag_envundsmokestacktop_und.gr2
@@ -53,6 +55,7 @@
 /resources/art/dynamic/mag/model/mag_spacecombatdestroyableasteroidc_spc_env_asteroid_med_c.gr2
 /resources/art/dynamic/mag/model/mag_spacecombatimperialdestroyer_sc_imp_capital_destroyer.gr2
 /resources/art/dynamic/mag/model/mag_spacecombatimperialdestroyerturret_sc_imp_capital_destroyer_turret.gr2
+/resources/art/dynamic/mag/model/mag_spacecombatinvisiblecomponent_sc_invisible_component.gr2
 /resources/art/dynamic/mag/model/mag_spacecombatrepublicfrigateturretheavy_sc_rep_frigate_turretheavy.gr2
 /resources/art/dynamic/mag/model/mag_ssdoorlg_a.gr2
 /resources/art/dynamic/mag/model/mag_taxi_airspeeder_v01.gr2
@@ -66,14 +69,23 @@
 /resources/art/dynamic/mag/model/spc_arch_imp_ss_social_ani_rings02.gr2
 /resources/art/dynamic/mag/model/spc_arch_imp_ss_social_ani_rings03.gr2
 /resources/art/dynamic/mag/model/spc_item_ps_engine_agent_ani.gr2
+/resources/art/dynamic/mags/doorhuttpalaceinterior/hut_palace_interior_door_frame.gr2
+/resources/art/dynamic/mags/doortechcavelarge/all_arch_techcave_door_large01_frame.gr2
+/resources/art/dynamic/mags/envindderrick/que_item_tech_vaporator_derrick_base.gr2
+/resources/art/dynamic/mags/envinddrill/mag_envinddrill_neu_legs.gr2
+/resources/art/dynamic/mags/envprobedroid/envprobedroid_grey.gr2
 /resources/art/dynamic/mags/envraidlavaplatform/mag_envraidlavaplatform_aldsmall_collision.gr2
 /resources/art/dynamic/mags/envraidlavaplatform/mag_envraidlavaplatform_collision.gr2
 /resources/art/dynamic/mags/envraidsoaplatform/envraidsoaplatform_in2_collision.gr2
 /resources/art/dynamic/mags/envraidsoaplatform/envraidsoaplatform_out2_collision.gr2
+/resources/art/dynamic/mags/envraidsoaplatform/mag_envraidsoaplatform_whole_collision.gr2
+/resources/art/dynamic/mags/envrakatapiston/mag_envrakatapiston_01_platform.gr2
 /resources/art/dynamic/mags/envrakatapuzzle/dbo_raid_rakata_platform_center.gr2
 /resources/art/dynamic/mags/envrakatapuzzle/dbo_raid_rakata_platform_outer_large.gr2
+/resources/art/dynamic/mags/envrakatatowerarm/bel_arch_rakata_tower_raid_prison.gr2
 /resources/art/dynamic/mags/envrepshipreactor/envrepshipreactor_collision_closed.gr2
 /resources/art/dynamic/mags/envrepshipreactor/envrepshipreactor_collision_open.gr2
+/resources/art/dynamic/mags/envtechlightningspire/envtechlightningspire_v01_collision_destroyed.gr2
 /resources/art/dynamic/mags/impshipdropshiplanding/mag_impdropship_collision_landed.gr2
 /resources/art/dynamic/mags/indbridgecollapse/mag_indbridgecollapse_collision_destroyed.gr2
 /resources/art/dynamic/mags/industrialtowerfall1/mag_industrialtowerfall1_collision_destroyed.gr2
@@ -116,6 +128,7 @@
 /resources/art/dynamic/mags/treasurechestmedium/mag_treasurechestmedium_medium_collision.gr2
 /resources/art/dynamic/mags/treasurechestsmall/mag_treasurechestsmall_small_collision_closed.gr2
 /resources/art/dynamic/mags/turretimpsmall/mag_turretimpsmall_imp_base.gr2
+/resources/art/dynamic/mags/turretneularge/mag_turretneularge_turret_collision.gr2
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_panels_dark_d.dds
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_panels_dark_d.tex
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_panels_dark_d.tiny.dds
@@ -146,12 +159,19 @@
 /resources/art/dynamic/space_combat/ships/texture/sc_invisible_component.dds
 /resources/art/dynamic/space_combat/ships/texture/sc_invisible_component.tex
 /resources/art/dynamic/space_combat/ships/texture/sc_invisible_component.tiny.dds
+/resources/art/dynamic/spec/all_arch_neu_windmill.mag
+/resources/art/dynamic/spec/all_arch_und_farm_windmill_2.mag
 /resources/art/dynamic/spec/all_item_tech_neu_generator_anim.mag
 /resources/art/dynamic/spec/all_item_tech_rakata_mind_trap_trap_animated.mag
+/resources/art/dynamic/spec/bal_arch_okara_power_core.mag
+/resources/art/dynamic/spec/bel_arch_rakata_teleporter_rotating_arm.mag
 /resources/art/dynamic/spec/bfanew_skeleton.gr2
 /resources/art/dynamic/spec/bfbnew_skeleton.gr2
 /resources/art/dynamic/spec/bfsnew_skeleton.gr2
 /resources/art/dynamic/spec/bmanew_skeleton.gr2
+/resources/art/dynamic/spec/cor_arch_works_fan.mag
+/resources/art/dynamic/spec/cor_arch_works_fan_floor_32x32.mag
+/resources/art/dynamic/spec/cor_arch_works_fan01.mag
 /resources/art/dynamic/spec/doorhuttpalacerancorlarge_skeleton.gr2
 /resources/art/dynamic/spec/doorhuttpalacerancorsmall_skeleton.gr2
 /resources/art/dynamic/spec/doorimpspaceelevator_skeleton.gr2
@@ -197,6 +217,10 @@
 /resources/art/dynamic/spec/mag_doortechcavelarge_v01.mag
 /resources/art/dynamic/spec/mag_doorvossancient_v01.mag
 /resources/art/dynamic/spec/mag_envescapepod_v01.mag
+/resources/art/dynamic/spec/mag_envfactorybelt_droid01.mag
+/resources/art/dynamic/spec/mag_envfactorybelt_impfighterbody.mag
+/resources/art/dynamic/spec/mag_envfactorybelt_impfighterwing.mag
+/resources/art/dynamic/spec/mag_envindderrick_quesh.mag
 /resources/art/dynamic/spec/mag_envinddrill_neu.mag
 /resources/art/dynamic/spec/mag_envmentorprocessor_core.mag
 /resources/art/dynamic/spec/mag_envneugeneratorsmall_v01.mag
@@ -210,12 +234,14 @@
 /resources/art/dynamic/spec/mag_envrakatapuzzlewheel_v01.mag
 /resources/art/dynamic/spec/mag_envrakatatowerarm_two.mag
 /resources/art/dynamic/spec/mag_envrepshipreactor_v01.mag
+/resources/art/dynamic/spec/mag_envrevanasteroids_a.mag
 /resources/art/dynamic/spec/mag_envrocklevitate_rock.mag
 /resources/art/dynamic/spec/mag_envshipcrash_ricker.mag
 /resources/art/dynamic/spec/mag_envshipjump_repdestroyerside.mag
 /resources/art/dynamic/spec/mag_envtechlightningspire_v01.mag
 /resources/art/dynamic/spec/mag_envtechradarlarge_neu.mag
 /resources/art/dynamic/spec/mag_envundcontainment_main.mag
+/resources/art/dynamic/spec/mag_envundsmokestacktop_und.mag
 /resources/art/dynamic/spec/mag_impshipdropshiplanding_ship.mag
 /resources/art/dynamic/spec/mag_indbridgecollapse_mag_indbridgecollapse_indbridgedestroyed.mag
 /resources/art/dynamic/spec/mag_industrialtowerfall1_mag_industrialtowerfall1_ind_tower_destroyed.mag
@@ -261,6 +287,7 @@
 /resources/art/dynamic/spec/mag_screpfighter_elite.mag
 /resources/art/dynamic/spec/mag_screpfrigateturretheavyanim_sc_rep_frigate_turretheavy.mag
 /resources/art/dynamic/spec/mag_screpshuttle_a.mag
+/resources/art/dynamic/spec/mag_sctest_starship.mag
 /resources/art/dynamic/spec/mag_sctest_veh_imp_starfighter_interceptor.mag
 /resources/art/dynamic/spec/mag_shipcapital_impfriggate.mag
 /resources/art/dynamic/spec/mag_shipcapital_repdestroyer.mag
@@ -278,6 +305,10 @@
 /resources/art/dynamic/spec/mag_shipplayersmuggler_v01.mag
 /resources/art/dynamic/spec/mag_shipplayertrooper4_v01.mag
 /resources/art/dynamic/spec/mag_shiprepshuttle_v01.mag
+/resources/art/dynamic/spec/mag_spacecombatdestroyableasteroidb_spc_env_asteroid_med_b.mag
+/resources/art/dynamic/spec/mag_spacecombatdestroyableasteroidc_spc_env_asteroid_med_c.mag
+/resources/art/dynamic/spec/mag_spacecombatimperialdestroyer_sc_imp_capital_destroyer.mag
+/resources/art/dynamic/spec/mag_spacecombatimperialdestroyerturret_sc_imp_capital_destroyer_turret.mag
 /resources/art/dynamic/spec/mag_spacecombatimperialdestroyerturretanimated_sc_imp_capital_destroyer_turret.mag
 /resources/art/dynamic/spec/mag_spacecombatimperialfrigate_sc_imp_frigate.mag
 /resources/art/dynamic/spec/mag_spacecombatimperialfrigatebridge_sc_imp_frigate_bridge.mag
@@ -287,11 +318,13 @@
 /resources/art/dynamic/spec/mag_spacecombatimperiallightfighter_sc_imp_starfighter_interceptor.mag
 /resources/art/dynamic/spec/mag_spacecombatinvisiblecomponent_sc_invisible_component.mag
 /resources/art/dynamic/spec/mag_spacecombatplayershipsith_sith_ship.mag
+/resources/art/dynamic/spec/mag_spacecombatplayershipsith_spc_ps_sith_ext.mag
 /resources/art/dynamic/spec/mag_spacecombatplayershipsmuggler_sc_ps_smuggler.mag
 /resources/art/dynamic/spec/mag_spacecombatrepublicfrigate_sc_rep_destroyer.mag
 /resources/art/dynamic/spec/mag_spacecombatrepublicfrigatebridge_sc_rep_frigate_bridge.mag
 /resources/art/dynamic/spec/mag_spacecombatrepublicfrigateshieldgen_sc_rep_frigate_shieldgen.mag
 /resources/art/dynamic/spec/mag_spacecombatrepublicfrigateturret_sc_rep_frigate_turret.mag
+/resources/art/dynamic/spec/mag_spacecombatrepublicfrigateturretheavy_sc_rep_frigate_turretheavy.mag
 /resources/art/dynamic/spec/mag_spacemine_spc_item_mine.mag
 /resources/art/dynamic/spec/mag_spacemine_veh_neu_speeder_02.mag
 /resources/art/dynamic/spec/mag_ssdoorlg_a.mag
@@ -307,10 +340,14 @@
 /resources/art/dynamic/spec/mag_treasurechestmedium_medium.mag
 /resources/art/dynamic/spec/mag_treasurechestsmall_small.mag
 /resources/art/dynamic/spec/mag_turretimpsmall_imp.mag
+/resources/art/dynamic/spec/mag_turretioncannon_cannon.mag
 /resources/art/dynamic/spec/mag_turretneularge_turret.mag
 /resources/art/dynamic/spec/mag_turretneularge_turret_red.mag
 /resources/art/dynamic/spec/mag_turretneusmallbase_neu.mag
 /resources/art/dynamic/spec/mag_vehrepatv_rep01.mag
+/resources/art/dynamic/spec/nar_item_signage_redlight_18.mag
+/resources/art/dynamic/spec/nar_item_signage_redlight_19.mag
+/resources/art/dynamic/spec/nar_item_signage_social_atrium.mag
 /resources/art/dynamic/spec/neuheavyutilityship_skeleton.gr2
 /resources/art/dynamic/spec/petmouse_skeleton.gr2
 /resources/art/dynamic/spec/petprobe_skeleton.gr2

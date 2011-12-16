@@ -1,4 +1,4 @@
-; 1212/1268 (95%)
+; 1235/1268 (97%)
 /resources/art/environmentmaps/hut_main/default.dds
 /resources/art/environmentmaps/hut_main/default.tex
 /resources/art/environmentmaps/hut_main/default.tiny.dds
@@ -221,12 +221,19 @@
 /resources/art/static/area/all_all/item/underworld/texture/all_item_und_hutt_throne_s.dds
 /resources/art/static/area/all_all/item/underworld/texture/all_item_und_hutt_throne_s.tex
 /resources/art/static/area/all_all/item/underworld/texture/all_item_und_hutt_throne_s.tiny.dds
+/resources/art/static/area/hut_hutta/arch/all_city_arch_scaffolding.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_industrial_exhaust.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_industrial_light.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_industrial_light_out.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_industrial_pedestal.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_industrial_pipe.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_industrial_pipe_01.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_industrial_pipe_doube_x3.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_industrial_pipe_doube_x4.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_industrial_pipe_end.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_industrial_pipe_end_double.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_industrial_pipe02.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_industrial_pipe03.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_industrial_platform.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_industrial_scaffolding.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_industrial_scaffolding02.gr2
@@ -242,20 +249,26 @@
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_arch_overhang.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_parts_antennae.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_parts_antennae_01.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_parts_antennae_02.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_parts_antennae_03.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_parts_backside.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_parts_cylinder_bldg.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_parts_dome.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_parts_side_element.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_hutpalace_room_hallway_arch_hall_entry.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_cantina_ao.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_cantina_grate.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_cantina_light_alt.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_ceiling_display.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_door.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_exterior.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_exterior_02.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_floor_threshold.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_hall_2a.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_hall_2b.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_hall_2c.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_hall_2d.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_hall_2f.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_hall_2g.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_hall_2h.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_hall_a.gr2
@@ -271,8 +284,10 @@
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_observation_deck_door_03.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_observation_deck_new.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rancor_entry_door.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rancor_entry_door_jamb.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rancor_h.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rancor_i.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rancor_large_door.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rancor_top.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_2a.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_2b.gr2
@@ -292,14 +307,18 @@
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_entrance.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_entrance_ramp.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_rancor.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_rancor_02.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_throne.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_throne_lights.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_throne_raid_02.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_room_entrance_transition.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_spire.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_wall_small_monitor.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_industrial_metal_floor.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_industrial_metal_floor_corner.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_metal_shoring.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_metal_shoring_support.gr2
+/resources/art/static/area/hut_hutta/arch/hut_palace_interior_door_frame.gr2
 /resources/art/static/area/hut_hutta/arch/texture/hut_arch_industrial_concrete_d.dds
 /resources/art/static/area/hut_hutta/arch/texture/hut_arch_industrial_concrete_d.tex
 /resources/art/static/area/hut_hutta/arch/texture/hut_arch_industrial_concrete_d.tiny.dds
@@ -684,6 +703,7 @@
 /resources/art/static/area/hut_hutta/env/hut_env_interior_trans_dark.gr2
 /resources/art/static/area/hut_hutta/env/hut_env_interior_trans_light.gr2
 /resources/art/static/area/hut_hutta/env/hut_env_swamp_crop_01.gr2
+/resources/art/static/area/hut_hutta/env/hut_env_swamp_crop_22.gr2
 /resources/art/static/area/hut_hutta/env/hut_env_treestump_01.gr2
 /resources/art/static/area/hut_hutta/env/hut_env_treestump_02.gr2
 /resources/art/static/area/hut_hutta/env/hut_env_treestump_03.gr2
@@ -895,6 +915,8 @@
 /resources/art/static/area/hut_hutta/speedtree/cattail/hut_cattail_fruit_d.tex
 /resources/art/static/area/hut_hutta/speedtree/cattail/hut_cattail_fruit_n.dds
 /resources/art/static/area/hut_hutta/speedtree/cattail/hut_cattail_fruit_n.tex
+/resources/art/static/area/hut_hutta/speedtree/cattail/hut_cattail_fruit01.gr2
+/resources/art/static/area/hut_hutta/speedtree/cattail/hut_cattail_fruit02.gr2
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree_vines.gr2
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree_vines2.gr2
 /resources/art/static/area/hut_hutta/speedtree/hut_bigtree/hut_bigtree1.spt
@@ -936,6 +958,7 @@
 /resources/art/static/area/hut_hutta/speedtree/hut_mushrooms_01.gr2
 /resources/art/static/area/hut_hutta/speedtree/hut_mushrooms_02.gr2
 /resources/art/static/area/hut_hutta/speedtree/hut_swampfern2.gr2
+/resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_thintree1.spt
 /resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_tree_bark_02.dds
 /resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_tree_bark_02.tex
 /resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_tree_bark_02_n.dds

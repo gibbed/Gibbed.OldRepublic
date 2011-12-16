@@ -1,4 +1,4 @@
-; 643/663 (96%)
+; 649/663 (97%)
 /resources/art/environmentmaps/ord_resize/area.dds
 /resources/art/environmentmaps/ord_resize/area.tex
 /resources/art/environmentmaps/ord_resize/area.tiny.dds
@@ -77,6 +77,8 @@
 /resources/art/static/area/ord_ordmantell/env/ord_env_mountain_boulder_lrg.gr2
 /resources/art/static/area/ord_ordmantell/env/ord_env_mountain_boulder_med.gr2
 /resources/art/static/area/ord_ordmantell/env/ord_wilds_cliff_large.gr2
+/resources/art/static/area/ord_ordmantell/env/ord_wilds_cliff_large_bend.gr2
+/resources/art/static/area/ord_ordmantell/env/ord_wilds_cliff_large_bend_02.gr2
 /resources/art/static/area/ord_ordmantell/env/ord_wilds_cliff_large_top.gr2
 /resources/art/static/area/ord_ordmantell/env/texture/ord_env_base_metalground_d.dds
 /resources/art/static/area/ord_ordmantell/env/texture/ord_env_base_metalground_d.tex
@@ -148,9 +150,12 @@
 /resources/art/static/area/ord_ordmantell/env/texture/ord_wilds_cliff_large_s.tex
 /resources/art/static/area/ord_ordmantell/env/texture/ord_wilds_cliff_large_s.tiny.dds
 /resources/art/static/area/ord_ordmantell/item/ord_item_pipe_45.gr2
+/resources/art/static/area/ord_ordmantell/item/ord_item_pipe_90.gr2
 /resources/art/static/area/ord_ordmantell/item/ord_item_pipe_endcap.gr2
+/resources/art/static/area/ord_ordmantell/item/ord_item_pipe_joint.gr2
 /resources/art/static/area/ord_ordmantell/item/ord_item_pipe_long.gr2
 /resources/art/static/area/ord_ordmantell/item/ord_item_pipe_longx10.gr2
+/resources/art/static/area/ord_ordmantell/item/ord_item_pipe_short.gr2
 /resources/art/static/area/ord_ordmantell/item/ord_item_sav_debris_large_01.gr2
 /resources/art/static/area/ord_ordmantell/item/ord_item_sav_debris_medium.gr2
 /resources/art/static/area/ord_ordmantell/item/ord_item_sav_debris_medium_01.gr2
@@ -186,6 +191,7 @@
 /resources/art/static/area/ord_ordmantell/item/texture/ord_item_sav_debris_large_s.tex
 /resources/art/static/area/ord_ordmantell/item/texture/ord_item_sav_debris_large_s.tiny.dds
 /resources/art/static/area/ord_ordmantell/sky/ord_skyscene01.gr2
+/resources/art/static/area/ord_ordmantell/sky/sky_ord_skydome.gr2
 /resources/art/static/area/ord_ordmantell/sky/texture/ord_skyscene_horizon_d.dds
 /resources/art/static/area/ord_ordmantell/sky/texture/ord_skyscene_horizon_d.tex
 /resources/art/static/area/ord_ordmantell/sky/texture/ord_skyscene_horizon_d.tiny.dds

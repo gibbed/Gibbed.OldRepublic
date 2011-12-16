@@ -1,4 +1,4 @@
-; 160/421 (38%)
+; 206/421 (48%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/dynamic/age/index.xml
@@ -17,6 +17,7 @@
 /resources/art/dynamic/player_character/outfit/ge_naked_light_a21/texture/___psd/character_holo_d.tex
 /resources/art/dynamic/player_character/outfit/ge_naked_light_a21/texture/___psd/character_holo_d.tiny.dds
 /resources/art/dynamic/skincolor/index.xml
+/resources/art/dynamic/space_combat/ships/sc_neu_space_station.gr2
 /resources/art/dynamic/testrules.rul
 /resources/art/environmentmaps/agt_epochoffear/area.dds
 /resources/art/environmentmaps/agt_epochoffear/area.tex
@@ -75,6 +76,14 @@
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_space_hall_cpanel_s.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_space_hall_cpanel_s.tex
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_space_hall_cpanel_s.tiny.dds
+/resources/art/static/area/all_all/sky/sky_starfield_skydome.gr2
+/resources/art/static/area/all_all/test/all_temp_number_01.gr2
+/resources/art/static/area/all_all/test/all_temp_number_02.gr2
+/resources/art/static/area/all_all/test/all_temp_number_03.gr2
+/resources/art/static/area/all_all/test/all_temp_number_04.gr2
+/resources/art/static/area/all_all/test/all_temp_number_05.gr2
+/resources/art/static/area/all_all/test/all_temp_number_06.gr2
+/resources/art/static/area/all_all/test/test_geometry_sphere.gr2
 /resources/art/static/area/all_all/test/texture/all_temp_numbers_d.dds
 /resources/art/static/area/all_all/test/texture/all_temp_numbers_d.tex
 /resources/art/static/area/all_all/test/texture/all_temp_numbers_d.tiny.dds
@@ -114,6 +123,18 @@
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampmud_s.dds
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampmud_s.tex
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampmud_s.tiny.dds
+/resources/art/static/area/kaon/arch/kaon_arch_city_ceiling.gr2
+/resources/art/static/area/kaon/arch/kaon_arch_city_security_fence_wall_left.gr2
+/resources/art/static/area/kaon/arch/kaon_arch_city_security_fence_wall_right.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_01.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_02.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_03.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_04.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_05.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_06.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_07.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_08.gr2
+/resources/art/static/area/kaon/sky/kaon_skyscene.gr2
 /resources/art/static/area/kaon/sky/texture/kaon_background_bldgs_d.dds
 /resources/art/static/area/kaon/sky/texture/kaon_background_bldgs_d.tex
 /resources/art/static/area/kaon/sky/texture/kaon_background_bldgs_d.tiny.dds
@@ -139,6 +160,30 @@
 /resources/art/static/area/tyt_tython/env/texture/tyt_rock_test_d.tex
 /resources/art/static/area/tyt_tython/env/texture/tyt_rock_test_d.tiny.dds
 /resources/art/static/point_static.gr2
+/resources/art/static/test/qa/qa_sign_armor.gr2
+/resources/art/static/test/qa/qa_sign_blaster.gr2
+/resources/art/static/test/qa/qa_sign_class.gr2
+/resources/art/static/test/qa/qa_sign_combat_systems.gr2
+/resources/art/static/test/qa/qa_sign_combat_visuals.gr2
+/resources/art/static/test/qa/qa_sign_crafting.gr2
+/resources/art/static/test/qa/qa_sign_dark_side.gr2
+/resources/art/static/test/qa/qa_sign_death_volume.gr2
+/resources/art/static/test/qa/qa_sign_enhancement_stations.gr2
+/resources/art/static/test/qa/qa_sign_exhaustion_volume.gr2
+/resources/art/static/test/qa/qa_sign_gathering.gr2
+/resources/art/static/test/qa/qa_sign_general.gr2
+/resources/art/static/test/qa/qa_sign_imperial.gr2
+/resources/art/static/test/qa/qa_sign_light_side.gr2
+/resources/art/static/test/qa/qa_sign_lightsaber.gr2
+/resources/art/static/test/qa/qa_sign_mission.gr2
+/resources/art/static/test/qa/qa_sign_phases.gr2
+/resources/art/static/test/qa/qa_sign_points.gr2
+/resources/art/static/test/qa/qa_sign_pvp_region.gr2
+/resources/art/static/test/qa/qa_sign_republic.gr2
+/resources/art/static/test/qa/qa_sign_ship_hanger.gr2
+/resources/art/static/test/qa/qa_sign_wonkavator.gr2
+/resources/art/static/test/qa/qa_sign_world.gr2
+/resources/art/static/test/qa/qa_sign_world_build_systems.gr2
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_01_d.dds
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_01_d.tex
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_01_d.tiny.dds
@@ -157,5 +202,6 @@
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_s.dds
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_s.tex
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_s.tiny.dds
+/resources/art/test/portals/portal2.gr2
 ft.sig
 metadata.bin

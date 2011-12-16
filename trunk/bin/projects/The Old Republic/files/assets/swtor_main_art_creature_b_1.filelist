@@ -1,4 +1,4 @@
-; 798/823 (96%)
+; 799/823 (97%)
 /resources/art/dynamic/creature/model/manta_baspoorglider_a01.gr2
 /resources/art/dynamic/creature/model/manta_thranta_a01.gr2
 /resources/art/dynamic/creature/model/manta_thrantamount_a01.gr2
@@ -560,6 +560,7 @@
 /resources/art/dynamic/droid/mouse_droid/texture/___psd/mouse_droid_a02_v01_s.tex
 /resources/art/dynamic/droid/mouse_droid/texture/___psd/mouse_droid_a02_v01_s.tiny.dds
 /resources/art/dynamic/droid/probe_droid/probe_mini_a01.gr2
+/resources/art/dynamic/droid/probe_droid/probe_mini02.gr2
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_czerka_a01_v01_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_czerka_a01_v01_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_czerka_a01_v01_d.tiny.dds
