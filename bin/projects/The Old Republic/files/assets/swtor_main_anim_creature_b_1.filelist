@@ -1,4 +1,4 @@
-; 1771/9173 (19%)
+; 1772/9173 (19%)
 /resources/anim/creature/am_manta.xml
 /resources/anim/creature/am_mote.xml
 /resources/anim/creature/am_probe.xml
@@ -144,6 +144,7 @@
 /resources/anim/creature/slug/cb_spawn.jba
 /resources/anim/creature/slug/creature_action_common.mph
 /resources/anim/creature/slug/creature_loco.mph
+/resources/anim/creature/slug/creature_loco_cnv.mph
 /resources/anim/creature/slug/creature_overlay.mph
 /resources/anim/creature/slug/dg_crit_damage_1.jba
 /resources/anim/creature/slug/dg_crit_damage_2.jba

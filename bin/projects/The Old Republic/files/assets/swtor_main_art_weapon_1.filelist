@@ -1,4 +1,4 @@
-; 3994/4686 (85%)
+; 3996/4686 (85%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -3825,12 +3825,14 @@
 /resources/art/shaders/materials/blaster_high03_a01_v04.mat
 /resources/art/shaders/materials/blaster_high05_a01_v01.mat
 /resources/art/shaders/materials/blaster_high06_a01_v03.mat
+/resources/art/shaders/materials/blaster_high08_a01_v04.mat
 /resources/art/shaders/materials/blaster_high09_a01_v04.mat
 /resources/art/shaders/materials/blaster_high10_a01_v04.mat
 /resources/art/shaders/materials/blaster_high11_a01_v02.mat
 /resources/art/shaders/materials/blaster_high13_a01_v02.mat
 /resources/art/shaders/materials/blaster_high13_a01_v03.mat
 /resources/art/shaders/materials/blaster_high13_a01_v04.mat
+/resources/art/shaders/materials/blaster_high14_a01_v01.mat
 /resources/art/shaders/materials/blaster_high14_a01_v04.mat
 /resources/art/shaders/materials/blaster_low01_a01_v01.mat
 /resources/art/shaders/materials/blaster_low01_a01_v02.mat

@@ -1,4 +1,4 @@
-; 1506/14180 (10%)
+; 1511/14180 (10%)
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_up.jba
@@ -755,6 +755,7 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_saber_point_east_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_saber_ready_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_saber_threaten_forward_idle.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_scan_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_1_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_3_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_idle.mph
@@ -871,7 +872,9 @@
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_2hands_hips_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_arms_behind_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_arms_crossed_idle.mph
+/resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_arms_front_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_back_wall_idle.mph
+/resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_death_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_injured_head_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_injured_kneel_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_no_aim_loco_autogen_po_kneel_idle.mph
@@ -1368,6 +1371,8 @@
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000085.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000092.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000095.mph
+/resources/anim/humanoid/bfbnew/humanoid_action_autogen000109.mph
+/resources/anim/humanoid/bfbnew/humanoid_action_autogen000110.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000120.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000122.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_autogen000124.mph

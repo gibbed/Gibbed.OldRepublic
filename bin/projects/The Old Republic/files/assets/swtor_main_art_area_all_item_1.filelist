@@ -1,4 +1,4 @@
-; 7987/8930 (89%)
+; 7988/8930 (89%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -790,6 +790,7 @@
 /resources/art/shaders/materials/item_furn_terminal_wall_imperial_suv.mat
 /resources/art/shaders/materials/item_furn_training_apparatus_imperial.mat
 /resources/art/shaders/materials/item_furn_training_dummy_imperial.mat
+/resources/art/shaders/materials/klorslug_klorslug_larva_v01.mat
 /resources/art/shaders/materials/klorslug_klorslug_queen_v01.mat
 /resources/art/shaders/materials/kor_acad_hall_all_purpose.mat
 /resources/art/shaders/materials/kor_acad_library_frame.mat
