@@ -1,4 +1,4 @@
-; 50/244 (20%)
+; 52/244 (21%)
 /resources/en-us/bnk2/cnv_location_universal_imperial_flight_commander.acb
 /resources/en-us/bnk2/cnv_misc_combat_cc_agent_kaliyo.acb
 /resources/en-us/bnk2/cnv_misc_combat_cc_multi_2vr8.acb
@@ -26,6 +26,7 @@
 /resources/en-us/bnk2/cnv_misc_vendor_human_m_military_imp.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_m_military_imp2.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_m_traineragent_imp.acb
+/resources/en-us/bnk2/cnv_misc_vendor_human_m_trainerinquisitor_imp.acb
 /resources/en-us/bnk2/cnv_misc_vendor_human_m_trainerknight_rep.acb
 /resources/en-us/fxe/cnv/location/universal/imperial_flight_commander.fxe
 /resources/en-us/fxe/cnv/misc/combat/cc/agent/kaliyo.fxe
@@ -46,6 +47,7 @@
 /resources/en-us/fxe/cnv/misc/vendor/human_m_military_imp.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_m_military_imp2.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_m_traineragent_imp.fxe
+/resources/en-us/fxe/cnv/misc/vendor/human_m_trainerinquisitor_imp.fxe
 /resources/en-us/fxe/cnv/misc/vendor/human_m_trainerknight_rep.fxe
 ft.sig
 metadata.bin

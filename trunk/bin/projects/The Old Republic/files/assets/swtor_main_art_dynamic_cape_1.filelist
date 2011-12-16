@@ -1,10 +1,11 @@
-; 906/4371 (20%)
+; 921/4371 (21%)
 /resources/art/dynamic/chest/model/chest_capetight_bfn_archetype.clo
 /resources/art/dynamic/chest/model/chest_capetight_bfn_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_capetight_bfn_heavy_sw_a08_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_capetight_bfn_heavy_sw_a08_loin.clo
 /resources/art/dynamic/chest/model/chest_capetight_bfn_heavy_sw_a08_loin.lod.gr2
 /resources/art/dynamic/chest/model/chest_capetight_bmf_archetype.clo
+/resources/art/dynamic/chest/model/chest_capetight_bmf_archetype.gr2
 /resources/art/dynamic/chest/model/chest_capetight_bmf_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_capetight_bmn_archetype.clo
 /resources/art/dynamic/chest/model/chest_capetight_bmn_archetype.lod.gr2
@@ -30,6 +31,8 @@
 /resources/art/dynamic/chest/model/chest_jacket_bfb_med_ge_a31_arm.lod.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bfn_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bfn_med_ge_a31_arm.lod.gr2
+/resources/art/dynamic/chest/model/chest_jacket_bfs_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_jacket_bfs_med_ge_a31_arm.lod.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bma_archetype.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bma_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_jacket_bma_med_ge_a31_arm.gr2
@@ -160,6 +163,10 @@
 /resources/art/dynamic/chest/model/chest_trench_bfa_archetype.clo
 /resources/art/dynamic/chest/model/chest_trench_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_trench_bfa_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_trench_bfa_med_sp_a05_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_trench_bma_archetype.clo
+/resources/art/dynamic/chest/model/chest_trench_bma_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_trench_bma_med_sp_a05_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_trench_bmn_archetype.clo
 /resources/art/dynamic/chest/model/chest_trench_bmn_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_trench_bmn_med_sp_a05_back.lod.gr2
@@ -206,6 +213,7 @@
 /resources/art/dynamic/chest/model/chest_trenchtight_bms_archetype.clo
 /resources/art/dynamic/chest/model/chest_trenchtight_bms_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_trenchtight_bms_heavy_bh_a05_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_trenchtight_bms_heavy_bh_a05_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_trenchtight_bms_heavy_bh_a05_plate.lod.gr2
 /resources/art/dynamic/chest/model/chest_trenchtight_bms_med_sp_a06_hooddown.lod.gr2
 /resources/art/dynamic/chest/model/chest_trenchtight_bms_med_sp_a06_hoodup.lod.gr2
@@ -497,6 +505,7 @@
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c05_u_s.dds
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c05_u_s.tex
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c05_u_s.tiny.dds
+/resources/art/dynamic/player_character/outfit/sp_trench_med_a05/texture/___psd/chest_trench_med_sp_a05c03_f_n.dds
 /resources/art/dynamic/player_character/outfit/sp_trench_med_a05/texture/___psd/chest_trench_med_sp_a05c03_m_n.dds
 /resources/art/dynamic/player_character/outfit/sp_trench_med_a05/texture/___psd/chest_trench_med_sp_a05c03_u_d.dds
 /resources/art/dynamic/player_character/outfit/sp_trench_med_a05/texture/___psd/chest_trench_med_sp_a05c03_u_h.dds
@@ -639,11 +648,16 @@
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c02_u_s.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c02_u_s.tiny.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_m_02_n.dds
+/resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_m_02_n.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_m_n.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_u_d.dds
+/resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_u_d.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_u_h.dds
+/resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_u_h.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_u_m.dds
+/resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_u_m.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_u_s.dds
+/resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c03_u_s.tex
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c04_u_d.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c04_u_h.dds
 /resources/art/dynamic/player_character/outfit/sw_capetight_heavy_a06/texture/___psd/chest_capetight_heavy_sw_a06c04_u_m.dds
@@ -883,6 +897,7 @@
 /resources/art/shaders/materials/chest_trench_med_sm_a06c05_f.mat
 /resources/art/shaders/materials/chest_trench_med_sp_a05c01_u.mat
 /resources/art/shaders/materials/chest_trench_med_sp_a05c02_u.mat
+/resources/art/shaders/materials/chest_trench_med_sp_a05c03_f.mat
 /resources/art/shaders/materials/chest_trench_med_sp_a05c03_m.mat
 /resources/art/shaders/materials/chest_trencharmor_heavy_ge_a06reptrooper01_u.mat
 /resources/art/shaders/materials/chest_trencharmor_heavy_tr_a06c01_u.mat
