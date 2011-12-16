@@ -1,4 +1,4 @@
-; 14841/22915 (64%)
+; 14875/22915 (64%)
 /resources/art/defaultassets/white.dds
 /resources/art/defaultassets/white.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_mini_a01_v01_d.dds
@@ -1188,6 +1188,7 @@
 /resources/art/fx/geometry/all/fx_injector_buff_health.gr2
 /resources/art/fx/geometry/all/fx_injector_buff_stim.gr2
 /resources/art/fx/geometry/all/fx_invis_sphere_double.gr2
+/resources/art/fx/geometry/all/fx_life_support_pump_lights.gr2
 /resources/art/fx/geometry/all/fx_marker_base.gr2
 /resources/art/fx/geometry/all/fx_marker_top.gr2
 /resources/art/fx/geometry/all/fx_med_center_cylinder.gr2
@@ -1355,10 +1356,16 @@
 /resources/art/fx/geometry/all_characters/texture/fx_lightshards_orange_n.dds
 /resources/art/fx/geometry/all_characters/texture/fx_lightshards_orange_n.tex
 /resources/art/fx/geometry/all_characters/texture/fx_lightshards_orange_n.tiny.dds
+/resources/art/fx/geometry/all_vfx_forcefield_amber_suv_03.gr2
+/resources/art/fx/geometry/all_vfx_forcefield_blue_suv_01.gr2
 /resources/art/fx/geometry/all_vfx_forcefield_blue_suv_02.gr2
 /resources/art/fx/geometry/all_vfx_forcefield_blue_suv_03.gr2
 /resources/art/fx/geometry/all_vfx_forcefield_blue_suv_04.gr2
 /resources/art/fx/geometry/all_vfx_forcefield_blue_suv_05.gr2
+/resources/art/fx/geometry/all_vfx_forcefield_blue_suv_06.gr2
+/resources/art/fx/geometry/all_vfx_forcefield_circular_blue_suv_01.gr2
+/resources/art/fx/geometry/all_vfx_forcefield_red_suv_01.gr2
+/resources/art/fx/geometry/all_vfx_forcefield_red_suv_02.gr2
 /resources/art/fx/geometry/all_vfx_forcefield_red_suv_03.gr2
 /resources/art/fx/geometry/all_vfx_forcefield_red_suv_04.gr2
 /resources/art/fx/geometry/all_vfx_forcefield_red_suv_05.gr2
@@ -1597,6 +1604,8 @@
 /resources/art/fx/geometry/cinematics/texture/fx_cine_saberforge_radiator_s.dds
 /resources/art/fx/geometry/cinematics/texture/fx_cine_saberforge_radiator_s.tex
 /resources/art/fx/geometry/cinematics/texture/fx_cine_saberforge_radiator_s.tiny.dds
+/resources/art/fx/geometry/coruscant/lightbeams/env_cor_light_beam.gr2
+/resources/art/fx/geometry/coruscant/lightbeams/plane01.gr2
 /resources/art/fx/geometry/coruscant/planet_prison/texture/env_world_razor_holo_02_g.dds
 /resources/art/fx/geometry/coruscant/planet_prison/texture/env_world_razor_holo_02_g.tex
 /resources/art/fx/geometry/coruscant/planet_prison/texture/env_world_razor_holo_02_g.tiny.dds
@@ -1710,8 +1719,10 @@
 /resources/art/fx/geometry/e3_panel/texture/broken_pipe_d.tex
 /resources/art/fx/geometry/e3_panel/texture/broken_pipe_d.tiny.dds
 /resources/art/fx/geometry/env_all_prison_box.gr2
+/resources/art/fx/geometry/env_bal_forcefield_sobrik.gr2
 /resources/art/fx/geometry/env_hut_splash_01.gr2
 /resources/art/fx/geometry/env_imp_holoship_x.gr2
+/resources/art/fx/geometry/env_lava_fall_02.gr2
 /resources/art/fx/geometry/env_plain_plane.gr2
 /resources/art/fx/geometry/env_plane_aqua.gr2
 /resources/art/fx/geometry/env_plane_black.gr2
@@ -1908,6 +1919,7 @@
 /resources/art/fx/geometry/ill_dome_01.gr2
 /resources/art/fx/geometry/ill_dome_02.gr2
 /resources/art/fx/geometry/illum/env_illum_detail_dome.gr2
+/resources/art/fx/geometry/ilum/env_ilum_forcefield_dome.gr2
 /resources/art/fx/geometry/ilum/texture/ilm_skyscene_milky_way_d.dds
 /resources/art/fx/geometry/ilum/texture/ilm_skyscene_milky_way_d.tex
 /resources/art/fx/geometry/ilum/texture/ilm_skyscene_milky_way_d.tiny.dds
@@ -1939,6 +1951,7 @@
 /resources/art/fx/geometry/inquisitor/texture/fx_whirlwind_core_01_s.dds
 /resources/art/fx/geometry/inquisitor/texture/fx_whirlwind_core_01_s.tex
 /resources/art/fx/geometry/inquisitor/texture/fx_whirlwind_core_01_s.tiny.dds
+/resources/art/fx/geometry/items/fx_all_item_imp_mortar_turret_base.gr2
 /resources/art/fx/geometry/items/fx_loot_common.gr2
 /resources/art/fx/geometry/items/fx_loot_premium.gr2
 /resources/art/fx/geometry/items/fx_loot_quest.gr2
@@ -2024,7 +2037,9 @@
 /resources/art/fx/geometry/nar_shadaa/casino_center/texture/fx_casino_ring_02_lightning2_d.dds
 /resources/art/fx/geometry/nar_shadaa/casino_center/texture/fx_casino_ring_02_lightning2_d.tex
 /resources/art/fx/geometry/nar_shadaa/casino_center/texture/fx_casino_ring_02_lightning2_d.tiny.dds
+/resources/art/fx/geometry/nar_shadaa/nar_arch_city_casino_center_01.gr2
 /resources/art/fx/geometry/ord/fx_ord_aagun_base_01.gr2
+/resources/art/fx/geometry/ord/fx_ord_aagun_base_01_collision.gr2
 /resources/art/fx/geometry/ord/fx_ord_aagun_cannon_01.gr2
 /resources/art/fx/geometry/ord/fx_ord_aagun_cannon_left_01.gr2
 /resources/art/fx/geometry/ord/fx_ord_aagun_cannon_right_01.gr2
@@ -2078,6 +2093,17 @@
 /resources/art/fx/geometry/probes/vfx_probe_mini_invisible.gr2
 /resources/art/fx/geometry/probes/vfx_probe_mini01.gr2
 /resources/art/fx/geometry/probes/vfx_tr_probe_01.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_announcer_billboard.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_arena_crowd.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_voidstar_cable_group_01.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_voidstar_cable_group_02.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_voidstar_lightrays_flicker.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_voidstar_lightrays_red_single.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_voidstar_lightrays_red_single_flicker.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_voidstar_lightrays_white_single.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_voidstar_lightrays_white_single_flicker.gr2
+/resources/art/fx/geometry/pvp/fx_pvp_wallbrace_light.gr2
+/resources/art/fx/geometry/pvp/spc_arch_imp_int_wallbrace_noemissive.gr2
 /resources/art/fx/geometry/rakatas/texture/fx_rk_partialshieldcentered_d.dds
 /resources/art/fx/geometry/rakatas/texture/fx_rk_partialshieldcentered_d.tex
 /resources/art/fx/geometry/rakatas/texture/fx_rk_partialshieldcentered_d.tiny.dds
@@ -2125,6 +2151,7 @@
 /resources/art/fx/geometry/sith_warrior/texture/sw_swirl_streak_d.dds
 /resources/art/fx/geometry/sith_warrior/texture/sw_swirl_streak_d.tex
 /resources/art/fx/geometry/sith_warrior/texture/sw_swirl_streak_d.tiny.dds
+/resources/art/fx/geometry/skies/env_tar_2_moon_01.gr2
 /resources/art/fx/geometry/skies/fx_starskydome_01.gr2
 /resources/art/fx/geometry/skies/fx_testskydome_01.gr2
 /resources/art/fx/geometry/skies/fx_turbulantskydome_01.gr2
@@ -2203,6 +2230,7 @@
 /resources/art/fx/geometry/smuggler/vfx_surrounding_cloak_end.gr2
 /resources/art/fx/geometry/smuggler/vfx_surrounding_cloak_grid.gr2
 /resources/art/fx/geometry/smuggler/vfx_surrounding_cloak_middle.gr2
+/resources/art/fx/geometry/space/env_imp_revan_dome_forcefield.gr2
 /resources/art/fx/geometry/space/fx_superlow_rep_starfighter_01.gr2
 /resources/art/fx/geometry/space/texture/env_imp_revan_dome_forcefield_d.dds
 /resources/art/fx/geometry/space/texture/env_imp_revan_dome_forcefield_d.tex
@@ -2266,6 +2294,7 @@
 /resources/art/fx/geometry/spy/texture/fx_sp_shiv_01_s.dds
 /resources/art/fx/geometry/spy/texture/fx_sp_shiv_01_s.tex
 /resources/art/fx/geometry/spy/texture/fx_sp_shiv_01_s.tiny.dds
+/resources/art/fx/geometry/taris/all_arch_republic_farm_exterior_02.gr2
 /resources/art/fx/geometry/taris/texture/fx_tar_restraint_block_d.dds
 /resources/art/fx/geometry/taris/texture/fx_tar_restraint_block_d.tex
 /resources/art/fx/geometry/taris/texture/fx_tar_restraint_block_d.tiny.dds
@@ -2275,8 +2304,10 @@
 /resources/art/fx/geometry/taris/texture/fx_tar_restraint_block_s.dds
 /resources/art/fx/geometry/taris/texture/fx_tar_restraint_block_s.tex
 /resources/art/fx/geometry/taris/texture/fx_tar_restraint_block_s.tiny.dds
+/resources/art/fx/geometry/tatooine/fx_rakata_mind_trap_base.gr2
 /resources/art/fx/geometry/test/andy_test_axis.gr2
 /resources/art/fx/geometry/test/miniaxis.gr2
+/resources/art/fx/geometry/test/starfield_test.gr2
 /resources/art/fx/geometry/test/texture/andy_test_box_d.dds
 /resources/art/fx/geometry/test/texture/andy_test_box_d.tex
 /resources/art/fx/geometry/test/texture/andy_test_box_d.tiny.dds
@@ -2501,6 +2532,7 @@
 /resources/art/fx/geometry/tython/texture/fx_env_tyt_constilations_n.dds
 /resources/art/fx/geometry/tython/texture/fx_env_tyt_constilations_n.tex
 /resources/art/fx/geometry/tython/texture/fx_env_tyt_constilations_n.tiny.dds
+/resources/art/fx/geometry/tython/tyt_item_fleshraider_meathook_chain_broken.gr2
 /resources/art/fx/geometry/vehicles/cor_ship_group_lod.gr2
 /resources/art/fx/geometry/vehicles/cor_taxi_ship_group.gr2
 /resources/art/fx/geometry/vehicles/fx_jet_stream_blue.gr2
@@ -2550,6 +2582,8 @@
 /resources/art/fx/geometry/vehilces/heavy_utility_starship_no_left_engine.gr2
 /resources/art/fx/geometry/vfx_battledroid_crit_missle.gr2
 /resources/art/fx/geometry/vfx_gizmo_destruction_item_01.gr2
+/resources/art/fx/geometry/voss/vasca_view_clouds.gr2
+/resources/art/fx/geometry/voss/vasca_view_grnd.gr2
 /resources/art/fx/geometry/worlddesign_burstfrombelow_crater.gr2
 /resources/art/fx/particles/360_rotating_dummy.prt
 /resources/art/fx/particles/academy_fire_kor.prt

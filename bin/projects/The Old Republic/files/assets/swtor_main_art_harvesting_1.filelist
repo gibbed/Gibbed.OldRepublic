@@ -1,4 +1,4 @@
-; 745/862 (86%)
+; 746/862 (86%)
 /resources/art/shaders/materials/har_broken_vehicle_component.mat
 /resources/art/shaders/materials/har_bush_green.mat
 /resources/art/shaders/materials/har_bush_orange.mat
@@ -83,6 +83,7 @@
 /resources/art/static/harvesting/har_lichen_silver.gr2
 /resources/art/static/harvesting/har_lost_cultural_artifact.gr2
 /resources/art/static/harvesting/har_lotus_blue.gr2
+/resources/art/static/harvesting/har_lotus_red.gr2
 /resources/art/static/harvesting/har_moss_berry.gr2
 /resources/art/static/harvesting/har_moss_flower.gr2
 /resources/art/static/harvesting/har_moss_vine.gr2

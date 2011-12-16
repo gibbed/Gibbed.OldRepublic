@@ -1,4 +1,4 @@
-; 1188/1548 (76%)
+; 1218/1548 (78%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -318,8 +318,10 @@
 /resources/art/static/vehicle/imp/texture/veh_imp_transport_pvp_03_s.tex
 /resources/art/static/vehicle/imp/texture/veh_imp_transport_pvp_03_s.tiny.dds
 /resources/art/static/vehicle/imp/veh_imp_capital_destroyer.gr2
+/resources/art/static/vehicle/imp/veh_imp_capital_destroyer_left_view.gr2
 /resources/art/static/vehicle/imp/veh_imp_capital_destroyer_lod02.gr2
 /resources/art/static/vehicle/imp/veh_imp_capital_destroyer_lod03.gr2
+/resources/art/static/vehicle/imp/veh_imp_capital_destroyer_voidstar.gr2
 /resources/art/static/vehicle/imp/veh_imp_friggate.gr2
 /resources/art/static/vehicle/imp/veh_imp_friggate_dome.gr2
 /resources/art/static/vehicle/imp/veh_imp_friggate_lod01.gr2
@@ -329,7 +331,12 @@
 /resources/art/static/vehicle/imp/veh_imp_ps_shuttle.gr2
 /resources/art/static/vehicle/imp/veh_imp_starfighter_bomber.gr2
 /resources/art/static/vehicle/imp/veh_imp_starfighter_interceptor.gr2
+/resources/art/static/vehicle/imp/veh_imp_starfighter_interceptor_body.gr2
 /resources/art/static/vehicle/imp/veh_imp_starfighter_interceptor_elite.gr2
+/resources/art/static/vehicle/imp/veh_imp_starfighter_interceptor_wing_big.gr2
+/resources/art/static/vehicle/imp/veh_imp_starfighter_interceptor_wing_small.gr2
+/resources/art/static/vehicle/imp/veh_imp_stealth_fighter_body.gr2
+/resources/art/static/vehicle/imp/veh_imp_stealth_fighter_wing_small.gr2
 /resources/art/static/vehicle/imp/veh_imp_taxi_air_speeder.gr2
 /resources/art/static/vehicle/imp/veh_imp_transport_light_troop.gr2
 /resources/art/static/vehicle/imp/veh_imp_transport_light_troop_body.gr2
@@ -410,6 +417,8 @@
 /resources/art/static/vehicle/neutral/speeder/texture/veh_neu_taxi_air_speeder_s.tex
 /resources/art/static/vehicle/neutral/speeder/texture/veh_neu_taxi_air_speeder_s.tiny.dds
 /resources/art/static/vehicle/neutral/speeder/veh_neu_air_speeder_blue.gr2
+/resources/art/static/vehicle/neutral/speeder/veh_neu_air_speeder_purple.gr2
+/resources/art/static/vehicle/neutral/speeder/veh_neu_air_speeder_red.gr2
 /resources/art/static/vehicle/neutral/speeder/veh_neu_speeder_01.gr2
 /resources/art/static/vehicle/neutral/speeder/veh_neu_speeder_02.gr2
 /resources/art/static/vehicle/neutral/speeder/veh_neu_speeder_03.gr2
@@ -747,12 +756,14 @@
 /resources/art/static/vehicle/neutral/texture/veh_nue_starship_ricker_wings_s.dds
 /resources/art/static/vehicle/neutral/texture/veh_nue_starship_ricker_wings_s.tex
 /resources/art/static/vehicle/neutral/texture/veh_nue_starship_ricker_wings_s.tiny.dds
+/resources/art/static/vehicle/neutral/veh_neu_bus.gr2
 /resources/art/static/vehicle/neutral/veh_neu_bus_large.gr2
 /resources/art/static/vehicle/neutral/veh_neu_bus_medium.gr2
 /resources/art/static/vehicle/neutral/veh_neu_crate_layer.gr2
 /resources/art/static/vehicle/neutral/veh_neu_dropship.gr2
 /resources/art/static/vehicle/neutral/veh_neu_frigate.gr2
 /resources/art/static/vehicle/neutral/veh_neu_garbage_scow.gr2
+/resources/art/static/vehicle/neutral/veh_neu_garbage_scow_nogear.gr2
 /resources/art/static/vehicle/neutral/veh_neu_heavy_utility_starship.gr2
 /resources/art/static/vehicle/neutral/veh_neu_mine_layer.gr2
 /resources/art/static/vehicle/neutral/veh_neu_nar_partybarge.gr2
@@ -760,6 +771,7 @@
 /resources/art/static/vehicle/neutral/veh_neu_ship_small_1.gr2
 /resources/art/static/vehicle/neutral/veh_neu_shuttle.gr2
 /resources/art/static/vehicle/neutral/veh_neu_shuttle_static.gr2
+/resources/art/static/vehicle/neutral/veh_neu_space_station.gr2
 /resources/art/static/vehicle/neutral/veh_neu_speeder_taxi_static.gr2
 /resources/art/static/vehicle/neutral/veh_neu_speeder_van.gr2
 /resources/art/static/vehicle/neutral/veh_neu_starship_condor.gr2
@@ -768,7 +780,16 @@
 /resources/art/static/vehicle/neutral/veh_neu_starship_condor_wing.gr2
 /resources/art/static/vehicle/neutral/veh_neu_tat_air_balloon_datacron.gr2
 /resources/art/static/vehicle/neutral/veh_neu_tat_sandcrawler.gr2
+/resources/art/static/vehicle/neutral/veh_neu_taxi_air_speeder_mid.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_destroyed.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_flight.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_01.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_02.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_03.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_04.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_05.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_wing.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_03.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_e_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_c_scheme_02.gr2
@@ -955,6 +976,7 @@
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_wasp_05_s.tiny.dds
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_greatwhite_a.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_wasp_05.gr2
+/resources/art/static/vehicle/republic/dbo_swingwing_closed.gr2
 /resources/art/static/vehicle/republic/texture/veh_rep_capital_ship_detail01_d.dds
 /resources/art/static/vehicle/republic/texture/veh_rep_capital_ship_detail01_d.tex
 /resources/art/static/vehicle/republic/texture/veh_rep_capital_ship_detail01_d.tiny.dds
@@ -1180,8 +1202,16 @@
 /resources/art/static/vehicle/republic/veh_rep_destroyer_distant.gr2
 /resources/art/static/vehicle/republic/veh_rep_destroyer_lod01.gr2
 /resources/art/static/vehicle/republic/veh_rep_fighter.gr2
+/resources/art/static/vehicle/republic/veh_rep_fighter_elite.gr2
+/resources/art/static/vehicle/republic/veh_rep_fighter_nolanding.gr2
+/resources/art/static/vehicle/republic/veh_rep_fighter02_01_nolanding.gr2
+/resources/art/static/vehicle/republic/veh_rep_fighter02_01_static.gr2
+/resources/art/static/vehicle/republic/veh_rep_fighter02_02_static.gr2
 /resources/art/static/vehicle/republic/veh_rep_fighter02_03_static.gr2
 /resources/art/static/vehicle/republic/veh_rep_ps_shuttle.gr2
+/resources/art/static/vehicle/republic/veh_rep_ps_shuttle_body.gr2
+/resources/art/static/vehicle/republic/veh_rep_ps_shuttle_wing.gr2
+/resources/art/static/vehicle/republic/veh_rep_transport_pvp.gr2
 /resources/art/static/vehicle/republic/veh_rep_troop_transport.gr2
 /resources/art/static/vehicle/republic/veh_rep_troop_transport_flight.gr2
 /resources/art/static/vehicle/republic/veh_rep_troop_transport_landed_wingsdown.gr2

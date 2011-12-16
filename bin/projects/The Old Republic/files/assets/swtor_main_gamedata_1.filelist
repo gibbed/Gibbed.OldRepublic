@@ -1,4 +1,4 @@
-; 6652/6699 (99%)
+; 6660/6699 (99%)
 /resources/art/defaultassets/ltorange.dds
 /resources/art/defaultassets/ltorange.tex
 /resources/art/shaders/materials/engine_staging_human_03.mat
@@ -8,10 +8,18 @@
 /resources/art/shaders/materials/util_blue.mat
 /resources/art/shaders/materials/util_yellow.mat
 /resources/engine/cleangame/resources/common/utility_box_white01.gr2
+/resources/engine/cover/cover_left.gr2
+/resources/engine/cover/cover_right.gr2
+/resources/engine/cover/cover_top.gr2
 /resources/engine/map/engine_map_mapnode.gr2
+/resources/engine/spawner/spawner_creature.gr2
+/resources/engine/spawner/spawner_creature_quest.gr2
+/resources/engine/spawner/spawner_crefac_quest.gr2
 /resources/engine/spawner/spawner_encounter.gr2
 /resources/engine/spawner/spawner_group.gr2
+/resources/engine/spawner/spawner_movepoint_1.gr2
 /resources/engine/spawner/spawner_placeable.gr2
+/resources/engine/spawner/spawner_rallypoint.gr2
 /resources/engine/staging/engine_staging_camera.gr2
 /resources/engine/staging/engine_staging_human_03.gr2
 /resources/engine/staging/engine_staging_human_04.gr2

@@ -1,4 +1,4 @@
-; 1477/1560 (94%)
+; 1487/1560 (95%)
 /resources/art/environmentmaps/dro_main/area.dds
 /resources/art/environmentmaps/dro_main/area.tex
 /resources/art/environmentmaps/dro_main/area.tiny.dds
@@ -203,7 +203,11 @@
 /resources/art/static/area/dro_kass/arch/dro_arch_city_buildings_grp_4.gr2
 /resources/art/static/area/dro_kass/arch/dro_arch_city_buildings_single_1.gr2
 /resources/art/static/area/dro_kass/arch/dro_arch_city_buildings_single_2.gr2
+/resources/art/static/area/dro_kass/arch/dro_arch_city_buildings_skyline_walkway.gr2
+/resources/art/static/area/dro_kass/arch/dro_arch_city_buildings_skyline1.gr2
 /resources/art/static/area/dro_kass/arch/dro_arch_city_buildings_skyline10.gr2
+/resources/art/static/area/dro_kass/arch/dro_arch_city_buildings_skyline4.gr2
+/resources/art/static/area/dro_kass/arch/dro_arch_city_buildings_skyline6.gr2
 /resources/art/static/area/dro_kass/arch/dro_arch_city_wallset_crnr01.gr2
 /resources/art/static/area/dro_kass/arch/dro_arch_city_wallset_crnr02.gr2
 /resources/art/static/area/dro_kass/arch/dro_arch_city_wallset_large_stairwell.gr2
@@ -274,6 +278,7 @@
 /resources/art/static/area/dro_kass/arch/dro_ruins_pillar04.gr2
 /resources/art/static/area/dro_kass/arch/dro_ruins_pillar04_top.gr2
 /resources/art/static/area/dro_kass/arch/dro_ruins_roof.gr2
+/resources/art/static/area/dro_kass/arch/dro_ruins_wallstatue.gr2
 /resources/art/static/area/dro_kass/arch/dro_vod_ruins_wall.gr2
 /resources/art/static/area/dro_kass/arch/dro_vod_ruins_walldoor.gr2
 /resources/art/static/area/dro_kass/arch/texture/all_item_imp_citadel_logo_d.dds
@@ -594,6 +599,9 @@
 /resources/art/static/area/dro_kass/env/dro_env_glowing_plants_angular.gr2
 /resources/art/static/area/dro_kass/env/dro_env_glowing_plants_round.gr2
 /resources/art/static/area/dro_kass/env/dro_env_glowing_plants_round_orange.gr2
+/resources/art/static/area/dro_kass/env/dro_env_hanging_moss_01.gr2
+/resources/art/static/area/dro_kass/env/dro_env_hanging_moss_03.gr2
+/resources/art/static/area/dro_kass/env/dro_env_hanging_moss_04.gr2
 /resources/art/static/area/dro_kass/env/dro_env_hanging_vine_small.gr2
 /resources/art/static/area/dro_kass/env/dro_env_mountain_boulder_med_01.gr2
 /resources/art/static/area/dro_kass/env/dro_env_mountain_boulder_med_02.gr2
@@ -969,6 +977,7 @@
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_b_n.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_b_n.tex
 /resources/art/static/area/dro_kass/speedtree/dro_leafytree/dro_leafytree.gr2
+/resources/art/static/area/dro_kass/speedtree/dro_leafytree/dro_leafytree.spt
 /resources/art/static/area/dro_kass/speedtree/dro_leafytree/texture/dro_leafytree_d.dds
 /resources/art/static/area/dro_kass/speedtree/dro_leafytree/texture/dro_leafytree_d.tex
 /resources/art/static/area/dro_kass/speedtree/dro_leafytree/texture/dro_leafytree_d.tiny.dds
@@ -993,6 +1002,7 @@
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark_normal.dds
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark_normal.tex
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree2.spt
+/resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree3.spt
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_trees_diffuse.dds
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_trees_diffuse.tex
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_trees_diffuse_billboards.dds

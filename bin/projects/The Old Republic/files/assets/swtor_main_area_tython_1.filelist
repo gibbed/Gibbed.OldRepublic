@@ -1,4 +1,4 @@
-; 1541/1614 (95%)
+; 1553/1614 (96%)
 /resources/art/shaders/materials/all_arch_rep_water_tower_pool.mat
 /resources/art/shaders/materials/all_arch_ruins_house2.mat
 /resources/art/shaders/materials/all_arch_ruins_tower_floor.mat
@@ -728,7 +728,10 @@
 /resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_junk_17.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_junk_17_cover.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_junk_pile_c01.gr2
+/resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_junk_pile_c02.gr2
+/resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_junk_pile_c03.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_junk_pile_c04.gr2
+/resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_junk_pile_c05.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_junk_tank.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_tent_medium_01.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_fleshraider_tent_medium_01_canopy.gr2
@@ -741,6 +744,7 @@
 /resources/art/static/area/tyt_tython/arch/tyt_arch_forge_lightsaber.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_forge_lightsaber_altar.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_alcove_base.gr2
+/resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_alcove_base_nostairs.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_alcove_top.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_buttress.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_buttress_base.gr2
@@ -792,12 +796,14 @@
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_hallway_crnr_01.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_hallway_crnr_02.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_hallway_d.gr2
+/resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_hallway_doorcap.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_hallway_holo_podium.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_hallway_stairs.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_hallway_strt_door.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_lobby.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_lobby_ao.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_lobby_ceiling.gr2
+/resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_lobby_light.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_lobby_light_glow.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_lobby_pillar.gr2
 /resources/art/static/area/tyt_tython/arch/tyt_arch_jedi_temple_lobby_r.gr2
@@ -1113,6 +1119,7 @@
 /resources/art/static/area/tyt_tython/item/tyt_item_marker_darkness_cavern_small.gr2
 /resources/art/static/area/tyt_tython/item/tyt_item_marker_kaleth.gr2
 /resources/art/static/area/tyt_tython/item/tyt_item_marker_wizard_lair.gr2
+/resources/art/static/area/tyt_tython/item/yt_item_marker_panarck_lair.gr2
 /resources/art/static/area/tyt_tython/sky/texture/tyt_skyscene_gradient_d.dds
 /resources/art/static/area/tyt_tython/sky/texture/tyt_skyscene_gradient_d.tex
 /resources/art/static/area/tyt_tython/sky/texture/tyt_skyscene_gradient_d.tiny.dds
@@ -1156,22 +1163,27 @@
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_tree_dead_sapling_s.dds
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_tree_dead_sapling_s.tex
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_tree_dead_sapling_s.tiny.dds
+/resources/art/static/area/tyt_tython/speedtree/tyt_dead_twisted_tree_02.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_bush_wide_leaves1.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_bush_wide_leaves1.tex
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_bush_wide_leaves1_n.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_bush_wide_leaves1_n.tex
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_bush_wide_static.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_bush1_gr2.gr2
+/resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_diffuse.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_diffuse.tex
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_gr2.gr2
+/resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_group.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_group_4.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_group_6.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_group_slant.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_normal.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_normal.tex
+/resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_fleshraider_dead1.spt
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_fleshraider_dead1_trunk_d.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_fleshraider_dead1_trunk_d.tex
+/resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_fleshraider_dead2.spt
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_gnarls_bark3_d.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_gnarls_bark3_d.tex
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_gnarls_bark3_n.dds

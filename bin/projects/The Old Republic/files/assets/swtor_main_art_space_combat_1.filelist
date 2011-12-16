@@ -1,4 +1,4 @@
-; 423/513 (82%)
+; 442/513 (86%)
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.dds
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tex
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tiny.dds
@@ -21,15 +21,34 @@
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_06_n.dds
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_06_n.tex
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_06_n.tiny.dds
+/resources/art/static/space_combat/sc_m02_asteroid_fragment_01.gr2
+/resources/art/static/space_combat/sc_m02_asteroid_fragment_02.gr2
+/resources/art/static/space_combat/sc_m02_asteroid_fragment_03.gr2
+/resources/art/static/space_combat/sc_m2_asteroid.gr2
+/resources/art/static/space_combat/sc_m2_asteroid_sideshard.gr2
+/resources/art/static/space_combat/sc_m2_asteroid_sideshard_top.gr2
+/resources/art/static/space_combat/sc_m2_asteroid_top.gr2
+/resources/art/static/space_combat/sc_m7_sky_asteroid00.gr2
+/resources/art/static/space_combat/sc_m7_sky_asteroid01.gr2
+/resources/art/static/space_combat/sc_m7_sky_asteroid02.gr2
+/resources/art/static/space_combat/sc_m7_sky_asteroid04.gr2
+/resources/art/static/space_combat/sc_m7_sky_asteroid05.gr2
+/resources/art/static/space_combat/sc_m7_sky_asteroid06.gr2
+/resources/art/static/space_combat/sc_m7_sky_asteroid07.gr2
+/resources/art/static/space_combat/sc_skyscene_asteroidbelt_m07.gr2
 /resources/art/static/space_combat/sc_skyscene_m01_planet.gr2
 /resources/art/static/space_combat/sc_skyscene_m01_planet_clouds.gr2
+/resources/art/static/space_combat/sc_skyscene_m02_planet_city_01.gr2
 /resources/art/static/space_combat/sc_skyscene_m02_sun_02.gr2
 /resources/art/static/space_combat/sc_skyscene_m03_moon_05.gr2
 /resources/art/static/space_combat/sc_skyscene_m03_moonclouds_02.gr2
+/resources/art/static/space_combat/sc_skyscene_m03_skyboxatmosphere.gr2
+/resources/art/static/space_combat/sc_skyscene_m05_largeplanetatmosphere.gr2
 /resources/art/static/space_combat/sc_skyscene_m05_moon_01.gr2
 /resources/art/static/space_combat/sc_skyscene_m05_moonclouds_01.gr2
 /resources/art/static/space_combat/sc_skyscene_m09_asteroidrings.gr2
 /resources/art/static/space_combat/sc_skyscene_starfield_01.gr2
+/resources/art/static/space_combat/sc_veh_neu_crate.gr2
 /resources/art/static/space_combat/skyscenetextures/common/sc_skyscene_starfield_01_d.dds
 /resources/art/static/space_combat/skyscenetextures/common/sc_skyscene_starfield_01_d.tex
 /resources/art/static/space_combat/skyscenetextures/common/sc_skyscene_starfield_01_d.tiny.dds
