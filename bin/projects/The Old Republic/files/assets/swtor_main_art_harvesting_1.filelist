@@ -1,4 +1,4 @@
-; 736/862 (85%)
+; 745/862 (86%)
 /resources/art/shaders/materials/har_broken_vehicle_component.mat
 /resources/art/shaders/materials/har_bush_green.mat
 /resources/art/shaders/materials/har_bush_orange.mat
@@ -54,6 +54,15 @@
 /resources/art/static/harvesting/har_crystal_amorphous_red.gr2
 /resources/art/static/harvesting/har_crystal_clear_large.gr2
 /resources/art/static/harvesting/har_crystal_clear_small.gr2
+/resources/art/static/harvesting/har_crystal_igneous_blue.gr2
+/resources/art/static/harvesting/har_crystal_igneous_green.gr2
+/resources/art/static/harvesting/har_crystal_igneous_red.gr2
+/resources/art/static/harvesting/har_crystal_lucent_blue.gr2
+/resources/art/static/harvesting/har_crystal_lucent_green.gr2
+/resources/art/static/harvesting/har_crystal_lucent_red.gr2
+/resources/art/static/harvesting/har_crystal_polychromic_blue.gr2
+/resources/art/static/harvesting/har_crystal_polychromic_green.gr2
+/resources/art/static/harvesting/har_crystal_polychromic_red.gr2
 /resources/art/static/harvesting/har_crystal_sheen_large.gr2
 /resources/art/static/harvesting/har_crystal_sheen_small.gr2
 /resources/art/static/harvesting/har_crystal_solid_large_blue.gr2

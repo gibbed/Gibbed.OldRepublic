@@ -1,4 +1,4 @@
-; 2160/2575 (83%)
+; 2161/2575 (83%)
 /resources/art/fx/texture/misc/blastermark_large.dds
 /resources/art/fx/texture/misc/blastermark_large.tex
 /resources/art/fx/texture/misc/blastermark_large.tiny.dds
@@ -427,6 +427,7 @@
 /resources/art/static/area/ald_alderaan/env/ald_env_killik_tube_medium.gr2
 /resources/art/static/area/ald_alderaan/env/ald_env_killik_tube_small01.gr2
 /resources/art/static/area/ald_alderaan/env/ald_env_killik_tube_small02.gr2
+/resources/art/static/area/ald_alderaan/env/ald_env_mtn_boulder_lrg04.gr2
 /resources/art/static/area/ald_alderaan/env/ald_env_slime_mound01.gr2
 /resources/art/static/area/ald_alderaan/env/ald_env_slime_mound03.gr2
 /resources/art/static/area/ald_alderaan/env/texture/ald_env_boulder_med01_d.dds

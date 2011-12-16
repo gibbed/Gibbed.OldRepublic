@@ -1,4 +1,4 @@
-; 1908/10428 (18%)
+; 1915/10428 (18%)
 /resources/world/areas/4611686018427650020/area.dat
 /resources/world/areas/4611686019047870293/_audio_regions_todd.dat
 /resources/world/areas/4611686019047870293/_everywhere_.dat
@@ -1882,7 +1882,14 @@
 /resources/world/areas/4611686142106770000/station_west_elevator.dat
 /resources/world/areas/4611686142106770000/station_west_hall.dat
 /resources/world/areas/4611686142577070000/area.dat
+/resources/world/areas/4611686170050760051/area.dat
+/resources/world/areas/4611686170117610875/area.dat
+/resources/world/areas/4611686170117610984/area.dat
+/resources/world/areas/4611686189079993896/area.dat
 /resources/world/areas/4611686198204660000/area.dat
+/resources/world/areas/4611686198666960368/area.dat
+/resources/world/areas/4611686246575650631/area.dat
+/resources/world/areas/4611686246575650677/area.dat
 /resources/world/livecontent/systemgenerated/3758002374/_everywhere_.dat
 /resources/world/livecontent/systemgenerated/3758002374/area.dat
 /resources/world/livecontent/systemgenerated/3758002374/char_select_agent.dat

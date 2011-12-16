@@ -1,4 +1,4 @@
-; 5644/6335 (89%)
+; 5646/6335 (89%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -583,9 +583,11 @@
 /resources/art/static/area/all_all/arch/all_arch_volcano_gunpad.gr2
 /resources/art/static/area/all_all/arch/all_arch_volcano_light.gr2
 /resources/art/static/area/all_all/arch/all_arch_volcano_walkway.gr2
+/resources/art/static/area/all_all/arch/all_arch_volcano_walkway_elevator.gr2
 /resources/art/static/area/all_all/arch/all_arch_volcano_wedge01_02trim.gr2
 /resources/art/static/area/all_all/arch/all_arch_volcano_wedge02_02trim.gr2
 /resources/art/static/area/all_all/arch/all_arch_whiteroom.gr2
+/resources/art/static/area/all_all/arch/all_arch_works_elevator.gr2
 /resources/art/static/area/all_all/arch/all_imperial_guard_post.gr2
 /resources/art/static/area/all_all/arch/all_item_rep_wall_computer_01.gr2
 /resources/art/static/area/all_all/arch/all_med_facility_imperial.gr2
