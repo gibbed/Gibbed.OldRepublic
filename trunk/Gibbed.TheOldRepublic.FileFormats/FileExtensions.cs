@@ -164,6 +164,26 @@ namespace Gibbed.TheOldRepublic.FileFormats
             {
                 return new KeyValuePair<string, string>("blocked", "xml");
             }
+            else if (read >= 23 &&
+                guess[0] == '!' &&
+                guess[1] == '\r' &&
+                guess[2] == '\n' &&
+                guess[3] == '!' &&
+                guess[4] == ' ' &&
+                Encoding.ASCII.GetString(guess, 5, 18) == "Area Specification")
+            {
+                return new KeyValuePair<string, string>("areas", "area");
+            }
+            else if (read >= 23 &&
+                guess[0] == '!' &&
+                guess[1] == '\r' &&
+                guess[2] == '\n' &&
+                guess[3] == '!' &&
+                guess[4] == ' ' &&
+                Encoding.ASCII.GetString(guess, 5, 18) == "Room Specification")
+            {
+                return new KeyValuePair<string, string>("areas", "room");
+            }
             else if (
                 read >= 24 &&
                 guess[0] == 0xFF &&

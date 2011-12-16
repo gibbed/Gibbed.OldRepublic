@@ -171,6 +171,11 @@ namespace RebuildFileLists
                 var names = new List<string>();
                 foreach (var nameHash in archive.Entries.Select(e => e.NameHash).Distinct())
                 {
+                    if (nameHash == 0)
+                    {
+                        continue;
+                    }
+
                     var name = hashes[nameHash];
                     if (name != null)
                     {
