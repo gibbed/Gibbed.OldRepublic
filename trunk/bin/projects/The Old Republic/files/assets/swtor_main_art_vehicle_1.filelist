@@ -1,4 +1,4 @@
-; 1186/1548 (76%)
+; 1188/1548 (76%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -414,6 +414,7 @@
 /resources/art/static/vehicle/neutral/speeder/veh_neu_speeder_02.gr2
 /resources/art/static/vehicle/neutral/speeder/veh_neu_speeder_03.gr2
 /resources/art/static/vehicle/neutral/speeder/veh_neu_speeder_04.gr2
+/resources/art/static/vehicle/neutral/speeder/veh_neu_speeder_pc_mount_02.gr2
 /resources/art/static/vehicle/neutral/speeder/veh_neu_speeder_pc_mount_03.gr2
 /resources/art/static/vehicle/neutral/speeder/veh_neu_taxi_air_speeder.gr2
 /resources/art/static/vehicle/neutral/texture/veh_neu_bus_d.dds
@@ -748,6 +749,7 @@
 /resources/art/static/vehicle/neutral/texture/veh_nue_starship_ricker_wings_s.tiny.dds
 /resources/art/static/vehicle/neutral/veh_neu_bus_large.gr2
 /resources/art/static/vehicle/neutral/veh_neu_bus_medium.gr2
+/resources/art/static/vehicle/neutral/veh_neu_crate_layer.gr2
 /resources/art/static/vehicle/neutral/veh_neu_dropship.gr2
 /resources/art/static/vehicle/neutral/veh_neu_frigate.gr2
 /resources/art/static/vehicle/neutral/veh_neu_garbage_scow.gr2

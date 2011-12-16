@@ -1,4 +1,4 @@
-; 7990/8930 (89%)
+; 7999/8930 (89%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -2002,6 +2002,7 @@
 /resources/art/static/area/all_all/item/corpse/corpse_ge_baggy_light_a32_settler02_bmf.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_ge_baggy_light_a32_settler02_bmn.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_ge_baggy_light_a32_settler02_bms.gr2
+/resources/art/static/area/all_all/item/corpse/corpse_ge_robe01_light_a29_doctor01_bma.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_jk_baggy_med_a04_bfa.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_jk_baggy_med_a04_bfb.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_jk_baggy_med_a04_bfn.gr2
@@ -2010,8 +2011,10 @@
 /resources/art/static/area/all_all/item/corpse/corpse_jk_baggy_med_a04_bmf.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_jk_baggy_med_a04_bmn.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_jk_baggy_med_a04_bms.gr2
+/resources/art/static/area/all_all/item/corpse/corpse_jk_robe02_heavy_a09_bma.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_klorslug_klorslug_larva_v01.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_klorslug_klorslug_queen_v01.gr2
+/resources/art/static/area/all_all/item/corpse/corpse_protocol_courier_a04.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_protocol_impmedical_a02.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_protocol_impmedical_a03.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_rakghoul_skulker_a02.gr2
@@ -2047,6 +2050,7 @@
 /resources/art/static/area/all_all/item/corpse/corpse_tr_tight_heavy_a02_c01_bmf.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_tr_tight_heavy_a02_c01_bmn.gr2
 /resources/art/static/area/all_all/item/corpse/corpse_tr_tight_heavy_a02_c01_bms.gr2
+/resources/art/static/area/all_all/item/corpse/shutdown_battledroid_industrial_a02.gr2
 /resources/art/static/area/all_all/item/corpse/texture/all_item_corpse_burned_d.dds
 /resources/art/static/area/all_all/item/corpse/texture/all_item_corpse_burned_d.tex
 /resources/art/static/area/all_all/item/corpse/texture/all_item_corpse_burned_d.tiny.dds
@@ -3726,6 +3730,8 @@
 /resources/art/static/area/all_all/item/republic/all_item_rep_jamming_beacon_damaged.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_lamppost.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_lamppost_ald.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_landing_lift.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_landing_lift_athiss.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_landing_pad_antennae.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_landing_pad_console.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_landing_pad_large_wire.gr2
@@ -4443,6 +4449,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_03.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_02.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_02_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_03.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_workbench.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_workbench_device.gr2
@@ -4450,6 +4457,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_computer_terminal.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_back.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_controls.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_console_large_controls_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_controls_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_screen.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_elevswitch.gr2
@@ -7789,6 +7797,7 @@
 /resources/art/static/item/container/texture/item_con_plasteel_crate_03_s.tex
 /resources/art/static/item/container/texture/item_con_plasteel_crate_03_s.tiny.dds
 /resources/art/static/item/droid/all_underworld_droid_a01.gr2
+/resources/art/static/item/droid/battledroid_pacification_a01.gr2
 /resources/art/static/item/equipment/item_eqp_stimpack.gr2
 /resources/art/static/item/equipment/item_eqp_stimpack_poison.gr2
 /resources/art/static/item/equipment/texture/item_eqp_stimpack_d.dds

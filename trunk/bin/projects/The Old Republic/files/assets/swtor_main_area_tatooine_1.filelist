@@ -1,4 +1,4 @@
-; 2243/2530 (88%)
+; 2245/2530 (88%)
 /resources/art/shaders/materials/all_arch_rep_generator_tech.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_ceiling_element.mat
 /resources/art/shaders/materials/all_arch_und_cantina_wall_design.mat
@@ -1017,6 +1017,7 @@
 /resources/art/static/area/tat_tatooine/env/texture/tat_pebble_s.tex
 /resources/art/static/area/tat_tatooine/env/texture/tat_pebble_s.tiny.dds
 /resources/art/static/area/tat_tatooine/item/tat_item_aeration_vents.gr2
+/resources/art/static/area/tat_tatooine/item/tat_item_bone_skulls_krayt.gr2
 /resources/art/static/area/tat_tatooine/item/tat_item_bones_giant_straight_broken.gr2
 /resources/art/static/area/tat_tatooine/item/tat_item_glyph.gr2
 /resources/art/static/area/tat_tatooine/item/tat_item_glyph_glow.gr2
@@ -1028,6 +1029,7 @@
 /resources/art/static/area/tat_tatooine/item/tat_item_tusken_partition_large_mural.gr2
 /resources/art/static/area/tat_tatooine/item/tat_item_tusken_partition_pole.gr2
 /resources/art/static/area/tat_tatooine/item/tat_item_tusken_stand_base2.gr2
+/resources/art/static/area/tat_tatooine/item/tat_item_tusken_stand_flag.gr2
 /resources/art/static/area/tat_tatooine/item/tat_item_tusken_totem_base.gr2
 /resources/art/static/area/tat_tatooine/item/tat_item_tusken_totem_pole.gr2
 /resources/art/static/area/tat_tatooine/item/tat_item_tusken_totem_top.gr2

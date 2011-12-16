@@ -1,4 +1,4 @@
-; 1461/2077 (70%)
+; 1462/2077 (70%)
 /resources/art/fx/texture/uv_atlas/nar_item_tech_generator_anim_lights_d.dds
 /resources/art/fx/texture/uv_atlas/nar_item_tech_generator_anim_lights_d.tex
 /resources/art/fx/texture/uv_atlas/nar_item_tech_generator_anim_lights_d.tiny.dds
@@ -197,6 +197,7 @@
 /resources/art/static/area/nar_narshadda/arch/city/nar_arch_city_large_pillar_base.gr2
 /resources/art/static/area/nar_narshadda/arch/city/nar_arch_city_pillar_c.gr2
 /resources/art/static/area/nar_narshadda/arch/city/nar_arch_city_pillar_d.gr2
+/resources/art/static/area/nar_narshadda/arch/city/nar_arch_city_walkway_csec_lg_landing01_pad.gr2
 /resources/art/static/area/nar_narshadda/arch/city/nar_arch_city_walkway_lift_pad01.gr2
 /resources/art/static/area/nar_narshadda/arch/city/texture/all_arch_narshadda_hutt_statue_d.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/all_arch_narshadda_hutt_statue_d.tex
