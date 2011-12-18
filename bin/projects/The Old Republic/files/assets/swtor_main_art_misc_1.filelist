@@ -1,4 +1,4 @@
-; 1305/2181 (59%)
+; 1321/2181 (60%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -578,6 +578,8 @@
 /resources/art/lights/bal_interior_lightramp_arms_factory.tex
 /resources/art/lights/bel_interior_rep_prison_lightramp.dds
 /resources/art/lights/bel_interior_rep_prison_lightramp.tex
+/resources/art/lights/bel_raid_interior_lightramp_01.dds
+/resources/art/lights/bel_raid_interior_lightramp_01.tex
 /resources/art/lights/bel_whiteroom_lightramp.dds
 /resources/art/lights/bel_whiteroom_lightramp.tex
 /resources/art/lights/cor_exterior_lightramp.dds
@@ -619,6 +621,8 @@
 /resources/art/lights/falloff_linear_falloff.dds
 /resources/art/lights/falloff_linear_falloff.tex
 /resources/art/lights/falloff_linear_falloff.tiny.dds
+/resources/art/lights/falloff_linear_reverse.dds
+/resources/art/lights/falloff_linear_reverse.tex
 /resources/art/lights/falloff_linear_sithhall_tall.dds
 /resources/art/lights/falloff_linear_sithhall_tall.tex
 /resources/art/lights/falloff_linear_soft.dds
@@ -756,9 +760,13 @@
 /resources/art/lights/fill_tar_pirate_tech_cave.dds
 /resources/art/lights/fill_tar_pirate_tech_cave.tex
 /resources/art/lights/fill_tar_pirate_tech_cave.tiny.dds
+/resources/art/lights/fill_taris_chem_plant.dds
+/resources/art/lights/fill_taris_chem_plant.tex
 /resources/art/lights/fill_undergound_ruins.dds
 /resources/art/lights/fill_undergound_ruins.tex
 /resources/art/lights/fill_undergound_ruins.tiny.dds
+/resources/art/lights/fill_voss_tombs_green.dds
+/resources/art/lights/fill_voss_tombs_green.tex
 /resources/art/lights/fill_warm_jedi_temple.dds
 /resources/art/lights/fill_warm_jedi_temple.tex
 /resources/art/lights/fill_warm_space.dds
@@ -1084,6 +1092,7 @@
 /resources/art/shaders/materials/__white.mat
 /resources/art/shaders/materials/clouds_dromund.mat
 /resources/art/shaders/materials/dbo_universal_superexclusion_test.mat
+/resources/art/shaders/materials/kor_acad_standard_wall.mat
 /resources/art/shaders/materials/missing_granny.mat
 /resources/art/shaders/materials/planets_belsavis.mat
 /resources/art/shaders/materials/planets_coruscant.mat
@@ -1263,6 +1272,7 @@
 /resources/art/static/designblockout/imp_arc/dbo_item_furn_chair_imperial.gr2
 /resources/art/static/designblockout/imp_arc/dbo_lightspeed_stars_base_05.gr2
 /resources/art/static/designblockout/imperial/dbo_all_sith_interior_door_transition2tombs_door_closed_01.gr2
+/resources/art/static/designblockout/imperial/dbo_balmorra_rep_bomber.gr2
 /resources/art/static/designblockout/imperial/imperial_body/designblockout_imperial_body.gr2
 /resources/art/static/designblockout/redux/dbo_all_arch_sith_ruins_wall_drum.gr2
 /resources/art/static/designblockout/redux/dbo_dummy_object.gr2
@@ -1288,6 +1298,12 @@
 /resources/art/static/designblockout/station/dbo_assaultcannon_high01_a04.gr2
 /resources/art/static/designblockout/tech_caves/dbo_collision_block.gr2
 /resources/art/static/designblockout/underworld/dbo_tech_skyhopper.gr2
+/resources/art/water/acid_bump_map_n.dds
+/resources/art/water/acid_bump_map_n.tex
+/resources/art/water/acid_bump_map_n.tiny.dds
+/resources/art/water/acid_bump_map02_n.dds
+/resources/art/water/acid_bump_map02_n.tex
+/resources/art/water/acid_bump_map02_n.tiny.dds
 /resources/art/water/lava_bump_map_02_n.dds
 /resources/art/water/lava_bump_map_02_n.tex
 /resources/art/water/lava_bump_map_02_n.tiny.dds

@@ -1,4 +1,4 @@
-; 3016/3358 (89%)
+; 3034/3358 (90%)
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tiny.dds
@@ -21,9 +21,15 @@
 /resources/art/shaders/materials/all_item_tech_pipeset.mat
 /resources/art/shaders/materials/all_item_tech_server_details.mat
 /resources/art/shaders/materials/kor_tomb_item_brazier_ancient_chain.mat
+/resources/art/shaders/materials/ter_vos_dirt1.mat
+/resources/art/shaders/materials/ter_vos_dirt2.mat
+/resources/art/shaders/materials/ter_vos_rock1.mat
+/resources/art/shaders/materials/ter_vos_rocknightmare1.mat
+/resources/art/shaders/materials/vos_arch_vosstomb_int_floortile_01.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_lamp_floor.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_sconce.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_sconce_dmg.mat
+/resources/art/shaders/materials/vos_item_ruins_tablet.mat
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_house_b_metal01_d.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_house_b_metal01_d.tex
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_house_b_metal01_d.tiny.dds
@@ -1048,6 +1054,10 @@
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_floortile_01_d.dds
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_floortile_01_d.tex
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_floortile_01_d.tiny.dds
+/resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_floortile_01_n.tex
+/resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_floortile_01_n.tiny.dds
+/resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_floortile_01_s.tex
+/resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_floortile_01_s.tiny.dds
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_trim_01_d.dds
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_trim_01_d.tex
 /resources/art/static/area/vos_voss/arch/texture/vos_arch_vosstomb_int_trim_01_d.tiny.dds
@@ -2060,12 +2070,16 @@
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_n.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_n.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_n.tiny.dds
+/resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_s.tex
+/resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_s.tiny.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt2_d.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt2_d.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt2_d.tiny.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt2_n.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt2_n.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt2_n.tiny.dds
+/resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt2_s.tex
+/resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt2_s.tiny.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_grass_nightmare1_d.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_grass_nightmare1_d.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_grass_nightmare1_d.tiny.dds
@@ -2123,6 +2137,8 @@
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_rock_nightmare1_n.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_rock_nightmare1_n.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_rock_nightmare1_n.tiny.dds
+/resources/art/static/area/vos_voss/terrain_map/ter_vos_rock_nightmare1_s.tex
+/resources/art/static/area/vos_voss/terrain_map/ter_vos_rock_nightmare1_s.tiny.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_rock_nightmare2_d.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_rock_nightmare2_d.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_rock_nightmare2_d.tiny.dds
@@ -2135,6 +2151,8 @@
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_rock1_n.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_rock1_n.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_rock1_n.tiny.dds
+/resources/art/static/area/vos_voss/terrain_map/ter_vos_rock1_s.tex
+/resources/art/static/area/vos_voss/terrain_map/ter_vos_rock1_s.tiny.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_voska_path_d.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_voska_path_d.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_voska_path_d.tiny.dds

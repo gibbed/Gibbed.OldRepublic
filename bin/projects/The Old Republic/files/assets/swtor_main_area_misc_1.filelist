@@ -1,4 +1,4 @@
-; 4702/5536 (84%)
+; 4703/5536 (84%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -4639,6 +4639,7 @@
 /resources/world/areas/4611686073553282778/map_pvp_arena_r.dds
 /resources/world/areas/4611686073553282778/map_pvp_arena_spawn_frogdogs_r.dds
 /resources/world/areas/4611686073553282778/map_pvp_arena_spawn_rotworms_r.dds
+/resources/world/areas/4611686073553282778/mapnotes.not
 /resources/world/areas/4611686073553282778/minimaps/map_pvp_arena_00_00_r.dds
 /resources/world/areas/4611686073553282778/minimaps/map_pvp_arena_01_00_r.dds
 /resources/world/areas/4611686073553282778/minimaps/map_pvp_arena_spawn_frogdogs_00_00_r.dds

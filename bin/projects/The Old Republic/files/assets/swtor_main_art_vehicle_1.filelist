@@ -1,4 +1,4 @@
-; 1218/1548 (78%)
+; 1231/1548 (79%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -10,8 +10,10 @@
 /resources/art/shaders/materials/fx_thruster_yellow_2_suv.mat
 /resources/art/shaders/materials/fx_transparent.mat
 /resources/art/shaders/materials/mount_neu_model_b_scheme_03.mat
+/resources/art/shaders/materials/mount_neu_model_ddx.mat
 /resources/art/shaders/materials/mount_neu_model_e_scheme_02.mat
 /resources/art/shaders/materials/mount_rep_model_c_scheme_02.mat
+/resources/art/shaders/materials/mount_rep_model_d_scheme_02.mat
 /resources/art/shaders/materials/mount_rep_model_d_scheme_04.mat
 /resources/art/shaders/materials/veh_imp_friggate_details.mat
 /resources/art/shaders/materials/veh_imp_friggate_engines.mat
@@ -791,8 +793,10 @@
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_05.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_wing.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_03.gr2
+/resources/art/static/vehicle/player_mount/mount_neu_model_ddx.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_e_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_c_scheme_02.gr2
+/resources/art/static/vehicle/player_mount/mount_rep_model_d_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_d_scheme_04.gr2
 /resources/art/static/vehicle/player_mount/texture/mount_imp_model_a_scheme_01_d.dds
 /resources/art/static/vehicle/player_mount/texture/mount_imp_model_a_scheme_01_d.tex
@@ -884,6 +888,15 @@
 /resources/art/static/vehicle/player_mount/texture/mount_neu_model_d_scheme_04_s.dds
 /resources/art/static/vehicle/player_mount/texture/mount_neu_model_d_scheme_04_s.tex
 /resources/art/static/vehicle/player_mount/texture/mount_neu_model_d_scheme_04_s.tiny.dds
+/resources/art/static/vehicle/player_mount/texture/mount_neu_model_ddx_d.dds
+/resources/art/static/vehicle/player_mount/texture/mount_neu_model_ddx_d.tex
+/resources/art/static/vehicle/player_mount/texture/mount_neu_model_ddx_d.tiny.dds
+/resources/art/static/vehicle/player_mount/texture/mount_neu_model_ddx_n.dds
+/resources/art/static/vehicle/player_mount/texture/mount_neu_model_ddx_n.tex
+/resources/art/static/vehicle/player_mount/texture/mount_neu_model_ddx_n.tiny.dds
+/resources/art/static/vehicle/player_mount/texture/mount_neu_model_ddx_s.dds
+/resources/art/static/vehicle/player_mount/texture/mount_neu_model_ddx_s.tex
+/resources/art/static/vehicle/player_mount/texture/mount_neu_model_ddx_s.tiny.dds
 /resources/art/static/vehicle/player_mount/texture/mount_neu_model_e_scheme_01_d.dds
 /resources/art/static/vehicle/player_mount/texture/mount_neu_model_e_scheme_01_d.tex
 /resources/art/static/vehicle/player_mount/texture/mount_neu_model_e_scheme_01_d.tiny.dds

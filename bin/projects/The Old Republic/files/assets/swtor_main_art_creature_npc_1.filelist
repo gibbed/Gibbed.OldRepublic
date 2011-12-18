@@ -1,4 +1,4 @@
-; 756/1210 (62%)
+; 772/1210 (63%)
 /resources/art/dynamic/creature/model/dwarf_drall_a01.gr2
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.clo
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.gr2
@@ -608,6 +608,10 @@
 /resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_n.tex
 /resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_s.dds
 /resources/art/dynamic/player_character/abyssin/head/texture/___psd/head_abyssin_bma_non_a01_v01_s.tex
+/resources/art/dynamic/player_character/anomid/head/texture/___psd/head_anomid_bma_non_a01_v01_d.dds
+/resources/art/dynamic/player_character/anomid/head/texture/___psd/head_anomid_bma_non_a01_v01_h.dds
+/resources/art/dynamic/player_character/anomid/head/texture/___psd/head_anomid_bma_non_a01_v01_n.dds
+/resources/art/dynamic/player_character/anomid/head/texture/___psd/head_anomid_bma_non_a01_v01_s.dds
 /resources/art/dynamic/player_character/chagrian/head/texture/___psd/head_chagrian_bmn_non_a01_v01_d.dds
 /resources/art/dynamic/player_character/chagrian/head/texture/___psd/head_chagrian_bmn_non_a01_v01_d.tex
 /resources/art/dynamic/player_character/chagrian/head/texture/___psd/head_chagrian_bmn_non_a01_v01_h.dds
@@ -624,11 +628,17 @@
 /resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a01_v01_n.tex
 /resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a01_v01_s.dds
 /resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a01_v01_s.tex
+/resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a02_v01_d.dds
+/resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a02_v01_h.dds
+/resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a02_v01_s.dds
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_d.dds
+/resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_d.tex
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_h.dds
+/resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_h.tex
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_n.dds
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_n.tex
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_s.dds
+/resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_s.tex
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v02_d.dds
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v02_d.tex
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v02_h.dds
@@ -652,6 +662,10 @@
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bfa_non_a01_v01_h.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bfa_non_a01_v01_n.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bfa_non_a01_v01_s.dds
+/resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v01_n.dds
+/resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v02_d.dds
+/resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v02_h.dds
+/resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v02_s.dds
 /resources/art/dynamic/player_character/trandoshan/head/texture/___psd/head_trandoshan_bms_non_a01_v01_d.dds
 /resources/art/dynamic/player_character/trandoshan/head/texture/___psd/head_trandoshan_bms_non_a01_v01_d.tex
 /resources/art/dynamic/player_character/trandoshan/head/texture/___psd/head_trandoshan_bms_non_a01_v01_n.dds
@@ -727,6 +741,7 @@
 /resources/art/shaders/materials/head_kaleesh_bms_non_a02_v01.mat
 /resources/art/shaders/materials/head_kaleesh_bms_non_a03_v01.mat
 /resources/art/shaders/materials/head_nautolan_bfa_non_a01_v01.mat
+/resources/art/shaders/materials/head_nautolan_bms_non_a01_v02.mat
 /resources/art/shaders/materials/head_nikto_bms_non_a01_v01.mat
 /resources/art/shaders/materials/head_nikto_bms_non_a02_v01.mat
 /resources/art/shaders/materials/head_ongree_bma_non_a01_v01.mat
@@ -743,6 +758,7 @@
 /resources/art/shaders/materials/head_trandoshan_bms_non_a01_v01.mat
 /resources/art/shaders/materials/head_trandoshan_bms_qyzen_a01_v01.mat
 /resources/art/shaders/materials/ithorian_ithorian_a01_v01.mat
+/resources/art/shaders/materials/ithorian_ithorian_masterquilljayk.mat
 /resources/art/shaders/materials/ithorian_ithorian_masterquilljayk_v01.mat
 /resources/art/shaders/materials/ortolan_ortolan_a01_v01.mat
 /resources/art/shaders/materials/wookiee_bowdaar_a01_v01.mat

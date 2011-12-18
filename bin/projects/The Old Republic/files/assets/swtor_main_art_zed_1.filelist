@@ -1,4 +1,4 @@
-; 206/421 (48%)
+; 217/421 (51%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/dynamic/age/index.xml
@@ -6,7 +6,17 @@
 /resources/art/dynamic/complexion/index.xml
 /resources/art/dynamic/creature/index.xml
 /resources/art/dynamic/creature/model/ge_dancer01_light_a21_dancer01_holo.gr2
+/resources/art/dynamic/creature/model/pet_mouse_droid_a01.gr2
 /resources/art/dynamic/index.xml
+/resources/art/dynamic/pet/mouse_droid/___psd/pet_mouse_droid_a01_v01_d.dds
+/resources/art/dynamic/pet/mouse_droid/___psd/pet_mouse_droid_a01_v01_d.tex
+/resources/art/dynamic/pet/mouse_droid/___psd/pet_mouse_droid_a01_v01_d.tiny.dds
+/resources/art/dynamic/pet/mouse_droid/___psd/pet_mouse_droid_a01_v01_n.dds
+/resources/art/dynamic/pet/mouse_droid/___psd/pet_mouse_droid_a01_v01_n.tex
+/resources/art/dynamic/pet/mouse_droid/___psd/pet_mouse_droid_a01_v01_n.tiny.dds
+/resources/art/dynamic/pet/mouse_droid/___psd/pet_mouse_droid_a01_v01_s.dds
+/resources/art/dynamic/pet/mouse_droid/___psd/pet_mouse_droid_a01_v01_s.tex
+/resources/art/dynamic/pet/mouse_droid/___psd/pet_mouse_droid_a01_v01_s.tiny.dds
 /resources/art/dynamic/placeable/e3door/e3door_all_arch_imp_space_door_large.gr2
 /resources/art/dynamic/placeable/e3doormed/e3doormed_all_arch_imp_space_door_med.gr2
 /resources/art/dynamic/placeable/e3droidpod/anims/e3droidpod_collision.gr2
@@ -62,6 +72,7 @@
 /resources/art/shaders/materials/horn_zabrakimp_non_a01_v01.mat
 /resources/art/shaders/materials/horn_zabrakrep_non_a01_v01.mat
 /resources/art/shaders/materials/korr_redrocks.mat
+/resources/art/shaders/materials/pet_mouse_droid_a01_v01.mat
 /resources/art/shaders/materials/ter_hutta_ground_metal.mat
 /resources/art/shaders/materials/ter_hutta_swamp_trash.mat
 /resources/art/shaders/materials/ter_hutta_swamp_trash_mud.mat
