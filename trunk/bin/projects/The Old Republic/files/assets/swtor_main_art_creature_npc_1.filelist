@@ -1,4 +1,4 @@
-; 772/1210 (63%)
+; 775/1210 (64%)
 /resources/art/dynamic/creature/model/dwarf_drall_a01.gr2
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.clo
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.gr2
@@ -631,6 +631,9 @@
 /resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a02_v01_d.dds
 /resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a02_v01_h.dds
 /resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a02_v01_s.dds
+/resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a03_v01_d.dds
+/resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a03_v01_h.dds
+/resources/art/dynamic/player_character/devaronian/head/texture/___psd/head_devaronian_bmn_non_a03_v01_s.dds
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_d.dds
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_d.tex
 /resources/art/dynamic/player_character/duros/head/texture/___psd/head_duros_bmn_non_a01_v01_h.dds

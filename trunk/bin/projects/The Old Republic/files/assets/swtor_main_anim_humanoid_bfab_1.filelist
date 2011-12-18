@@ -1,4 +1,4 @@
-; 1625/14180 (11%)
+; 1629/14180 (11%)
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_up.jba
@@ -651,6 +651,7 @@
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000290.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000291.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000295.mph
+/resources/anim/humanoid/bfanew/humanoid_action_autogen000300.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000304.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000305.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000306.mph
@@ -728,6 +729,7 @@
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000101.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000103.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000104.mph
+/resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000108.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000111.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000112.mph
 /resources/anim/humanoid/bfanew/humanoid_action_no_aim_autogen000113.mph
@@ -752,6 +754,7 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_fix_kneel_low_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_fix_kneel_med_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_holocom_idle.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_injured_laying_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_injured_stand_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_kneel2_cower_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_lean_wall_right_idle.mph
@@ -1509,6 +1512,7 @@
 /resources/anim/humanoid/bfbnew/humanoid_action_no_aim_autogen000033.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_no_aim_autogen000034.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_no_aim_autogen000036.mph
+/resources/anim/humanoid/bfbnew/humanoid_action_no_aim_autogen000079.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_no_aim_autogen000099.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_no_aim_autogen000112.mph
 /resources/anim/humanoid/bfbnew/humanoid_action_no_aim_autogen000122.mph

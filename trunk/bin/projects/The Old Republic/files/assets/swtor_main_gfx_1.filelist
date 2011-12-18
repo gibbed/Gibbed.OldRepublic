@@ -1,4 +1,4 @@
-; 10184/52255 (19%)
+; 10194/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -1855,6 +1855,7 @@
 /resources/gfx/icons/colorcartridge1_white.dds
 /resources/gfx/icons/colorcartridge1_yellow.dds
 /resources/gfx/icons/colorfulfurfleece.dds
+/resources/gfx/icons/combattechnique.dds
 /resources/gfx/icons/comlink.dds
 /resources/gfx/icons/complexaccesscard.dds
 /resources/gfx/icons/complexaccesscard1.dds
@@ -1881,6 +1882,7 @@
 /resources/gfx/icons/crystalsetting2.dds
 /resources/gfx/icons/cull.dds
 /resources/gfx/icons/cyberneticexperiement.dds
+/resources/gfx/icons/cybertech.dds
 /resources/gfx/icons/cyborgmerc.dds
 /resources/gfx/icons/cyborgveteran.dds
 /resources/gfx/icons/cycloneattack.dds
@@ -8966,23 +8968,28 @@
 /resources/gfx/icons/larger/bhrattatakigladiator_desat.dds
 /resources/gfx/icons/larger/bountyhunter.dds
 /resources/gfx/icons/larger/bountyhunter_desat.dds
+/resources/gfx/icons/larger/iaassassin.dds
 /resources/gfx/icons/larger/iachisssecretpolice.dds
 /resources/gfx/icons/larger/iachisssecretpolice_desat.dds
+/resources/gfx/icons/larger/iamilitaryofficer.dds
 /resources/gfx/icons/larger/jcmirlalanwanderer.dds
 /resources/gfx/icons/larger/jcmirlalanwanderer_desat.dds
 /resources/gfx/icons/larger/jediconsular.dds
 /resources/gfx/icons/larger/jediconsular_desat.dds
 /resources/gfx/icons/larger/jediknight.dds
 /resources/gfx/icons/larger/jediknight_desat.dds
+/resources/gfx/icons/larger/jkforcesensitiveorphan.dds
 /resources/gfx/icons/larger/jkmiralukansurvivor.dds
 /resources/gfx/icons/larger/jkmiralukansurvivor_desat.dds
 /resources/gfx/icons/larger/loading_tip_002.dds
+/resources/gfx/icons/larger/scorelliannomad.dds
 /resources/gfx/icons/larger/sithsorcerer.dds
 /resources/gfx/icons/larger/sithsorcerer_desat.dds
 /resources/gfx/icons/larger/sithwarrior.dds
 /resources/gfx/icons/larger/sithwarrior_desat.dds
 /resources/gfx/icons/larger/sitwilekrenegade.dds
 /resources/gfx/icons/larger/sitwilekrenegade_desat.dds
+/resources/gfx/icons/larger/siupstartslave.dds
 /resources/gfx/icons/larger/sizabrakcriminal.dds
 /resources/gfx/icons/larger/sizabrakcriminal_desat.dds
 /resources/gfx/icons/larger/smuggler.dds
@@ -8992,15 +8999,18 @@
 /resources/gfx/icons/larger/spy.dds
 /resources/gfx/icons/larger/spy_desat.dds
 /resources/gfx/icons/larger/stwilekrogue.dds
+/resources/gfx/icons/larger/swchildoftheempire.dds
 /resources/gfx/icons/larger/swsithpureblood.dds
 /resources/gfx/icons/larger/swsithpureblood_desat.dds
 /resources/gfx/icons/larger/swwarhardenednoble.dds
 /resources/gfx/icons/larger/swwarhardenednoble_desat.dds
+/resources/gfx/icons/larger/tips.crafting.dds
 /resources/gfx/icons/larger/tips.exit.map.dds
 /resources/gfx/icons/larger/tips.lfg.dds
 /resources/gfx/icons/larger/tips.mission.tab.dds
 /resources/gfx/icons/larger/tips.social.dds
 /resources/gfx/icons/larger/tips.spending.skill.points.dds
+/resources/gfx/icons/larger/touterrimveteran.dds
 /resources/gfx/icons/larger/trooper.dds
 /resources/gfx/icons/larger/trooper_desat.dds
 /resources/gfx/icons/larger/tzabrakguerillafighter.dds

@@ -1,4 +1,4 @@
-; 4100/4686 (87%)
+; 4107/4686 (87%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -360,6 +360,9 @@
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high01_a01_v02_d.dds
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high01_a01_v02_d.tex
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high01_a01_v02_d.tiny.dds
+/resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high01_a01_v02_n.dds
+/resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high01_a01_v02_n.tex
+/resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high01_a01_v02_n.tiny.dds
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high01_a01_v02_s.dds
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high01_a01_v02_s.tex
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high01_a01_v02_s.tiny.dds
@@ -3894,6 +3897,7 @@
 /resources/art/shaders/materials/assaultcannon_low01_a01_v04.mat
 /resources/art/shaders/materials/assaultcannon_low03_a01_v01.mat
 /resources/art/shaders/materials/blaster_high01_a01_v01.mat
+/resources/art/shaders/materials/blaster_high01_a01_v02.mat
 /resources/art/shaders/materials/blaster_high01_a01_v03.mat
 /resources/art/shaders/materials/blaster_high01_a01_v04.mat
 /resources/art/shaders/materials/blaster_high02_a01_v01.mat
@@ -3904,6 +3908,7 @@
 /resources/art/shaders/materials/blaster_high06_a01_v03.mat
 /resources/art/shaders/materials/blaster_high08_a01_v02.mat
 /resources/art/shaders/materials/blaster_high08_a01_v04.mat
+/resources/art/shaders/materials/blaster_high09_a01_v03.mat
 /resources/art/shaders/materials/blaster_high09_a01_v04.mat
 /resources/art/shaders/materials/blaster_high10_a01_v02.mat
 /resources/art/shaders/materials/blaster_high10_a01_v04.mat
@@ -3982,6 +3987,7 @@
 /resources/art/shaders/materials/npcwep_killikstaff_a01_v01.mat
 /resources/art/shaders/materials/quest_warblade_a01_v01.mat
 /resources/art/shaders/materials/rifle_high01_a01_v01.mat
+/resources/art/shaders/materials/rifle_high01_a01_v03.mat
 /resources/art/shaders/materials/rifle_high02_a01_v01.mat
 /resources/art/shaders/materials/rifle_high02_a01_v03.mat
 /resources/art/shaders/materials/rifle_high02_a01_v04.mat
@@ -3989,6 +3995,7 @@
 /resources/art/shaders/materials/rifle_high04_a01_v01.mat
 /resources/art/shaders/materials/rifle_high04_a01_v03.mat
 /resources/art/shaders/materials/rifle_high05_a01_v01.mat
+/resources/art/shaders/materials/rifle_high05_a01_v02.mat
 /resources/art/shaders/materials/rifle_high05_a01_v03.mat
 /resources/art/shaders/materials/rifle_low01_a01_v01.mat
 /resources/art/shaders/materials/rifle_low01_a01_v02.mat

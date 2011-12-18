@@ -1,4 +1,4 @@
-; 312/26944 (1%)
+; 323/26944 (1%)
 /resources/anim/npc/dwarf/ad_blank.jba
 /resources/anim/npc/dwarf/ad_body_pitch.jba
 /resources/anim/npc/dwarf/ad_body_yaw.jba
@@ -233,6 +233,16 @@
 /resources/anim/npc/dwarf/dwarf_po_fix_stand_med_to_normal.jba
 /resources/anim/npc/dwarf/dwarf_po_normal_to_fix_stand_high.jba
 /resources/anim/npc/dwarf/dwarf_po_normal_to_fix_stand_med.jba
+/resources/anim/npc/dwarf/em_bored.jba
+/resources/anim/npc/dwarf/em_bow_1.jba
+/resources/anim/npc/dwarf/em_bow_2.jba
+/resources/anim/npc/dwarf/em_cheer_1.jba
+/resources/anim/npc/dwarf/em_cheer_2.jba
+/resources/anim/npc/dwarf/em_cheer_3.jba
+/resources/anim/npc/dwarf/em_cheer_4.jba
+/resources/anim/npc/dwarf/em_search_mid.jba
+/resources/anim/npc/dwarf/em_sense.jba
+/resources/anim/npc/dwarf/em_torture.jba
 /resources/anim/npc/dwarf/ex_loot_to_normal.jba
 /resources/anim/npc/dwarf/ex_normal_to_loot.jba
 /resources/anim/npc/dwarf/ex_quick_travel_enter.jba
@@ -269,6 +279,7 @@
 /resources/anim/npc/dwarf/humanoid_action_common.mph
 /resources/anim/npc/dwarf/humanoid_action_no_aim_autogen000015.mph
 /resources/anim/npc/dwarf/humanoid_action_no_aim_autogen000016.mph
+/resources/anim/npc/dwarf/humanoid_action_no_aim_autogen000027.mph
 /resources/anim/npc/dwarf/humanoid_action_npc_dwarf_autogen.mph
 /resources/anim/npc/dwarf/humanoid_loco_autogen_as_stand_nervous_idle_1.mph
 /resources/anim/npc/dwarf/humanoid_loco_autogen_dl_idle.mph
