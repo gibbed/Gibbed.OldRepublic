@@ -1,4 +1,4 @@
-; 15225/22915 (66%)
+; 15244/22915 (66%)
 /resources/art/defaultassets/white.dds
 /resources/art/defaultassets/white.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_mini_a01_v01_d.dds
@@ -173,6 +173,7 @@
 /resources/art/fx/fxspec/abilities/bounty_hunter/bh_ventheat_01.fxspec
 /resources/art/fx/fxspec/abilities/bounty_hunter/bh_ventheat_panel_01.fxspec
 /resources/art/fx/fxspec/abilities/bounty_hunter/jetpack_standard_looping.fxspec
+/resources/art/fx/fxspec/abilities/flashpoint/cinematics/dest_lightning_arc_blue.fxspec
 /resources/art/fx/fxspec/abilities/flashpoint/cinematics/dyn_falling_10m.fxspec
 /resources/art/fx/fxspec/abilities/flashpoint/cinematics/dyn_falling_effect.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_combattrance_01.fxspec
@@ -232,6 +233,7 @@
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_overhead_strike.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_overhead_strike_dust.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_plasma_brand_burn_blue.fxspec
+/resources/art/fx/fxspec/abilities/jedi_knight/jk_return_to_the_fray.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_saberthrow_caster_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_saberthrow_target_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_singularity_impact.fxspec
@@ -239,6 +241,7 @@
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_spinningslash.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_spinningslash_impact.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_sweep_impact_low.fxspec
+/resources/art/fx/fxspec/abilities/jedi_knight/jk_undaunted_buff_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_unwavering_resolve.fxspec
 /resources/art/fx/fxspec/abilities/muzzle_flashes/battledroid_muzzleflash_blue.fxspec
 /resources/art/fx/fxspec/abilities/muzzle_flashes/battledroid_muzzleflash_orange.fxspec
@@ -387,6 +390,8 @@
 /resources/art/fx/fxspec/abilities/smuggler/sm_lucky_shots_buff.fxspec
 /resources/art/fx/fxspec/abilities/smuggler/sm_pacify_riflesparks_01.fxspec
 /resources/art/fx/fxspec/abilities/smuggler/sm_pistol_whip_impact.fxspec
+/resources/art/fx/fxspec/abilities/smuggler/sm_slowstimpack_healpulse_01.fxspec
+/resources/art/fx/fxspec/abilities/smuggler/sm_slowstimpack_target.fxspec
 /resources/art/fx/fxspec/abilities/smuggler/sm_stealth_cast.fxspec
 /resources/art/fx/fxspec/abilities/smuggler/sm_take_cover_dust_01.fxspec
 /resources/art/fx/fxspec/abilities/smuggler/sm_thermaldetonator_01.fxspec
@@ -1031,6 +1036,7 @@
 /resources/art/fx/fxspec/environments/spaceports/imperial/imp_heavy_transport_takeoff.fxspec
 /resources/art/fx/fxspec/environments/spaceports/imperial/imp_shuttle_land.fxspec
 /resources/art/fx/fxspec/environments/spaceports/imperial/imp_shuttle_takeoff.fxspec
+/resources/art/fx/fxspec/environments/spaceports/imperial/imp_troop_transport_land.fxspec
 /resources/art/fx/fxspec/environments/spaceports/imperial/imp_troop_transport_takeoff.fxspec
 /resources/art/fx/fxspec/environments/spaceports/neutral/all_spaceport_bay_open.fxspec
 /resources/art/fx/fxspec/environments/taris/env_tar_damaged_electrical_pipe_01.fxspec
@@ -1120,6 +1126,7 @@
 /resources/art/fx/fxspec/overhead_icons/icon_taxi_undiscovered.fxspec
 /resources/art/fx/fxspec/overhead_icons/mail_new2.fxspec
 /resources/art/fx/fxspec/overhead_icons/mail_none2.fxspec
+/resources/art/fx/fxspec/overhead_icons/raid_target_icon_overhead_shield.fxspec
 /resources/art/fx/fxspec/probe_flame_thrower_01.fxspec
 /resources/art/fx/fxspec/quest_joining_circle_01.fxspec
 /resources/art/fx/fxspec/selections/selection_highlighted.fxspec
@@ -1214,6 +1221,7 @@
 /resources/art/fx/fxspec/worlddesign/generic/bonus_advance_collect_quest.fxspec
 /resources/art/fx/fxspec/worlddesign/generic/bonus_advance_kill_quest.fxspec
 /resources/art/fx/fxspec/worlddesign/generic/carbonite_prison_char_attached.fxspec
+/resources/art/fx/fxspec/worlddesign/generic/carbonite_prison_thaw.fxspec
 /resources/art/fx/fxspec/worlddesign/generic/dancer_holo.fxspec
 /resources/art/fx/fxspec/worlddesign/generic/dancer_holo_droid_projected.fxspec
 /resources/art/fx/fxspec/worlddesign/generic/datacron_buff_physical.fxspec
@@ -2344,6 +2352,7 @@
 /resources/art/fx/geometry/skies/textures/fx_skybox_tar_2_nightsky_d.tex
 /resources/art/fx/geometry/skies/textures/fx_skybox_tar_2_nightsky_d.tiny.dds
 /resources/art/fx/geometry/smuggler/fx_sm_luck_barrel.gr2
+/resources/art/fx/geometry/smuggler/fx_sm_secondchancedroid.gr2
 /resources/art/fx/geometry/smuggler/fx_sm_thermaldetonator.gr2
 /resources/art/fx/geometry/smuggler/fx_sm_thermaldetonator_01.gr2
 /resources/art/fx/geometry/smuggler/sm_adv_kolto_injector.gr2
@@ -6215,6 +6224,8 @@
 /resources/art/fx/particles/fx_bonus_objective_turnin_p.prt
 /resources/art/fx/particles/fx_bursting_expanding_dust.prt
 /resources/art/fx/particles/fx_bursting_expanding_dust_p.prt
+/resources/art/fx/particles/fx_carbonite_small_splatter_01.prt
+/resources/art/fx/particles/fx_carbonite_small_splatter_01_p.prt
 /resources/art/fx/particles/fx_cauldron_hot_metal_drips.prt
 /resources/art/fx/particles/fx_cauldron_hot_metal_drips_p.prt
 /resources/art/fx/particles/fx_char_sel_ambient_engine_burst.prt
@@ -6949,6 +6960,8 @@
 /resources/art/fx/particles/fx_pvp_rep_billowing_smoke_01_p.prt
 /resources/art/fx/particles/fx_pvp_wing_damage_electricity.prt
 /resources/art/fx/particles/fx_pvp_wing_damage_electricity_p.prt
+/resources/art/fx/particles/fx_quick_carbonite_splatter_01.prt
+/resources/art/fx/particles/fx_quick_carbonite_splatter_01_p.prt
 /resources/art/fx/particles/fx_rakghoul_back_spikes.prt
 /resources/art/fx/particles/fx_rakghoul_back_spikes_p.prt
 /resources/art/fx/particles/fx_rakghoul_head_spikes.prt
@@ -7199,6 +7212,8 @@
 /resources/art/fx/particles/gather_hand_glow_02_p.prt
 /resources/art/fx/particles/gauntlet_flame_jet_origin.prt
 /resources/art/fx/particles/gauntlet_flame_jet_origin_p.prt
+/resources/art/fx/particles/gen_carbinite_transition_flash_01.prt
+/resources/art/fx/particles/gen_carbinite_transition_flash_01_p.prt
 /resources/art/fx/particles/gen_explosive_probe_trail.prt
 /resources/art/fx/particles/gen_explosive_probe_trail_p.prt
 /resources/art/fx/particles/gen_impact_location.prt
@@ -9514,6 +9529,8 @@
 /resources/art/fx/particles/rage_temp_p.prt
 /resources/art/fx/particles/rage_temp02.prt
 /resources/art/fx/particles/rage_temp02_p.prt
+/resources/art/fx/particles/raid_icon_shield.prt
+/resources/art/fx/particles/raid_icon_shield_p.prt
 /resources/art/fx/particles/raid_snow_cloud.prt
 /resources/art/fx/particles/raid_snow_cloud_p.prt
 /resources/art/fx/particles/raid_snow_specs_mid.prt
@@ -14200,6 +14217,7 @@
 /resources/art/fx/texture/liquid/fx_egg_goo.tex
 /resources/art/fx/texture/liquid/fx_egg_goo_burst.dds
 /resources/art/fx/texture/liquid/fx_hot_liquid_metal.dds
+/resources/art/fx/texture/liquid/fx_hot_liquid_metal.tex
 /resources/art/fx/texture/liquid/fx_killik_slime_drip_02_bw.dds
 /resources/art/fx/texture/liquid/fx_lava_spray_bw.dds
 /resources/art/fx/texture/liquid/fx_lava_spurt_bw.dds
@@ -14754,6 +14772,7 @@
 /resources/art/fx/texture/symbol/quest_icon_tri_flare.dds
 /resources/art/fx/texture/symbol/quest_icon_unavailable.dds
 /resources/art/fx/texture/symbol/quest_icon_unavailable.tex
+/resources/art/fx/texture/symbol/raid_group_targets.dds
 /resources/art/fx/texture/symbol/reb_circ_gray.dds
 /resources/art/fx/texture/symbol/sc_missile_target_highlight.dds
 /resources/art/fx/texture/symbol/sc_missile_target_lock.dds

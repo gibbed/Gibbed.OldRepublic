@@ -1,4 +1,4 @@
-; 4708/14292 (32%)
+; 4715/14292 (32%)
 /resources/anim/humanoid/bmanew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bmanew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bmanew/ad_2pistol_2h_yaw_up.jba
@@ -1733,6 +1733,7 @@
 /resources/anim/humanoid/bmanew/humanoid_loco_normal_falling.mph
 /resources/anim/humanoid/bmanew/humanoid_loco_stunned.mph
 /resources/anim/humanoid/bmanew/humanoid_loco_stunned_knockeddown.mph
+/resources/anim/humanoid/bmanew/humanoid_no_aim_loco_autogen_am_2p_angry_listen_1.mph
 /resources/anim/humanoid/bmanew/humanoid_no_aim_loco_autogen_am_2p_angry_talk_1.mph
 /resources/anim/humanoid/bmanew/humanoid_no_aim_loco_autogen_am_2p_excited_talk_1.mph
 /resources/anim/humanoid/bmanew/humanoid_no_aim_loco_autogen_am_2p_sad_listen_1.mph
@@ -3212,6 +3213,7 @@
 /resources/anim/humanoid/bmfnew/cb_shoulder_charge.jba
 /resources/anim/humanoid/bmfnew/cb_shoulder_charge_far.jba
 /resources/anim/humanoid/bmfnew/cb_spy_shiv_1.jba
+/resources/anim/humanoid/bmfnew/cb_staff_normal_to_combat.jba
 /resources/anim/humanoid/bmfnew/cb_sucker_punch.jba
 /resources/anim/humanoid/bmfnew/cb_sword_combat_to_normal.jba
 /resources/anim/humanoid/bmfnew/cb_sword_normal_to_combat.jba
@@ -3981,6 +3983,7 @@
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000010.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000011.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000012.mph
+/resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000013.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000016.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000017.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000021.mph
@@ -3999,7 +4002,10 @@
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000037.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000038.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000039.mph
+/resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000041.mph
+/resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000042.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000043.mph
+/resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000044.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000057.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000075.mph
 /resources/anim/humanoid/bmfnew/humanoid_action_no_aim_autogen000079.mph
@@ -4192,6 +4198,7 @@
 /resources/anim/humanoid/bmfnew/mas_fix_low_talk_exit.jba
 /resources/anim/humanoid/bmfnew/mas_fix_low_talk_loop.jba
 /resources/anim/humanoid/bmfnew/mas_search_low_loop_01.jba
+/resources/anim/humanoid/bmfnew/mas_sit_drink_eat_loop.jba
 /resources/anim/humanoid/bmfnew/mv_2pistol_hard_land.jba
 /resources/anim/humanoid/bmfnew/mv_2pistol_jump_end.jba
 /resources/anim/humanoid/bmfnew/mv_2pistol_jump_start.jba

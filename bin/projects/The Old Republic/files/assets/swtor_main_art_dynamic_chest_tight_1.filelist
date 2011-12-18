@@ -1,4 +1,4 @@
-; 1513/3798 (39%)
+; 1524/3798 (40%)
 /resources/art/dynamic/chest/model/chest_tight_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_light_ge_a08_chest.lod.gr2
@@ -24,6 +24,7 @@
 /resources/art/dynamic/chest/model/chest_tight_bfa_med_ge_a20_hooddown.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_med_ge_a20_hooddown.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_med_ge_a20_tunic.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfa_med_sp_a01_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_med_sp_a03_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_med_ss_a01_hooddown.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_med_ss_a01_hoodup.lod.gr2
@@ -52,6 +53,10 @@
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ge_a15_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ge_a15_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ge_a20_hooddown.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfb_med_ge_a20_hoodup.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfb_med_ge_a20_shld.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfb_med_ge_a20_tunic.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfb_med_sp_a03_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_hooddown.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_loin.lod.gr2
@@ -126,6 +131,7 @@
 /resources/art/dynamic/chest/model/chest_tight_bfs_med_ge_a15_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfs_med_sp_a03_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfs_med_ss_a01_hooddown.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfs_med_ss_a01_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfs_med_ss_a01_loin.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfs_med_ss_a01_tunic.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfs_med_sw_a01_chest.lod.gr2
@@ -218,8 +224,12 @@
 /resources/art/dynamic/chest/model/chest_tight_bmf_med_sp_a03_shld.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_med_sp_a03_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_med_ss_a01_hooddown.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bmf_med_ss_a01_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_med_ss_a01_loin.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_med_ss_a01_tunic.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bmf_med_sw_a01_chest.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bmf_med_sw_a01_loin.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bmf_med_sw_a01_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_med_tr_a01_back.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_med_tr_a01_collar.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_med_tr_a01_pocket.gr2
@@ -293,6 +303,7 @@
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ss_a01_hooddown.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ss_a01_hoodup.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ss_a01_hoodup.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bmn_med_ss_a01_loin.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ss_a01_loin.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ss_a01_tunic.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmn_med_ss_a01_tunic.lod.gr2

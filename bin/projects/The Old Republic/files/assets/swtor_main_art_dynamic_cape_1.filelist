@@ -1,4 +1,4 @@
-; 1036/4371 (23%)
+; 1053/4371 (24%)
 /resources/art/dynamic/chest/model/chest_capetight_bfn_archetype.clo
 /resources/art/dynamic/chest/model/chest_capetight_bfn_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_capetight_bfn_heavy_sw_a08_collar.lod.gr2
@@ -104,6 +104,10 @@
 /resources/art/dynamic/chest/model/chest_robe01_bfn_light_jw_a03_arm.gr2
 /resources/art/dynamic/chest/model/chest_robe01_bfn_light_jw_a03_hooddown.gr2
 /resources/art/dynamic/chest/model/chest_robe01_bfn_light_jw_a03_shld.gr2
+/resources/art/dynamic/chest/model/chest_robe01_bfs_archetype.clo
+/resources/art/dynamic/chest/model/chest_robe01_bfs_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_robe01_bfs_light_ge_a22_collar.lod.gr2
+/resources/art/dynamic/chest/model/chest_robe01_bfs_light_ge_a22_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_robe01_bma_archetype.clo
 /resources/art/dynamic/chest/model/chest_robe01_bma_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_robe01_bma_light_ge_a22_collar.lod.gr2
@@ -225,6 +229,9 @@
 /resources/art/dynamic/chest/model/chest_trench_bmn_med_sp_a05_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_trench_bmn_med_sp_a05_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_trench_bmn_med_sp_a05_shld.lod.gr2
+/resources/art/dynamic/chest/model/chest_trench_bms_archetype.clo
+/resources/art/dynamic/chest/model/chest_trench_bms_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_trench_bms_med_sp_a05_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_trencharmor_bmn_archetype.clo
 /resources/art/dynamic/chest/model/chest_trencharmor_bmn_archetype.gr2
 /resources/art/dynamic/chest/model/chest_trenchtight_bfa_archetype.clo
@@ -593,10 +600,20 @@
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c01_u_s.tex
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c01_u_s.tiny.dds
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_f_n.dds
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_f_n.tex
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_f_n.tiny.dds
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_d.dds
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_d.tex
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_d.tiny.dds
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_h.dds
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_h.tex
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_h.tiny.dds
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_m.dds
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_m.tex
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_m.tiny.dds
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_s.dds
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_s.tex
+/resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c03_u_s.tiny.dds
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c05_f_n.dds
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c05_f_n.tex
 /resources/art/dynamic/player_character/outfit/sm_trench_med_a06/texture/___psd/chest_trench_med_sm_a06c05_f_n.tiny.dds
