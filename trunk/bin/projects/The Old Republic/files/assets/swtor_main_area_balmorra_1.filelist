@@ -1,4 +1,4 @@
-; 1403/1507 (93%)
+; 1404/1507 (93%)
 /resources/art/fx/texture/uv_atlas/all_item_forcefields_01_base_a.dds
 /resources/art/fx/texture/uv_atlas/all_item_forcefields_01_base_a.tex
 /resources/art/fx/texture/uv_atlas/all_item_forcefields_01_base_a.tiny.dds
@@ -15,6 +15,7 @@
 /resources/art/shaders/materials/all_item_creature_klorslug_egg.mat
 /resources/art/shaders/materials/all_item_imp_scaffold_mesh.mat
 /resources/art/shaders/materials/bal_arch_okara_power_core.mat
+/resources/art/shaders/materials/bal_env_basin_rock.mat
 /resources/art/shaders/materials/bal_env_boulders_no_moss.mat
 /resources/art/shaders/materials/bal_env_colocoid_mound_wall.mat
 /resources/art/shaders/materials/cor_arch_works_lights.mat

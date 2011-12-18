@@ -1,4 +1,4 @@
-; 6153/6335 (97%)
+; 6155/6335 (97%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -29,6 +29,7 @@
 /resources/art/shaders/materials/all_arch_neu_mandalorian_trophy_case_all_arch_neu_mandalorian_case.mat
 /resources/art/shaders/materials/all_arch_neu_mining_bore.mat
 /resources/art/shaders/materials/all_arch_neu_mining_bore_engine.mat
+/resources/art/shaders/materials/all_arch_neu_road.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_door_lower_lobby_01.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_elevator_lift.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_ext_foundation01.mat
@@ -66,6 +67,7 @@
 /resources/art/shaders/materials/all_arch_neu_tent_leanto.mat
 /resources/art/shaders/materials/all_arch_neu_tent_medium.mat
 /resources/art/shaders/materials/all_arch_neu_windmill_lights.mat
+/resources/art/shaders/materials/all_arch_pal_house_stonefloor.mat
 /resources/art/shaders/materials/all_arch_pal_house_stonefloor2.mat
 /resources/art/shaders/materials/all_arch_pipe_hole.mat
 /resources/art/shaders/materials/all_arch_rep_atv_exterior_01.mat

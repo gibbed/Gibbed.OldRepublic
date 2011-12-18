@@ -1,4 +1,4 @@
-; 1923/2077 (92%)
+; 1945/2077 (93%)
 /resources/art/fx/texture/uv_atlas/nar_item_tech_generator_anim_lights_d.dds
 /resources/art/fx/texture/uv_atlas/nar_item_tech_generator_anim_lights_d.tex
 /resources/art/fx/texture/uv_atlas/nar_item_tech_generator_anim_lights_d.tiny.dds
@@ -16,16 +16,38 @@
 /resources/art/shaders/materials/all_item_imp_path_light_body.mat
 /resources/art/shaders/materials/all_item_und_bar_table.mat
 /resources/art/shaders/materials/all_item_und_merchant_rugs.mat
+/resources/art/shaders/materials/nar_arch_city_ceiling.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_door_new_small.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_doors_lg.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_new.mat
 /resources/art/shaders/materials/nar_arch_city_ext_bwall_trims01.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_wall01.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_wall02.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_wall04.mat
+/resources/art/shaders/materials/nar_arch_city_facade_01.mat
+/resources/art/shaders/materials/nar_arch_city_facade_02.mat
+/resources/art/shaders/materials/nar_arch_city_facade_03.mat
+/resources/art/shaders/materials/nar_arch_city_facade_04.mat
+/resources/art/shaders/materials/nar_arch_city_facade_addon_metal_04.mat
+/resources/art/shaders/materials/nar_arch_city_hall_floor.mat
+/resources/art/shaders/materials/nar_arch_city_interior_casino_wall.mat
+/resources/art/shaders/materials/nar_arch_city_road_new.mat
+/resources/art/shaders/materials/nar_arch_city_road_walkway.mat
+/resources/art/shaders/materials/nar_arch_city_walkway_base01.mat
+/resources/art/shaders/materials/nar_arch_city_walkway_base02.mat
+/resources/art/shaders/materials/nar_arch_city_wallset_trans01.mat
 /resources/art/shaders/materials/nar_item_signage_01.mat
 /resources/art/shaders/materials/nar_item_signage_02.mat
 /resources/art/shaders/materials/nar_item_signage_03.mat
+/resources/art/shaders/materials/nar_item_signage_05.mat
 /resources/art/shaders/materials/nar_item_signage_glows.mat
 /resources/art/shaders/materials/nar_item_signage_redlight_01.mat
 /resources/art/shaders/materials/nar_item_signage_redlight_02.mat
 /resources/art/shaders/materials/nar_item_signage_redlight_03.mat
 /resources/art/shaders/materials/nar_item_signage_redlight_04.mat
 /resources/art/shaders/materials/nar_item_signage_trims.mat
+/resources/art/shaders/materials/nar_item_street_building_vent.mat
+/resources/art/shaders/materials/nar_skyscene_horizon.mat
 /resources/art/shaders/materials/ter_ald_grass01.mat
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_grass01_d.dds
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_grass01_d.tex

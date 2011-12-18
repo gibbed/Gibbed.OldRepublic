@@ -1,10 +1,13 @@
-; 146/412 (35%)
+; 155/412 (37%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
 /resources/bnk2/voc_akk.bnk
+/resources/bnk2/voc_andronikos_revel.bnk
+/resources/bnk2/voc_anomid_m_alien_med_soundset.bnk
 /resources/bnk2/voc_arcona_m_alien_med_soundset.bnk
 /resources/bnk2/voc_assassindroidancientguardian.bnk
+/resources/bnk2/voc_assassindroidancientvindicator.bnk
 /resources/bnk2/voc_assassindroidautotrooper.bnk
 /resources/bnk2/voc_assassindroidczerkasecurity.bnk
 /resources/bnk2/voc_assassindroidhuttmilitary.bnk
@@ -17,6 +20,7 @@
 /resources/bnk2/voc_astromechimperial.bnk
 /resources/bnk2/voc_astromechrepublic.bnk
 /resources/bnk2/voc_astromechtg6.bnk
+/resources/bnk2/voc_banthagrazer.bnk
 /resources/bnk2/voc_basedroid01.bnk
 /resources/bnk2/voc_battledroidimperial.bnk
 /resources/bnk2/voc_battledroidindustrial.bnk
@@ -29,6 +33,7 @@
 /resources/bnk2/voc_chevin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_corso.bnk
 /resources/bnk2/voc_devaronian_m_alien_low_soundset.bnk
+/resources/bnk2/voc_devaronian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_duros_m_alien_high_soundset.bnk
 /resources/bnk2/voc_duros_m_alien_low_soundset.bnk
 /resources/bnk2/voc_evocii_f_alien_high_soundset.bnk
@@ -75,6 +80,7 @@
 /resources/bnk2/voc_manka.bnk
 /resources/bnk2/voc_moncalamari_m_alien_med_soundset.bnk
 /resources/bnk2/voc_nautolan_f_alien_high_soundset.bnk
+/resources/bnk2/voc_nautolan_m_alien_low_soundset.bnk
 /resources/bnk2/voc_neimoidian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_nikto_m_alien_med_soundset.bnk
 /resources/bnk2/voc_ortolan_m_alien_low_soundset.bnk
@@ -100,6 +106,7 @@
 /resources/bnk2/voc_protocoldroidimpmedical.bnk
 /resources/bnk2/voc_protocoldroidpo12.bnk
 /resources/bnk2/voc_protocoldroidrepmedical.bnk
+/resources/bnk2/voc_quinn.bnk
 /resources/bnk2/voc_repassaultdroid.bnk
 /resources/bnk2/voc_rephuman_f_med_1_soundset.bnk
 /resources/bnk2/voc_rephuman_f_med_2_soundset.bnk
@@ -124,6 +131,7 @@
 /resources/bnk2/voc_shyrack.bnk
 /resources/bnk2/voc_sleen.bnk
 /resources/bnk2/voc_swampsnarler.bnk
+/resources/bnk2/voc_terentatek.bnk
 /resources/bnk2/voc_togruta_f_alien_med_soundset.bnk
 /resources/bnk2/voc_tukata.bnk
 /resources/bnk2/voc_tukatasmall.bnk
@@ -135,6 +143,7 @@
 /resources/bnk2/voc_ugnaught_m_alien_low_soundset.bnk
 /resources/bnk2/voc_ugnaught_m_alien_med_soundset.bnk
 /resources/bnk2/voc_uxibeast.bnk
+/resources/bnk2/voc_vector.bnk
 /resources/bnk2/voc_vette.bnk
 /resources/bnk2/voc_vinecat.bnk
 /resources/bnk2/voc_wampa.bnk

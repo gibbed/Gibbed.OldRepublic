@@ -1,4 +1,4 @@
-; 2119/2157 (98%)
+; 2121/2157 (98%)
 /resources/art/defaultassets/occluder.dds
 /resources/art/defaultassets/occluder.tex
 /resources/art/fx/texture/uv_atlas/all_item_works_huge_generator_lights_d.dds
@@ -32,6 +32,7 @@
 /resources/art/shaders/materials/cor_arch_works_ceiling.mat
 /resources/art/shaders/materials/cor_arch_works_console01.mat
 /resources/art/shaders/materials/cor_arch_works_item_trim.mat
+/resources/art/shaders/materials/cor_arch_works_lights02.mat
 /resources/art/shaders/materials/cor_arch_works_ramp.mat
 /resources/art/shaders/materials/cor_arch_works_support.mat
 /resources/art/shaders/materials/cor_arch_works_trim01.mat
@@ -54,6 +55,7 @@
 /resources/art/shaders/materials/cor_skyscene_building_sun.mat
 /resources/art/shaders/materials/cor_skyscene_fog.mat
 /resources/art/shaders/materials/cor_skyscene_horizon.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_door_new.mat
 /resources/art/shaders/materials/occluder.mat
 /resources/art/shaders/materials/ter_cor_city_floor_rubble.mat
 /resources/art/shaders/materials/ter_cor_city_foundation_rubble.mat

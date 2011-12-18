@@ -1,4 +1,4 @@
-; 2301/2911 (79%)
+; 2308/2911 (79%)
 /resources/art/shaders/materials/all_item_factory_cauldron_metal.mat
 /resources/art/shaders/materials/cor_arch_works_grating.mat
 /resources/art/shaders/materials/crl_arch_city_ext_bwall_new.mat
@@ -15,6 +15,7 @@
 /resources/art/shaders/materials/crl_arch_city_wallset_trans01_new.mat
 /resources/art/shaders/materials/crl_item_statue_sitting.mat
 /resources/art/shaders/materials/crl_speedtree_pampasgrass01.mat
+/resources/art/shaders/materials/nar_arch_city_walkway_base03.mat
 /resources/art/shaders/materials/ord_speedtree_boxwood01_fronds.mat
 /resources/art/static/area/ald_alderaan/item/texture/ald_item_banners_d.dds
 /resources/art/static/area/ald_alderaan/item/texture/ald_item_banners_d.tex
@@ -1463,6 +1464,12 @@
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_base03_d.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_base03_d.tex
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_base03_d.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_base03_n.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_base03_n.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_base03_n.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_base03_s.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_base03_s.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_base03_s.tiny.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_side01_d.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_side01_d.tex
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_walkway_side01_d.tiny.dds

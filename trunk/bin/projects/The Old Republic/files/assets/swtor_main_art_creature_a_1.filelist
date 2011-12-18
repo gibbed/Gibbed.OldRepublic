@@ -1,4 +1,4 @@
-; 1994/2112 (94%)
+; 2010/2112 (95%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
 /resources/art/defaultassets/default_age.dds
@@ -1536,6 +1536,14 @@
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_s.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_s.tex
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_s.tiny.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v03_d.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v03_d.tex
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v03_s.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v03_s.tex
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_d.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_d.tex
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_s.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_s.tex
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a01_v01_d.dds
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a01_v01_d.tex
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a01_v01_d.tiny.dds
@@ -1653,6 +1661,9 @@
 /resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_nemro_a01_c01_s.dds
 /resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_nemro_a01_c01_s.tex
 /resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_nemro_a01_c01_s.tiny.dds
+/resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_tassaanemro_a01_c01_d.dds
+/resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_tassaanemro_a01_c01_d.tex
+/resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_tassaanemro_a01_c01_d.tiny.dds
 /resources/art/dynamic/npc/hutt/texture/___psd/hutt_belusfaathra_a01_v01_d.dds
 /resources/art/dynamic/npc/hutt/texture/___psd/hutt_belusfaathra_a01_v01_d.tex
 /resources/art/dynamic/npc/hutt/texture/___psd/hutt_belusfaathra_a01_v01_d.tiny.dds
@@ -1904,7 +1915,11 @@
 /resources/art/shaders/materials/bms_dashade_a01_v04.mat
 /resources/art/shaders/materials/bms_dashade_a01_v05.mat
 /resources/art/shaders/materials/bms_dashade_a02_v01.mat
+/resources/art/shaders/materials/bms_dashade_a02_v03.mat
+/resources/art/shaders/materials/bms_dashade_a02_v05.mat
 /resources/art/shaders/materials/bms_dashade_a03_v01.mat
+/resources/art/shaders/materials/bms_dashade_a03_v03.mat
+/resources/art/shaders/materials/bms_dashade_a03_v05.mat
 /resources/art/shaders/materials/bms_fleshraider_a01_v01.mat
 /resources/art/shaders/materials/bms_fleshraider_a01_v02.mat
 /resources/art/shaders/materials/bms_fleshraider_a01_v03.mat
@@ -1962,6 +1977,7 @@
 /resources/art/shaders/materials/dragonbat_shyrack_a01_v01.mat
 /resources/art/shaders/materials/eye_hutt_hutt_a01_c01.mat
 /resources/art/shaders/materials/eye_hutt_nemro_a01_c01.mat
+/resources/art/shaders/materials/eye_hutt_tassaanemro_a01_c01.mat
 /resources/art/shaders/materials/eye_malgus_non_a01_c01.mat
 /resources/art/shaders/materials/eye_satele_non_a01_c01.mat
 /resources/art/shaders/materials/geonosian_geonosian_a01_v01.mat
