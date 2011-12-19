@@ -1,4 +1,4 @@
-; 8433/8930 (94%)
+; 8468/8930 (94%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -322,11 +322,13 @@
 /resources/art/shaders/materials/all_item_con_square_crate02_open.mat
 /resources/art/shaders/materials/all_item_con_storage_crate.mat
 /resources/art/shaders/materials/all_item_con_storage_skid.mat
+/resources/art/shaders/materials/all_item_con_treasure_chest_02.mat
 /resources/art/shaders/materials/all_item_con_treasure_chest_03.mat
 /resources/art/shaders/materials/all_item_construction_crane.mat
 /resources/art/shaders/materials/all_item_construction_dumpster_droid.mat
 /resources/art/shaders/materials/all_item_construction_forklift.mat
 /resources/art/shaders/materials/all_item_construction_part_bin.mat
+/resources/art/shaders/materials/all_item_construction_part_bin_trash.mat
 /resources/art/shaders/materials/all_item_construction_parts_rack.mat
 /resources/art/shaders/materials/all_item_construction_spool.mat
 /resources/art/shaders/materials/all_item_construction_spool_01.mat
@@ -341,17 +343,39 @@
 /resources/art/shaders/materials/all_item_datacron_set_jedi.mat
 /resources/art/shaders/materials/all_item_datacron_set_sith.mat
 /resources/art/shaders/materials/all_item_debris_pile.mat
+/resources/art/shaders/materials/all_item_debris_ship_large_a_panels.mat
+/resources/art/shaders/materials/all_item_debris_ship_large_a_panels02.mat
+/resources/art/shaders/materials/all_item_debris_ship_large_a_panels03.mat
+/resources/art/shaders/materials/all_item_debris_ship_large_a_trim.mat
+/resources/art/shaders/materials/all_item_debris_ship_large_a02.mat
+/resources/art/shaders/materials/all_item_debris_ship_medium_c_01.mat
+/resources/art/shaders/materials/all_item_debris_ship_medium_c_02.mat
+/resources/art/shaders/materials/all_item_debris_ship_medium_c_trim_01.mat
 /resources/art/shaders/materials/all_item_debris_ship_medium_c_trim_02.mat
 /resources/art/shaders/materials/all_item_debris_ship_medium_d.mat
+/resources/art/shaders/materials/all_item_debris_ship_medium_e.mat
+/resources/art/shaders/materials/all_item_debris_ship_medium_f.mat
 /resources/art/shaders/materials/all_item_decal_circle_shadow.mat
 /resources/art/shaders/materials/all_item_decal_debris_pile.mat
 /resources/art/shaders/materials/all_item_decal_lava.mat
 /resources/art/shaders/materials/all_item_decal_paper.mat
 /resources/art/shaders/materials/all_item_decal_rep_logo.mat
+/resources/art/shaders/materials/all_item_factory_cauldron_metal_02.mat
+/resources/art/shaders/materials/all_item_factory_cauldron_metal_03.mat
+/resources/art/shaders/materials/all_item_factory_control_tower.mat
+/resources/art/shaders/materials/all_item_factory_control_tower01.mat
+/resources/art/shaders/materials/all_item_factory_control_tower02.mat
+/resources/art/shaders/materials/all_item_factory_control_tower03.mat
+/resources/art/shaders/materials/all_item_factory_conveyor_arm.mat
+/resources/art/shaders/materials/all_item_factory_conveyor_belt.mat
+/resources/art/shaders/materials/all_item_factory_conveyor_door.mat
+/resources/art/shaders/materials/all_item_factory_conveyor_trim.mat
+/resources/art/shaders/materials/all_item_factory_conveyor_tunnel.mat
 /resources/art/shaders/materials/all_item_farm_grain_container.mat
 /resources/art/shaders/materials/all_item_farm_plant_med_01.mat
 /resources/art/shaders/materials/all_item_farm_plant_short_01.mat
 /resources/art/shaders/materials/all_item_farm_plow.mat
+/resources/art/shaders/materials/all_item_farm_trough.mat
 /resources/art/shaders/materials/all_item_furn_chair.mat
 /resources/art/shaders/materials/all_item_furn_conf_table_neu.mat
 /resources/art/shaders/materials/all_item_furn_ps_sith_bunks.mat
@@ -384,6 +408,7 @@
 /resources/art/shaders/materials/all_item_imp_mandalorian_banner_stand.mat
 /resources/art/shaders/materials/all_item_imp_mandalorian_mandalorian_banner.mat
 /resources/art/shaders/materials/all_item_imp_medical_bed.mat
+/resources/art/shaders/materials/all_item_imp_medical_shelving.mat
 /resources/art/shaders/materials/all_item_imp_prototype_turret.mat
 /resources/art/shaders/materials/all_item_imp_prototype_turret_damaged.mat
 /resources/art/shaders/materials/all_item_imp_sconce.mat
@@ -419,6 +444,7 @@
 /resources/art/shaders/materials/all_item_misc_cooking_device.mat
 /resources/art/shaders/materials/all_item_misc_glasses_01.mat
 /resources/art/shaders/materials/all_item_misc_jackhammer.mat
+/resources/art/shaders/materials/all_item_misc_mortar_shell_empty.mat
 /resources/art/shaders/materials/all_item_misc_rope_no_collision.mat
 /resources/art/shaders/materials/all_item_misc_skylight.mat
 /resources/art/shaders/materials/all_item_misc_toolbox_small.mat
@@ -456,6 +482,7 @@
 /resources/art/shaders/materials/all_item_rep_library_wall_4m_suv.mat
 /resources/art/shaders/materials/all_item_rep_light_fixture.mat
 /resources/art/shaders/materials/all_item_rep_lightpole.mat
+/resources/art/shaders/materials/all_item_rep_lightpole_off.mat
 /resources/art/shaders/materials/all_item_rep_minefield_sign_marker_01.mat
 /resources/art/shaders/materials/all_item_rep_pallet_02.mat
 /resources/art/shaders/materials/all_item_rep_peasant_cabinet.mat
@@ -473,6 +500,7 @@
 /resources/art/shaders/materials/all_item_rep_training_dummy.mat
 /resources/art/shaders/materials/all_item_rep_trans_fuel_tank.mat
 /resources/art/shaders/materials/all_item_rep_turret.mat
+/resources/art/shaders/materials/all_item_rep_turret_manned.mat
 /resources/art/shaders/materials/all_item_rep_wall_camera.mat
 /resources/art/shaders/materials/all_item_rep_wall_computer_01.mat
 /resources/art/shaders/materials/all_item_rep_wall_computer_01_suv.mat
@@ -487,6 +515,7 @@
 /resources/art/shaders/materials/all_item_ruins_rubble_02a.mat
 /resources/art/shaders/materials/all_item_ruins_rubble_02b.mat
 /resources/art/shaders/materials/all_item_shop_stand_set.mat
+/resources/art/shaders/materials/all_item_shop_stand_tent.mat
 /resources/art/shaders/materials/all_item_sith_academy_main_obelisk.mat
 /resources/art/shaders/materials/all_item_sith_ancient_pictographic_mural.mat
 /resources/art/shaders/materials/all_item_sith_artifact.mat
@@ -549,6 +578,7 @@
 /resources/art/shaders/materials/all_item_tech_datacron_willpower.mat
 /resources/art/shaders/materials/all_item_tech_datapad_01.mat
 /resources/art/shaders/materials/all_item_tech_datapad_ancient_01.mat
+/resources/art/shaders/materials/all_item_tech_dome.mat
 /resources/art/shaders/materials/all_item_tech_eradicator.mat
 /resources/art/shaders/materials/all_item_tech_floating_dance_disk.mat
 /resources/art/shaders/materials/all_item_tech_forklift.mat
@@ -594,6 +624,7 @@
 /resources/art/shaders/materials/all_item_tech_mall_kiosk_neon.mat
 /resources/art/shaders/materials/all_item_tech_matrix_converter.mat
 /resources/art/shaders/materials/all_item_tech_med_scanner.mat
+/resources/art/shaders/materials/all_item_tech_medical_light.mat
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_01.mat
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_02.mat
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_03.mat
@@ -604,6 +635,7 @@
 /resources/art/shaders/materials/all_item_tech_monitorcracks_d.mat
 /resources/art/shaders/materials/all_item_tech_neu_cthon_pod.mat
 /resources/art/shaders/materials/all_item_tech_neu_cthon_pod_glass.mat
+/resources/art/shaders/materials/all_item_tech_neu_forcefield_generator_floating.mat
 /resources/art/shaders/materials/all_item_tech_neu_generator.mat
 /resources/art/shaders/materials/all_item_tech_neutron_bomb.mat
 /resources/art/shaders/materials/all_item_tech_panel_01.mat
@@ -743,6 +775,7 @@
 /resources/art/shaders/materials/ce_vendor_authenticator_hologram_icon_suv_2.mat
 /resources/art/shaders/materials/ce_vendor_stall_hologram_icon_suv.mat
 /resources/art/shaders/materials/ce_vendor_stall_hologram_icon_suv_2.mat
+/resources/art/shaders/materials/corpse_assassin_war.mat
 /resources/art/shaders/materials/corpse_bh_armor_heavy_a02_c01_body.mat
 /resources/art/shaders/materials/corpse_burned.mat
 /resources/art/shaders/materials/corpse_frozen.mat
@@ -762,10 +795,12 @@
 /resources/art/shaders/materials/corpse_head_bms_02.mat
 /resources/art/shaders/materials/corpse_head_rodian_bma_non_a01_v01.mat
 /resources/art/shaders/materials/corpse_jk_baggy_med_a04_body.mat
+/resources/art/shaders/materials/corpse_sm_baggy_med_a03_c01_body.mat
 /resources/art/shaders/materials/corpse_sm_tight_med_a04_c01_body.mat
 /resources/art/shaders/materials/corpse_sp_tight_med_a01_c01_body.mat
 /resources/art/shaders/materials/corpse_sw_baggy_heavy_a05_c01_body.mat
 /resources/art/shaders/materials/corpse_sw_tight_med_a01_c01_body.mat
+/resources/art/shaders/materials/corpse_tr_tight_heavy_a02_c01_body.mat
 /resources/art/shaders/materials/dog_tukata_a01_v01.mat
 /resources/art/shaders/materials/eye_voss_non_a01_c02.mat
 /resources/art/shaders/materials/fx_life_support_pump_lights.mat

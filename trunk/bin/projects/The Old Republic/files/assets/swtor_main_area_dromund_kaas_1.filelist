@@ -1,4 +1,4 @@
-; 1487/1560 (95%)
+; 1490/1560 (95%)
 /resources/art/environmentmaps/dro_main/area.dds
 /resources/art/environmentmaps/dro_main/area.tex
 /resources/art/environmentmaps/dro_main/area.tiny.dds
@@ -1229,6 +1229,7 @@
 /resources/world/areas/4611686019618382666/map_int_dark_temple_matrix_room_r.dds
 /resources/world/areas/4611686019618382666/map_int_darktemple_basement_r.dds
 /resources/world/areas/4611686019618382666/map_int_darktemple_chamber_inquisitor_r.dds
+/resources/world/areas/4611686019618382666/map_int_darktemple_chamber_world_r.dds
 /resources/world/areas/4611686019618382666/map_int_darktemple_fl01_r.dds
 /resources/world/areas/4611686019618382666/map_int_darktemple_fl02_r.dds
 /resources/world/areas/4611686019618382666/map_int_darktemple_reliquary_heroic_r.dds
@@ -1388,6 +1389,8 @@
 /resources/world/areas/4611686019618382666/minimaps/map_int_darktemple_basement_00_00_r.dds
 /resources/world/areas/4611686019618382666/minimaps/map_int_darktemple_chamber_inquisitor_00_00_r.dds
 /resources/world/areas/4611686019618382666/minimaps/map_int_darktemple_chamber_inquisitor_00_01_r.dds
+/resources/world/areas/4611686019618382666/minimaps/map_int_darktemple_chamber_world_00_00_r.dds
+/resources/world/areas/4611686019618382666/minimaps/map_int_darktemple_chamber_world_01_00_r.dds
 /resources/world/areas/4611686019618382666/minimaps/map_int_darktemple_fl01_00_00_r.dds
 /resources/world/areas/4611686019618382666/minimaps/map_int_darktemple_fl01_00_01_r.dds
 /resources/world/areas/4611686019618382666/minimaps/map_int_darktemple_fl01_00_02_r.dds

@@ -1,4 +1,4 @@
-; 10197/52255 (19%)
+; 10207/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -913,6 +913,7 @@
 /resources/gfx/codex/cdx.tutorial.damaged_items.dds
 /resources/gfx/codex/cdx.tutorial.destroyed_items.dds
 /resources/gfx/codex/cdx.tutorial.equip.dds
+/resources/gfx/codex/cdx.tutorial.galaxy_map.dds
 /resources/gfx/codex/cdx.tutorial.gathering_resources.dds
 /resources/gfx/codex/cdx.tutorial.group_story.dds
 /resources/gfx/codex/cdx.tutorial.incapacitated.dds
@@ -926,6 +927,9 @@
 /resources/gfx/codex/cdx.tutorial.pvp.dds
 /resources/gfx/codex/cdx.tutorial.selling_junk.dds
 /resources/gfx/codex/cdx.tutorial.skill_trees.dds
+/resources/gfx/codex/cdx.tutorial.space_combat_blasters.dds
+/resources/gfx/codex/cdx.tutorial.space_combat_missiles.dds
+/resources/gfx/codex/cdx.tutorial.space_combat_movement.dds
 /resources/gfx/codex/cdx.tutorial.specialty_goods.dds
 /resources/gfx/codex/cdx.tutorial.taxi.dds
 /resources/gfx/codex/cdx.tutorial.unavailable_mission.dds
@@ -1863,6 +1867,7 @@
 /resources/gfx/icons/complexaccesscardcolorvariant3.dds
 /resources/gfx/icons/complexaccesscardcolorvariant4.dds
 /resources/gfx/icons/concussionmissiles.dds
+/resources/gfx/icons/consumingdarkness.dds
 /resources/gfx/icons/contract.dds
 /resources/gfx/icons/contractcolorvariant1.dds
 /resources/gfx/icons/coolhead.dds
@@ -8954,6 +8959,7 @@
 /resources/gfx/icons/knockdown.dds
 /resources/gfx/icons/koltoinfusion.dds
 /resources/gfx/icons/koltoinhibitordart.dds
+/resources/gfx/icons/koltoinjection.dds
 /resources/gfx/icons/krayt_dragon_pearl.dds
 /resources/gfx/icons/krayt_dragon_scales.dds
 /resources/gfx/icons/laminasteel.dds
@@ -9200,6 +9206,7 @@
 /resources/gfx/icons/overlay1_str.dds
 /resources/gfx/icons/overlay1_wil.dds
 /resources/gfx/icons/overload.dds
+/resources/gfx/icons/overpower.dds
 /resources/gfx/icons/oxidizingflux1.dds
 /resources/gfx/icons/oxidizingflux2.dds
 /resources/gfx/icons/oxidizingflux3.dds
@@ -9256,6 +9263,7 @@
 /resources/gfx/icons/protocoldroidhead.dds
 /resources/gfx/icons/protontorpedotube.dds
 /resources/gfx/icons/psychoactive_compound.dds
+/resources/gfx/icons/pumpaction.dds
 /resources/gfx/icons/purplelesserlightsabercrystal.dds
 /resources/gfx/icons/purplelightsabercrystal.dds
 /resources/gfx/icons/purplemajorlightsabercrystal.dds
@@ -10052,6 +10060,7 @@
 /resources/gfx/loadingscreen/ald_overlay.dds
 /resources/gfx/loadingscreen/background_tile.dds
 /resources/gfx/loadingscreen/bal_overlay.dds
+/resources/gfx/loadingscreen/bal_overlay_text.dds
 /resources/gfx/loadingscreen/bel_overlay.dds
 /resources/gfx/loadingscreen/bwa_splash.dds
 /resources/gfx/loadingscreen/bwa_splash.tex
@@ -10149,6 +10158,7 @@
 /resources/gfx/symbols/badge_silver.dds
 /resources/gfx/symbols/bank.dds
 /resources/gfx/symbols/bindpoint.dds
+/resources/gfx/symbols/bullet.dds
 /resources/gfx/symbols/button_plus.dds
 /resources/gfx/symbols/buy_button.dds
 /resources/gfx/symbols/cancel_sale_button.dds

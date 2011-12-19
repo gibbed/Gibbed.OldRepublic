@@ -1,4 +1,4 @@
-; 3436/3574 (96%)
+; 3451/3574 (96%)
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_01.mat
@@ -22,6 +22,7 @@
 /resources/art/shaders/materials/all_arch_city_ext_bwall_a_new_02.mat
 /resources/art/shaders/materials/all_arch_city_ext_bwall_a_new_03.mat
 /resources/art/shaders/materials/all_arch_city_ext_bwall_door_lg.mat
+/resources/art/shaders/materials/all_arch_city_facade_addon_metal_04.mat
 /resources/art/shaders/materials/all_arch_city_guard_tower.mat
 /resources/art/shaders/materials/all_arch_city_large_pillar.mat
 /resources/art/shaders/materials/all_arch_city_mall_sunshade.mat
@@ -55,6 +56,8 @@
 /resources/art/shaders/materials/all_arch_city_walkway_side01.mat
 /resources/art/shaders/materials/all_arch_crystal_formation.mat
 /resources/art/shaders/materials/all_arch_crystal_formation_green.mat
+/resources/art/shaders/materials/all_arch_fadeportal_bal_ext_bright.mat
+/resources/art/shaders/materials/all_arch_fadeportal_bal_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_dro_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_academy_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_int_dark.mat
@@ -67,7 +70,9 @@
 /resources/art/shaders/materials/all_arch_fadeportal_tyt_rep_building_grey_lighter.mat
 /resources/art/shaders/materials/all_arch_imp_barracks_wall01.mat
 /resources/art/shaders/materials/all_arch_imp_bridge.mat
+/resources/art/shaders/materials/all_arch_imp_bridge_destroyed.mat
 /resources/art/shaders/materials/all_arch_imp_bridge_middle.mat
+/resources/art/shaders/materials/all_arch_imp_bridge_shield.mat
 /resources/art/shaders/materials/all_arch_imp_bridge_wall_support_01.mat
 /resources/art/shaders/materials/all_arch_imp_bridge_wall_support_02.mat
 /resources/art/shaders/materials/all_arch_imp_building_props_interior.mat
@@ -135,7 +140,10 @@
 /resources/art/shaders/materials/all_arch_imp_medical_center_interior_floor01.mat
 /resources/art/shaders/materials/all_arch_imp_medical_center_interior_trim01.mat
 /resources/art/shaders/materials/all_arch_imp_medical_center_wall02.mat
+/resources/art/shaders/materials/all_arch_imp_neutralizer.mat
+/resources/art/shaders/materials/all_arch_imp_outpost_wallset_base.mat
 /resources/art/shaders/materials/all_arch_imp_road.mat
+/resources/art/shaders/materials/all_arch_imp_road_nolights.mat
 /resources/art/shaders/materials/all_arch_imp_sith_ruins_statue_body.mat
 /resources/art/shaders/materials/all_arch_imp_sith_ruins_statue_chair.mat
 /resources/art/shaders/materials/all_arch_imp_space_airlock.mat
@@ -165,11 +173,17 @@
 /resources/art/shaders/materials/all_arch_imp_vehicle_hangar_door.mat
 /resources/art/shaders/materials/all_arch_imp_vehicle_hangar_wall_01.mat
 /resources/art/shaders/materials/all_arch_imp_vehicle_hanger_alphasolution_01.mat
+/resources/art/shaders/materials/all_arch_imp_wall_30m_metal_base.mat
+/resources/art/shaders/materials/all_arch_imp_wall_30m_panels.mat
+/resources/art/shaders/materials/all_arch_imp_wall_30m_pillar_bottom.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_pillar_top.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_pillar_trim.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_unique.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_wall_tech.mat
+/resources/art/shaders/materials/all_arch_imp_wallset_base_02.mat
 /resources/art/shaders/materials/all_arch_imp_war_room_tech_cabinet.mat
+/resources/art/shaders/materials/all_arch_neu_droid_factory_stack.mat
+/resources/art/shaders/materials/all_arch_neu_droid_factory_tower_base.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_tower_trim01.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_floor01.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_trims01.mat
@@ -199,6 +213,7 @@
 /resources/art/shaders/materials/kor_acad_interrogation_wall.mat
 /resources/art/shaders/materials/kor_acad_lobby_column.mat
 /resources/art/shaders/materials/kor_acad_main_topfloor.mat
+/resources/art/shaders/materials/ter_imp_metal_gray01.mat
 /resources/art/shaders/materials/veh_imp_capital_destroyer_details01.mat
 /resources/art/shaders/materials/veh_imp_capital_destroyer_details02.mat
 /resources/art/shaders/materials/veh_imp_capital_destroyer_panels01.mat
