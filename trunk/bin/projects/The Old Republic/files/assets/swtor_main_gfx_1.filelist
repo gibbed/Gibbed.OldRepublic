@@ -1,4 +1,4 @@
-; 10194/52255 (19%)
+; 10197/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -1910,6 +1910,7 @@
 /resources/gfx/icons/deathfield.dds
 /resources/gfx/icons/deathfromabove.dds
 /resources/gfx/icons/debuff_moving.dds
+/resources/gfx/icons/defensereduced.dds
 /resources/gfx/icons/defensivecommand.dds
 /resources/gfx/icons/demicot.dds
 /resources/gfx/icons/democharge.dds
@@ -9904,6 +9905,7 @@
 /resources/gfx/icons/sonicgrenade.dds
 /resources/gfx/icons/sonicprobe.dds
 /resources/gfx/icons/soothe.dds
+/resources/gfx/icons/soresu.dds
 /resources/gfx/icons/souterrimpirate.dds
 /resources/gfx/icons/spaceabilityempgenerator.dds
 /resources/gfx/icons/spaceupgradeempburst.dds
@@ -9975,6 +9977,7 @@
 /resources/gfx/icons/thermaldetonator.dds
 /resources/gfx/icons/thermoweave.dds
 /resources/gfx/icons/thrown.dds
+/resources/gfx/icons/thunder.dds
 /resources/gfx/icons/thundering_blast.dds
 /resources/gfx/icons/timermine.dds
 /resources/gfx/icons/tirefin.dds

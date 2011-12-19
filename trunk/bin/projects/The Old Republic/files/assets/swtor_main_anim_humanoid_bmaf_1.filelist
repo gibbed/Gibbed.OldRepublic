@@ -1,4 +1,4 @@
-; 4715/14292 (32%)
+; 4719/14292 (33%)
 /resources/anim/humanoid/bmanew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bmanew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bmanew/ad_2pistol_2h_yaw_up.jba
@@ -820,6 +820,9 @@
 /resources/anim/humanoid/bmanew/cb_saber_idle_right_adjust_1.jba
 /resources/anim/humanoid/bmanew/cb_saber_idle_right_adjust_2.jba
 /resources/anim/humanoid/bmanew/cb_saber_idle_right_adjust_3.jba
+/resources/anim/humanoid/bmanew/cb_saber_idle_right_adjust_5.jba
+/resources/anim/humanoid/bmanew/cb_saber_idle_right_adjust_6.jba
+/resources/anim/humanoid/bmanew/cb_saber_idle_right_adjust_7.jba
 /resources/anim/humanoid/bmanew/cb_saber_kick_attack_right_1.jba
 /resources/anim/humanoid/bmanew/cb_saber_kick_attack_right_2.jba
 /resources/anim/humanoid/bmanew/cb_saber_kick_attack_right_3.jba
@@ -1415,6 +1418,7 @@
 /resources/anim/humanoid/bmanew/humanoid_action_autogen000011.mph
 /resources/anim/humanoid/bmanew/humanoid_action_autogen000015.mph
 /resources/anim/humanoid/bmanew/humanoid_action_autogen000020.mph
+/resources/anim/humanoid/bmanew/humanoid_action_autogen000024.mph
 /resources/anim/humanoid/bmanew/humanoid_action_autogen000029.mph
 /resources/anim/humanoid/bmanew/humanoid_action_autogen000030.mph
 /resources/anim/humanoid/bmanew/humanoid_action_autogen000031.mph

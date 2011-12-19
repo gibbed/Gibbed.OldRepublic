@@ -1,4 +1,4 @@
-; 3112/14190 (21%)
+; 3130/14190 (22%)
 /resources/anim/humanoid/bfnnew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bfnnew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bfnnew/ad_2pistol_2h_yaw_up.jba
@@ -1830,6 +1830,7 @@
 /resources/anim/humanoid/bfnnew/humanoid_loco_autogen_po_weapon_kill_deathpose_2b.mph
 /resources/anim/humanoid/bfnnew/humanoid_loco_cnv.mph
 /resources/anim/humanoid/bfnnew/humanoid_loco_combat_2pistol.mph
+/resources/anim/humanoid/bfnnew/humanoid_loco_combat_2pistol_cover.mph
 /resources/anim/humanoid/bfnnew/humanoid_loco_combat_2pistol_falling.mph
 /resources/anim/humanoid/bfnnew/humanoid_loco_combat_2saber.mph
 /resources/anim/humanoid/bfnnew/humanoid_loco_combat_2saber_falling.mph
@@ -2800,6 +2801,7 @@
 /resources/anim/humanoid/bfsnew/ad_rifle_cover_yaw_up.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_crouch_pitch.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_crouch_stand.jba
+/resources/anim/humanoid/bfsnew/ad_rifle_jump_mid.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_sniper_cover_yaw.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_sniper_cover_yaw_down.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_sniper_cover_yaw_up.jba
@@ -2819,6 +2821,7 @@
 /resources/anim/humanoid/bfsnew/ad_run_jump_yaw.jba
 /resources/anim/humanoid/bfsnew/ad_run_pistol_jump_mid.jba
 /resources/anim/humanoid/bfsnew/ad_run_pole_jump_mid.jba
+/resources/anim/humanoid/bfsnew/ad_run_rifle_jump_mid.jba
 /resources/anim/humanoid/bfsnew/ad_run_saber_jump_mid.jba
 /resources/anim/humanoid/bfsnew/ad_run_saber_jump_yaw.jba
 /resources/anim/humanoid/bfsnew/ad_saber_idle_inquisitor_yaw_down.jba
@@ -2859,6 +2862,7 @@
 /resources/anim/humanoid/bfsnew/as_mount_landspeeder_sit_idle_1.jba
 /resources/anim/humanoid/bfsnew/as_mount_landspeeder_sit_idle_2.jba
 /resources/anim/humanoid/bfsnew/as_mount_landspeeder_sit_to_ride.jba
+/resources/anim/humanoid/bfsnew/as_mount_upright_speeder_idle_01.jba
 /resources/anim/humanoid/bfsnew/cc_stand_agent_01.jba
 /resources/anim/humanoid/bfsnew/cc_stand_bountyhunter_01.jba
 /resources/anim/humanoid/bfsnew/cc_stand_consular_01.jba
@@ -2874,9 +2878,13 @@
 /resources/anim/humanoid/bfsnew/cc_stand_smuggler_01.jba
 /resources/anim/humanoid/bfsnew/cc_stand_trooper_01.jba
 /resources/anim/humanoid/bfsnew/cc_stand_warrior_01.jba
+/resources/anim/humanoid/bfsnew/em_flex_1.jba
+/resources/anim/humanoid/bfsnew/em_flex_2.jba
+/resources/anim/humanoid/bfsnew/em_flex_3.jba
 /resources/anim/humanoid/bfsnew/humanoid_action_autogen000082.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_autogen000123.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_autogen000125.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_autogen000128.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_autogen000133.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_autogen000136.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_autogen000142.mph
@@ -2905,20 +2913,24 @@
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_2pistol.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_2saber.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_ballistic.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_combat_bracer_2pistol.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_bracer_pistol.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_common.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_damage.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_damage_2pistol.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_damage_normal.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_damage_pistol.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_combat_damage_rifle.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_damage_saber.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_dodge_2pistol.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_dodge_pistol.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_combat_dodge_rifle.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_dodge_saber.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_melee_2pistol.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_melee_2saber.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_melee_pistol.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_melee_pole.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_combat_melee_rifle.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_melee_saber.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_pistol.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_combat_pole.mph
@@ -2935,10 +2947,15 @@
 /resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000017.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000021.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000027.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000028.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000030.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000038.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000039.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000043.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000101.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000108.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000112.mph
+/resources/anim/humanoid/bfsnew/humanoid_action_no_aim_autogen000117.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_unstun_knockeddown.mph
 /resources/anim/humanoid/bfsnew/humanoid_action_unstun_upright.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_autogen_dl_idle.mph
@@ -2953,6 +2970,7 @@
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_pole_falling.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_rifle.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_rifle_cover.mph
+/resources/anim/humanoid/bfsnew/humanoid_loco_combat_rifle_falling.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_saber_02.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_saber_04.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_saber_falling.mph
