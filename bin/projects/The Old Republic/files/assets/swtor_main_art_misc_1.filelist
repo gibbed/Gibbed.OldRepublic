@@ -1,4 +1,4 @@
-; 1321/2181 (60%)
+; 1335/2181 (61%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -464,6 +464,12 @@
 /resources/art/environmentmaps/z_shared/z_city_greebles.dds
 /resources/art/environmentmaps/z_shared/z_city_greebles.tex
 /resources/art/environmentmaps/z_shared/z_city_greebles.tiny.dds
+/resources/art/environmentmaps/z_shared/z_imp_techcave.dds
+/resources/art/environmentmaps/z_shared/z_imp_techcave.tex
+/resources/art/environmentmaps/z_shared/z_imp_techcave.tiny.dds
+/resources/art/environmentmaps/z_shared/z_imperial_fort.dds
+/resources/art/environmentmaps/z_shared/z_imperial_fort.tex
+/resources/art/environmentmaps/z_shared/z_imperial_fort.tiny.dds
 /resources/art/environmentmaps/z_shared/z_jedi_temple.dds
 /resources/art/environmentmaps/z_shared/z_jedi_temple.tex
 /resources/art/environmentmaps/z_shared/z_jedi_temple.tiny.dds
@@ -576,6 +582,8 @@
 /resources/art/lights/bal_exterior_lightramp.tex
 /resources/art/lights/bal_interior_lightramp_arms_factory.dds
 /resources/art/lights/bal_interior_lightramp_arms_factory.tex
+/resources/art/lights/bal_interior_lightramp_okara_droid_factory.dds
+/resources/art/lights/bal_interior_lightramp_okara_droid_factory.tex
 /resources/art/lights/bel_interior_rep_prison_lightramp.dds
 /resources/art/lights/bel_interior_rep_prison_lightramp.tex
 /resources/art/lights/bel_raid_interior_lightramp_01.dds
@@ -753,6 +761,8 @@
 /resources/art/lights/fill_justicar_03.tex
 /resources/art/lights/fill_justicar_04.dds
 /resources/art/lights/fill_justicar_04.tex
+/resources/art/lights/fill_okara_droid_factory.dds
+/resources/art/lights/fill_okara_droid_factory.tex
 /resources/art/lights/fill_senate_sun.dds
 /resources/art/lights/fill_senate_sun.tex
 /resources/art/lights/fill_senate_sun_large.dds
@@ -942,6 +952,8 @@
 /resources/art/lights/tyt_exterior_lightramp_flesh_raider2.tex
 /resources/art/lights/tyt_fleshraider_caves.dds
 /resources/art/lights/tyt_fleshraider_caves.tex
+/resources/art/lights/tyt_interior_lightramp_flesh_raider_lantern.dds
+/resources/art/lights/tyt_interior_lightramp_flesh_raider_lantern.tex
 /resources/art/lights/ui_character_portrait_lightramp.dds
 /resources/art/lights/ui_character_portrait_lightramp.tex
 /resources/art/lights/working/test_walk_angle.dds
@@ -949,6 +961,7 @@
 /resources/art/marketing/green_dome.dds
 /resources/art/marketing/green_dome.tex
 /resources/art/marketing/green_dome.tiny.dds
+/resources/art/planets/balmorra.gr2
 /resources/art/planets/belsavis.gr2
 /resources/art/planets/coruscant.gr2
 /resources/art/planets/dromund_kass.gr2
@@ -1094,6 +1107,7 @@
 /resources/art/shaders/materials/dbo_universal_superexclusion_test.mat
 /resources/art/shaders/materials/kor_acad_standard_wall.mat
 /resources/art/shaders/materials/missing_granny.mat
+/resources/art/shaders/materials/planets_balmorra.mat
 /resources/art/shaders/materials/planets_belsavis.mat
 /resources/art/shaders/materials/planets_coruscant.mat
 /resources/art/shaders/materials/planets_dromund_kass.mat

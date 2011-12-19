@@ -1,4 +1,4 @@
-; 448/715 (62%)
+; 455/715 (63%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -62,7 +62,9 @@
 /resources/art/dynamic/mag/model/mag_ssdoorlg_a.gr2
 /resources/art/dynamic/mag/model/mag_taxi_airspeeder_v01.gr2
 /resources/art/dynamic/mag/model/mag_taxispeederbike02_v01.gr2
+/resources/art/dynamic/mag/model/mag_taxispeederneu_v01.gr2
 /resources/art/dynamic/mag/model/mag_treasurechestlarge_large.gr2
+/resources/art/dynamic/mag/model/mag_treasurechestmedium_medium.gr2
 /resources/art/dynamic/mag/model/mag_treasurechestsmall_small.gr2
 /resources/art/dynamic/mag/model/mag_turretioncannon_cannon.gr2
 /resources/art/dynamic/mag/model/mag_turretneusmallbase_neu.gr2
@@ -174,7 +176,10 @@
 /resources/art/dynamic/spec/bmanew_skeleton.gr2
 /resources/art/dynamic/spec/cor_arch_works_fan.mag
 /resources/art/dynamic/spec/cor_arch_works_fan_floor_32x32.mag
+/resources/art/dynamic/spec/cor_arch_works_fan_floor_32x32_skeleton.gr2
+/resources/art/dynamic/spec/cor_arch_works_fan_skeleton.gr2
 /resources/art/dynamic/spec/cor_arch_works_fan01.mag
+/resources/art/dynamic/spec/cor_arch_works_fan01_skeleton.gr2
 /resources/art/dynamic/spec/doorhuttpalacerancorlarge_skeleton.gr2
 /resources/art/dynamic/spec/doorhuttpalacerancorsmall_skeleton.gr2
 /resources/art/dynamic/spec/doorimpfortsm_skeleton.gr2
@@ -380,7 +385,9 @@
 /resources/art/dynamic/spec/ssdoorlg_skeleton.gr2
 /resources/art/dynamic/spec/taxi_skeleton.gr2
 /resources/art/dynamic/spec/taxispeederbike02_skeleton.gr2
+/resources/art/dynamic/spec/taxispeederneu_skeleton.gr2
 /resources/art/dynamic/spec/treasurechestlarge_skeleton.gr2
+/resources/art/dynamic/spec/treasurechestmedium_skeleton.gr2
 /resources/art/dynamic/spec/treasurechestsmall_skeleton.gr2
 /resources/art/shaders/materials/all_arch_neu_windmill.mat
 /resources/art/shaders/materials/all_item_con_treasure_chest_01.mat

@@ -1,4 +1,4 @@
-; 2121/2157 (98%)
+; 2129/2157 (98%)
 /resources/art/defaultassets/occluder.dds
 /resources/art/defaultassets/occluder.tex
 /resources/art/fx/texture/uv_atlas/all_item_works_huge_generator_lights_d.dds
@@ -30,14 +30,19 @@
 /resources/art/shaders/materials/cor_arch_senate_trim.mat
 /resources/art/shaders/materials/cor_arch_senate_trim_destroyed.mat
 /resources/art/shaders/materials/cor_arch_works_ceiling.mat
+/resources/art/shaders/materials/cor_arch_works_ceiling_broken.mat
+/resources/art/shaders/materials/cor_arch_works_ceiling_no_emiss.mat
 /resources/art/shaders/materials/cor_arch_works_console01.mat
 /resources/art/shaders/materials/cor_arch_works_item_trim.mat
 /resources/art/shaders/materials/cor_arch_works_lights02.mat
 /resources/art/shaders/materials/cor_arch_works_ramp.mat
+/resources/art/shaders/materials/cor_arch_works_subset.mat
 /resources/art/shaders/materials/cor_arch_works_support.mat
 /resources/art/shaders/materials/cor_arch_works_trim01.mat
 /resources/art/shaders/materials/cor_arch_works_trim01_no_emiss.mat
 /resources/art/shaders/materials/cor_arch_works_wall01.mat
+/resources/art/shaders/materials/cor_arch_works_wall02_no_emiss.mat
+/resources/art/shaders/materials/cor_arch_works_wall03.mat
 /resources/art/shaders/materials/cor_arch_works_wall04.mat
 /resources/art/shaders/materials/cor_arch_works_wall05.mat
 /resources/art/shaders/materials/cor_arch_works_wall06.mat
@@ -48,6 +53,9 @@
 /resources/art/shaders/materials/cor_item_sign_justicar.mat
 /resources/art/shaders/materials/cor_item_sign_market.mat
 /resources/art/shaders/materials/cor_item_sign_neutral.mat
+/resources/art/shaders/materials/cor_item_works_huge_generator.mat
+/resources/art/shaders/materials/cor_item_works_huge_generator_trim.mat
+/resources/art/shaders/materials/cor_item_works_huge_generator_trim_blue.mat
 /resources/art/shaders/materials/cor_jedi_temple_balcony_destroyed.mat
 /resources/art/shaders/materials/cor_jedi_temple_floortrim_destroyed.mat
 /resources/art/shaders/materials/cor_jedi_temple_trim_destroyed.mat

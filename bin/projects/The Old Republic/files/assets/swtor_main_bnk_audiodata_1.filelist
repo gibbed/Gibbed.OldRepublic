@@ -1,4 +1,4 @@
-; 25/63 (39%)
+; 26/63 (41%)
 /resources/bnk2/abilities_creatures_data.bnk
 /resources/bnk2/abilities_general_data.bnk
 /resources/bnk2/abilities_imperialmelee_data.bnk
@@ -7,6 +7,7 @@
 /resources/bnk2/abilities_republicranged_data.bnk
 /resources/bnk2/cinematics_data.bnk
 /resources/bnk2/init.bnk
+/resources/bnk2/location_balmorra_data.bnk
 /resources/bnk2/location_characterselect_data.bnk
 /resources/bnk2/location_dromundkaas_data.bnk
 /resources/bnk2/location_fp_imperial_spacedock_data.bnk

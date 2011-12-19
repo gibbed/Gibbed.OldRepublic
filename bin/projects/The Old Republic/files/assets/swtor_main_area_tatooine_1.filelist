@@ -1,4 +1,4 @@
-; 2384/2530 (94%)
+; 2386/2530 (94%)
 /resources/art/shaders/materials/all_arch_rep_generator_tech.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_ceiling_element.mat
 /resources/art/shaders/materials/all_arch_und_cantina_wall_design.mat
@@ -42,6 +42,8 @@
 /resources/art/shaders/materials/all_arch_und_trim.mat
 /resources/art/shaders/materials/all_arch_und_wind_generator.mat
 /resources/art/shaders/materials/all_item_imp_floodlight_large_light.mat
+/resources/art/shaders/materials/all_item_rep_scaffold_platform.mat
+/resources/art/shaders/materials/all_item_rep_small_scaffold_mesh.mat
 /resources/art/shaders/materials/tat_env_boulders.mat
 /resources/art/static/area/all_all/arch/cave/texture/all_arch_cave_2room_a_08_n.dds
 /resources/art/static/area/all_all/arch/cave/texture/all_arch_cave_2room_a_08_n.tex

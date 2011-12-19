@@ -1,6 +1,7 @@
-; 2308/2911 (79%)
+; 2310/2911 (79%)
 /resources/art/shaders/materials/all_item_factory_cauldron_metal.mat
 /resources/art/shaders/materials/cor_arch_works_grating.mat
+/resources/art/shaders/materials/cor_arch_works_wall05_no_emiss.mat
 /resources/art/shaders/materials/crl_arch_city_ext_bwall_new.mat
 /resources/art/shaders/materials/crl_arch_city_ext_bwall_new_doorway.mat
 /resources/art/shaders/materials/crl_arch_city_ext_bwall_trims01.mat
@@ -13,6 +14,7 @@
 /resources/art/shaders/materials/crl_arch_city_foundation_rubble.mat
 /resources/art/shaders/materials/crl_arch_city_island_foundation.mat
 /resources/art/shaders/materials/crl_arch_city_wallset_trans01_new.mat
+/resources/art/shaders/materials/crl_item_signage_advert_hvac.mat
 /resources/art/shaders/materials/crl_item_statue_sitting.mat
 /resources/art/shaders/materials/crl_speedtree_pampasgrass01.mat
 /resources/art/shaders/materials/nar_arch_city_walkway_base03.mat

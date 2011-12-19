@@ -1,4 +1,4 @@
-; 157/412 (38%)
+; 159/412 (38%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
@@ -34,6 +34,7 @@
 /resources/bnk2/voc_corso.bnk
 /resources/bnk2/voc_devaronian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_devaronian_m_alien_med_soundset.bnk
+/resources/bnk2/voc_dewback.bnk
 /resources/bnk2/voc_duros_m_alien_high_soundset.bnk
 /resources/bnk2/voc_duros_m_alien_low_soundset.bnk
 /resources/bnk2/voc_evocii_f_alien_high_soundset.bnk
@@ -127,6 +128,7 @@
 /resources/bnk2/voc_rephuman_m_med_8_soundset.bnk
 /resources/bnk2/voc_rodian_f_alien_high_soundset.bnk
 /resources/bnk2/voc_rodian_f_alien_med_soundset.bnk
+/resources/bnk2/voc_rodian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_rodian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_scavengerdroid.bnk
 /resources/bnk2/voc_shyrack.bnk

@@ -1,4 +1,4 @@
-; 6155/6335 (97%)
+; 6194/6335 (97%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -9,14 +9,25 @@
 /resources/art/shaders/materials/all_arch_hut_small_mudseam.mat
 /resources/art/shaders/materials/all_arch_imp_city_block_bldg_roof_02.mat
 /resources/art/shaders/materials/all_arch_mineshaft_entrance_door.mat
+/resources/art/shaders/materials/all_arch_neu_bunker_new.mat
+/resources/art/shaders/materials/all_arch_neu_chem_tank.mat
 /resources/art/shaders/materials/all_arch_neu_city_panel.mat
 /resources/art/shaders/materials/all_arch_neu_city_pillar.mat
 /resources/art/shaders/materials/all_arch_neu_city_set_building_window.mat
 /resources/art/shaders/materials/all_arch_neu_city_set_roof.mat
 /resources/art/shaders/materials/all_arch_neu_city_set_tunnel.mat
 /resources/art/shaders/materials/all_arch_neu_city_tile05.mat
+/resources/art/shaders/materials/all_arch_neu_destroyed_building_01_floor.mat
+/resources/art/shaders/materials/all_arch_neu_destroyed_building_01_trim.mat
+/resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall.mat
+/resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall_panel_stripes.mat
+/resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall_panels.mat
+/resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall_windows_animated.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_tower_trim01_nonemiss.mat
+/resources/art/shaders/materials/all_arch_neu_droid_factory_tower_trim02.mat
 /resources/art/shaders/materials/all_arch_neu_dumpster.mat
+/resources/art/shaders/materials/all_arch_neu_factory_stack_combo.mat
+/resources/art/shaders/materials/all_arch_neu_factory_stack_combo_02.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_base_01.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_base_01_detroyed.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_base_02.mat
@@ -70,6 +81,7 @@
 /resources/art/shaders/materials/all_arch_pal_house_stonefloor.mat
 /resources/art/shaders/materials/all_arch_pal_house_stonefloor2.mat
 /resources/art/shaders/materials/all_arch_pipe_hole.mat
+/resources/art/shaders/materials/all_arch_rep_atv_doorramp_01.mat
 /resources/art/shaders/materials/all_arch_rep_atv_exterior_01.mat
 /resources/art/shaders/materials/all_arch_rep_atv_exterior_01_dmg.mat
 /resources/art/shaders/materials/all_arch_rep_atv_exterior_02.mat
@@ -79,6 +91,7 @@
 /resources/art/shaders/materials/all_arch_rep_atv_interior_details_01.mat
 /resources/art/shaders/materials/all_arch_rep_atv_interior_wall2_01.mat
 /resources/art/shaders/materials/all_arch_rep_base_metal.mat
+/resources/art/shaders/materials/all_arch_rep_block_buttress.mat
 /resources/art/shaders/materials/all_arch_rep_bridge_base.mat
 /resources/art/shaders/materials/all_arch_rep_bridge_broken.mat
 /resources/art/shaders/materials/all_arch_rep_bridge_pillar.mat
@@ -86,8 +99,10 @@
 /resources/art/shaders/materials/all_arch_rep_building_props_01.mat
 /resources/art/shaders/materials/all_arch_rep_building_props_02.mat
 /resources/art/shaders/materials/all_arch_rep_cantina_dance_stage.mat
+/resources/art/shaders/materials/all_arch_rep_cantina_door.mat
 /resources/art/shaders/materials/all_arch_rep_cantina_stairs.mat
 /resources/art/shaders/materials/all_arch_rep_fence.mat
+/resources/art/shaders/materials/all_arch_rep_forcefield_generator_pole.mat
 /resources/art/shaders/materials/all_arch_rep_fort_ceilings01.mat
 /resources/art/shaders/materials/all_arch_rep_fort_columns01_noglow.mat
 /resources/art/shaders/materials/all_arch_rep_fort_door_8m.mat
@@ -148,6 +163,8 @@
 /resources/art/shaders/materials/all_arch_rep_store_metal.mat
 /resources/art/shaders/materials/all_arch_rep_store_prop02.mat
 /resources/art/shaders/materials/all_arch_rep_tent_large.mat
+/resources/art/shaders/materials/all_arch_rep_tent_opensided.mat
+/resources/art/shaders/materials/all_arch_rep_tower.mat
 /resources/art/shaders/materials/all_arch_rep_tower_tech.mat
 /resources/art/shaders/materials/all_arch_rep_training_bay.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_door.mat
@@ -229,6 +246,11 @@
 /resources/art/shaders/materials/all_arch_tech_ion_cannon_siding.mat
 /resources/art/shaders/materials/all_arch_techcave_ceiling.mat
 /resources/art/shaders/materials/all_arch_techcave_door_large01.mat
+/resources/art/shaders/materials/all_arch_techcave_door_small01.mat
+/resources/art/shaders/materials/all_arch_techcave_entrance_02_01.mat
+/resources/art/shaders/materials/all_arch_techcave_entrance_02_02.mat
+/resources/art/shaders/materials/all_arch_techcave_entrance_02_03.mat
+/resources/art/shaders/materials/all_arch_techcave_entrance_02_04.mat
 /resources/art/shaders/materials/all_arch_techcave_entrance_door.mat
 /resources/art/shaders/materials/all_arch_techcave_entrance_grate_noalpha.mat
 /resources/art/shaders/materials/all_arch_techcave_entrance_grate1.mat
@@ -237,6 +259,10 @@
 /resources/art/shaders/materials/all_arch_techcave_floor.mat
 /resources/art/shaders/materials/all_arch_techcave_landing_pad_details.mat
 /resources/art/shaders/materials/all_arch_techcave_landing_pad_windows.mat
+/resources/art/shaders/materials/all_arch_techcave_neu_ceiling.mat
+/resources/art/shaders/materials/all_arch_techcave_neu_floor.mat
+/resources/art/shaders/materials/all_arch_techcave_neu_rocktrim.mat
+/resources/art/shaders/materials/all_arch_techcave_neu_wall.mat
 /resources/art/shaders/materials/all_arch_techcave_path.mat
 /resources/art/shaders/materials/all_arch_techcave_rocktrim.mat
 /resources/art/shaders/materials/all_arch_techcave_wall.mat
@@ -1183,6 +1209,13 @@
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bantha_shelter_troughwater_s.dds
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bantha_shelter_troughwater_s.tex
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bantha_shelter_troughwater_s.tiny.dds
+/resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_d.tex
+/resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_d.tiny.dds
+/resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_n.tex
+/resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_n.tiny.dds
+/resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_s.dds
+/resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_s.tex
+/resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_s.tiny.dds
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_chem_tank_d.dds
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_chem_tank_d.tex
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_chem_tank_d.tiny.dds
@@ -4725,6 +4758,12 @@
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_03_s.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_03_s.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_03_s.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_d.tex
+/resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_d.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_n.tex
+/resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_n.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_s.tex
+/resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_s.tiny.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_door_d.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_door_d.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_door_d.tiny.dds

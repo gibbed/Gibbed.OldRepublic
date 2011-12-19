@@ -1,4 +1,4 @@
-; 4110/4686 (87%)
+; 4153/4686 (88%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -1490,6 +1490,15 @@
 /resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high01_a01_v01_n.tiny.dds
 /resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high01_a01_v01_s.tex
 /resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high01_a01_v01_s.tiny.dds
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high02_a01_v01_d.dds
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high02_a01_v01_d.tex
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high02_a01_v01_d.tiny.dds
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high02_a01_v01_n.dds
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high02_a01_v01_n.tex
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high02_a01_v01_n.tiny.dds
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high02_a01_v01_s.dds
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high02_a01_v01_s.tex
+/resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_high02_a01_v01_s.tiny.dds
 /resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_low03_a01_v01_d.dds
 /resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_low03_a01_v01_d.tex
 /resources/art/dynamic/weapon/electroblade/texture/___psd/electroblade_low03_a01_v01_d.tiny.dds
@@ -2836,6 +2845,15 @@
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high04_a01_v04_s.dds
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high04_a01_v04_s.tex
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high04_a01_v04_s.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high08_a01_v_02_n.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high08_a01_v_02_n.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high08_a01_v_02_n.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high08_a01_v02_d.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high08_a01_v02_d.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high08_a01_v02_d.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high08_a01_v02_s.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high08_a01_v02_s.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_high08_a01_v02_s.tiny.dds
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low01_a01_v_03_n.dds
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low01_a01_v_03_n.tex
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low01_a01_v_03_n.tiny.dds
@@ -2929,6 +2947,24 @@
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v01_s.dds
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v01_s.tex
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v01_s.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v02_d.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v02_d.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v02_d.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v02_n.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v02_n.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v02_n.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v02_s.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v02_s.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v02_s.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v03_d.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v03_d.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v03_d.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v03_n.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v03_n.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v03_n.tiny.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v03_s.dds
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v03_s.tex
+/resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v03_s.tiny.dds
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v04_d.dds
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v04_d.tex
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_low08_a01_v04_d.tiny.dds
@@ -3966,6 +4002,7 @@
 /resources/art/shaders/materials/blaster_low12_a01_v04.mat
 /resources/art/shaders/materials/blaster_low13_a01_v01.mat
 /resources/art/shaders/materials/blaster_low13_a01_v03.mat
+/resources/art/shaders/materials/dualsaber_high01_a01_v01.mat
 /resources/art/shaders/materials/dualsaber_jedihigh01_a01_v01.mat
 /resources/art/shaders/materials/dualsaber_jedilow01_a01_v01.mat
 /resources/art/shaders/materials/dualsaber_low01_a01_v01.mat
@@ -3976,11 +4013,13 @@
 /resources/art/shaders/materials/dualsaber_sithlow02_a01_v01.mat
 /resources/art/shaders/materials/dualsaber_sithlow03_a01_v01.mat
 /resources/art/shaders/materials/electroblade_high01_a01_v01.mat
+/resources/art/shaders/materials/electroblade_high02_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low01_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low02_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low03_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low04_a01_v01.mat
 /resources/art/shaders/materials/electroblade_low05_a01_v01.mat
+/resources/art/shaders/materials/electrostaff_chiss01_a01_v01.mat
 /resources/art/shaders/materials/electrostaff_high02_a01_v01.mat
 /resources/art/shaders/materials/electrostaff_high03_a01_v01.mat
 /resources/art/shaders/materials/electrostaff_high04_a01_v01.mat
@@ -4000,6 +4039,7 @@
 /resources/art/shaders/materials/rifle_high05_a01_v01.mat
 /resources/art/shaders/materials/rifle_high05_a01_v02.mat
 /resources/art/shaders/materials/rifle_high05_a01_v03.mat
+/resources/art/shaders/materials/rifle_high08_a01_v02.mat
 /resources/art/shaders/materials/rifle_low01_a01_v01.mat
 /resources/art/shaders/materials/rifle_low01_a01_v02.mat
 /resources/art/shaders/materials/rifle_low01_a01_v03.mat
@@ -4023,9 +4063,12 @@
 /resources/art/shaders/materials/rifle_low07_a01_v03.mat
 /resources/art/shaders/materials/rifle_low07_a01_v04.mat
 /resources/art/shaders/materials/rifle_low08_a01_v01.mat
+/resources/art/shaders/materials/rifle_low08_a01_v02.mat
+/resources/art/shaders/materials/rifle_low08_a01_v03.mat
 /resources/art/shaders/materials/rifle_low08_a01_v04.mat
 /resources/art/shaders/materials/rifle_shotgunhigh03_a01_v01.mat
 /resources/art/shaders/materials/rifle_sniperhigh01_a01_v01.mat
+/resources/art/shaders/materials/rifle_sniperhigh01_a01_v03.mat
 /resources/art/shaders/materials/rifle_sniperhigh04_a01_v01.mat
 /resources/art/shaders/materials/rifle_sniperlow01_a01_v01.mat
 /resources/art/shaders/materials/rifle_sniperlow01_a01_v02.mat
