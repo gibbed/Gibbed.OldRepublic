@@ -1,4 +1,4 @@
-; 1913/3873 (49%)
+; 1919/3873 (49%)
 /resources/art/dynamic/chest/index.xml
 /resources/art/dynamic/chest/model/chest_armor01_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfa_archetype.lod.gr2
@@ -1117,6 +1117,8 @@
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a02/texture/___psd/chest_baggy_med_ge_a02repofficer02_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a02/texture/___psd/chest_baggy_med_ge_a02repofficer02_u_s.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_f_03_n.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_f_03_n.tex
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_f_03_n.tiny.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_m_03_n.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_m_03_n.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_m_n.dds
@@ -1131,12 +1133,16 @@
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_u_s.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_d.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_d.tex
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_d.tiny.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_h.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_h.tex
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_h.tiny.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_m.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_m.tex
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_m.tiny.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_s.tex
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_s.tiny.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a19/texture/___psd/chest_baggy_med_ge_a19mercenary01_f_02_n.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a19/texture/___psd/chest_baggy_med_ge_a19mercenary01_f_02_n.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a19/texture/___psd/chest_baggy_med_ge_a19mercenary01_f_02_n.tiny.dds
