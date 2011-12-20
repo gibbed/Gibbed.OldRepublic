@@ -1,4 +1,4 @@
-; 8468/8930 (94%)
+; 8482/8930 (94%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -503,7 +503,9 @@
 /resources/art/shaders/materials/all_item_rep_turret_manned.mat
 /resources/art/shaders/materials/all_item_rep_wall_camera.mat
 /resources/art/shaders/materials/all_item_rep_wall_computer_01.mat
+/resources/art/shaders/materials/all_item_rep_wall_computer_01_damaged.mat
 /resources/art/shaders/materials/all_item_rep_wall_computer_01_suv.mat
+/resources/art/shaders/materials/all_item_rep_wall_computer_01_suv_alert.mat
 /resources/art/shaders/materials/all_item_rep_wall_computer_screen.mat
 /resources/art/shaders/materials/all_item_rep_wardrobe.mat
 /resources/art/shaders/materials/all_item_revan_mask_plate.mat
@@ -556,10 +558,12 @@
 /resources/art/shaders/materials/all_item_tech_ceiling_panel.mat
 /resources/art/shaders/materials/all_item_tech_city_computer.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_monitor.mat
+/resources/art/shaders/materials/all_item_tech_city_computer_off.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_suv_a.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_works.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_works_monitor.mat
 /resources/art/shaders/materials/all_item_tech_city_workbench.mat
+/resources/art/shaders/materials/all_item_tech_cityworks_computer_alert.mat
 /resources/art/shaders/materials/all_item_tech_cityworks_computer_d01.mat
 /resources/art/shaders/materials/all_item_tech_clicker01.mat
 /resources/art/shaders/materials/all_item_tech_computer_terminal_metal01.mat
@@ -571,6 +575,7 @@
 /resources/art/shaders/materials/all_item_tech_controlpanels01.mat
 /resources/art/shaders/materials/all_item_tech_controlpanels01_damaged.mat
 /resources/art/shaders/materials/all_item_tech_core_drum.mat
+/resources/art/shaders/materials/all_item_tech_datacron_agility.mat
 /resources/art/shaders/materials/all_item_tech_datacron_endurance.mat
 /resources/art/shaders/materials/all_item_tech_datacron_min_max_choice.mat
 /resources/art/shaders/materials/all_item_tech_datacron_presence.mat
@@ -580,6 +585,7 @@
 /resources/art/shaders/materials/all_item_tech_datapad_ancient_01.mat
 /resources/art/shaders/materials/all_item_tech_dome.mat
 /resources/art/shaders/materials/all_item_tech_eradicator.mat
+/resources/art/shaders/materials/all_item_tech_field_unit_projector.mat
 /resources/art/shaders/materials/all_item_tech_floating_dance_disk.mat
 /resources/art/shaders/materials/all_item_tech_forklift.mat
 /resources/art/shaders/materials/all_item_tech_forklift_lights.mat
@@ -667,6 +673,7 @@
 /resources/art/shaders/materials/all_item_tech_senate_wall_monitor_blank_suv.mat
 /resources/art/shaders/materials/all_item_tech_server.mat
 /resources/art/shaders/materials/all_item_tech_server_screen_suv.mat
+/resources/art/shaders/materials/all_item_tech_server_screen_suv_alert.mat
 /resources/art/shaders/materials/all_item_tech_sign.mat
 /resources/art/shaders/materials/all_item_tech_small_generator.mat
 /resources/art/shaders/materials/all_item_tech_small_holoprojector.mat
@@ -2882,8 +2889,10 @@
 /resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_4x.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_arm.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_arm_anim.gr2
+/resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_belt.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_crnr.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_door.gr2
+/resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_door_02.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_door_anim.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_rail.gr2
 /resources/art/static/area/all_all/item/factory/all_item_factory_conveyor_ring.gr2
@@ -3820,6 +3829,7 @@
 /resources/art/static/area/all_all/item/misc/all_item_misc_toolbox_small_lip.gr2
 /resources/art/static/area/all_all/item/misc/all_item_misc_wall_painting_01.gr2
 /resources/art/static/area/all_all/item/misc/all_item_misc_wall_painting_02.gr2
+/resources/art/static/area/all_all/item/misc/assassin_war_a01.gr2
 /resources/art/static/area/all_all/item/misc/assassin_war_a01_arm_left.gr2
 /resources/art/static/area/all_all/item/misc/assassin_war_a01_arm_right.gr2
 /resources/art/static/area/all_all/item/misc/assassin_war_a01_head.gr2
@@ -3827,6 +3837,7 @@
 /resources/art/static/area/all_all/item/misc/assassin_war_a01_leg_right.gr2
 /resources/art/static/area/all_all/item/misc/assassin_war_a01_torso.gr2
 /resources/art/static/area/all_all/item/misc/probe_inclimatecondition_a01.gr2
+/resources/art/static/area/all_all/item/misc/probe_recon_a01.gr2
 /resources/art/static/area/all_all/item/misc/texture/all_item_misc_backpack_d.dds
 /resources/art/static/area/all_all/item/misc/texture/all_item_misc_backpack_d.tex
 /resources/art/static/area/all_all/item/misc/texture/all_item_misc_backpack_d.tiny.dds
@@ -4172,6 +4183,7 @@
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_camera_02.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_computer_01.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_computer_01_damaged.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_wall_computer_a.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_computer_dmg.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wardrobe.gr2
 /resources/art/static/area/all_all/item/republic/texture/all_item_rep_ammo_box_d.dds
@@ -4844,6 +4856,8 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_03.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_03_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_d.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_dmg.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_02.gr2

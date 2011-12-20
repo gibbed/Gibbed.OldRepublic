@@ -1,4 +1,4 @@
-; 775/1210 (64%)
+; 784/1210 (64%)
 /resources/art/dynamic/creature/model/dwarf_drall_a01.gr2
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.clo
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.gr2
@@ -531,7 +531,12 @@
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v01_n.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v02_d.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v02_s.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_d.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_d.tex
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_n.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_n.tex
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_s.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_s.tex
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v03_d.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v03_s.dds
 /resources/art/dynamic/npc/trandoshan/head/texture/___psd/eye_trandoshan_non_a01_c01_d.dds
@@ -665,7 +670,10 @@
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bfa_non_a01_v01_h.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bfa_non_a01_v01_n.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bfa_non_a01_v01_s.dds
+/resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v01_d.dds
+/resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v01_h.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v01_n.dds
+/resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v01_s.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v02_d.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v02_h.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v02_s.dds
@@ -744,6 +752,7 @@
 /resources/art/shaders/materials/head_kaleesh_bms_non_a02_v01.mat
 /resources/art/shaders/materials/head_kaleesh_bms_non_a03_v01.mat
 /resources/art/shaders/materials/head_nautolan_bfa_non_a01_v01.mat
+/resources/art/shaders/materials/head_nautolan_bms_non_a01_v01.mat
 /resources/art/shaders/materials/head_nautolan_bms_non_a01_v02.mat
 /resources/art/shaders/materials/head_nikto_bms_non_a01_v01.mat
 /resources/art/shaders/materials/head_nikto_bms_non_a02_v01.mat

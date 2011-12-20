@@ -1,4 +1,4 @@
-; 6194/6335 (97%)
+; 6200/6335 (97%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -28,6 +28,7 @@
 /resources/art/shaders/materials/all_arch_neu_dumpster.mat
 /resources/art/shaders/materials/all_arch_neu_factory_stack_combo.mat
 /resources/art/shaders/materials/all_arch_neu_factory_stack_combo_02.mat
+/resources/art/shaders/materials/all_arch_neu_factory_stack_combo_off.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_base_01.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_base_01_detroyed.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_base_02.mat
@@ -1209,8 +1210,10 @@
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bantha_shelter_troughwater_s.dds
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bantha_shelter_troughwater_s.tex
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bantha_shelter_troughwater_s.tiny.dds
+/resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_d.dds
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_d.tex
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_d.tiny.dds
+/resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_n.dds
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_n.tex
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_n.tiny.dds
 /resources/art/static/area/all_all/arch/neutral/texture/all_arch_neu_bunker_new_s.dds
@@ -4758,10 +4761,13 @@
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_03_s.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_03_s.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_03_s.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_d.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_d.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_d.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_n.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_n.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_n.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_s.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_s.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_02_04_s.tiny.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_techcave_entrance_door_d.dds

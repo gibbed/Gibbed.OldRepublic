@@ -1,4 +1,4 @@
-; 1231/1548 (79%)
+; 1235/1548 (79%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -13,6 +13,7 @@
 /resources/art/shaders/materials/mount_neu_model_ddx.mat
 /resources/art/shaders/materials/mount_neu_model_e_scheme_02.mat
 /resources/art/shaders/materials/mount_rep_model_c_scheme_02.mat
+/resources/art/shaders/materials/mount_rep_model_d_scheme_01.mat
 /resources/art/shaders/materials/mount_rep_model_d_scheme_02.mat
 /resources/art/shaders/materials/mount_rep_model_d_scheme_04.mat
 /resources/art/shaders/materials/veh_imp_friggate_details.mat
@@ -77,6 +78,8 @@
 /resources/art/shaders/materials/veh_rep_fighter.mat
 /resources/art/shaders/materials/veh_rep_fighter_02.mat
 /resources/art/shaders/materials/veh_rep_fighter_03.mat
+/resources/art/shaders/materials/veh_rep_fighter_elite.mat
+/resources/art/shaders/materials/veh_rep_fighter_elite_02.mat
 /resources/art/shaders/materials/veh_rep_fighter02_01.mat
 /resources/art/shaders/materials/veh_rep_fighter02_02.mat
 /resources/art/shaders/materials/veh_rep_ps_shuttle_01.mat
@@ -796,6 +799,7 @@
 /resources/art/static/vehicle/player_mount/mount_neu_model_ddx.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_e_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_c_scheme_02.gr2
+/resources/art/static/vehicle/player_mount/mount_rep_model_d_scheme_01.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_d_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_d_scheme_04.gr2
 /resources/art/static/vehicle/player_mount/texture/mount_imp_model_a_scheme_01_d.dds

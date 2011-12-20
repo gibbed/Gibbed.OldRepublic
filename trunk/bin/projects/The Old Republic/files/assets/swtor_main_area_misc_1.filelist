@@ -1,4 +1,4 @@
-; 4705/5536 (84%)
+; 4744/5536 (85%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -13,6 +13,15 @@
 /resources/art/environmentmaps/spc_m03/area.dds
 /resources/art/environmentmaps/spc_m03/area.tex
 /resources/art/environmentmaps/spc_m03/area.tiny.dds
+/resources/art/environmentmaps/spc_m05/area.dds
+/resources/art/environmentmaps/spc_m05/area.tex
+/resources/art/environmentmaps/spc_m05/area.tiny.dds
+/resources/art/environmentmaps/spc_m07_final/area.dds
+/resources/art/environmentmaps/spc_m07_final/area.tex
+/resources/art/environmentmaps/spc_m07_final/area.tiny.dds
+/resources/art/environmentmaps/spc_m08/area.dds
+/resources/art/environmentmaps/spc_m08/area.tex
+/resources/art/environmentmaps/spc_m08/area.tiny.dds
 /resources/art/environmentmaps/spc_ps_imp_agent/area.dds
 /resources/art/environmentmaps/spc_ps_imp_agent/area.tex
 /resources/art/environmentmaps/spc_ps_imp_agent/area.tiny.dds
@@ -101,6 +110,9 @@
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_floor_cement1.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_a_tech.mat
 /resources/art/shaders/materials/all_item_imp_space_wall_light.mat
+/resources/art/shaders/materials/all_item_space_debris_metal01.mat
+/resources/art/shaders/materials/all_item_space_debris_metal02.mat
+/resources/art/shaders/materials/all_item_space_debris_trims.mat
 /resources/art/shaders/materials/all_item_tech_imp_wallcomputer.mat
 /resources/art/shaders/materials/char_select_bounty_hunter_blinking_lights_suv.mat
 /resources/art/shaders/materials/char_select_jedi_int_suv_01.mat
@@ -115,6 +127,9 @@
 /resources/art/shaders/materials/occluder_wall.mat
 /resources/art/shaders/materials/portal.mat
 /resources/art/shaders/materials/sky_galaxy_skydome.mat
+/resources/art/shaders/materials/spc_arch_defense_satellite_01.mat
+/resources/art/shaders/materials/spc_arch_defense_satellite_02.mat
+/resources/art/shaders/materials/spc_arch_defense_satellite_03.mat
 /resources/art/shaders/materials/spc_arch_imp_doorframe.mat
 /resources/art/shaders/materials/spc_arch_imp_garage_glass.mat
 /resources/art/shaders/materials/spc_arch_imp_hall_ceiling01.mat
@@ -150,6 +165,11 @@
 /resources/art/shaders/materials/spc_arch_ss_wall_gen01.mat
 /resources/art/shaders/materials/spc_env_asteroid_01.mat
 /resources/art/shaders/materials/spc_env_asteroid_02.mat
+/resources/art/shaders/materials/spc_env_asteroid_ice_01.mat
+/resources/art/shaders/materials/spc_env_asteroid_ice_02.mat
+/resources/art/shaders/materials/spc_env_asteroid_ice_03.mat
+/resources/art/shaders/materials/spc_env_asteroid_ice_04.mat
+/resources/art/shaders/materials/spc_env_crystal_spires.mat
 /resources/art/shaders/materials/spc_env_planettest.mat
 /resources/art/shaders/materials/spc_item_crafting_armor.mat
 /resources/art/shaders/materials/spc_item_crafting_artifice.mat
@@ -159,6 +179,7 @@
 /resources/art/shaders/materials/spc_item_crafting_saber.mat
 /resources/art/shaders/materials/spc_item_emperor_throne.mat
 /resources/art/shaders/materials/spc_item_imp_torpedo_launcher.mat
+/resources/art/shaders/materials/spc_item_mine.mat
 /resources/art/shaders/materials/spc_item_planetsign_balmorra.mat
 /resources/art/shaders/materials/spc_item_planetsign_cor.mat
 /resources/art/shaders/materials/spc_item_planetsign_dro.mat
@@ -189,6 +210,8 @@
 /resources/art/shaders/materials/spc_item_ps_trooper_cpt_locker03.mat
 /resources/art/shaders/materials/spc_item_rep_torpedo_launcher.mat
 /resources/art/shaders/materials/spc_item_rep_trans_ceiling_light.mat
+/resources/art/shaders/materials/spc_item_space_debris_v01.mat
+/resources/art/shaders/materials/spc_item_space_debris_v01_elements.mat
 /resources/art/shaders/materials/spc_item_ss_ceiling_light01.mat
 /resources/art/shaders/materials/spc_item_ss_pipe_set.mat
 /resources/art/shaders/materials/spc_item_ss_wall_light01.mat
@@ -242,6 +265,10 @@
 /resources/art/shaders/materials/spc_ps_bountyhunter_ext_body02.mat
 /resources/art/shaders/materials/spc_ps_bountyhunter_ext_body03.mat
 /resources/art/shaders/materials/spc_ps_bountyhunter_ext_body04.mat
+/resources/art/shaders/materials/spc_ps_jedi_ext_01.mat
+/resources/art/shaders/materials/spc_ps_jedi_ext_02.mat
+/resources/art/shaders/materials/spc_ps_jedi_ext_03.mat
+/resources/art/shaders/materials/spc_ps_jedi_ext_04.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_ceiling01.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_ceiling02.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_ceiling03.mat
@@ -1629,6 +1656,8 @@
 /resources/art/static/area/spc_space/env/texture/spc_env_planettest_d.dds
 /resources/art/static/area/spc_space/env/texture/spc_env_planettest_d.tex
 /resources/art/static/area/spc_space/env/texture/spc_env_planettest_d.tiny.dds
+/resources/art/static/area/spc_space/item/all_item_space_debris_np_piece04.gr2
+/resources/art/static/area/spc_space/item/all_item_space_debris_np_piece05.gr2
 /resources/art/static/area/spc_space/item/all_item_space_debris_piece01.gr2
 /resources/art/static/area/spc_space/item/all_item_space_debris_piece02.gr2
 /resources/art/static/area/spc_space/item/all_item_space_debris_piece03.gr2
@@ -4203,6 +4232,10 @@
 /resources/world/areas/4611686044198570319/minimaps/map_world_01_00_r.dds
 /resources/world/areas/4611686044198570319/minimaps/map_world_01_01_r.dds
 /resources/world/areas/4611686044198570319/minimaps/map_world_01_02_r.dds
+/resources/world/areas/4611686044972970000/mapnotes.not
+/resources/world/areas/4611686044973070000/mapnotes.not
+/resources/world/areas/4611686044973071122/mapnotes.not
+/resources/world/areas/4611686047583470023/mapnotes.not
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_lower_r.dds
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_r.dds
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_world_r.dds
@@ -4518,6 +4551,7 @@
 /resources/world/areas/4611686056896931332/minimaps/map_int_processor_core_01_01_r.dds
 /resources/world/areas/4611686056896931332/minimaps/map_int_processor_core_02_00_r.dds
 /resources/world/areas/4611686056896931332/minimaps/map_int_processor_core_02_01_r.dds
+/resources/world/areas/4611686058495631191/mapnotes.not
 /resources/world/areas/4611686059452131744/map_lost_island_base_lower_r.dds
 /resources/world/areas/4611686059452131744/map_lost_island_base_summit_r.dds
 /resources/world/areas/4611686059452131744/map_lost_island_base_upper_r.dds
@@ -4650,6 +4684,7 @@
 /resources/world/areas/4611686142106770000/map_imperial_fleet_revan_r.dds
 /resources/world/areas/4611686142106770000/map_imperial_fleet_station_hangar_dro_r.dds
 /resources/world/areas/4611686142106770000/map_imperial_fleet_station_hangar_fleet_r.dds
+/resources/world/areas/4611686142106770000/map_imperial_fleet_station_hangar_mission_r.dds
 /resources/world/areas/4611686142106770000/map_imperial_fleet_station_hangar_origin_r.dds
 /resources/world/areas/4611686142106770000/map_imperial_fleet_station_playerships_r.dds
 /resources/world/areas/4611686142106770000/map_imperial_fleet_station_r.dds
@@ -4677,6 +4712,10 @@
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_dro_01_01_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_fleet_00_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_fleet_01_00_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_00_01_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_00_02_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_01_01_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_01_02_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_origin_00_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_origin_01_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_00_00_r.dds
