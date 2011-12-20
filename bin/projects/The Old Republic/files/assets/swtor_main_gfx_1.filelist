@@ -1,4 +1,4 @@
-; 10207/52255 (19%)
+; 10215/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -1868,6 +1868,7 @@
 /resources/gfx/icons/complexaccesscardcolorvariant4.dds
 /resources/gfx/icons/concussionmissiles.dds
 /resources/gfx/icons/consumingdarkness.dds
+/resources/gfx/icons/consumption.dds
 /resources/gfx/icons/contract.dds
 /resources/gfx/icons/contractcolorvariant1.dds
 /resources/gfx/icons/coolhead.dds
@@ -1917,8 +1918,10 @@
 /resources/gfx/icons/debuff_moving.dds
 /resources/gfx/icons/defensereduced.dds
 /resources/gfx/icons/defensivecommand.dds
+/resources/gfx/icons/deflection.dds
 /resources/gfx/icons/demicot.dds
 /resources/gfx/icons/democharge.dds
+/resources/gfx/icons/demolition.dds
 /resources/gfx/icons/denebrillan_star_silk.dds
 /resources/gfx/icons/depletedstimpack.dds
 /resources/gfx/icons/deshscrapmetal.dds
@@ -2038,6 +2041,7 @@
 /resources/gfx/icons/experimentalweapon.dds
 /resources/gfx/icons/explosive.dds
 /resources/gfx/icons/explosive_cannister.dds
+/resources/gfx/icons/explosivefuel.dds
 /resources/gfx/icons/explosiveprobe.dds
 /resources/gfx/icons/eyestalk.dds
 /resources/gfx/icons/fancyearring.dds
@@ -9011,10 +9015,12 @@
 /resources/gfx/icons/larger/swsithpureblood_desat.dds
 /resources/gfx/icons/larger/swwarhardenednoble.dds
 /resources/gfx/icons/larger/swwarhardenednoble_desat.dds
+/resources/gfx/icons/larger/tips.abilities.dds
 /resources/gfx/icons/larger/tips.crafting.dds
 /resources/gfx/icons/larger/tips.exit.map.dds
 /resources/gfx/icons/larger/tips.lfg.dds
 /resources/gfx/icons/larger/tips.mission.tab.dds
+/resources/gfx/icons/larger/tips.party.missions.dds
 /resources/gfx/icons/larger/tips.social.dds
 /resources/gfx/icons/larger/tips.spending.skill.points.dds
 /resources/gfx/icons/larger/touterrimveteran.dds
@@ -9058,6 +9064,7 @@
 /resources/gfx/icons/lizardtail.dds
 /resources/gfx/icons/lockandload.dds
 /resources/gfx/icons/lockbox.dds
+/resources/gfx/icons/lockout.dds
 /resources/gfx/icons/lorrdiangemstone.dds
 /resources/gfx/icons/lowslash.dds
 /resources/gfx/icons/luckycoin.dds
@@ -10185,6 +10192,7 @@
 /resources/gfx/symbols/server_pve.dds
 /resources/gfx/symbols/server_pvp.dds
 /resources/gfx/symbols/server_rp.dds
+/resources/gfx/symbols/ship_amber.dds
 /resources/gfx/symbols/social.dds
 /resources/gfx/symbols/sort_icon.dds
 /resources/gfx/symbols/story.dds

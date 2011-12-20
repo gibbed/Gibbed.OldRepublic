@@ -1,4 +1,4 @@
-; 1335/2181 (61%)
+; 1355/2181 (62%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -847,6 +847,8 @@
 /resources/art/lights/lum_generator.tiny.dds
 /resources/art/lights/lum_grate_01.dds
 /resources/art/lights/lum_grate_01.tex
+/resources/art/lights/lum_grate_02.dds
+/resources/art/lights/lum_grate_02.tex
 /resources/art/lights/lum_grate_03.dds
 /resources/art/lights/lum_grate_03.tex
 /resources/art/lights/lum_grate_large.dds
@@ -929,6 +931,24 @@
 /resources/art/lights/round_fourpix_falloff02.tex
 /resources/art/lights/round_fourpix_falloff2.dds
 /resources/art/lights/round_fourpix_falloff2.tex
+/resources/art/lights/sc_ambient_m01.dds
+/resources/art/lights/sc_ambient_m01.tex
+/resources/art/lights/sc_ambient_m03.dds
+/resources/art/lights/sc_ambient_m03.tex
+/resources/art/lights/sc_ambient_m05.dds
+/resources/art/lights/sc_ambient_m05.tex
+/resources/art/lights/sc_ambient_m07.dds
+/resources/art/lights/sc_ambient_m07.tex
+/resources/art/lights/sc_ambient_m08.dds
+/resources/art/lights/sc_ambient_m08.tex
+/resources/art/lights/sc_bounce_m03.dds
+/resources/art/lights/sc_bounce_m03.tex
+/resources/art/lights/sc_bounce_m05.dds
+/resources/art/lights/sc_bounce_m05.tex
+/resources/art/lights/sc_bounce_m07.dds
+/resources/art/lights/sc_bounce_m07.tex
+/resources/art/lights/sc_bounce_m08.dds
+/resources/art/lights/sc_bounce_m08.tex
 /resources/art/lights/spc_exterior_lightramp_imp_foundry.dds
 /resources/art/lights/spc_exterior_lightramp_imp_foundry.tex
 /resources/art/lights/spc_exterior_lightramp_imp_foundry.tiny.dds

@@ -1,4 +1,4 @@
-; 26/63 (41%)
+; 27/63 (42%)
 /resources/bnk2/abilities_creatures_data.bnk
 /resources/bnk2/abilities_general_data.bnk
 /resources/bnk2/abilities_imperialmelee_data.bnk
@@ -17,6 +17,7 @@
 /resources/bnk2/location_ordmantell_data.bnk
 /resources/bnk2/location_player_ships_data.bnk
 /resources/bnk2/location_pvp_arena_data.bnk
+/resources/bnk2/location_spacecombat_data.bnk
 /resources/bnk2/location_tython_data.bnk
 /resources/bnk2/movement_data.bnk
 /resources/bnk2/music_data.bnk

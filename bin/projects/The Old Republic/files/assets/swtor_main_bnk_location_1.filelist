@@ -1,4 +1,4 @@
-; 13/50 (26%)
+; 14/50 (28%)
 /resources/bnk2/location_balmorra_media.bnk
 /resources/bnk2/location_characterselect_media.bnk
 /resources/bnk2/location_dromundkaas_media.bnk
@@ -9,6 +9,7 @@
 /resources/bnk2/location_ordmantell_media.bnk
 /resources/bnk2/location_player_ships_media.bnk
 /resources/bnk2/location_pvp_arena_media.bnk
+/resources/bnk2/location_spacecombat_media.bnk
 /resources/bnk2/location_tython_media.bnk
 ft.sig
 metadata.bin
