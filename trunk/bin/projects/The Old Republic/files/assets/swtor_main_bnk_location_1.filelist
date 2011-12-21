@@ -1,14 +1,17 @@
-; 14/50 (28%)
+; 17/50 (34%)
 /resources/bnk2/location_balmorra_media.bnk
 /resources/bnk2/location_characterselect_media.bnk
 /resources/bnk2/location_dromundkaas_media.bnk
+/resources/bnk2/location_fp_hammer_media.bnk
 /resources/bnk2/location_fp_imperial_spacedock_media.bnk
 /resources/bnk2/location_fp_imperial_transition_media.bnk
 /resources/bnk2/location_hutta_media.bnk
 /resources/bnk2/location_korriban_media.bnk
 /resources/bnk2/location_ordmantell_media.bnk
 /resources/bnk2/location_player_ships_media.bnk
+/resources/bnk2/location_pvp_alderaan_media.bnk
 /resources/bnk2/location_pvp_arena_media.bnk
+/resources/bnk2/location_pvp_ship_media.bnk
 /resources/bnk2/location_spacecombat_media.bnk
 /resources/bnk2/location_tython_media.bnk
 ft.sig

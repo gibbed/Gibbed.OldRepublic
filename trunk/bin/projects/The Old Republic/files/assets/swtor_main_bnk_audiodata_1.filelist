@@ -1,4 +1,4 @@
-; 27/63 (42%)
+; 30/63 (47%)
 /resources/bnk2/abilities_creatures_data.bnk
 /resources/bnk2/abilities_general_data.bnk
 /resources/bnk2/abilities_imperialmelee_data.bnk
@@ -10,13 +10,16 @@
 /resources/bnk2/location_balmorra_data.bnk
 /resources/bnk2/location_characterselect_data.bnk
 /resources/bnk2/location_dromundkaas_data.bnk
+/resources/bnk2/location_fp_hammer_data.bnk
 /resources/bnk2/location_fp_imperial_spacedock_data.bnk
 /resources/bnk2/location_fp_imperial_transition_data.bnk
 /resources/bnk2/location_hutta_data.bnk
 /resources/bnk2/location_korriban_data.bnk
 /resources/bnk2/location_ordmantell_data.bnk
 /resources/bnk2/location_player_ships_data.bnk
+/resources/bnk2/location_pvp_alderaan_data.bnk
 /resources/bnk2/location_pvp_arena_data.bnk
+/resources/bnk2/location_pvp_ship_data.bnk
 /resources/bnk2/location_spacecombat_data.bnk
 /resources/bnk2/location_tython_data.bnk
 /resources/bnk2/movement_data.bnk

@@ -1,4 +1,4 @@
-; 3034/3358 (90%)
+; 3038/3358 (90%)
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tiny.dds
@@ -25,10 +25,13 @@
 /resources/art/shaders/materials/ter_vos_dirt2.mat
 /resources/art/shaders/materials/ter_vos_rock1.mat
 /resources/art/shaders/materials/ter_vos_rocknightmare1.mat
+/resources/art/shaders/materials/vos_arch_gormak_int_pillar_02.mat
+/resources/art/shaders/materials/vos_arch_gormak_int_runner_assembly.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_int_floortile_01.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_lamp_floor.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_sconce.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_sconce_dmg.mat
+/resources/art/shaders/materials/vos_env_boulders.mat
 /resources/art/shaders/materials/vos_item_ruins_tablet.mat
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_house_b_metal01_d.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_house_b_metal01_d.tex
@@ -2070,6 +2073,7 @@
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_n.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_n.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_n.tiny.dds
+/resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_s.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_s.tex
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt1_s.tiny.dds
 /resources/art/static/area/vos_voss/terrain_map/ter_vos_dirt2_d.dds

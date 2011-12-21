@@ -1,4 +1,4 @@
-; 6200/6335 (97%)
+; 6210/6335 (98%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -34,6 +34,7 @@
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_base_02.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_butress.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_butress_detroyed.mat
+/resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_lights.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_rail.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_top.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_top_detroyed.mat
@@ -147,6 +148,9 @@
 /resources/art/shaders/materials/all_arch_rep_medical_facility_building02.mat
 /resources/art/shaders/materials/all_arch_rep_medical_facility_building03.mat
 /resources/art/shaders/materials/all_arch_rep_palace_elevator.mat
+/resources/art/shaders/materials/all_arch_rep_palace_lights01.mat
+/resources/art/shaders/materials/all_arch_rep_palace_metal01.mat
+/resources/art/shaders/materials/all_arch_rep_palace_rubble.mat
 /resources/art/shaders/materials/all_arch_rep_road_02.mat
 /resources/art/shaders/materials/all_arch_rep_space_airlock.mat
 /resources/art/shaders/materials/all_arch_rep_space_ceiling_truss.mat
@@ -164,6 +168,7 @@
 /resources/art/shaders/materials/all_arch_rep_store_metal.mat
 /resources/art/shaders/materials/all_arch_rep_store_prop02.mat
 /resources/art/shaders/materials/all_arch_rep_tent_large.mat
+/resources/art/shaders/materials/all_arch_rep_tent_medium.mat
 /resources/art/shaders/materials/all_arch_rep_tent_opensided.mat
 /resources/art/shaders/materials/all_arch_rep_tower.mat
 /resources/art/shaders/materials/all_arch_rep_tower_tech.mat
@@ -176,9 +181,12 @@
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_floor_metal.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_trims.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_wall1.mat
+/resources/art/shaders/materials/all_arch_rep_wallset_01.mat
 /resources/art/shaders/materials/all_arch_rep_wallset_containment.mat
+/resources/art/shaders/materials/all_arch_rep_wallset_containment_blue.mat
 /resources/art/shaders/materials/all_arch_rep_wallset_containment_broken.mat
 /resources/art/shaders/materials/all_arch_rep_wallset_containment_broken_02.mat
+/resources/art/shaders/materials/all_arch_rep_wallset_containment_red.mat
 /resources/art/shaders/materials/all_arch_rep_water_tower.mat
 /resources/art/shaders/materials/all_arch_republic_farm.mat
 /resources/art/shaders/materials/all_arch_republic_farm_trim.mat
@@ -262,8 +270,10 @@
 /resources/art/shaders/materials/all_arch_techcave_landing_pad_windows.mat
 /resources/art/shaders/materials/all_arch_techcave_neu_ceiling.mat
 /resources/art/shaders/materials/all_arch_techcave_neu_floor.mat
+/resources/art/shaders/materials/all_arch_techcave_neu_path.mat
 /resources/art/shaders/materials/all_arch_techcave_neu_rocktrim.mat
 /resources/art/shaders/materials/all_arch_techcave_neu_wall.mat
+/resources/art/shaders/materials/all_arch_techcave_overlook_window.mat
 /resources/art/shaders/materials/all_arch_techcave_path.mat
 /resources/art/shaders/materials/all_arch_techcave_rocktrim.mat
 /resources/art/shaders/materials/all_arch_techcave_wall.mat

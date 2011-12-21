@@ -1,4 +1,4 @@
-; 1235/1548 (79%)
+; 1243/1548 (80%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -9,6 +9,7 @@
 /resources/art/shaders/materials/all_veh_imp_troop_transport_02.mat
 /resources/art/shaders/materials/fx_thruster_yellow_2_suv.mat
 /resources/art/shaders/materials/fx_transparent.mat
+/resources/art/shaders/materials/mount_neu_model_b_scheme_02.mat
 /resources/art/shaders/materials/mount_neu_model_b_scheme_03.mat
 /resources/art/shaders/materials/mount_neu_model_ddx.mat
 /resources/art/shaders/materials/mount_neu_model_e_scheme_02.mat
@@ -35,6 +36,9 @@
 /resources/art/shaders/materials/veh_imp_taxi_air_speeder.mat
 /resources/art/shaders/materials/veh_imp_transport_light_troop_01.mat
 /resources/art/shaders/materials/veh_imp_transport_light_troop_02.mat
+/resources/art/shaders/materials/veh_imp_transport_pvp_01.mat
+/resources/art/shaders/materials/veh_imp_transport_pvp_02.mat
+/resources/art/shaders/materials/veh_imp_transport_pvp_03.mat
 /resources/art/shaders/materials/veh_neu_bus.mat
 /resources/art/shaders/materials/veh_neu_bus_details.mat
 /resources/art/shaders/materials/veh_neu_dropship.mat
@@ -84,6 +88,9 @@
 /resources/art/shaders/materials/veh_rep_fighter02_02.mat
 /resources/art/shaders/materials/veh_rep_ps_shuttle_01.mat
 /resources/art/shaders/materials/veh_rep_ps_shuttle_02.mat
+/resources/art/shaders/materials/veh_rep_transport_pvp_01.mat
+/resources/art/shaders/materials/veh_rep_transport_pvp_02.mat
+/resources/art/shaders/materials/veh_rep_transport_pvp_03.mat
 /resources/art/shaders/materials/veh_rep_troop_transport_01.mat
 /resources/art/shaders/materials/veh_rep_troop_transport_02.mat
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_door_interior_d.dds
@@ -795,6 +802,7 @@
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_04.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_05.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_wing.gr2
+/resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_03.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_ddx.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_e_scheme_02.gr2

@@ -1,4 +1,4 @@
-; 1085/9320 (11%)
+; 1086/9320 (11%)
 /resources/anim/creature/acklaydroid/ad_blank.jba
 /resources/anim/creature/acklaydroid/ad_body_pitch.jba
 /resources/anim/creature/acklaydroid/ad_body_yaw.jba
@@ -906,6 +906,7 @@
 /resources/anim/droid/battle/creature_action_common.mph
 /resources/anim/droid/battle/creature_battle_action_autogen.mph
 /resources/anim/droid/battle/creature_loco.mph
+/resources/anim/droid/battle/creature_loco_cnv.mph
 /resources/anim/droid/battle/creature_loco_idle.mph
 /resources/anim/droid/battle/creature_loco_lie_battledroid_disabled.mph
 /resources/anim/droid/battle/creature_overlay.mph

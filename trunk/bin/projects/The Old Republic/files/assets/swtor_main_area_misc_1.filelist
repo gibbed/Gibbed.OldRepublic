@@ -1,4 +1,4 @@
-; 4744/5536 (85%)
+; 4787/5536 (86%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -110,6 +110,7 @@
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_floor_cement1.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_a_tech.mat
 /resources/art/shaders/materials/all_item_imp_space_wall_light.mat
+/resources/art/shaders/materials/all_item_rep_lamppost_ald.mat
 /resources/art/shaders/materials/all_item_space_debris_metal01.mat
 /resources/art/shaders/materials/all_item_space_debris_metal02.mat
 /resources/art/shaders/materials/all_item_space_debris_trims.mat
@@ -141,6 +142,7 @@
 /resources/art/shaders/materials/spc_arch_imp_social_ss_glass.mat
 /resources/art/shaders/materials/spc_arch_imp_throne_pillar.mat
 /resources/art/shaders/materials/spc_arch_imp_wall_detail01.mat
+/resources/art/shaders/materials/spc_arch_imp_wall_detail01_noemissive.mat
 /resources/art/shaders/materials/spc_arch_neu_garage_glass.mat
 /resources/art/shaders/materials/spc_arch_rep_trans_int_ceiling01.mat
 /resources/art/shaders/materials/spc_arch_rep_trans_int_floor01.mat
@@ -149,7 +151,9 @@
 /resources/art/shaders/materials/spc_arch_rep_trans_int_wall02.mat
 /resources/art/shaders/materials/spc_arch_rep_trans_int_wall03.mat
 /resources/art/shaders/materials/spc_arch_rep_trans_pillar01.mat
+/resources/art/shaders/materials/spc_arch_rep_trans_pillar02.mat
 /resources/art/shaders/materials/spc_arch_ss_door_lg.mat
+/resources/art/shaders/materials/spc_arch_ss_door_lg_noemis.mat
 /resources/art/shaders/materials/spc_arch_ss_doorframe.mat
 /resources/art/shaders/materials/spc_arch_ss_forcefield.mat
 /resources/art/shaders/materials/spc_arch_ss_forcefield_blue.mat
@@ -165,6 +169,7 @@
 /resources/art/shaders/materials/spc_arch_ss_wall_gen01.mat
 /resources/art/shaders/materials/spc_env_asteroid_01.mat
 /resources/art/shaders/materials/spc_env_asteroid_02.mat
+/resources/art/shaders/materials/spc_env_asteroid_cliff.mat
 /resources/art/shaders/materials/spc_env_asteroid_ice_01.mat
 /resources/art/shaders/materials/spc_env_asteroid_ice_02.mat
 /resources/art/shaders/materials/spc_env_asteroid_ice_03.mat
@@ -365,6 +370,11 @@
 /resources/art/shaders/materials/spc_ps_trooper_int_wall01.mat
 /resources/art/shaders/materials/spc_ps_trooper_int_wall02.mat
 /resources/art/shaders/materials/ter_dro_city_floor_02.mat
+/resources/art/shaders/materials/ter_spc_asteroid_rock01.mat
+/resources/art/shaders/materials/ter_spc_asteroid_rock02.mat
+/resources/art/shaders/materials/ter_spc_asteroid_sand01.mat
+/resources/art/shaders/materials/ter_spc_asteroid01.mat
+/resources/art/shaders/materials/ter_spc_asteroid02.mat
 /resources/art/shaders/materials/util_collision_hidden.mat
 /resources/art/shaders/materials/veh_imp_capital_destroyer_details03.mat
 /resources/art/shaders/materials/veh_neu_space_station.mat
@@ -1523,6 +1533,9 @@
 /resources/art/static/area/spc_space/arch/texture/spc_arch_ss_wall_detail01_n.dds
 /resources/art/static/area/spc_space/arch/texture/spc_arch_ss_wall_detail01_n.tex
 /resources/art/static/area/spc_space/arch/texture/spc_arch_ss_wall_detail01_n.tiny.dds
+/resources/art/static/area/spc_space/arch/texture/spc_arch_ss_wall_detail01_noemissive_n.dds
+/resources/art/static/area/spc_space/arch/texture/spc_arch_ss_wall_detail01_noemissive_n.tex
+/resources/art/static/area/spc_space/arch/texture/spc_arch_ss_wall_detail01_noemissive_n.tiny.dds
 /resources/art/static/area/spc_space/arch/texture/spc_arch_ss_wall_detail01_s.dds
 /resources/art/static/area/spc_space/arch/texture/spc_arch_ss_wall_detail01_s.tex
 /resources/art/static/area/spc_space/arch/texture/spc_arch_ss_wall_detail01_s.tiny.dds
@@ -1572,6 +1585,15 @@
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_05_n.dds
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_05_n.tex
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_05_n.tiny.dds
+/resources/art/static/area/spc_space/env/texture/spc_env_asteroid_cliff_d.dds
+/resources/art/static/area/spc_space/env/texture/spc_env_asteroid_cliff_d.tex
+/resources/art/static/area/spc_space/env/texture/spc_env_asteroid_cliff_d.tiny.dds
+/resources/art/static/area/spc_space/env/texture/spc_env_asteroid_cliff_n.dds
+/resources/art/static/area/spc_space/env/texture/spc_env_asteroid_cliff_n.tex
+/resources/art/static/area/spc_space/env/texture/spc_env_asteroid_cliff_n.tiny.dds
+/resources/art/static/area/spc_space/env/texture/spc_env_asteroid_cliff_s.dds
+/resources/art/static/area/spc_space/env/texture/spc_env_asteroid_cliff_s.tex
+/resources/art/static/area/spc_space/env/texture/spc_env_asteroid_cliff_s.tiny.dds
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_ice_01_d.dds
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_ice_01_d.tex
 /resources/art/static/area/spc_space/env/texture/spc_env_asteroid_ice_01_d.tiny.dds
@@ -4225,6 +4247,7 @@
 /resources/world/areas/4611686033507370314/minimaps/map_int_esseles_port_wing_00_01_r.dds
 /resources/world/areas/4611686044198570319/map_hub1_r.dds
 /resources/world/areas/4611686044198570319/map_world_r.dds
+/resources/world/areas/4611686044198570319/mapnotes.not
 /resources/world/areas/4611686044198570319/minimaps/map_hub1_00_00_r.dds
 /resources/world/areas/4611686044198570319/minimaps/map_world_00_00_r.dds
 /resources/world/areas/4611686044198570319/minimaps/map_world_00_01_r.dds
@@ -4712,8 +4735,10 @@
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_dro_01_01_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_fleet_00_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_fleet_01_00_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_00_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_00_01_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_00_02_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_01_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_01_01_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_mission_01_02_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_origin_00_00_r.dds
@@ -4727,9 +4752,11 @@
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_datacore_r.dds
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_hangar_r.dds
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_hangar_respawn_r.dds
+/resources/world/areas/4611686142577070000/map_pvp_voidstar_main_r.dds
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_reactor_core_r.dds
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_reactor_core_respawn_r.dds
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_world_r.dds
+/resources/world/areas/4611686142577070000/mapnotes.not
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_cargo_hold_00_00_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_cargo_hold_00_01_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_cargo_hold_01_00_r.dds
@@ -4738,8 +4765,24 @@
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_hangar_00_00_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_hangar_00_01_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_hangar_respawn_00_00_r.dds
+/resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_main_00_00_r.dds
+/resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_main_00_01_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_00_00_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_00_01_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_respawn_00_00_r.dds
+/resources/world/areas/4611686189079993896/map_hammer_expansion_r.dds
+/resources/world/areas/4611686189079993896/map_hammer_section0_r.dds
+/resources/world/areas/4611686189079993896/map_hammer_security_r.dds
+/resources/world/areas/4611686189079993896/map_hammer_world_r.dds
+/resources/world/areas/4611686189079993896/mapnotes.not
+/resources/world/areas/4611686189079993896/minimaps/map_hammer_expansion_00_00_r.dds
+/resources/world/areas/4611686189079993896/minimaps/map_hammer_expansion_00_01_r.dds
+/resources/world/areas/4611686189079993896/minimaps/map_hammer_expansion_01_00_r.dds
+/resources/world/areas/4611686189079993896/minimaps/map_hammer_expansion_01_01_r.dds
+/resources/world/areas/4611686189079993896/minimaps/map_hammer_section0_00_00_r.dds
+/resources/world/areas/4611686189079993896/minimaps/map_hammer_section0_00_01_r.dds
+/resources/world/areas/4611686189079993896/minimaps/map_hammer_security_00_00_r.dds
+/resources/world/areas/4611686189079993896/minimaps/map_hammer_security_00_01_r.dds
+/resources/world/areas/4611686189079993896/minimaps/map_hammer_world_00_00_r.dds
 ft.sig
 metadata.bin

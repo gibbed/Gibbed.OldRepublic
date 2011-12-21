@@ -1,4 +1,8 @@
-; 644/738 (87%)
+; 648/738 (87%)
+/resources/art/environmentmaps/que_main/area.dds
+/resources/art/environmentmaps/que_main/area.tex
+/resources/art/environmentmaps/que_main/area.tiny.dds
+/resources/art/shaders/materials/all_arch_neu_farm_silo.mat
 /resources/art/shaders/materials/all_arch_und_bridge_span_20m.mat
 /resources/art/shaders/materials/all_item_caves_rubble_mounds_01.mat
 /resources/art/shaders/materials/que_item_tech_vaporator_derrick_details.mat

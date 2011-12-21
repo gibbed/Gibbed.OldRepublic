@@ -1,4 +1,4 @@
-; 2129/2157 (98%)
+; 2130/2157 (98%)
 /resources/art/defaultassets/occluder.dds
 /resources/art/defaultassets/occluder.tex
 /resources/art/fx/texture/uv_atlas/all_item_works_huge_generator_lights_d.dds
@@ -12,6 +12,7 @@
 /resources/art/shaders/materials/all_arch_city_ext_bwall_wall01.mat
 /resources/art/shaders/materials/all_arch_neu_city_set_building_01.mat
 /resources/art/shaders/materials/all_arch_neu_city_set_building_02.mat
+/resources/art/shaders/materials/all_arch_rep_palace_trim01.mat
 /resources/art/shaders/materials/all_arch_tech_aagun_gray.mat
 /resources/art/shaders/materials/all_item_tech_radar_large_metal.mat
 /resources/art/shaders/materials/anim_cor_works_generator_lights.mat
