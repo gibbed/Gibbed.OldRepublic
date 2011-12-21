@@ -1,4 +1,4 @@
-; 802/823 (97%)
+; 804/823 (97%)
 /resources/art/dynamic/creature/model/manta_baspoorglider_a01.gr2
 /resources/art/dynamic/creature/model/manta_thranta_a01.gr2
 /resources/art/dynamic/creature/model/manta_thrantamount_a01.gr2
@@ -719,6 +719,8 @@
 /resources/art/dynamic/spec/tauntaun_skeleton.gr2
 /resources/art/dynamic/spec/terentatek_skeleton.gr2
 /resources/art/dynamic/spec/terentatekboss_skeleton.gr2
+/resources/art/dynamic/spec/turretioncannon_skeleton.gr2
+/resources/art/dynamic/spec/turretneularge_skeleton.gr2
 /resources/art/dynamic/spec/turretneusmall_skeleton.gr2
 /resources/art/dynamic/spec/turretneusmallbase_skeleton.gr2
 /resources/art/dynamic/spec/walker_skeleton.gr2

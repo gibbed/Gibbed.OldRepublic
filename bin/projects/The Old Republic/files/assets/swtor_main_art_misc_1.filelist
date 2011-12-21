@@ -1,4 +1,4 @@
-; 1355/2181 (62%)
+; 1365/2181 (62%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -572,6 +572,8 @@
 /resources/art/lights/ambient_skyscene_d.dds
 /resources/art/lights/ambient_skyscene_d.tex
 /resources/art/lights/ambient_skyscene_d.tiny.dds
+/resources/art/lights/ambient_tat_imperial_fort.dds
+/resources/art/lights/ambient_tat_imperial_fort.tex
 /resources/art/lights/ambient_tomb01.dds
 /resources/art/lights/ambient_tomb01.tex
 /resources/art/lights/andrew_test_fill.dds
@@ -670,6 +672,8 @@
 /resources/art/lights/fill_026_081_100.tiny.dds
 /resources/art/lights/fill_035_080_100.dds
 /resources/art/lights/fill_035_080_100.tex
+/resources/art/lights/fill_036_012_095.dds
+/resources/art/lights/fill_036_012_095.tex
 /resources/art/lights/fill_037_092_099.dds
 /resources/art/lights/fill_037_092_099.tex
 /resources/art/lights/fill_039_041_089.dds
@@ -797,6 +801,8 @@
 /resources/art/lights/fx_ramp_hardline_tightgrad_wrap.tex
 /resources/art/lights/fx_ramp_slightwrap_01.dds
 /resources/art/lights/fx_ramp_slightwrap_01.tex
+/resources/art/lights/fx_ramp_slightwrap_02.dds
+/resources/art/lights/fx_ramp_slightwrap_02.tex
 /resources/art/lights/fx_ramp_standard_01.dds
 /resources/art/lights/fx_ramp_standard_01.tex
 /resources/art/lights/galaxymap_main_d.dds
@@ -919,6 +925,8 @@
 /resources/art/lights/ord_exterior_lightramp_csr.tex
 /resources/art/lights/ord_exterior_lightramp_volcano.dds
 /resources/art/lights/ord_exterior_lightramp_volcano.tex
+/resources/art/lights/que_exterior_lightramp.dds
+/resources/art/lights/que_exterior_lightramp.tex
 /resources/art/lights/round_fourpix_clouds.dds
 /resources/art/lights/round_fourpix_clouds.tex
 /resources/art/lights/round_fourpix_clouds_180.dds
@@ -1136,11 +1144,13 @@
 /resources/art/shaders/materials/planets_taris.mat
 /resources/art/shaders/materials/planets_tython.mat
 /resources/art/shaders/materials/spawner_gold.mat
+/resources/art/shaders/materials/spawner_ltgreen.mat
 /resources/art/shaders/materials/spawner_red.mat
 /resources/art/shaders/materials/standard_1.mat
 /resources/art/shaders/materials/util_black.mat
 /resources/art/shaders/materials/util_blue_hidden.mat
 /resources/art/shaders/materials/util_green_hidden.mat
+/resources/art/shaders/materials/util_ltpurple.mat
 /resources/art/shaders/materials/util_red.mat
 /resources/art/shaders/materials/util_red_hidden.mat
 /resources/art/shaders/materials/util_yellow_hidden.mat

@@ -1,4 +1,4 @@
-; 2016/2112 (95%)
+; 2021/2112 (95%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
 /resources/art/defaultassets/default_age.dds
@@ -1535,6 +1535,7 @@
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_m.tex
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_m.tiny.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_n.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_n.tex
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_n.tiny.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_s.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v02_s.tex
@@ -1547,8 +1548,10 @@
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v03_s.tiny.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_d.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_d.tex
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_d.tiny.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_s.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_s.tex
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_s.tiny.dds
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a01_v01_d.dds
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a01_v01_d.tex
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a01_v01_d.tiny.dds
@@ -1868,6 +1871,7 @@
 /resources/art/shaders/materials/astromech_t7_a01_v04.mat
 /resources/art/shaders/materials/astromech_t7_a01_v05.mat
 /resources/art/shaders/materials/astromech_tg6_a01_v01.mat
+/resources/art/shaders/materials/astromech_tg6_v01.mat
 /resources/art/shaders/materials/bantha_bantha_a01_v01.mat
 /resources/art/shaders/materials/bantha_bormu_a01_v01.mat
 /resources/art/shaders/materials/bantha_gapilliangrazer_a01_v01.mat
@@ -1924,6 +1928,7 @@
 /resources/art/shaders/materials/bms_dashade_a02_v03.mat
 /resources/art/shaders/materials/bms_dashade_a02_v05.mat
 /resources/art/shaders/materials/bms_dashade_a03_v01.mat
+/resources/art/shaders/materials/bms_dashade_a03_v02.mat
 /resources/art/shaders/materials/bms_dashade_a03_v03.mat
 /resources/art/shaders/materials/bms_dashade_a03_v05.mat
 /resources/art/shaders/materials/bms_fleshraider_a01_v01.mat

@@ -1,4 +1,4 @@
-; 1959/9173 (21%)
+; 1971/9173 (21%)
 /resources/anim/creature/am_manta.xml
 /resources/anim/creature/am_mote.xml
 /resources/anim/creature/am_probe.xml
@@ -1539,6 +1539,13 @@
 /resources/anim/droid/protocol/dl_wander_back_1.jba
 /resources/anim/droid/protocol/dl_wander_forward_1.jba
 /resources/anim/droid/protocol/dl_wander_forward_2.jba
+/resources/anim/droid/protocol/em_bored.jba
+/resources/anim/droid/protocol/em_bow_1.jba
+/resources/anim/droid/protocol/em_bow_2.jba
+/resources/anim/droid/protocol/em_cheer_1.jba
+/resources/anim/droid/protocol/em_cheer_2.jba
+/resources/anim/droid/protocol/em_cheer_3.jba
+/resources/anim/droid/protocol/em_cheer_4.jba
 /resources/anim/droid/protocol/em_clench_fist.jba
 /resources/anim/droid/protocol/em_congratulate.jba
 /resources/anim/droid/protocol/em_flex_1.jba
@@ -1555,8 +1562,11 @@
 /resources/anim/droid/protocol/em_salute_1.jba
 /resources/anim/droid/protocol/em_salute_2.jba
 /resources/anim/droid/protocol/em_scratch_1.jba
+/resources/anim/droid/protocol/em_search_mid.jba
+/resources/anim/droid/protocol/em_sense.jba
 /resources/anim/droid/protocol/em_taunt_1.jba
 /resources/anim/droid/protocol/em_taunt_2.jba
+/resources/anim/droid/protocol/em_torture.jba
 /resources/anim/droid/protocol/em_wave_1.jba
 /resources/anim/droid/protocol/em_wave_3.jba
 /resources/anim/droid/protocol/em_weight_shift_1.jba
@@ -1701,6 +1711,7 @@
 /resources/anim/droid/protocol/humanoid_action_no_aim_autogen000008.mph
 /resources/anim/droid/protocol/humanoid_action_no_aim_autogen000009.mph
 /resources/anim/droid/protocol/humanoid_action_no_aim_autogen000023.mph
+/resources/anim/droid/protocol/humanoid_action_no_aim_autogen000027.mph
 /resources/anim/droid/protocol/humanoid_action_no_aim_autogen000028.mph
 /resources/anim/droid/protocol/humanoid_action_no_aim_autogen000033.mph
 /resources/anim/droid/protocol/humanoid_action_no_aim_autogen000037.mph
@@ -1717,6 +1728,7 @@
 /resources/anim/droid/protocol/humanoid_loco_combat_unarmed_falling.mph
 /resources/anim/droid/protocol/humanoid_loco_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_attention_look_around.mph
+/resources/anim/droid/protocol/humanoid_loco_idle_stand_normal.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_talk_normal_06.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_use_holocom.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_use_journal.mph

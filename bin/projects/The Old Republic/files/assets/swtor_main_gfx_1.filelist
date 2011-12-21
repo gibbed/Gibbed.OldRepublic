@@ -1,4 +1,4 @@
-; 10215/52255 (19%)
+; 10231/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -1189,6 +1189,7 @@
 /resources/gfx/icons/accomplishedsawbones.dds
 /resources/gfx/icons/accuracyreduced.dds
 /resources/gfx/icons/acidblade.dds
+/resources/gfx/icons/adrenelinerush.dds
 /resources/gfx/icons/advancedmedicalprobe.dds
 /resources/gfx/icons/afraid.dds
 /resources/gfx/icons/agonizingsaber.dds
@@ -1373,7 +1374,9 @@
 /resources/gfx/icons/astrodroidhead.dds
 /resources/gfx/icons/astrodroidleg.dds
 /resources/gfx/icons/ataru.dds
+/resources/gfx/icons/auraofinvincibility.dds
 /resources/gfx/icons/auraofleadership.dds
+/resources/gfx/icons/auraoflight.dds
 /resources/gfx/icons/auraofvalor.dds
 /resources/gfx/icons/avabushspice.dds
 /resources/gfx/icons/backlash.dds
@@ -1797,6 +1800,7 @@
 /resources/gfx/icons/book.dds
 /resources/gfx/icons/boot_high_big.dds
 /resources/gfx/icons/bountyhunter.dds
+/resources/gfx/icons/bravado.dds
 /resources/gfx/icons/brocart.dds
 /resources/gfx/icons/brokenvase.dds
 /resources/gfx/icons/bronziumbar.dds
@@ -1847,6 +1851,7 @@
 /resources/gfx/icons/claninsignia.dds
 /resources/gfx/icons/cleave.dds
 /resources/gfx/icons/cloakofpain.dds
+/resources/gfx/icons/cloudmind_2.dds
 /resources/gfx/icons/clusterweave.dds
 /resources/gfx/icons/code_cylinder.dds
 /resources/gfx/icons/codecylinder.dds
@@ -2073,6 +2078,7 @@
 /resources/gfx/icons/force.dds
 /resources/gfx/icons/force_charge.dds
 /resources/gfx/icons/force_crush.dds
+/resources/gfx/icons/forcearmor.dds
 /resources/gfx/icons/forcecharge.dds
 /resources/gfx/icons/forcecrush.dds
 /resources/gfx/icons/forcedrain.dds
@@ -2091,7 +2097,9 @@
 /resources/gfx/icons/forcetrinket1huevariant1.dds
 /resources/gfx/icons/forcetrinket2.dds
 /resources/gfx/icons/forcetrinket3.dds
+/resources/gfx/icons/forcevalor.dds
 /resources/gfx/icons/forkedlightning.dds
+/resources/gfx/icons/fraggrenade.dds
 /resources/gfx/icons/frenzy.dds
 /resources/gfx/icons/fruit.dds
 /resources/gfx/icons/fullauto.dds
@@ -8943,6 +8951,7 @@
 /resources/gfx/icons/ipp.custom.social.voss_mystic.01.head.dds
 /resources/gfx/icons/ipp.custom.social.voss_mystic.01.legs.dds
 /resources/gfx/icons/irradiatedradioactivesample.dds
+/resources/gfx/icons/jcjedischolar.dds
 /resources/gfx/icons/jedi_equipment.dds
 /resources/gfx/icons/jediconsular.dds
 /resources/gfx/icons/jediholocommunicator.dds
@@ -8953,6 +8962,7 @@
 /resources/gfx/icons/jedistonetablet.dds
 /resources/gfx/icons/jetcharge.dds
 /resources/gfx/icons/jkforcesensitiveorphan.dds
+/resources/gfx/icons/jkmiralukansurvivor.dds
 /resources/gfx/icons/juyo.dds
 /resources/gfx/icons/kasotti.dds
 /resources/gfx/icons/kcredits.dds
@@ -9019,6 +9029,7 @@
 /resources/gfx/icons/larger/tips.crafting.dds
 /resources/gfx/icons/larger/tips.exit.map.dds
 /resources/gfx/icons/larger/tips.lfg.dds
+/resources/gfx/icons/larger/tips.mission.mapnotes.dds
 /resources/gfx/icons/larger/tips.mission.tab.dds
 /resources/gfx/icons/larger/tips.party.missions.dds
 /resources/gfx/icons/larger/tips.social.dds
@@ -9071,6 +9082,7 @@
 /resources/gfx/icons/luminescentcells1.dds
 /resources/gfx/icons/luminescentcells2.dds
 /resources/gfx/icons/lumnispice.dds
+/resources/gfx/icons/lunge.dds
 /resources/gfx/icons/lynchwierdingmodule.dds
 /resources/gfx/icons/mandalorianiron.dds
 /resources/gfx/icons/mapondatapad.dds
@@ -9208,6 +9220,7 @@
 /resources/gfx/icons/orbitalbombardment.dds
 /resources/gfx/icons/organ.dds
 /resources/gfx/icons/outerrimveteran.dds
+/resources/gfx/icons/overcome.dds
 /resources/gfx/icons/overlay1_aim.dds
 /resources/gfx/icons/overlay1_cun.dds
 /resources/gfx/icons/overlay1_str.dds
@@ -9320,6 +9333,7 @@
 /resources/gfx/icons/republiclockbox.dds
 /resources/gfx/icons/research.dds
 /resources/gfx/icons/resinite.dds
+/resources/gfx/icons/resuscitationprobe.dds
 /resources/gfx/icons/returntothefray.dds
 /resources/gfx/icons/revanscrossofglory.dds
 /resources/gfx/icons/revive.dds
@@ -9785,6 +9799,7 @@
 /resources/gfx/icons/saber_jedihigh02_a01_v01.dds
 /resources/gfx/icons/saberstrike.dds
 /resources/gfx/icons/sacrifice.dds
+/resources/gfx/icons/salvation.dds
 /resources/gfx/icons/sandwich.dds
 /resources/gfx/icons/scale.dds
 /resources/gfx/icons/scales.dds
@@ -9827,6 +9842,7 @@
 /resources/gfx/icons/shieldgeneratorproficiency.dds
 /resources/gfx/icons/shieldprobe.dds
 /resources/gfx/icons/shieldregenerator.dds
+/resources/gfx/icons/shien.dds
 /resources/gfx/icons/shiicho.dds
 /resources/gfx/icons/shimmer_silk.dds
 /resources/gfx/icons/shiv.dds

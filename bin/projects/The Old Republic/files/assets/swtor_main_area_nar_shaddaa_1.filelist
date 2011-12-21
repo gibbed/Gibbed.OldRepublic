@@ -1,4 +1,4 @@
-; 1945/2077 (93%)
+; 1949/2077 (93%)
 /resources/art/fx/texture/uv_atlas/nar_item_tech_generator_anim_lights_d.dds
 /resources/art/fx/texture/uv_atlas/nar_item_tech_generator_anim_lights_d.tex
 /resources/art/fx/texture/uv_atlas/nar_item_tech_generator_anim_lights_d.tiny.dds
@@ -48,10 +48,14 @@
 /resources/art/shaders/materials/nar_item_signage_trims.mat
 /resources/art/shaders/materials/nar_item_street_building_vent.mat
 /resources/art/shaders/materials/nar_skyscene_horizon.mat
+/resources/art/shaders/materials/tar_arch_tech_column_girder.mat
 /resources/art/shaders/materials/ter_ald_grass01.mat
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_grass01_d.dds
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_grass01_d.tex
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_grass01_d.tiny.dds
+/resources/art/static/area/ald_alderaan/terrain_map/ter_ald_grass01_n.dds
+/resources/art/static/area/ald_alderaan/terrain_map/ter_ald_grass01_n.tex
+/resources/art/static/area/ald_alderaan/terrain_map/ter_ald_grass01_n.tiny.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_ext_bwall_door_details_d.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_ext_bwall_door_details_d.tex
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_ext_bwall_door_details_d.tiny.dds

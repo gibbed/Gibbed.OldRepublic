@@ -1,4 +1,4 @@
-; 3451/3574 (96%)
+; 3456/3574 (96%)
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_01.mat
@@ -13,6 +13,10 @@
 /resources/art/shaders/materials/all_arch_cave_2room_a07.mat
 /resources/art/shaders/materials/all_arch_cave_2room_a08.mat
 /resources/art/shaders/materials/all_arch_cave_2room_a10.mat
+/resources/art/shaders/materials/all_arch_cave_2room_b05.mat
+/resources/art/shaders/materials/all_arch_cave_2room_b06.mat
+/resources/art/shaders/materials/all_arch_cave_2room_b08.mat
+/resources/art/shaders/materials/all_arch_cave_2room_b10.mat
 /resources/art/shaders/materials/all_arch_cave_floor1.mat
 /resources/art/shaders/materials/all_arch_cave_floor2.mat
 /resources/art/shaders/materials/all_arch_cave_wall1.mat
@@ -213,6 +217,7 @@
 /resources/art/shaders/materials/kor_acad_interrogation_wall.mat
 /resources/art/shaders/materials/kor_acad_lobby_column.mat
 /resources/art/shaders/materials/kor_acad_main_topfloor.mat
+/resources/art/shaders/materials/ter_ald_city_floor01.mat
 /resources/art/shaders/materials/ter_imp_metal_gray01.mat
 /resources/art/shaders/materials/veh_imp_capital_destroyer_details01.mat
 /resources/art/shaders/materials/veh_imp_capital_destroyer_details02.mat

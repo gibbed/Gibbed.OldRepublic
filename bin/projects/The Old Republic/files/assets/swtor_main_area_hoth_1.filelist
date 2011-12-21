@@ -1,4 +1,4 @@
-; 4241/4697 (90%)
+; 4245/4697 (90%)
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_n.dds
@@ -18,6 +18,10 @@
 /resources/art/shaders/materials/all_item_tech_city_computer_d01.mat
 /resources/art/shaders/materials/all_item_tech_computer_terminal_screen.mat
 /resources/art/shaders/materials/all_item_tech_wall_monitor_02_decal03.mat
+/resources/art/shaders/materials/hth_arch_rep_generator_metal.mat
+/resources/art/shaders/materials/hth_arch_rep_generator_tech.mat
+/resources/art/shaders/materials/hth_arch_rep_generator_vent.mat
+/resources/art/shaders/materials/hth_arch_rep_house_b09.mat
 /resources/art/shaders/materials/hth_arch_tower_trim01.mat
 /resources/art/shaders/materials/hth_env_cliff_snow.mat
 /resources/art/shaders/materials/hth_item_construction_crane.mat

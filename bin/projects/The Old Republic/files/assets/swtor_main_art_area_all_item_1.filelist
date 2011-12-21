@@ -1,4 +1,4 @@
-; 8482/8930 (94%)
+; 8511/8930 (95%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -277,6 +277,7 @@
 /resources/art/shaders/materials/all_item_caves_boulders_neu.mat
 /resources/art/shaders/materials/all_item_caves_floor_mound.mat
 /resources/art/shaders/materials/all_item_caves_mushrooms.mat
+/resources/art/shaders/materials/all_item_caves_rbl_mounds_neu_01.mat
 /resources/art/shaders/materials/all_item_caves_rbl_mounds_neu_02.mat
 /resources/art/shaders/materials/all_item_caves_rbl_mounds_neu_02_nocollision.mat
 /resources/art/shaders/materials/all_item_caves_rubble_mounds_02.mat
@@ -299,6 +300,7 @@
 /resources/art/shaders/materials/all_item_city_sign_vertical_horizontal_cards.mat
 /resources/art/shaders/materials/all_item_city_statue.mat
 /resources/art/shaders/materials/all_item_city_statue_02.mat
+/resources/art/shaders/materials/all_item_city_street_lamp.mat
 /resources/art/shaders/materials/all_item_city_streetlamp.mat
 /resources/art/shaders/materials/all_item_city_techsigns_01.mat
 /resources/art/shaders/materials/all_item_city_techsigns_01_cards.mat
@@ -322,6 +324,7 @@
 /resources/art/shaders/materials/all_item_con_square_crate02_open.mat
 /resources/art/shaders/materials/all_item_con_storage_crate.mat
 /resources/art/shaders/materials/all_item_con_storage_skid.mat
+/resources/art/shaders/materials/all_item_con_toxicwaste_barrel.mat
 /resources/art/shaders/materials/all_item_con_treasure_chest_02.mat
 /resources/art/shaders/materials/all_item_con_treasure_chest_03.mat
 /resources/art/shaders/materials/all_item_construction_crane.mat
@@ -340,6 +343,7 @@
 /resources/art/shaders/materials/all_item_creature_klorslug_slime_ground.mat
 /resources/art/shaders/materials/all_item_creature_rancor_egg.mat
 /resources/art/shaders/materials/all_item_creature_rancor_egg_incubator.mat
+/resources/art/shaders/materials/all_item_creature_thranta_nest_platform.mat
 /resources/art/shaders/materials/all_item_datacron_set_jedi.mat
 /resources/art/shaders/materials/all_item_datacron_set_sith.mat
 /resources/art/shaders/materials/all_item_debris_pile.mat
@@ -399,6 +403,7 @@
 /resources/art/shaders/materials/all_item_imp_computer_cubicle_panels.mat
 /resources/art/shaders/materials/all_item_imp_computer_cubicle_panels_blank.mat
 /resources/art/shaders/materials/all_item_imp_cooking_items.mat
+/resources/art/shaders/materials/all_item_imp_crate_broken.mat
 /resources/art/shaders/materials/all_item_imp_crate_open.mat
 /resources/art/shaders/materials/all_item_imp_floodlight_large_base.mat
 /resources/art/shaders/materials/all_item_imp_floodlight_large_panel.mat
@@ -411,6 +416,7 @@
 /resources/art/shaders/materials/all_item_imp_medical_shelving.mat
 /resources/art/shaders/materials/all_item_imp_prototype_turret.mat
 /resources/art/shaders/materials/all_item_imp_prototype_turret_damaged.mat
+/resources/art/shaders/materials/all_item_imp_scaffold_light_off.mat
 /resources/art/shaders/materials/all_item_imp_sconce.mat
 /resources/art/shaders/materials/all_item_imp_sign.mat
 /resources/art/shaders/materials/all_item_imp_small_scaffold.mat
@@ -452,6 +458,7 @@
 /resources/art/shaders/materials/all_item_munitions_stockpile_01.mat
 /resources/art/shaders/materials/all_item_munitions_stockpile_02.mat
 /resources/art/shaders/materials/all_item_munitions_stockpile_03.mat
+/resources/art/shaders/materials/all_item_neu_turret_large_multi.mat
 /resources/art/shaders/materials/all_item_poster_separatist.mat
 /resources/art/shaders/materials/all_item_prison_wall.mat
 /resources/art/shaders/materials/all_item_red_crystal.mat
@@ -549,6 +556,7 @@
 /resources/art/shaders/materials/all_item_tech_canister_electric.mat
 /resources/art/shaders/materials/all_item_tech_canister_fire.mat
 /resources/art/shaders/materials/all_item_tech_canister_ice.mat
+/resources/art/shaders/materials/all_item_tech_canister_poison.mat
 /resources/art/shaders/materials/all_item_tech_canister_smoke.mat
 /resources/art/shaders/materials/all_item_tech_carbonite_face01.mat
 /resources/art/shaders/materials/all_item_tech_carbonite_face02.mat
@@ -576,6 +584,7 @@
 /resources/art/shaders/materials/all_item_tech_controlpanels01_damaged.mat
 /resources/art/shaders/materials/all_item_tech_core_drum.mat
 /resources/art/shaders/materials/all_item_tech_datacron_agility.mat
+/resources/art/shaders/materials/all_item_tech_datacron_cunning.mat
 /resources/art/shaders/materials/all_item_tech_datacron_endurance.mat
 /resources/art/shaders/materials/all_item_tech_datacron_min_max_choice.mat
 /resources/art/shaders/materials/all_item_tech_datacron_presence.mat
@@ -587,6 +596,7 @@
 /resources/art/shaders/materials/all_item_tech_eradicator.mat
 /resources/art/shaders/materials/all_item_tech_field_unit_projector.mat
 /resources/art/shaders/materials/all_item_tech_floating_dance_disk.mat
+/resources/art/shaders/materials/all_item_tech_floodlight_neu_blue.mat
 /resources/art/shaders/materials/all_item_tech_forklift.mat
 /resources/art/shaders/materials/all_item_tech_forklift_lights.mat
 /resources/art/shaders/materials/all_item_tech_frozen_biomatter_storage.mat
@@ -654,12 +664,15 @@
 /resources/art/shaders/materials/all_item_tech_powerup_weapon.mat
 /resources/art/shaders/materials/all_item_tech_powerup_weapon_decal.mat
 /resources/art/shaders/materials/all_item_tech_proto_holocron.mat
+/resources/art/shaders/materials/all_item_tech_pvp_targeting_consol.mat
 /resources/art/shaders/materials/all_item_tech_radar_large_base.mat
 /resources/art/shaders/materials/all_item_tech_radar_small.mat
 /resources/art/shaders/materials/all_item_tech_reinforced_door.mat
 /resources/art/shaders/materials/all_item_tech_remote_detonator.mat
 /resources/art/shaders/materials/all_item_tech_rep_comp_terminal.mat
 /resources/art/shaders/materials/all_item_tech_rep_comp_terminal_suv.mat
+/resources/art/shaders/materials/all_item_tech_rep_comp_terminal_suv_alert.mat
+/resources/art/shaders/materials/all_item_tech_rep_comp_terminal_suv_off.mat
 /resources/art/shaders/materials/all_item_tech_rep_flatbed.mat
 /resources/art/shaders/materials/all_item_tech_resurrection_point.mat
 /resources/art/shaders/materials/all_item_tech_science_centrifuge.mat
@@ -679,6 +692,7 @@
 /resources/art/shaders/materials/all_item_tech_small_holoprojector.mat
 /resources/art/shaders/materials/all_item_tech_sonic_device.mat
 /resources/art/shaders/materials/all_item_tech_space_mission_panel.mat
+/resources/art/shaders/materials/all_item_tech_speaker.mat
 /resources/art/shaders/materials/all_item_tech_support.mat
 /resources/art/shaders/materials/all_item_tech_tat_solar_panel.mat
 /resources/art/shaders/materials/all_item_tech_torture_machine_imperial.mat
@@ -693,6 +707,7 @@
 /resources/art/shaders/materials/all_item_tech_vaporator_derrick_tan.mat
 /resources/art/shaders/materials/all_item_tech_wall_monitor.mat
 /resources/art/shaders/materials/all_item_tech_wall_monitor_02_d01_blue.mat
+/resources/art/shaders/materials/all_item_tech_wall_monitor_02_suv_off.mat
 /resources/art/shaders/materials/all_item_tech_wires.mat
 /resources/art/shaders/materials/all_item_techcave_arch.mat
 /resources/art/shaders/materials/all_item_techcave_brace.mat
@@ -852,10 +867,12 @@
 /resources/art/shaders/materials/klorslug_klorslug_queen_v01.mat
 /resources/art/shaders/materials/kor_acad_hall_all_purpose.mat
 /resources/art/shaders/materials/kor_acad_library_frame.mat
+/resources/art/shaders/materials/nar_item_prison_wall.mat
 /resources/art/shaders/materials/orig_all_item_vendor_signs_rep.mat
 /resources/art/shaders/materials/orig_all_item_vendor_signs_rep2.mat
 /resources/art/shaders/materials/protocol_courier_a01_v01.mat
 /resources/art/shaders/materials/protocol_po12_a01_v01.mat
+/resources/art/shaders/materials/ter_tat_path2.mat
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_large_tech_d.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_large_tech_d.tex
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_large_tech_d.tiny.dds
@@ -5076,6 +5093,9 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_remote_detonator.max.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_rep_comp_terminal.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_rep_comp_terminal_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_rep_comp_terminal_d.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_rep_comp_terminal_dmg.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_rep_comp_terminal_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_rep_flatbed.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_resurrection_point.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_room_unit.gr2
@@ -5709,6 +5729,15 @@
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_floating_dance_disk_s.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_floating_dance_disk_s.tex
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_floating_dance_disk_s.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_floodlight_neu_blue_d.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_floodlight_neu_blue_d.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_floodlight_neu_blue_d.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_floodlight_neu_blue_n.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_floodlight_neu_blue_n.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_floodlight_neu_blue_n.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_floodlight_neu_blue_s.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_floodlight_neu_blue_s.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_floodlight_neu_blue_s.tiny.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_forklift_d.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_forklift_d.tex
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_forklift_d.tiny.dds
