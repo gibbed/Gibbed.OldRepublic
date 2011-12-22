@@ -1,4 +1,4 @@
-; 771/862 (89%)
+; 788/862 (91%)
 /resources/art/shaders/materials/har_broken_vehicle_component.mat
 /resources/art/shaders/materials/har_bush_green.mat
 /resources/art/shaders/materials/har_bush_orange.mat
@@ -11,6 +11,7 @@
 /resources/art/shaders/materials/har_crystal_igneous_blue.mat
 /resources/art/shaders/materials/har_crystal_igneous_green.mat
 /resources/art/shaders/materials/har_crystal_igneous_red.mat
+/resources/art/shaders/materials/har_crystal_sheen_large.mat
 /resources/art/shaders/materials/har_crystal_sheen_small.mat
 /resources/art/shaders/materials/har_crystal_solid_large_blue.mat
 /resources/art/shaders/materials/har_crystal_solid_large_green.mat
@@ -27,7 +28,10 @@
 /resources/art/shaders/materials/har_lichen_red.mat
 /resources/art/shaders/materials/har_lost_cultural_artifact.mat
 /resources/art/shaders/materials/har_lotus_blue.mat
+/resources/art/shaders/materials/har_lotus_red.mat
 /resources/art/shaders/materials/har_moss_berry.mat
+/resources/art/shaders/materials/har_moss_flower.mat
+/resources/art/shaders/materials/har_moss_vine.mat
 /resources/art/shaders/materials/har_mushroom_red.mat
 /resources/art/shaders/materials/har_prehistoric_cultural_artifact.mat
 /resources/art/shaders/materials/har_salvage_wreckage_multi.mat
@@ -36,16 +40,23 @@
 /resources/art/shaders/materials/har_scavenging_cargo.mat
 /resources/art/shaders/materials/har_scavenging_items_chassis.mat
 /resources/art/shaders/materials/har_scavenging_items_junkpile.mat
+/resources/art/shaders/materials/har_scavenging_items_spacecraft_hull.mat
 /resources/art/shaders/materials/har_scavenging_items_stolen_cache.mat
 /resources/art/shaders/materials/har_scavenging_jetsam.mat
 /resources/art/shaders/materials/har_slicing_computer_component_rep.mat
+/resources/art/shaders/materials/har_slicing_computer_component_und.mat
 /resources/art/shaders/materials/har_slicing_computer_small_02.mat
+/resources/art/shaders/materials/har_slicing_computer_small_03.mat
 /resources/art/shaders/materials/har_slicing_footlocker_dial.mat
+/resources/art/shaders/materials/har_slicing_footlocker_panel.mat
 /resources/art/shaders/materials/har_slicing_safeboxes_dial.mat
 /resources/art/shaders/materials/har_slicing_safeboxes_panel.mat
 /resources/art/shaders/materials/har_slicing_safeboxes_screen.mat
 /resources/art/shaders/materials/har_tablet_large.mat
+/resources/art/shaders/materials/har_tablet_medium.mat
 /resources/art/shaders/materials/har_tablet_small.mat
+/resources/art/shaders/materials/har_vine_brown.mat
+/resources/art/shaders/materials/har_vine_green.mat
 /resources/art/shaders/materials/har_vine_red.mat
 /resources/art/shaders/materials/har_weed_green.mat
 /resources/art/shaders/materials/har_weed_pink.mat
@@ -216,16 +227,22 @@
 /resources/art/static/harvesting/texture/har_crystal_igneous_blue_n.tiny.dds
 /resources/art/static/harvesting/texture/har_crystal_igneous_blue_s.tex
 /resources/art/static/harvesting/texture/har_crystal_igneous_blue_s.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_igneous_green_d.dds
 /resources/art/static/harvesting/texture/har_crystal_igneous_green_d.tex
 /resources/art/static/harvesting/texture/har_crystal_igneous_green_d.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_igneous_green_n.dds
 /resources/art/static/harvesting/texture/har_crystal_igneous_green_n.tex
 /resources/art/static/harvesting/texture/har_crystal_igneous_green_n.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_igneous_green_s.dds
 /resources/art/static/harvesting/texture/har_crystal_igneous_green_s.tex
 /resources/art/static/harvesting/texture/har_crystal_igneous_green_s.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_igneous_red_d.dds
 /resources/art/static/harvesting/texture/har_crystal_igneous_red_d.tex
 /resources/art/static/harvesting/texture/har_crystal_igneous_red_d.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_igneous_red_n.dds
 /resources/art/static/harvesting/texture/har_crystal_igneous_red_n.tex
 /resources/art/static/harvesting/texture/har_crystal_igneous_red_n.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_igneous_red_s.dds
 /resources/art/static/harvesting/texture/har_crystal_igneous_red_s.tex
 /resources/art/static/harvesting/texture/har_crystal_igneous_red_s.tiny.dds
 /resources/art/static/harvesting/texture/har_crystal_sheen_large_d.dds

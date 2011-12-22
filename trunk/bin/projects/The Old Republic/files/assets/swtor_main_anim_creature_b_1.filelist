@@ -1,4 +1,4 @@
-; 1971/9173 (21%)
+; 2003/9173 (21%)
 /resources/anim/creature/am_manta.xml
 /resources/anim/creature/am_mote.xml
 /resources/anim/creature/am_probe.xml
@@ -531,6 +531,7 @@
 /resources/anim/creature/wraid/cb_sp_attack_2.jba
 /resources/anim/creature/wraid/cb_spawn.jba
 /resources/anim/creature/wraid/creature_action_common.mph
+/resources/anim/creature/wraid/creature_loco_idle.mph
 /resources/anim/creature/wraid/creature_overlay.mph
 /resources/anim/creature/wraid/creature_quad_loco.mph
 /resources/anim/creature/wraid/dg_crit_damage_1.jba
@@ -721,6 +722,7 @@
 /resources/anim/droid/probe/cb_spawn.jba
 /resources/anim/droid/probe/creature_action_common.mph
 /resources/anim/droid/probe/creature_loco.mph
+/resources/anim/droid/probe/creature_loco_cnv.mph
 /resources/anim/droid/probe/creature_loco_idle.mph
 /resources/anim/droid/probe/creature_overlay.mph
 /resources/anim/droid/probe/dg_crit_damage_1.jba
@@ -929,6 +931,12 @@
 /resources/anim/droid/protocol/am_crafting_station_tall_loop.jba
 /resources/anim/droid/protocol/am_demented_01.jba
 /resources/anim/droid/protocol/am_flex.jba
+/resources/anim/droid/protocol/am_look_search.jba
+/resources/anim/droid/protocol/am_traffic_control_1.jba
+/resources/anim/droid/protocol/am_traffic_control_2.jba
+/resources/anim/droid/protocol/am_traffic_control_3.jba
+/resources/anim/droid/protocol/am_traffic_control_4.jba
+/resources/anim/droid/protocol/am_traffic_control_5.jba
 /resources/anim/droid/protocol/am_wounded_idle_01.jba
 /resources/anim/droid/protocol/am_wounded_idle_02.jba
 /resources/anim/droid/protocol/am_wounded_idle_03.jba
@@ -945,6 +953,7 @@
 /resources/anim/droid/protocol/as_sit_vlt_win_2.jba
 /resources/anim/droid/protocol/as_stand_typing_enter.jba
 /resources/anim/droid/protocol/as_stand_typing_exit.jba
+/resources/anim/droid/protocol/as_stand_typing_high_loop.jba
 /resources/anim/droid/protocol/as_stand_typing_loop.jba
 /resources/anim/droid/protocol/as_stand_typing_talk_2hand_1.jba
 /resources/anim/droid/protocol/as_stand_typing_talk_2hand_2.jba
@@ -1131,6 +1140,7 @@
 /resources/anim/droid/protocol/cd_prisoner_walk_hands_back_1.jba
 /resources/anim/droid/protocol/cd_tormen_lightning_enter.jba
 /resources/anim/droid/protocol/cd_tormen_lightning_exit.jba
+/resources/anim/droid/protocol/cd_trymbo_09.jba
 /resources/anim/droid/protocol/cd_trymbo_10.jba
 /resources/anim/droid/protocol/cd_trymbo_11.jba
 /resources/anim/droid/protocol/cd_turn_180_normal_ccw_1.jba
@@ -1421,6 +1431,8 @@
 /resources/anim/droid/protocol/dl_point_wait_1.jba
 /resources/anim/droid/protocol/dl_point_wait_2.jba
 /resources/anim/droid/protocol/dl_point_wait_3.jba
+/resources/anim/droid/protocol/dl_ponder_05.jba
+/resources/anim/droid/protocol/dl_ponder_07.jba
 /resources/anim/droid/protocol/dl_ponder_1.jba
 /resources/anim/droid/protocol/dl_ponder_2.jba
 /resources/anim/droid/protocol/dl_ponder_3.jba
@@ -1525,6 +1537,7 @@
 /resources/anim/droid/protocol/dl_talk_5.jba
 /resources/anim/droid/protocol/dl_talk_6.jba
 /resources/anim/droid/protocol/dl_talk_7.jba
+/resources/anim/droid/protocol/dl_talk_conversation_01.jba
 /resources/anim/droid/protocol/dl_thank_1.jba
 /resources/anim/droid/protocol/dl_thank_2.jba
 /resources/anim/droid/protocol/dl_thank_3.jba
@@ -1552,6 +1565,8 @@
 /resources/anim/droid/protocol/em_flex_2.jba
 /resources/anim/droid/protocol/em_flex_3.jba
 /resources/anim/droid/protocol/em_mourn.jba
+/resources/anim/droid/protocol/em_observe_sides.jba
+/resources/anim/droid/protocol/em_observe_up.jba
 /resources/anim/droid/protocol/em_point_no_forward.jba
 /resources/anim/droid/protocol/em_point_scan.jba
 /resources/anim/droid/protocol/em_point_wait.jba
@@ -1655,6 +1670,7 @@
 /resources/anim/droid/protocol/humanoid_action_autogen000070.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000085.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000095.mph
+/resources/anim/droid/protocol/humanoid_action_autogen000109.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000112.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000114.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000133.mph
@@ -1728,16 +1744,22 @@
 /resources/anim/droid/protocol/humanoid_loco_combat_unarmed_falling.mph
 /resources/anim/droid/protocol/humanoid_loco_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_attention_look_around.mph
+/resources/anim/droid/protocol/humanoid_loco_idle_stand_look_around_search.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_normal.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_talk_normal_06.mph
+/resources/anim/droid/protocol/humanoid_loco_idle_stand_talk_thinking.mph
+/resources/anim/droid/protocol/humanoid_loco_idle_stand_traffic_control.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_use_holocom.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_use_journal.mph
+/resources/anim/droid/protocol/humanoid_loco_idle_stand_use_map.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_use_medscan_01.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_use_pda.mph
 /resources/anim/droid/protocol/humanoid_loco_normal.mph
 /resources/anim/droid/protocol/humanoid_loco_normal_falling.mph
 /resources/anim/droid/protocol/humanoid_loco_stunned.mph
 /resources/anim/droid/protocol/humanoid_loco_stunned_knockeddown.mph
+/resources/anim/droid/protocol/humanoid_no_aim_loco_autogen_as_stand_typing_high_loop.mph
+/resources/anim/droid/protocol/humanoid_no_aim_loco_autogen_em_observe_sides.mph
 /resources/anim/droid/protocol/humanoid_no_aim_loco_autogen_ex_droid_shut_down_idle_01.mph
 /resources/anim/droid/protocol/humanoid_overlay.mph
 /resources/anim/droid/protocol/humanoid_overlay_autogen_ad_blank.mph
@@ -1897,6 +1919,12 @@
 /resources/anim/droid/protocol/po_attention_idle.jba
 /resources/anim/droid/protocol/po_attention_look_around.jba
 /resources/anim/droid/protocol/po_death_to_injured_laying.jba
+/resources/anim/droid/protocol/po_fix_kneel_med_to_normal.jba
+/resources/anim/droid/protocol/po_fix_stand_high_idle_01.jba
+/resources/anim/droid/protocol/po_fix_stand_high_idle_02.jba
+/resources/anim/droid/protocol/po_fix_stand_high_to_normal.jba
+/resources/anim/droid/protocol/po_fix_stand_med_idle.jba
+/resources/anim/droid/protocol/po_fix_stand_med_to_normal.jba
 /resources/anim/droid/protocol/po_injured_head_idle.jba
 /resources/anim/droid/protocol/po_injured_head_righthand_01.jba
 /resources/anim/droid/protocol/po_injured_head_righthand_02.jba
@@ -1923,6 +1951,10 @@
 /resources/anim/droid/protocol/po_normal_to_arms_behind.jba
 /resources/anim/droid/protocol/po_normal_to_arms_crossed.jba
 /resources/anim/droid/protocol/po_normal_to_arms_front.jba
+/resources/anim/droid/protocol/po_normal_to_attention.jba
+/resources/anim/droid/protocol/po_normal_to_fix_kneel_low.jba
+/resources/anim/droid/protocol/po_normal_to_fix_kneel_med.jba
+/resources/anim/droid/protocol/po_normal_to_fix_stand_high.jba
 /resources/anim/droid/protocol/po_normal_to_injured_head.jba
 /resources/anim/droid/protocol/po_normal_to_injured_laying.jba
 /resources/anim/droid/protocol/po_normal_to_injured_low.jba

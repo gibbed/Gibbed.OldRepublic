@@ -1,4 +1,4 @@
-; 1553/1614 (96%)
+; 1556/1614 (96%)
 /resources/art/shaders/materials/all_arch_rep_water_tower_pool.mat
 /resources/art/shaders/materials/all_arch_ruins_house2.mat
 /resources/art/shaders/materials/all_arch_ruins_tower_floor.mat
@@ -115,13 +115,16 @@
 /resources/art/shaders/materials/tyt_env_straw_grass_kalikori.mat
 /resources/art/shaders/materials/tyt_env_vines01.mat
 /resources/art/shaders/materials/tyt_item_cave_light.mat
+/resources/art/shaders/materials/tyt_item_crashedpod.mat
 /resources/art/shaders/materials/tyt_item_fleshraider_bowl.mat
 /resources/art/shaders/materials/tyt_item_fleshraider_heat_source.mat
+/resources/art/shaders/materials/tyt_item_fleshraider_idol_01.mat
 /resources/art/shaders/materials/tyt_item_fleshraider_idol_01v2.mat
 /resources/art/shaders/materials/tyt_item_fleshraider_lantern.mat
 /resources/art/shaders/materials/tyt_item_fleshraider_lantern_red.mat
 /resources/art/shaders/materials/tyt_item_fleshraider_meathook.mat
 /resources/art/shaders/materials/tyt_item_fleshraider_rug.mat
+/resources/art/shaders/materials/tyt_item_marker_panarck_lair.mat
 /resources/art/shaders/materials/tyt_item_marker_wizard_lair.mat
 /resources/art/shaders/materials/tyt_skyscene_gradient.mat
 /resources/art/shaders/materials/tyt_skyscene_mountains.mat

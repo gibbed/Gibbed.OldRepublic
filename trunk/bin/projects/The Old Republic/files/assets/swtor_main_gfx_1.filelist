@@ -1,4 +1,4 @@
-; 10231/52255 (19%)
+; 10235/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -2010,6 +2010,7 @@
 /resources/gfx/icons/electroblade.low05.a01_v01.dds
 /resources/gfx/icons/electroblade.low05.a02_v01.dds
 /resources/gfx/icons/electroblade.low05.a03_v01.dds
+/resources/gfx/icons/electrocution.dds
 /resources/gfx/icons/electronicplug.dds
 /resources/gfx/icons/electronics.dds
 /resources/gfx/icons/electrostaff.chiss01.a01_v01.dds
@@ -9124,6 +9125,7 @@
 /resources/gfx/icons/minoryellowstimpack.dds
 /resources/gfx/icons/mirilantrader.dds
 /resources/gfx/icons/missileblast.dds
+/resources/gfx/icons/missilesalvo.dds
 /resources/gfx/icons/modulator1.dds
 /resources/gfx/icons/modulator1_aim.dds
 /resources/gfx/icons/modulator1_cun.dds
@@ -10100,6 +10102,7 @@
 /resources/gfx/loadingscreen/korriban_overlay.dds
 /resources/gfx/loadingscreen/korriban_overlay_text.dds
 /resources/gfx/loadingscreen/nar_overlay.dds
+/resources/gfx/loadingscreen/nar_overlay_text.dds
 /resources/gfx/loadingscreen/ord_overlay.dds
 /resources/gfx/loadingscreen/quesh_overlay.dds
 /resources/gfx/loadingscreen/republic_overlay.dds
@@ -10113,6 +10116,7 @@
 /resources/gfx/loadingscreen/spc_overlay_m09.dds
 /resources/gfx/loadingscreen/taris_overlay.dds
 /resources/gfx/loadingscreen/tatooine_overlay.dds
+/resources/gfx/loadingscreen/tatooine_overlay_text.dds
 /resources/gfx/loadingscreen/tython_overlay.dds
 /resources/gfx/loadingscreen/voss_overlay.dds
 /resources/gfx/loadingscreen/warzone_alderaan_overlay.dds

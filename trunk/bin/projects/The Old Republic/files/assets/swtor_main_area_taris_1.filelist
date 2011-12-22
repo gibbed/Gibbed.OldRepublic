@@ -1,12 +1,25 @@
-; 1654/1793 (92%)
+; 1667/1793 (92%)
 /resources/art/shaders/materials/all_item_debris_ship_large_a.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_b.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_b_01.mat
 /resources/art/shaders/materials/all_item_debris_ship_large_b_trim.mat
 /resources/art/shaders/materials/tar_arch_cables.mat
+/resources/art/shaders/materials/tar_arch_scaffold_frame.mat
 /resources/art/shaders/materials/tar_arch_scaffold_mesh.mat
+/resources/art/shaders/materials/tar_arch_superbeam.mat
+/resources/art/shaders/materials/tar_arch_superbeam_base.mat
+/resources/art/shaders/materials/tar_arch_superbeam_metal.mat
+/resources/art/shaders/materials/tar_arch_superbeam_metal_inside.mat
+/resources/art/shaders/materials/tar_arch_superbeam_trim.mat
+/resources/art/shaders/materials/tar_arch_tech_column01.mat
+/resources/art/shaders/materials/tar_arch_tech_column02.mat
+/resources/art/shaders/materials/tar_arch_tech_column03.mat
+/resources/art/shaders/materials/tar_arch_tech_terrain_trim.mat
 /resources/art/shaders/materials/tar_arch_transport_track.mat
 /resources/art/shaders/materials/tar_arch_transport_track_details.mat
+/resources/art/shaders/materials/tar_ibeam_bottom.mat
+/resources/art/shaders/materials/tar_ibeam_top.mat
+/resources/art/shaders/materials/tar_item_toxic_waste_plane.mat
 /resources/art/shaders/materials/ter_tar_dirt02_debris.mat
 /resources/art/static/area/all_all/item/debris/texture/all_item_debris_ship_large_a_d.dds
 /resources/art/static/area/all_all/item/debris/texture/all_item_debris_ship_large_a_d.tex

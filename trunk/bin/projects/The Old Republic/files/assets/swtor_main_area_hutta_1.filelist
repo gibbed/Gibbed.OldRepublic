@@ -1,4 +1,4 @@
-; 1235/1268 (97%)
+; 1237/1268 (97%)
 /resources/art/environmentmaps/hut_main/default.dds
 /resources/art/environmentmaps/hut_main/default.tex
 /resources/art/environmentmaps/hut_main/default.tiny.dds
@@ -23,6 +23,7 @@
 /resources/art/shaders/materials/all_arch_und_interior_panels.mat
 /resources/art/shaders/materials/all_arch_und_med_center_interior_wall.mat
 /resources/art/shaders/materials/all_arch_und_smokestack_body_elements.mat
+/resources/art/shaders/materials/all_city_arch_scaffolding.mat
 /resources/art/shaders/materials/all_item_rep_peasant_bed.mat
 /resources/art/shaders/materials/all_item_techcave_grate.mat
 /resources/art/shaders/materials/all_item_und_hutt_throne.mat
@@ -1002,6 +1003,7 @@
 /resources/art/static/area/hut_hutta/speedtree/texture/hut_watersledge_plant_n.dds
 /resources/art/static/area/hut_hutta/speedtree/texture/hut_watersledge_plant_n.tex
 /resources/art/static/area/hut_hutta/speedtree/texture/hut_watersledge_plant_n.tiny.dds
+/resources/art/static/area/hut_hutta/terrain_map/hutta_ground_trash_03.gr2
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_ground_metal2_d.dds
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_ground_metal2_d.tex
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_ground_metal2_d.tiny.dds

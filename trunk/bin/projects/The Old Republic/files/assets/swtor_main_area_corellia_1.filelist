@@ -1,4 +1,4 @@
-; 2316/2911 (79%)
+; 2320/2911 (79%)
 /resources/art/shaders/materials/all_item_decal_wall_dmg.mat
 /resources/art/shaders/materials/all_item_factory_cauldron_metal.mat
 /resources/art/shaders/materials/cor_arch_works_grating.mat
@@ -20,10 +20,14 @@
 /resources/art/shaders/materials/crl_arch_int_pipe_set.mat
 /resources/art/shaders/materials/crl_arch_int_pipe_set01.mat
 /resources/art/shaders/materials/crl_item_generator_large.mat
+/resources/art/shaders/materials/crl_item_signage_add.mat
 /resources/art/shaders/materials/crl_item_signage_advert_hvac.mat
 /resources/art/shaders/materials/crl_item_statue_sitting.mat
 /resources/art/shaders/materials/crl_speedtree_pampasgrass01.mat
+/resources/art/shaders/materials/nar_arch_city_road_trims.mat
+/resources/art/shaders/materials/nar_arch_city_vent.mat
 /resources/art/shaders/materials/nar_arch_city_walkway_base03.mat
+/resources/art/shaders/materials/nar_arch_city_walkway_side01.mat
 /resources/art/shaders/materials/ord_speedtree_boxwood01_fronds.mat
 /resources/art/static/area/ald_alderaan/item/texture/ald_item_banners_d.dds
 /resources/art/static/area/ald_alderaan/item/texture/ald_item_banners_d.tex

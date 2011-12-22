@@ -1,4 +1,4 @@
-; 8511/8930 (95%)
+; 8587/8930 (96%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -145,6 +145,7 @@
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_d.tiny.dds
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_h.dds
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_h.tex
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_h.tiny.dds
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_m.dds
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_m.tex
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a07_v01_f_m.tiny.dds
@@ -186,10 +187,13 @@
 /resources/art/dynamic/npc/voss/head/texture/___psd/eye_voss_non_a01_c02_s.tiny.dds
 /resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gecollar01_med_ge_a20slave01_u_d.dds
 /resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gecollar01_med_ge_a20slave01_u_d.tex
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gecollar01_med_ge_a20slave01_u_d.tiny.dds
 /resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gecollar01_med_ge_a20slave01_u_n.dds
 /resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gecollar01_med_ge_a20slave01_u_n.tex
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gecollar01_med_ge_a20slave01_u_n.tiny.dds
 /resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gecollar01_med_ge_a20slave01_u_s.dds
 /resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gecollar01_med_ge_a20slave01_u_s.tex
+/resources/art/dynamic/player_character/outfit/gehelmet/texture/___psd/face_gecollar01_med_ge_a20slave01_u_s.tiny.dds
 /resources/art/dynamic/player_character/rodian/head/texture/___psd/head_rodian_bma_non_a01_v01_n.dds
 /resources/art/dynamic/player_character/rodian/head/texture/___psd/head_rodian_bma_non_a01_v01_n.tex
 /resources/art/dynamic/player_character/rodian/head/texture/___psd/head_rodian_bma_non_a01_v01_n.tiny.dds
@@ -267,6 +271,7 @@
 /resources/art/shaders/materials/all_item_camp_fire_spit.mat
 /resources/art/shaders/materials/all_item_camp_large_canopy_canvas.mat
 /resources/art/shaders/materials/all_item_camp_large_canopy_canvas_imp.mat
+/resources/art/shaders/materials/all_item_camp_large_canopy_canvas_rep.mat
 /resources/art/shaders/materials/all_item_camp_large_canopy_canvas_ripped.mat
 /resources/art/shaders/materials/all_item_camp_log.mat
 /resources/art/shaders/materials/all_item_camp_pyre_01.mat
@@ -287,7 +292,9 @@
 /resources/art/shaders/materials/all_item_caves_staglagtite_tat.mat
 /resources/art/shaders/materials/all_item_city_bar.mat
 /resources/art/shaders/materials/all_item_city_corner_stain.mat
+/resources/art/shaders/materials/all_item_city_decal_footprints.mat
 /resources/art/shaders/materials/all_item_city_edge_dirt_16m.mat
+/resources/art/shaders/materials/all_item_city_firebarrel.mat
 /resources/art/shaders/materials/all_item_city_plush_red_rug.mat
 /resources/art/shaders/materials/all_item_city_plush_rug.mat
 /resources/art/shaders/materials/all_item_city_plush_sectional_couch.mat
@@ -297,9 +304,12 @@
 /resources/art/shaders/materials/all_item_city_sign_billboard_card_01.mat
 /resources/art/shaders/materials/all_item_city_sign_billboard_card_02.mat
 /resources/art/shaders/materials/all_item_city_sign_billboard_card_03.mat
+/resources/art/shaders/materials/all_item_city_sign_billboard_card_04.mat
+/resources/art/shaders/materials/all_item_city_sign_small_card.mat
 /resources/art/shaders/materials/all_item_city_sign_vertical_horizontal_cards.mat
 /resources/art/shaders/materials/all_item_city_statue.mat
 /resources/art/shaders/materials/all_item_city_statue_02.mat
+/resources/art/shaders/materials/all_item_city_statue_jedi.mat
 /resources/art/shaders/materials/all_item_city_street_lamp.mat
 /resources/art/shaders/materials/all_item_city_streetlamp.mat
 /resources/art/shaders/materials/all_item_city_techsigns_01.mat
@@ -308,6 +318,7 @@
 /resources/art/shaders/materials/all_item_city_techsigns_02_cards.mat
 /resources/art/shaders/materials/all_item_city_techsigns_shared.mat
 /resources/art/shaders/materials/all_item_city_trashcan.mat
+/resources/art/shaders/materials/all_item_city_wall_light.mat
 /resources/art/shaders/materials/all_item_city_window_rounded.mat
 /resources/art/shaders/materials/all_item_con_crate_04_broken.mat
 /resources/art/shaders/materials/all_item_con_crate_04_open.mat
@@ -380,8 +391,11 @@
 /resources/art/shaders/materials/all_item_farm_plant_short_01.mat
 /resources/art/shaders/materials/all_item_farm_plow.mat
 /resources/art/shaders/materials/all_item_farm_trough.mat
+/resources/art/shaders/materials/all_item_furn_barracks_bunk.mat
 /resources/art/shaders/materials/all_item_furn_chair.mat
 /resources/art/shaders/materials/all_item_furn_conf_table_neu.mat
+/resources/art/shaders/materials/all_item_furn_game_table_large.mat
+/resources/art/shaders/materials/all_item_furn_game_table_large_damaged.mat
 /resources/art/shaders/materials/all_item_furn_ps_sith_bunks.mat
 /resources/art/shaders/materials/all_item_furn_rep_space_chair.mat
 /resources/art/shaders/materials/all_item_furn_senate_table.mat
@@ -390,6 +404,10 @@
 /resources/art/shaders/materials/all_item_furn_temple_bench_interior.mat
 /resources/art/shaders/materials/all_item_furniture_large_rug.mat
 /resources/art/shaders/materials/all_item_holotree_01_suv.mat
+/resources/art/shaders/materials/all_item_holotree_02_suv.mat
+/resources/art/shaders/materials/all_item_holotree_03_suv.mat
+/resources/art/shaders/materials/all_item_holotree_04_suv.mat
+/resources/art/shaders/materials/all_item_holotree_05_suv.mat
 /resources/art/shaders/materials/all_item_huttball_ball.mat
 /resources/art/shaders/materials/all_item_huttball_flame_vent.mat
 /resources/art/shaders/materials/all_item_huttball_flame_vent_trans.mat
@@ -406,10 +424,13 @@
 /resources/art/shaders/materials/all_item_imp_crate_broken.mat
 /resources/art/shaders/materials/all_item_imp_crate_open.mat
 /resources/art/shaders/materials/all_item_imp_floodlight_large_base.mat
+/resources/art/shaders/materials/all_item_imp_floodlight_large_light_off.mat
 /resources/art/shaders/materials/all_item_imp_floodlight_large_panel.mat
 /resources/art/shaders/materials/all_item_imp_generator_plate_large.mat
 /resources/art/shaders/materials/all_item_imp_generator_plate_small.mat
 /resources/art/shaders/materials/all_item_imp_junk_01.mat
+/resources/art/shaders/materials/all_item_imp_kolto_tank.mat
+/resources/art/shaders/materials/all_item_imp_kolto_tank_fluid.mat
 /resources/art/shaders/materials/all_item_imp_mandalorian_banner_stand.mat
 /resources/art/shaders/materials/all_item_imp_mandalorian_mandalorian_banner.mat
 /resources/art/shaders/materials/all_item_imp_medical_bed.mat
@@ -420,6 +441,7 @@
 /resources/art/shaders/materials/all_item_imp_sconce.mat
 /resources/art/shaders/materials/all_item_imp_sign.mat
 /resources/art/shaders/materials/all_item_imp_small_scaffold.mat
+/resources/art/shaders/materials/all_item_imp_small_scaffold_mesh.mat
 /resources/art/shaders/materials/all_item_imp_space_bridge_ceil_light.mat
 /resources/art/shaders/materials/all_item_imp_space_bridge_ceil_light_int.mat
 /resources/art/shaders/materials/all_item_imp_table_lamp.mat
@@ -433,6 +455,8 @@
 /resources/art/shaders/materials/all_item_kaas_city_post_banner01.mat
 /resources/art/shaders/materials/all_item_kaas_city_post_flags.mat
 /resources/art/shaders/materials/all_item_krayt_skull.mat
+/resources/art/shaders/materials/all_item_large_tank.mat
+/resources/art/shaders/materials/all_item_large_tank_details.mat
 /resources/art/shaders/materials/all_item_lore_terminal.mat
 /resources/art/shaders/materials/all_item_market_banner_canopy.mat
 /resources/art/shaders/materials/all_item_medical_republic_hospital_bed.mat
@@ -444,6 +468,7 @@
 /resources/art/shaders/materials/all_item_medical_republic_wallmonitor_01screen.mat
 /resources/art/shaders/materials/all_item_medical_wall_monitor02.mat
 /resources/art/shaders/materials/all_item_misc_backpack.mat
+/resources/art/shaders/materials/all_item_misc_cables.mat
 /resources/art/shaders/materials/all_item_misc_campfire_barrel.mat
 /resources/art/shaders/materials/all_item_misc_canteen.mat
 /resources/art/shaders/materials/all_item_misc_coin.mat
@@ -458,9 +483,15 @@
 /resources/art/shaders/materials/all_item_munitions_stockpile_01.mat
 /resources/art/shaders/materials/all_item_munitions_stockpile_02.mat
 /resources/art/shaders/materials/all_item_munitions_stockpile_03.mat
+/resources/art/shaders/materials/all_item_neu_narshadda_holokiosk_accessories.mat
+/resources/art/shaders/materials/all_item_neu_narshadda_holokiosk_metal.mat
+/resources/art/shaders/materials/all_item_neu_narshadda_holokiosk_trim.mat
 /resources/art/shaders/materials/all_item_neu_turret_large_multi.mat
+/resources/art/shaders/materials/all_item_neu_turret_large_multi_red_small.mat
 /resources/art/shaders/materials/all_item_poster_separatist.mat
 /resources/art/shaders/materials/all_item_prison_wall.mat
+/resources/art/shaders/materials/all_item_rakata_geothermal_energy_collector.mat
+/resources/art/shaders/materials/all_item_rakata_geothermal_energy_collector_02.mat
 /resources/art/shaders/materials/all_item_red_crystal.mat
 /resources/art/shaders/materials/all_item_relics_vase.mat
 /resources/art/shaders/materials/all_item_rep_ammo_box.mat
@@ -475,6 +506,7 @@
 /resources/art/shaders/materials/all_item_rep_crate_02_broken.mat
 /resources/art/shaders/materials/all_item_rep_crate_02_open.mat
 /resources/art/shaders/materials/all_item_rep_desk_computer_01.mat
+/resources/art/shaders/materials/all_item_rep_desk_computer_01_damaged.mat
 /resources/art/shaders/materials/all_item_rep_desk_computer_01_suv.mat
 /resources/art/shaders/materials/all_item_rep_door_lock.mat
 /resources/art/shaders/materials/all_item_rep_fort_pipes.mat
@@ -524,7 +556,9 @@
 /resources/art/shaders/materials/all_item_ruins_rubble_02a.mat
 /resources/art/shaders/materials/all_item_ruins_rubble_02b.mat
 /resources/art/shaders/materials/all_item_shop_stand_set.mat
+/resources/art/shaders/materials/all_item_shop_stand_sign.mat
 /resources/art/shaders/materials/all_item_shop_stand_tent.mat
+/resources/art/shaders/materials/all_item_signal_scrambler.mat
 /resources/art/shaders/materials/all_item_sith_academy_main_obelisk.mat
 /resources/art/shaders/materials/all_item_sith_ancient_pictographic_mural.mat
 /resources/art/shaders/materials/all_item_sith_artifact.mat
@@ -600,10 +634,12 @@
 /resources/art/shaders/materials/all_item_tech_forklift.mat
 /resources/art/shaders/materials/all_item_tech_forklift_lights.mat
 /resources/art/shaders/materials/all_item_tech_frozen_biomatter_storage.mat
+/resources/art/shaders/materials/all_item_tech_fusion_generator_supply_tank.mat
 /resources/art/shaders/materials/all_item_tech_gasline_marker.mat
 /resources/art/shaders/materials/all_item_tech_glowstick.mat
 /resources/art/shaders/materials/all_item_tech_glowstick_yellow.mat
 /resources/art/shaders/materials/all_item_tech_grate01.mat
+/resources/art/shaders/materials/all_item_tech_hanging_light.mat
 /resources/art/shaders/materials/all_item_tech_hearthstone_terminal.mat
 /resources/art/shaders/materials/all_item_tech_holo_terminal.mat
 /resources/art/shaders/materials/all_item_tech_holocron_jedi_01.mat
@@ -627,6 +663,8 @@
 /resources/art/shaders/materials/all_item_tech_imp_wallcomputer_suv.mat
 /resources/art/shaders/materials/all_item_tech_jukebox_imp.mat
 /resources/art/shaders/materials/all_item_tech_jukebox_imp_suv.mat
+/resources/art/shaders/materials/all_item_tech_jukebox_neu.mat
+/resources/art/shaders/materials/all_item_tech_jukebox_neu_suv.mat
 /resources/art/shaders/materials/all_item_tech_library_panel.mat
 /resources/art/shaders/materials/all_item_tech_library_panel_02.mat
 /resources/art/shaders/materials/all_item_tech_library_panel_02_suv.mat
@@ -637,6 +675,7 @@
 /resources/art/shaders/materials/all_item_tech_light01.mat
 /resources/art/shaders/materials/all_item_tech_lightningmachine.mat
 /resources/art/shaders/materials/all_item_tech_mailbox.mat
+/resources/art/shaders/materials/all_item_tech_mall_kiosk.mat
 /resources/art/shaders/materials/all_item_tech_mall_kiosk_neon.mat
 /resources/art/shaders/materials/all_item_tech_matrix_converter.mat
 /resources/art/shaders/materials/all_item_tech_med_scanner.mat
@@ -644,15 +683,20 @@
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_01.mat
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_02.mat
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_03.mat
+/resources/art/shaders/materials/all_item_tech_mine_barrel.mat
+/resources/art/shaders/materials/all_item_tech_mine_barrel_fluid.mat
 /resources/art/shaders/materials/all_item_tech_missiles_large_all_item_tech_missiles.mat
 /resources/art/shaders/materials/all_item_tech_missiles_large_fin.mat
 /resources/art/shaders/materials/all_item_tech_missiles_small.mat
 /resources/art/shaders/materials/all_item_tech_monitor_decal_02.mat
 /resources/art/shaders/materials/all_item_tech_monitorcracks_d.mat
+/resources/art/shaders/materials/all_item_tech_nar_parking_meter.mat
 /resources/art/shaders/materials/all_item_tech_neu_cthon_pod.mat
 /resources/art/shaders/materials/all_item_tech_neu_cthon_pod_glass.mat
 /resources/art/shaders/materials/all_item_tech_neu_forcefield_generator_floating.mat
 /resources/art/shaders/materials/all_item_tech_neu_generator.mat
+/resources/art/shaders/materials/all_item_tech_neu_lighthouse_tatooine.mat
+/resources/art/shaders/materials/all_item_tech_neu_phonebooth.mat
 /resources/art/shaders/materials/all_item_tech_neutron_bomb.mat
 /resources/art/shaders/materials/all_item_tech_panel_01.mat
 /resources/art/shaders/materials/all_item_tech_pillar01.mat
@@ -667,6 +711,10 @@
 /resources/art/shaders/materials/all_item_tech_pvp_targeting_consol.mat
 /resources/art/shaders/materials/all_item_tech_radar_large_base.mat
 /resources/art/shaders/materials/all_item_tech_radar_small.mat
+/resources/art/shaders/materials/all_item_tech_rakata_mind_trap_base.mat
+/resources/art/shaders/materials/all_item_tech_rakata_mind_trap_console.mat
+/resources/art/shaders/materials/all_item_tech_rakata_mind_trap_console_damaged.mat
+/resources/art/shaders/materials/all_item_tech_rakata_mind_trap_trap.mat
 /resources/art/shaders/materials/all_item_tech_reinforced_door.mat
 /resources/art/shaders/materials/all_item_tech_remote_detonator.mat
 /resources/art/shaders/materials/all_item_tech_rep_comp_terminal.mat
@@ -688,11 +736,19 @@
 /resources/art/shaders/materials/all_item_tech_server_screen_suv.mat
 /resources/art/shaders/materials/all_item_tech_server_screen_suv_alert.mat
 /resources/art/shaders/materials/all_item_tech_sign.mat
+/resources/art/shaders/materials/all_item_tech_slot_machine_01.mat
+/resources/art/shaders/materials/all_item_tech_slot_machine_01_screen.mat
+/resources/art/shaders/materials/all_item_tech_slot_machine_02.mat
+/resources/art/shaders/materials/all_item_tech_slot_machine_damaged_01.mat
+/resources/art/shaders/materials/all_item_tech_slot_machine_damaged_01_screen.mat
+/resources/art/shaders/materials/all_item_tech_slot_machine_damaged_02.mat
+/resources/art/shaders/materials/all_item_tech_slot_machine_damaged_screen.mat
 /resources/art/shaders/materials/all_item_tech_small_generator.mat
 /resources/art/shaders/materials/all_item_tech_small_holoprojector.mat
 /resources/art/shaders/materials/all_item_tech_sonic_device.mat
 /resources/art/shaders/materials/all_item_tech_space_mission_panel.mat
 /resources/art/shaders/materials/all_item_tech_speaker.mat
+/resources/art/shaders/materials/all_item_tech_stealth_generator.mat
 /resources/art/shaders/materials/all_item_tech_support.mat
 /resources/art/shaders/materials/all_item_tech_tat_solar_panel.mat
 /resources/art/shaders/materials/all_item_tech_torture_machine_imperial.mat
@@ -705,6 +761,7 @@
 /resources/art/shaders/materials/all_item_tech_vaporator_derrick_details.mat
 /resources/art/shaders/materials/all_item_tech_vaporator_derrick_gold.mat
 /resources/art/shaders/materials/all_item_tech_vaporator_derrick_tan.mat
+/resources/art/shaders/materials/all_item_tech_vaporator_derrick_white.mat
 /resources/art/shaders/materials/all_item_tech_wall_monitor.mat
 /resources/art/shaders/materials/all_item_tech_wall_monitor_02_d01_blue.mat
 /resources/art/shaders/materials/all_item_tech_wall_monitor_02_suv_off.mat
@@ -769,6 +826,7 @@
 /resources/art/shaders/materials/all_item_und_microphone_stand.mat
 /resources/art/shaders/materials/all_item_und_panels.mat
 /resources/art/shaders/materials/all_item_und_security_light.mat
+/resources/art/shaders/materials/all_item_und_security_light_03_off.mat
 /resources/art/shaders/materials/all_item_und_security_light_bluegreen.mat
 /resources/art/shaders/materials/all_item_und_training_dummy_melee.mat
 /resources/art/shaders/materials/all_item_und_wall_computer.mat
@@ -799,6 +857,7 @@
 /resources/art/shaders/materials/ce_vendor_stall_hologram_icon_suv_2.mat
 /resources/art/shaders/materials/corpse_assassin_war.mat
 /resources/art/shaders/materials/corpse_bh_armor_heavy_a02_c01_body.mat
+/resources/art/shaders/materials/corpse_bh_armor_heavy_a03_c02_body.mat
 /resources/art/shaders/materials/corpse_burned.mat
 /resources/art/shaders/materials/corpse_frozen.mat
 /resources/art/shaders/materials/corpse_ge_armor_heavy_a11_impheavy01_body.mat
@@ -806,6 +865,7 @@
 /resources/art/shaders/materials/corpse_ge_baggy_light_a32_settler02_body.mat
 /resources/art/shaders/materials/corpse_head_bfa_01.mat
 /resources/art/shaders/materials/corpse_head_bfn_01.mat
+/resources/art/shaders/materials/corpse_head_bfn_02.mat
 /resources/art/shaders/materials/corpse_head_bfn_03.mat
 /resources/art/shaders/materials/corpse_head_bma_01.mat
 /resources/art/shaders/materials/corpse_head_bma_02.mat
@@ -820,11 +880,14 @@
 /resources/art/shaders/materials/corpse_sm_baggy_med_a03_c01_body.mat
 /resources/art/shaders/materials/corpse_sm_tight_med_a04_c01_body.mat
 /resources/art/shaders/materials/corpse_sp_tight_med_a01_c01_body.mat
+/resources/art/shaders/materials/corpse_sp_tight_med_a04_c01_body.mat
 /resources/art/shaders/materials/corpse_sw_baggy_heavy_a05_c01_body.mat
 /resources/art/shaders/materials/corpse_sw_tight_med_a01_c01_body.mat
+/resources/art/shaders/materials/corpse_tr_armor_heavy_a03_c01_body.mat
 /resources/art/shaders/materials/corpse_tr_tight_heavy_a02_c01_body.mat
 /resources/art/shaders/materials/dog_tukata_a01_v01.mat
 /resources/art/shaders/materials/eye_voss_non_a01_c02.mat
+/resources/art/shaders/materials/face_collar01_bmn_med_ge_a20slave01.mat
 /resources/art/shaders/materials/fx_life_support_pump_lights.mat
 /resources/art/shaders/materials/geonosian_eshka_a01_v01.mat
 /resources/art/shaders/materials/geonosian_eshka_a02_v01.mat
@@ -872,6 +935,7 @@
 /resources/art/shaders/materials/orig_all_item_vendor_signs_rep2.mat
 /resources/art/shaders/materials/protocol_courier_a01_v01.mat
 /resources/art/shaders/materials/protocol_po12_a01_v01.mat
+/resources/art/shaders/materials/tar_arch_ibeam_trim.mat
 /resources/art/shaders/materials/ter_tat_path2.mat
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_large_tech_d.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_large_tech_d.tex
@@ -5003,6 +5067,8 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_wallcomputer.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_jukebox_imp.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_jukebox_imp_on.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_jukebox_neu.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_jukebox_neu_on.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_library_panel.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_library_panel_02.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_library_panel_02_works.gr2
@@ -5981,6 +6047,15 @@
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_imp_suv_d.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_imp_suv_d.tex
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_imp_suv_d.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_neu_d.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_neu_d.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_neu_d.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_neu_n.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_neu_n.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_neu_n.tiny.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_neu_s.dds
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_neu_s.tex
+/resources/art/static/area/all_all/item/tech/texture/all_item_tech_jukebox_neu_s.tiny.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_library_panel_02_d.dds
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_library_panel_02_d.tex
 /resources/art/static/area/all_all/item/tech/texture/all_item_tech_library_panel_02_d.tiny.dds
@@ -7717,6 +7792,7 @@
 /resources/art/static/area/all_all/item/underworld/all_item_und_bar_end_fixed.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_bar_instrument_clarinet.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_bar_instrument_guitar.gr2
+/resources/art/static/area/all_all/item/underworld/all_item_und_bar_instrument_microphone.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_bar_loveseat.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_bar_nalargon.gr2
 /resources/art/static/area/all_all/item/underworld/all_item_und_bar_speaker.gr2

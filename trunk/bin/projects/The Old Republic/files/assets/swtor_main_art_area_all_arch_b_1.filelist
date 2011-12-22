@@ -1,4 +1,4 @@
-; 6210/6335 (98%)
+; 6228/6335 (98%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -9,6 +9,12 @@
 /resources/art/shaders/materials/all_arch_hut_small_mudseam.mat
 /resources/art/shaders/materials/all_arch_imp_city_block_bldg_roof_02.mat
 /resources/art/shaders/materials/all_arch_mineshaft_entrance_door.mat
+/resources/art/shaders/materials/all_arch_narshadda_holo_bench.mat
+/resources/art/shaders/materials/all_arch_neu_bantha_shelter_antenna.mat
+/resources/art/shaders/materials/all_arch_neu_bantha_shelter_base.mat
+/resources/art/shaders/materials/all_arch_neu_bantha_shelter_canvas.mat
+/resources/art/shaders/materials/all_arch_neu_bantha_shelter_trough.mat
+/resources/art/shaders/materials/all_arch_neu_bantha_shelter_troughwater.mat
 /resources/art/shaders/materials/all_arch_neu_bunker_new.mat
 /resources/art/shaders/materials/all_arch_neu_chem_tank.mat
 /resources/art/shaders/materials/all_arch_neu_city_panel.mat
@@ -16,6 +22,10 @@
 /resources/art/shaders/materials/all_arch_neu_city_set_building_window.mat
 /resources/art/shaders/materials/all_arch_neu_city_set_roof.mat
 /resources/art/shaders/materials/all_arch_neu_city_set_tunnel.mat
+/resources/art/shaders/materials/all_arch_neu_city_tile01.mat
+/resources/art/shaders/materials/all_arch_neu_city_tile02.mat
+/resources/art/shaders/materials/all_arch_neu_city_tile03.mat
+/resources/art/shaders/materials/all_arch_neu_city_tile04.mat
 /resources/art/shaders/materials/all_arch_neu_city_tile05.mat
 /resources/art/shaders/materials/all_arch_neu_destroyed_building_01_floor.mat
 /resources/art/shaders/materials/all_arch_neu_destroyed_building_01_trim.mat
@@ -23,6 +33,8 @@
 /resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall_panel_stripes.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall_panels.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall_windows_animated.mat
+/resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall_windows_yellow.mat
+/resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall_yellow.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_tower_trim01_nonemiss.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_tower_trim02.mat
 /resources/art/shaders/materials/all_arch_neu_dumpster.mat
@@ -39,6 +51,7 @@
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_top.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_top_detroyed.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_detroyed_parts.mat
+/resources/art/shaders/materials/all_arch_neu_land_speeder_crashed.mat
 /resources/art/shaders/materials/all_arch_neu_mandalorian_trophy_case_all_arch_neu_mandalorian_case.mat
 /resources/art/shaders/materials/all_arch_neu_mining_bore.mat
 /resources/art/shaders/materials/all_arch_neu_mining_bore_engine.mat
@@ -69,6 +82,7 @@
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_main_catwalk_floor.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_metal_burgundy01.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_metal_dkgray01.mat
+/resources/art/shaders/materials/all_arch_neu_spaceport_int_observdeck.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_panel01.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_pillar01.mat
 /resources/art/shaders/materials/all_arch_neu_spaceport_int_trims02.mat
@@ -168,6 +182,7 @@
 /resources/art/shaders/materials/all_arch_rep_store_metal.mat
 /resources/art/shaders/materials/all_arch_rep_store_prop02.mat
 /resources/art/shaders/materials/all_arch_rep_tent_large.mat
+/resources/art/shaders/materials/all_arch_rep_tent_leanto.mat
 /resources/art/shaders/materials/all_arch_rep_tent_medium.mat
 /resources/art/shaders/materials/all_arch_rep_tent_opensided.mat
 /resources/art/shaders/materials/all_arch_rep_tower.mat
@@ -255,6 +270,7 @@
 /resources/art/shaders/materials/all_arch_tech_ion_cannon_siding.mat
 /resources/art/shaders/materials/all_arch_techcave_ceiling.mat
 /resources/art/shaders/materials/all_arch_techcave_door_large01.mat
+/resources/art/shaders/materials/all_arch_techcave_door_small_corridor.mat
 /resources/art/shaders/materials/all_arch_techcave_door_small01.mat
 /resources/art/shaders/materials/all_arch_techcave_entrance_02_01.mat
 /resources/art/shaders/materials/all_arch_techcave_entrance_02_02.mat
@@ -282,6 +298,7 @@
 /resources/art/shaders/materials/all_arch_und_cantina_small_door.mat
 /resources/art/shaders/materials/all_arch_und_cantina_trim.mat
 /resources/art/shaders/materials/all_arch_und_ceiling_panels.mat
+/resources/art/shaders/materials/all_arch_und_door_01.mat
 /resources/art/shaders/materials/all_arch_und_factory_access.mat
 /resources/art/shaders/materials/all_arch_und_factory_buttress.mat
 /resources/art/shaders/materials/all_arch_und_factory_buttside.mat
@@ -406,6 +423,7 @@
 /resources/art/shaders/materials/kor_tomb_statue01.mat
 /resources/art/shaders/materials/kor_tomb_stonetrim02.mat
 /resources/art/shaders/materials/kor_tomb_stonewall03.mat
+/resources/art/shaders/materials/nar_arch_city_matte_ceiling.mat
 /resources/art/shaders/materials/occluder_terrain.mat
 /resources/art/shaders/materials/ter_rep_metal_gray01.mat
 /resources/art/static/area/all_all/arch/a_all_wallset_imperial_containment_wall_16m.gr2
