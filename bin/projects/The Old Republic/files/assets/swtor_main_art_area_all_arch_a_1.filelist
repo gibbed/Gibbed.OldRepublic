@@ -1,4 +1,4 @@
-; 3456/3574 (96%)
+; 3478/3574 (97%)
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_01.mat
@@ -26,6 +26,7 @@
 /resources/art/shaders/materials/all_arch_city_ext_bwall_a_new_02.mat
 /resources/art/shaders/materials/all_arch_city_ext_bwall_a_new_03.mat
 /resources/art/shaders/materials/all_arch_city_ext_bwall_door_lg.mat
+/resources/art/shaders/materials/all_arch_city_ext_bwall_wall02.mat
 /resources/art/shaders/materials/all_arch_city_facade_addon_metal_04.mat
 /resources/art/shaders/materials/all_arch_city_guard_tower.mat
 /resources/art/shaders/materials/all_arch_city_large_pillar.mat
@@ -56,7 +57,9 @@
 /resources/art/shaders/materials/all_arch_city_taxi_station_wall_int_01.mat
 /resources/art/shaders/materials/all_arch_city_taxi_station_wall_int_02.mat
 /resources/art/shaders/materials/all_arch_city_walkway_base01.mat
+/resources/art/shaders/materials/all_arch_city_walkway_base02.mat
 /resources/art/shaders/materials/all_arch_city_walkway_base03.mat
+/resources/art/shaders/materials/all_arch_city_walkway_lift.mat
 /resources/art/shaders/materials/all_arch_city_walkway_side01.mat
 /resources/art/shaders/materials/all_arch_crystal_formation.mat
 /resources/art/shaders/materials/all_arch_crystal_formation_green.mat
@@ -66,7 +69,12 @@
 /resources/art/shaders/materials/all_arch_fadeportal_kor_academy_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_outside.mat
+/resources/art/shaders/materials/all_arch_fadeportal_nar_warehouse.mat
 /resources/art/shaders/materials/all_arch_fadeportal_pvp_huttball_01.mat
+/resources/art/shaders/materials/all_arch_fadeportal_tat_czerka_mine_custom.mat
+/resources/art/shaders/materials/all_arch_fadeportal_tat_exterior_bright.mat
+/resources/art/shaders/materials/all_arch_fadeportal_tat_homestead_int_dark.mat
+/resources/art/shaders/materials/all_arch_fadeportal_tat_imp_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_tyt_cave_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_tyt_jedi_temple.mat
 /resources/art/shaders/materials/all_arch_fadeportal_tyt_outside.mat
@@ -1286,6 +1294,15 @@
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_damaged_02_s.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_damaged_02_s.tex
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_damaged_02_s.tiny.dds
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_lift_d.dds
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_lift_d.tex
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_lift_d.tiny.dds
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_lift_n.dds
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_lift_n.tex
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_lift_n.tiny.dds
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_lift_s.dds
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_lift_s.tex
+/resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_lift_s.tiny.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_side01_d.dds
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_side01_d.tex
 /resources/art/static/area/all_all/arch/city/texture/all_arch_city_walkway_side01_d.tiny.dds
@@ -1368,6 +1385,9 @@
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_kor_outside_d.dds
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_kor_outside_d.tex
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_kor_outside_d.tiny.dds
+/resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_nar_warehouse_d.dds
+/resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_nar_warehouse_d.tex
+/resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_nar_warehouse_d.tiny.dds
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_pvp_huttball_01_d.dds
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_pvp_huttball_01_d.tex
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_pvp_huttball_01_d.tiny.dds
@@ -1377,6 +1397,8 @@
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_que_light.dds
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_que_light.tex
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_que_light.tiny.dds
+/resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tat_czerka_mine_custom_d.tex
+/resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tat_czerka_mine_custom_d.tiny.dds
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tat_exterior_bright_d.dds
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tat_exterior_bright_d.tex
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tat_exterior_bright_d.tiny.dds

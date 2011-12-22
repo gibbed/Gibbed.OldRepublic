@@ -1,4 +1,4 @@
-; 4787/5536 (86%)
+; 4796/5536 (86%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -55,6 +55,7 @@
 /resources/art/fx/texture/uv_atlas/uv_template_masks_k.tex
 /resources/art/fx/texture/uv_atlas/uv_template_masks_k.tiny.dds
 /resources/art/shaders/materials/all_arch_building_props_large.mat
+/resources/art/shaders/materials/all_arch_city_facade_addon_storefront.mat
 /resources/art/shaders/materials/all_arch_imp_building_props_small.mat
 /resources/art/shaders/materials/all_arch_imp_buildings_metal_dark.mat
 /resources/art/shaders/materials/all_arch_imp_buildings_metal_light.mat
@@ -125,6 +126,7 @@
 /resources/art/shaders/materials/gal_item_galaxymap_planet.mat
 /resources/art/shaders/materials/gal_item_queshe_clouds.mat
 /resources/art/shaders/materials/gal_item_queshe_planet.mat
+/resources/art/shaders/materials/nar_arch_city_road_pavement.mat
 /resources/art/shaders/materials/occluder_wall.mat
 /resources/art/shaders/materials/portal.mat
 /resources/art/shaders/materials/sky_galaxy_skydome.mat
@@ -191,6 +193,8 @@
 /resources/art/shaders/materials/spc_item_planetsign_hutta.mat
 /resources/art/shaders/materials/spc_item_planetsign_kor.mat
 /resources/art/shaders/materials/spc_item_planetsign_ord.mat
+/resources/art/shaders/materials/spc_item_planetsign_tatooine_imp.mat
+/resources/art/shaders/materials/spc_item_planetsign_tatooine_rep.mat
 /resources/art/shaders/materials/spc_item_planetsign_tython.mat
 /resources/art/shaders/materials/spc_item_ps_agent_holo_communicator.mat
 /resources/art/shaders/materials/spc_item_ps_agent_trophybase.mat
@@ -290,11 +294,14 @@
 /resources/art/shaders/materials/spc_ps_jedi_int_floor04.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_floor05.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_lightcards01.mat
+/resources/art/shaders/materials/spc_ps_jedi_int_ramp.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_tech01.mat
+/resources/art/shaders/materials/spc_ps_jedi_int_tech02.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_trims01.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_trims02.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_wall01.mat
 /resources/art/shaders/materials/spc_ps_jedi_int_wall02.mat
+/resources/art/shaders/materials/spc_ps_jedi_int_wall03.mat
 /resources/art/shaders/materials/spc_ps_sith_ext_body01.mat
 /resources/art/shaders/materials/spc_ps_sith_ext_body02.mat
 /resources/art/shaders/materials/spc_ps_sith_ext_body03.mat
@@ -4713,6 +4720,7 @@
 /resources/world/areas/4611686142106770000/map_imperial_fleet_station_r.dds
 /resources/world/areas/4611686142106770000/map_imperial_fleet_station_upper_r.dds
 /resources/world/areas/4611686142106770000/map_imperial_fleet_world_r.dds
+/resources/world/areas/4611686142106770000/map_ziost_shadow_hangar_r.dds
 /resources/world/areas/4611686142106770000/mapnotes.not
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_revan_00_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_revan_00_01_r.dds
@@ -4748,6 +4756,7 @@
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_01_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_01_01_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_upper_00_00_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_ziost_shadow_hangar_00_00_r.dds
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_cargo_hold_r.dds
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_datacore_r.dds
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_hangar_r.dds

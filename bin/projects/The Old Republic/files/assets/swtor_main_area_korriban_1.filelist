@@ -1,4 +1,4 @@
-; 1277/1290 (98%)
+; 1281/1290 (99%)
 /resources/art/environmentmaps/kor_rebuild_test/area2.dds
 /resources/art/environmentmaps/kor_rebuild_test/area2.tex
 /resources/art/environmentmaps/kor_rebuild_test/area2.tiny.dds
@@ -17,6 +17,8 @@
 /resources/art/shaders/materials/all_item_camp_rocks_01.mat
 /resources/art/shaders/materials/all_item_imp_small_scaffold_mesh_alpha.mat
 /resources/art/shaders/materials/all_sith_interior_door_transition2tombs_frame.mat
+/resources/art/shaders/materials/ht21_condor01.mat
+/resources/art/shaders/materials/ht21_condor02.mat
 /resources/art/shaders/materials/kor_acad_blood_pool.mat
 /resources/art/shaders/materials/kor_acad_column_4sides.mat
 /resources/art/shaders/materials/kor_acad_doorjam_pillars.mat
@@ -115,6 +117,8 @@
 /resources/art/shaders/materials/ter_kor_rough.mat
 /resources/art/shaders/materials/ter_kor_sand_trodden.mat
 /resources/art/shaders/materials/ter_kor_sand_trodden2.mat
+/resources/art/shaders/materials/ter_kor_sand_windblown.mat
+/resources/art/shaders/materials/ter_kor_sandflat.mat
 /resources/art/shaders/materials/ter_kor_vod_ruins_floor.mat
 /resources/art/static/area/all_all/arch/texture/all_sith_interior_door_transition2tomb_frames_s.dds
 /resources/art/static/area/all_all/arch/texture/all_sith_interior_door_transition2tomb_frames_s.tex

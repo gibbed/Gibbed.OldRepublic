@@ -1,4 +1,4 @@
-; 1243/1548 (80%)
+; 1271/1548 (82%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -9,13 +9,16 @@
 /resources/art/shaders/materials/all_veh_imp_troop_transport_02.mat
 /resources/art/shaders/materials/fx_thruster_yellow_2_suv.mat
 /resources/art/shaders/materials/fx_transparent.mat
+/resources/art/shaders/materials/mount_neu_model_b_scheme_01.mat
 /resources/art/shaders/materials/mount_neu_model_b_scheme_02.mat
 /resources/art/shaders/materials/mount_neu_model_b_scheme_03.mat
 /resources/art/shaders/materials/mount_neu_model_ddx.mat
 /resources/art/shaders/materials/mount_neu_model_e_scheme_02.mat
 /resources/art/shaders/materials/mount_rep_model_c_scheme_02.mat
+/resources/art/shaders/materials/mount_rep_model_c_scheme_03.mat
 /resources/art/shaders/materials/mount_rep_model_d_scheme_01.mat
 /resources/art/shaders/materials/mount_rep_model_d_scheme_02.mat
+/resources/art/shaders/materials/mount_rep_model_d_scheme_03.mat
 /resources/art/shaders/materials/mount_rep_model_d_scheme_04.mat
 /resources/art/shaders/materials/veh_imp_friggate_details.mat
 /resources/art/shaders/materials/veh_imp_friggate_engines.mat
@@ -39,6 +42,9 @@
 /resources/art/shaders/materials/veh_imp_transport_pvp_01.mat
 /resources/art/shaders/materials/veh_imp_transport_pvp_02.mat
 /resources/art/shaders/materials/veh_imp_transport_pvp_03.mat
+/resources/art/shaders/materials/veh_neu_air_speeder_blue.mat
+/resources/art/shaders/materials/veh_neu_air_speeder_purple.mat
+/resources/art/shaders/materials/veh_neu_air_speeder_red.mat
 /resources/art/shaders/materials/veh_neu_bus.mat
 /resources/art/shaders/materials/veh_neu_bus_details.mat
 /resources/art/shaders/materials/veh_neu_dropship.mat
@@ -48,6 +54,9 @@
 /resources/art/shaders/materials/veh_neu_garbage_scow.mat
 /resources/art/shaders/materials/veh_neu_garbage_scow_1.mat
 /resources/art/shaders/materials/veh_neu_heavy_utility_starship.mat
+/resources/art/shaders/materials/veh_neu_nar_partybarge_backend.mat
+/resources/art/shaders/materials/veh_neu_nar_partybarge_metal_largeplates.mat
+/resources/art/shaders/materials/veh_neu_nar_partybarge_trim.mat
 /resources/art/shaders/materials/veh_neu_ship_small_1.mat
 /resources/art/shaders/materials/veh_neu_shuttle.mat
 /resources/art/shaders/materials/veh_neu_shuttle_02.mat
@@ -61,12 +70,18 @@
 /resources/art/shaders/materials/veh_neu_starship_condor.mat
 /resources/art/shaders/materials/veh_neu_starship_condor_damage01.mat
 /resources/art/shaders/materials/veh_neu_starship_condor_damage02.mat
+/resources/art/shaders/materials/veh_neu_tat_air_balloon.mat
+/resources/art/shaders/materials/veh_neu_tat_sandcrawler.mat
+/resources/art/shaders/materials/veh_neu_tat_sandcrawler_01.mat
+/resources/art/shaders/materials/veh_neu_tat_sandcrawler_02.mat
+/resources/art/shaders/materials/veh_neu_tat_sandcrawler_03.mat
 /resources/art/shaders/materials/veh_neu_taxi_air_speeder.mat
 /resources/art/shaders/materials/veh_neu_taxi_air_speeder_glass.mat
 /resources/art/shaders/materials/veh_neu_traffic.mat
 /resources/art/shaders/materials/veh_nue_starship_ricker_body.mat
 /resources/art/shaders/materials/veh_nue_starship_ricker_wings.mat
 /resources/art/shaders/materials/veh_pl_mt_speeder_greatwhite_a.mat
+/resources/art/shaders/materials/veh_pl_mt_speeder_greatwhite_b.mat
 /resources/art/shaders/materials/veh_pl_mt_speeder_wasp_05.mat
 /resources/art/shaders/materials/veh_rep_capital_ship_detail01.mat
 /resources/art/shaders/materials/veh_rep_capital_ship_detail02.mat
@@ -802,13 +817,16 @@
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_04.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_05.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_wing.gr2
+/resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_01.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_03.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_ddx.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_e_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_c_scheme_02.gr2
+/resources/art/static/vehicle/player_mount/mount_rep_model_c_scheme_03.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_d_scheme_01.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_d_scheme_02.gr2
+/resources/art/static/vehicle/player_mount/mount_rep_model_d_scheme_03.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_d_scheme_04.gr2
 /resources/art/static/vehicle/player_mount/texture/mount_imp_model_a_scheme_01_d.dds
 /resources/art/static/vehicle/player_mount/texture/mount_imp_model_a_scheme_01_d.tex
@@ -990,6 +1008,15 @@
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_a_s.dds
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_a_s.tex
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_a_s.tiny.dds
+/resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_b_d.dds
+/resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_b_d.tex
+/resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_b_d.tiny.dds
+/resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_b_n.dds
+/resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_b_n.tex
+/resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_b_n.tiny.dds
+/resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_b_s.dds
+/resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_b_s.tex
+/resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_greatwhite_b_s.tiny.dds
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_wasp_05_d.dds
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_wasp_05_d.tex
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_wasp_05_d.tiny.dds
@@ -1000,6 +1027,7 @@
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_wasp_05_s.tex
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_wasp_05_s.tiny.dds
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_greatwhite_a.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_greatwhite_b.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_wasp_05.gr2
 /resources/art/static/vehicle/republic/dbo_swingwing_closed.gr2
 /resources/art/static/vehicle/republic/texture/veh_rep_capital_ship_detail01_d.dds

@@ -1,4 +1,4 @@
-; 2021/2112 (95%)
+; 2040/2112 (96%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
 /resources/art/defaultassets/default_age.dds
@@ -143,6 +143,15 @@
 /resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a01_v01_m.dds
 /resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a01_v01_m.tex
 /resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a01_v01_m.tiny.dds
+/resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a02_v01_d.dds
+/resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a02_v01_d.tex
+/resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a02_v01_d.tiny.dds
+/resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a02_v01_n.dds
+/resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a02_v01_n.tex
+/resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a02_v01_n.tiny.dds
+/resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a02_v01_s.dds
+/resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a02_v01_s.tex
+/resources/art/dynamic/creature/cat/texture/___psd/cat_womprat_a02_v01_s.tiny.dds
 /resources/art/dynamic/creature/colicoid/texture/___psd/colicoid_colicoid_a02_v01_d.dds
 /resources/art/dynamic/creature/colicoid/texture/___psd/colicoid_colicoid_a02_v01_d.tex
 /resources/art/dynamic/creature/colicoid/texture/___psd/colicoid_colicoid_a02_v01_d.tiny.dds
@@ -207,11 +216,16 @@
 /resources/art/dynamic/creature/dog/texture/___psd/dog_kathhound_a01_v01_s.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_kathhound_a01_v01_s.tiny.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_d.dds
+/resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_d.tiny.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_m.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_m.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_m.tiny.dds
+/resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_n.dds
+/resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_n.tex
+/resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_n.tiny.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_s.dds
+/resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_s.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_salkyhound_a01_v01_s.tiny.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_swampsnarler_a01_v01_m.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_swampsnarler_a01_v01_m.tex
@@ -503,6 +517,7 @@
 /resources/art/dynamic/creature/model/geonosian_selonian_a01.clo
 /resources/art/dynamic/creature/model/geonosian_selonian_a01.gr2
 /resources/art/dynamic/creature/model/hutt_drooga_a01.gr2
+/resources/art/dynamic/creature/model/hutt_hutt_a01.gr2
 /resources/art/dynamic/creature/model/hutt_nemro_a01.gr2
 /resources/art/dynamic/creature/model/huttsit_hutt_a01.gr2
 /resources/art/dynamic/creature/model/huttsit_nemro_a01.gr2
@@ -1654,6 +1669,9 @@
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bms_fleshraider_a01_v03_s.dds
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bms_fleshraider_a01_v03_s.tex
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bms_fleshraider_a01_v03_s.tiny.dds
+/resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_faathra_a01_c01_d.dds
+/resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_faathra_a01_c01_d.tex
+/resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_faathra_a01_c01_d.tiny.dds
 /resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_hutt_a01_c01_d.dds
 /resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_hutt_a01_c01_d.tex
 /resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_hutt_a01_c01_d.tiny.dds
@@ -1986,6 +2004,7 @@
 /resources/art/shaders/materials/dragonbat_harvorisk_a01_v01.mat
 /resources/art/shaders/materials/dragonbat_mantellianflutterplume_a01_v01.mat
 /resources/art/shaders/materials/dragonbat_shyrack_a01_v01.mat
+/resources/art/shaders/materials/eye_hutt_faathra_a01_c01.mat
 /resources/art/shaders/materials/eye_hutt_hutt_a01_c01.mat
 /resources/art/shaders/materials/eye_hutt_nemro_a01_c01.mat
 /resources/art/shaders/materials/eye_hutt_tassaanemro_a01_c01.mat

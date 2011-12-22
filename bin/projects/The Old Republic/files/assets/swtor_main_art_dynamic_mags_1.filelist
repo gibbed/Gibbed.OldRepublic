@@ -1,4 +1,4 @@
-; 568/715 (79%)
+; 579/715 (80%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -17,6 +17,7 @@
 /resources/art/dynamic/mag/model/all_arch_neu_windmill.gr2
 /resources/art/dynamic/mag/model/all_arch_rep_tower_weather_top.gr2
 /resources/art/dynamic/mag/model/all_arch_und_farm_windmill_2.gr2
+/resources/art/dynamic/mag/model/all_item_tech_rakata_mind_trap_trap_animated.gr2
 /resources/art/dynamic/mag/model/bal_arch_okara_power_core.gr2
 /resources/art/dynamic/mag/model/cor_arch_works_fan.gr2
 /resources/art/dynamic/mag/model/cor_arch_works_fan_floor_32x32.gr2
@@ -59,6 +60,7 @@
 /resources/art/dynamic/mag/model/mag_scimpfrigateturret_sc_imp_frigate_turret.gr2
 /resources/art/dynamic/mag/model/mag_scimpshuttle_a.gr2
 /resources/art/dynamic/mag/model/mag_scneudefsatellite_a.gr2
+/resources/art/dynamic/mag/model/mag_scneushipsmall1_a.gr2
 /resources/art/dynamic/mag/model/mag_scneussbase_a.gr2
 /resources/art/dynamic/mag/model/mag_scpsagent_a.gr2
 /resources/art/dynamic/mag/model/mag_scpsbountyhunter_a.gr2
@@ -85,8 +87,10 @@
 /resources/art/dynamic/mag/model/mag_shipneugarbagescow_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipplayeragent_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipplayerbountyhunter_v01.gr2
+/resources/art/dynamic/mag/model/mag_shipplayerjedi_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipplayersith_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipplayersmuggler_v01.gr2
+/resources/art/dynamic/mag/model/mag_shipplayertrooper4_v01.gr2
 /resources/art/dynamic/mag/model/mag_shiprepshuttle_v01.gr2
 /resources/art/dynamic/mag/model/mag_spacecombatdestroyableasteroidb_spc_env_asteroid_med_b.gr2
 /resources/art/dynamic/mag/model/mag_spacecombatdestroyableasteroidc_spc_env_asteroid_med_c.gr2
@@ -219,8 +223,10 @@
 /resources/art/dynamic/space_combat/ships/texture/sc_invisible_component.tiny.dds
 /resources/art/dynamic/spec/all_arch_neu_windmill.mag
 /resources/art/dynamic/spec/all_arch_und_farm_windmill_2.mag
+/resources/art/dynamic/spec/all_arch_und_farm_windmill_2_skeleton.gr2
 /resources/art/dynamic/spec/all_item_tech_neu_generator_anim.mag
 /resources/art/dynamic/spec/all_item_tech_rakata_mind_trap_trap_animated.mag
+/resources/art/dynamic/spec/all_item_tech_rakata_mind_trap_trap_animated_skeleton.gr2
 /resources/art/dynamic/spec/bal_arch_okara_power_core.mag
 /resources/art/dynamic/spec/bel_arch_rakata_teleporter_rotating_arm.mag
 /resources/art/dynamic/spec/bfanew_skeleton.gr2
@@ -419,7 +425,9 @@
 /resources/art/dynamic/spec/mag_turretneusmallbase_neu.mag
 /resources/art/dynamic/spec/mag_vehrepatv_rep01.mag
 /resources/art/dynamic/spec/nar_item_signage_redlight_18.mag
+/resources/art/dynamic/spec/nar_item_signage_redlight_18_skeleton.gr2
 /resources/art/dynamic/spec/nar_item_signage_redlight_19.mag
+/resources/art/dynamic/spec/nar_item_signage_redlight_19_skeleton.gr2
 /resources/art/dynamic/spec/nar_item_signage_social_atrium.mag
 /resources/art/dynamic/spec/neuheavyutilityship_skeleton.gr2
 /resources/art/dynamic/spec/petmouse_skeleton.gr2
@@ -441,6 +449,7 @@
 /resources/art/dynamic/spec/scimpfrigateturret_skeleton.gr2
 /resources/art/dynamic/spec/scimpshuttle_skeleton.gr2
 /resources/art/dynamic/spec/scneudefsatellite_skeleton.gr2
+/resources/art/dynamic/spec/scneushipsmall1_skeleton.gr2
 /resources/art/dynamic/spec/scneussbase_skeleton.gr2
 /resources/art/dynamic/spec/scpsagent_skeleton.gr2
 /resources/art/dynamic/spec/scpsbountyhunter_skeleton.gr2
@@ -466,8 +475,10 @@
 /resources/art/dynamic/spec/shipneugarbagescow_skeleton.gr2
 /resources/art/dynamic/spec/shipplayeragent_skeleton.gr2
 /resources/art/dynamic/spec/shipplayerbountyhunter_skeleton.gr2
+/resources/art/dynamic/spec/shipplayerjedi_skeleton.gr2
 /resources/art/dynamic/spec/shipplayersith_skeleton.gr2
 /resources/art/dynamic/spec/shipplayersmuggler_skeleton.gr2
+/resources/art/dynamic/spec/shipplayertrooper4_skeleton.gr2
 /resources/art/dynamic/spec/shiprepshuttle_skeleton.gr2
 /resources/art/dynamic/spec/spacecombatimperialdestroyer_skeleton.gr2
 /resources/art/dynamic/spec/spacecombatimperialdestroyerturret_skeleton.gr2
