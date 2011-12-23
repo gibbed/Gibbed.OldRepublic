@@ -1,4 +1,4 @@
-; 2003/9173 (21%)
+; 2007/9173 (21%)
 /resources/anim/creature/am_manta.xml
 /resources/anim/creature/am_mote.xml
 /resources/anim/creature/am_probe.xml
@@ -930,6 +930,9 @@
 /resources/anim/droid/protocol/am_crafting_station_tall_exit.jba
 /resources/anim/droid/protocol/am_crafting_station_tall_loop.jba
 /resources/anim/droid/protocol/am_demented_01.jba
+/resources/anim/droid/protocol/am_fix_kneel_med_idle.jba
+/resources/anim/droid/protocol/am_fix_kneel_med_idle_02.jba
+/resources/anim/droid/protocol/am_fix_kneel_med_idle_03.jba
 /resources/anim/droid/protocol/am_flex.jba
 /resources/anim/droid/protocol/am_look_search.jba
 /resources/anim/droid/protocol/am_traffic_control_1.jba
@@ -1743,6 +1746,7 @@
 /resources/anim/droid/protocol/humanoid_loco_combat_unarmed.mph
 /resources/anim/droid/protocol/humanoid_loco_combat_unarmed_falling.mph
 /resources/anim/droid/protocol/humanoid_loco_idle.mph
+/resources/anim/droid/protocol/humanoid_loco_idle_kneel_fix_knee_height_01.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_attention_look_around.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_look_around_search.mph
 /resources/anim/droid/protocol/humanoid_loco_idle_stand_normal.mph

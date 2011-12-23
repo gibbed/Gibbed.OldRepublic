@@ -1,4 +1,4 @@
-; 3038/3358 (90%)
+; 3053/3358 (90%)
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tiny.dds
@@ -9,6 +9,8 @@
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_s.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_s.tiny.dds
 /resources/art/shaders/materials/all_arch_imp_house_b_metal01.mat
+/resources/art/shaders/materials/all_arch_rep_block_metal02.mat
+/resources/art/shaders/materials/all_arch_rep_block_trim.mat
 /resources/art/shaders/materials/all_arch_rep_fort_door01.mat
 /resources/art/shaders/materials/all_arch_ruins_floortile.mat
 /resources/art/shaders/materials/all_arch_ruins_floortile_decorative.mat
@@ -31,6 +33,7 @@
 /resources/art/shaders/materials/vos_arch_vosstomb_lamp_floor.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_sconce.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_sconce_dmg.mat
+/resources/art/shaders/materials/vos_arch_vosstomb_urn.mat
 /resources/art/shaders/materials/vos_env_boulders.mat
 /resources/art/shaders/materials/vos_item_ruins_tablet.mat
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_house_b_metal01_d.dds
@@ -45,9 +48,21 @@
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal02_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal02_d.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal02_d.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal02_n.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal02_n.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal02_n.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal02_s.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal02_s.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal02_s.tiny.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_trim_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_trim_d.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_trim_d.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_trim_n.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_trim_n.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_trim_n.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_trim_s.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_trim_s.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_trim_s.tiny.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_fort_door01_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_fort_door01_d.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_fort_door01_d.tiny.dds

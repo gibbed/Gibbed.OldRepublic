@@ -1,4 +1,4 @@
-; 4245/4697 (90%)
+; 4249/4697 (90%)
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_n.dds
@@ -22,6 +22,9 @@
 /resources/art/shaders/materials/hth_arch_rep_generator_tech.mat
 /resources/art/shaders/materials/hth_arch_rep_generator_vent.mat
 /resources/art/shaders/materials/hth_arch_rep_house_b09.mat
+/resources/art/shaders/materials/hth_arch_rep_medical_facility_building01.mat
+/resources/art/shaders/materials/hth_arch_rep_medical_facility_building02.mat
+/resources/art/shaders/materials/hth_arch_rep_medical_facility_building03.mat
 /resources/art/shaders/materials/hth_arch_tower_trim01.mat
 /resources/art/shaders/materials/hth_env_cliff_snow.mat
 /resources/art/shaders/materials/hth_item_construction_crane.mat
@@ -29,6 +32,7 @@
 /resources/art/shaders/materials/hth_item_debris_ship_large_b_01.mat
 /resources/art/shaders/materials/hth_item_debris_ship_large_b_trim.mat
 /resources/art/shaders/materials/hth_item_debris_ship_medium_c_trim_02.mat
+/resources/art/shaders/materials/hth_item_debris_ship_medium_d.mat
 /resources/art/shaders/materials/util_collision_none.mat
 /resources/art/static/area/ald_alderaan/env/texture/ald_env_boulder_med01_snow_d.dds
 /resources/art/static/area/ald_alderaan/env/texture/ald_env_boulder_med01_snow_d.tex

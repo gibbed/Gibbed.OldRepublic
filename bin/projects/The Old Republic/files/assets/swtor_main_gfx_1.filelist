@@ -1,4 +1,4 @@
-; 10235/52255 (19%)
+; 10240/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -1405,6 +1405,7 @@
 /resources/gfx/icons/belt_high_big.dds
 /resources/gfx/icons/benevolence.dds
 /resources/gfx/icons/berserk.dds
+/resources/gfx/icons/bhoutlaw.dds
 /resources/gfx/icons/bhrattatakigladiator.dds
 /resources/gfx/icons/bioelectricshieldenhancer.dds
 /resources/gfx/icons/blacksuperiorlightsabercrystal.dds
@@ -1825,6 +1826,7 @@
 /resources/gfx/icons/cc_passive.dds
 /resources/gfx/icons/ccredits.dds
 /resources/gfx/icons/ceraglass.dds
+/resources/gfx/icons/chaffflare.dds
 /resources/gfx/icons/chainlightning.dds
 /resources/gfx/icons/chanlonbar.dds
 /resources/gfx/icons/chanlonscrapmetal.dds
@@ -2150,6 +2152,8 @@
 /resources/gfx/icons/hatred.dds
 /resources/gfx/icons/headshot.dds
 /resources/gfx/icons/heal.dds
+/resources/gfx/icons/healing.dds
+/resources/gfx/icons/healingattackers.dds
 /resources/gfx/icons/healingscan.dds
 /resources/gfx/icons/heartriggerpatch.dds
 /resources/gfx/icons/heavyarmors.dds
@@ -10083,6 +10087,7 @@
 /resources/gfx/icons/zalalloy.dds
 /resources/gfx/icons/zeydcloth.dds
 /resources/gfx/loadingscreen/ald_overlay.dds
+/resources/gfx/loadingscreen/ald_overlay_text.dds
 /resources/gfx/loadingscreen/background_tile.dds
 /resources/gfx/loadingscreen/bal_overlay.dds
 /resources/gfx/loadingscreen/bal_overlay_text.dds

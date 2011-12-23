@@ -1,4 +1,4 @@
-; 1887/3115 (60%)
+; 1902/3115 (61%)
 /resources/anim/humanoid/am_dwarf.xml
 /resources/anim/humanoid/am_humanoid.xml
 /resources/anim/humanoid/am_humanoid_npc.xml
@@ -44,6 +44,8 @@
 /resources/anim/pet/petprobe/mv_walk_back.jba
 /resources/anim/pet/petprobe/mv_walk_forward.jba
 /resources/anim/pet/petprobe/pet_loco.mph
+/resources/anim/placeable/all_arch_neu_windmill/idle.jba
+/resources/anim/placeable/all_arch_neu_windmill/mags.mph
 /resources/anim/placeable/all_arch_und_farm_windmill_2/idle.jba
 /resources/anim/placeable/all_arch_und_farm_windmill_2/mags.mph
 /resources/anim/placeable/all_item_tech_rakata_mind_trap_trap_animated/idle.jba
@@ -80,6 +82,11 @@
 /resources/anim/placeable/doorhuttpalacerancorsmall/idle_open.jba
 /resources/anim/placeable/doorhuttpalacerancorsmall/open.jba
 /resources/anim/placeable/doorhuttpalacerancorsmall/placeable_openclose.mph
+/resources/anim/placeable/doorimpfortlg/close.jba
+/resources/anim/placeable/doorimpfortlg/idle_close.jba
+/resources/anim/placeable/doorimpfortlg/idle_open.jba
+/resources/anim/placeable/doorimpfortlg/open.jba
+/resources/anim/placeable/doorimpfortlg/placeable_openclose.mph
 /resources/anim/placeable/doorimpfortsm/close.jba
 /resources/anim/placeable/doorimpfortsm/idle_close.jba
 /resources/anim/placeable/doorimpfortsm/idle_open.jba
@@ -100,6 +107,11 @@
 /resources/anim/placeable/doorsithtombtransition/idle_open.jba
 /resources/anim/placeable/doorsithtombtransition/open.jba
 /resources/anim/placeable/doorsithtombtransition/placeable_openclose.mph
+/resources/anim/placeable/doortechcavelarge/close.jba
+/resources/anim/placeable/doortechcavelarge/idle_close.jba
+/resources/anim/placeable/doortechcavelarge/idle_open.jba
+/resources/anim/placeable/doortechcavelarge/open.jba
+/resources/anim/placeable/doortechcavelarge/placeable_openclose.mph
 /resources/anim/placeable/e3door/close.jba
 /resources/anim/placeable/e3door/idle_close.jba
 /resources/anim/placeable/e3door/idle_open.jba
@@ -1562,6 +1574,8 @@
 /resources/anim/placeable/taxispeederbike02/spacevehicle_idleonly.mph
 /resources/anim/placeable/taxispeederneu/idle.jba
 /resources/anim/placeable/taxispeederneu/spacevehicle_idleonly.mph
+/resources/anim/placeable/taxithranta/idle.jba
+/resources/anim/placeable/taxithranta/spacevehicle_idleonly.mph
 /resources/anim/placeable/treasurechestlarge/close.jba
 /resources/anim/placeable/treasurechestlarge/idle_close.jba
 /resources/anim/placeable/treasurechestlarge/idle_open.jba
@@ -1860,6 +1874,7 @@
 /resources/art/dynamic/spec/taxirocketsled.dyc
 /resources/art/dynamic/spec/taxispeederbike02.dyc
 /resources/art/dynamic/spec/taxispeederneu.dyc
+/resources/art/dynamic/spec/taxithranta.dyc
 /resources/art/dynamic/spec/terentatek.dat
 /resources/art/dynamic/spec/terentatek.dyc
 /resources/art/dynamic/spec/terentatekboss.dat

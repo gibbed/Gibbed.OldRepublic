@@ -1,4 +1,4 @@
-; 1438/2181 (65%)
+; 1463/2181 (67%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -481,6 +481,9 @@
 /resources/art/environmentmaps/z_shared/z_natural_cave.dds
 /resources/art/environmentmaps/z_shared/z_natural_cave.tex
 /resources/art/environmentmaps/z_shared/z_natural_cave.tiny.dds
+/resources/art/environmentmaps/z_shared/z_rep_techcave.dds
+/resources/art/environmentmaps/z_shared/z_rep_techcave.tex
+/resources/art/environmentmaps/z_shared/z_rep_techcave.tiny.dds
 /resources/art/environmentmaps/z_shared/z_rep_warehouse.dds
 /resources/art/environmentmaps/z_shared/z_rep_warehouse.tex
 /resources/art/environmentmaps/z_shared/z_rep_warehouse.tiny.dds
@@ -520,6 +523,8 @@
 /resources/art/lights/023_044_090.tiny.dds
 /resources/art/lights/029_091_091.dds
 /resources/art/lights/029_091_091.tex
+/resources/art/lights/037_047_095.dds
+/resources/art/lights/037_047_095.tex
 /resources/art/lights/037_092_099.dds
 /resources/art/lights/037_092_099.tex
 /resources/art/lights/045_030_077.dds
@@ -537,6 +542,8 @@
 /resources/art/lights/44_79_99.dds
 /resources/art/lights/72_162_136.dds
 /resources/art/lights/72_162_136.tex
+/resources/art/lights/acad_hall_allwhite_01.dds
+/resources/art/lights/acad_hall_allwhite_01.tex
 /resources/art/lights/ald_exterior_lightramp.dds
 /resources/art/lights/ald_exterior_lightramp.tex
 /resources/art/lights/ald_exterior_lightramp.tiny.dds
@@ -546,6 +553,10 @@
 /resources/art/lights/ambient_033_076_015.tex
 /resources/art/lights/ambient_204_69_31.dds
 /resources/art/lights/ambient_204_69_31.tex
+/resources/art/lights/ambient_ald_killik_caves_test.dds
+/resources/art/lights/ambient_ald_killik_caves_test.tex
+/resources/art/lights/ambient_ald_thul.dds
+/resources/art/lights/ambient_ald_thul.tex
 /resources/art/lights/ambient_cor_justicar.dds
 /resources/art/lights/ambient_cor_justicar.tex
 /resources/art/lights/ambient_cor_market.dds
@@ -566,8 +577,12 @@
 /resources/art/lights/ambient_dro_imperial_interiors.tex
 /resources/art/lights/ambient_gormak.dds
 /resources/art/lights/ambient_gormak.tex
+/resources/art/lights/ambient_hth_dreadnaught_interior.dds
+/resources/art/lights/ambient_hth_dreadnaught_interior.tex
 /resources/art/lights/ambient_hth_imp_ship_interior.dds
 /resources/art/lights/ambient_hth_imp_ship_interior.tex
+/resources/art/lights/ambient_hth_techcave_interior.dds
+/resources/art/lights/ambient_hth_techcave_interior.tex
 /resources/art/lights/ambient_hutt_palace_jaguuna.dds
 /resources/art/lights/ambient_hutt_palace_jaguuna.tex
 /resources/art/lights/ambient_imp_revan_droid_interior.dds
@@ -581,6 +596,8 @@
 /resources/art/lights/ambient_nar_exterior.tex
 /resources/art/lights/ambient_pvp_voidstar_hangar.dds
 /resources/art/lights/ambient_pvp_voidstar_hangar.tex
+/resources/art/lights/ambient_republic_fort_interior.dds
+/resources/art/lights/ambient_republic_fort_interior.tex
 /resources/art/lights/ambient_republic_interior.dds
 /resources/art/lights/ambient_republic_interior.tex
 /resources/art/lights/ambient_republic_space_interior.dds
@@ -800,6 +817,8 @@
 /resources/art/lights/fill_justicar_03.tex
 /resources/art/lights/fill_justicar_04.dds
 /resources/art/lights/fill_justicar_04.tex
+/resources/art/lights/fill_killik_250_31_75.dds
+/resources/art/lights/fill_killik_250_31_75.tex
 /resources/art/lights/fill_okara_droid_factory.dds
 /resources/art/lights/fill_okara_droid_factory.tex
 /resources/art/lights/fill_senate_sun.dds
@@ -867,6 +886,8 @@
 /resources/art/lights/lum_6point.tex
 /resources/art/lights/lum_9_point.dds
 /resources/art/lights/lum_9_point.tex
+/resources/art/lights/lum_ald_cave_ceiling.dds
+/resources/art/lights/lum_ald_cave_ceiling.tex
 /resources/art/lights/lum_ambient.dds
 /resources/art/lights/lum_ambient.tex
 /resources/art/lights/lum_cor_senate_building.dds
@@ -990,6 +1011,8 @@
 /resources/art/lights/round_fourpix_falloff2.tex
 /resources/art/lights/sc_ambient_m01.dds
 /resources/art/lights/sc_ambient_m01.tex
+/resources/art/lights/sc_ambient_m02.dds
+/resources/art/lights/sc_ambient_m02.tex
 /resources/art/lights/sc_ambient_m03.dds
 /resources/art/lights/sc_ambient_m03.tex
 /resources/art/lights/sc_ambient_m05.dds
@@ -1044,6 +1067,7 @@
 /resources/art/marketing/green_dome.dds
 /resources/art/marketing/green_dome.tex
 /resources/art/marketing/green_dome.tiny.dds
+/resources/art/planets/alderaan.gr2
 /resources/art/planets/balmorra.gr2
 /resources/art/planets/belsavis.gr2
 /resources/art/planets/coruscant.gr2
@@ -1193,6 +1217,7 @@
 /resources/art/shaders/materials/designblockout_republic_body.mat
 /resources/art/shaders/materials/kor_acad_standard_wall.mat
 /resources/art/shaders/materials/missing_granny.mat
+/resources/art/shaders/materials/planets_alderaan.mat
 /resources/art/shaders/materials/planets_balmorra.mat
 /resources/art/shaders/materials/planets_belsavis.mat
 /resources/art/shaders/materials/planets_coruscant.mat

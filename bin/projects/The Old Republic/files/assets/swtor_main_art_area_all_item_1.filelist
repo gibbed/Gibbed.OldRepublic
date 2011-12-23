@@ -1,4 +1,4 @@
-; 8587/8930 (96%)
+; 8641/8930 (96%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -255,15 +255,24 @@
 /resources/art/shaders/materials/all_arch_slum_med_hut_int_r1_floorboards.mat
 /resources/art/shaders/materials/all_bone_pile_01.mat
 /resources/art/shaders/materials/all_item_astromech_serving_tray.mat
+/resources/art/shaders/materials/all_item_banner_alde.mat
+/resources/art/shaders/materials/all_item_banner_cortess.mat
+/resources/art/shaders/materials/all_item_banner_organa.mat
+/resources/art/shaders/materials/all_item_banner_panteer.mat
 /resources/art/shaders/materials/all_item_banner_republic.mat
 /resources/art/shaders/materials/all_item_banner_republic_tall_stand.mat
+/resources/art/shaders/materials/all_item_banner_rist.mat
 /resources/art/shaders/materials/all_item_banner_separatist.mat
+/resources/art/shaders/materials/all_item_banner_teral.mat
+/resources/art/shaders/materials/all_item_banner_thul.mat
+/resources/art/shaders/materials/all_item_banner_ulgo.mat
 /resources/art/shaders/materials/all_item_bone_human_whole_01.mat
 /resources/art/shaders/materials/all_item_bone_human_whole_01_no_collision.mat
 /resources/art/shaders/materials/all_item_bone_pile_01.mat
 /resources/art/shaders/materials/all_item_bone_pile_large_base.mat
 /resources/art/shaders/materials/all_item_bone_pile_large_bones.mat
 /resources/art/shaders/materials/all_item_bone_skulls_krayt.mat
+/resources/art/shaders/materials/all_item_bone_skulls_thranta.mat
 /resources/art/shaders/materials/all_item_bones_giant.mat
 /resources/art/shaders/materials/all_item_camp_adrenal_vat.mat
 /resources/art/shaders/materials/all_item_camp_fire.mat
@@ -295,6 +304,7 @@
 /resources/art/shaders/materials/all_item_city_decal_footprints.mat
 /resources/art/shaders/materials/all_item_city_edge_dirt_16m.mat
 /resources/art/shaders/materials/all_item_city_firebarrel.mat
+/resources/art/shaders/materials/all_item_city_furn_bench_metal.mat
 /resources/art/shaders/materials/all_item_city_plush_red_rug.mat
 /resources/art/shaders/materials/all_item_city_plush_rug.mat
 /resources/art/shaders/materials/all_item_city_plush_sectional_couch.mat
@@ -347,6 +357,8 @@
 /resources/art/shaders/materials/all_item_construction_spool.mat
 /resources/art/shaders/materials/all_item_construction_spool_01.mat
 /resources/art/shaders/materials/all_item_construction_workbench_tools.mat
+/resources/art/shaders/materials/all_item_corpse_head_in_jar.mat
+/resources/art/shaders/materials/all_item_corpse_head_in_jar_glass.mat
 /resources/art/shaders/materials/all_item_crate_weapon_01.mat
 /resources/art/shaders/materials/all_item_crate_weapon_02.mat
 /resources/art/shaders/materials/all_item_creature_dung.mat
@@ -354,6 +366,10 @@
 /resources/art/shaders/materials/all_item_creature_klorslug_slime_ground.mat
 /resources/art/shaders/materials/all_item_creature_rancor_egg.mat
 /resources/art/shaders/materials/all_item_creature_rancor_egg_incubator.mat
+/resources/art/shaders/materials/all_item_creature_thranta_nest_02.mat
+/resources/art/shaders/materials/all_item_creature_thranta_nest_02_alpha.mat
+/resources/art/shaders/materials/all_item_creature_thranta_nest_02_alpha01.mat
+/resources/art/shaders/materials/all_item_creature_thranta_nest_egg.mat
 /resources/art/shaders/materials/all_item_creature_thranta_nest_platform.mat
 /resources/art/shaders/materials/all_item_datacron_set_jedi.mat
 /resources/art/shaders/materials/all_item_datacron_set_sith.mat
@@ -403,6 +419,7 @@
 /resources/art/shaders/materials/all_item_furn_shop_shelves.mat
 /resources/art/shaders/materials/all_item_furn_temple_bench_interior.mat
 /resources/art/shaders/materials/all_item_furniture_large_rug.mat
+/resources/art/shaders/materials/all_item_head_bag.mat
 /resources/art/shaders/materials/all_item_holotree_01_suv.mat
 /resources/art/shaders/materials/all_item_holotree_02_suv.mat
 /resources/art/shaders/materials/all_item_holotree_03_suv.mat
@@ -488,6 +505,10 @@
 /resources/art/shaders/materials/all_item_neu_narshadda_holokiosk_trim.mat
 /resources/art/shaders/materials/all_item_neu_turret_large_multi.mat
 /resources/art/shaders/materials/all_item_neu_turret_large_multi_red_small.mat
+/resources/art/shaders/materials/all_item_palace_statue_01.mat
+/resources/art/shaders/materials/all_item_palace_throne.mat
+/resources/art/shaders/materials/all_item_palace_throne_thul.mat
+/resources/art/shaders/materials/all_item_planter.mat
 /resources/art/shaders/materials/all_item_poster_separatist.mat
 /resources/art/shaders/materials/all_item_prison_wall.mat
 /resources/art/shaders/materials/all_item_rakata_geothermal_energy_collector.mat
@@ -523,6 +544,7 @@
 /resources/art/shaders/materials/all_item_rep_lightpole.mat
 /resources/art/shaders/materials/all_item_rep_lightpole_off.mat
 /resources/art/shaders/materials/all_item_rep_minefield_sign_marker_01.mat
+/resources/art/shaders/materials/all_item_rep_noble_tent.mat
 /resources/art/shaders/materials/all_item_rep_pallet_02.mat
 /resources/art/shaders/materials/all_item_rep_peasant_cabinet.mat
 /resources/art/shaders/materials/all_item_rep_peasant_chair.mat
@@ -540,6 +562,7 @@
 /resources/art/shaders/materials/all_item_rep_trans_fuel_tank.mat
 /resources/art/shaders/materials/all_item_rep_turret.mat
 /resources/art/shaders/materials/all_item_rep_turret_manned.mat
+/resources/art/shaders/materials/all_item_rep_turret_manned_damaged.mat
 /resources/art/shaders/materials/all_item_rep_wall_camera.mat
 /resources/art/shaders/materials/all_item_rep_wall_computer_01.mat
 /resources/art/shaders/materials/all_item_rep_wall_computer_01_damaged.mat
@@ -712,8 +735,10 @@
 /resources/art/shaders/materials/all_item_tech_radar_large_base.mat
 /resources/art/shaders/materials/all_item_tech_radar_small.mat
 /resources/art/shaders/materials/all_item_tech_rakata_mind_trap_base.mat
+/resources/art/shaders/materials/all_item_tech_rakata_mind_trap_base_suv.mat
 /resources/art/shaders/materials/all_item_tech_rakata_mind_trap_console.mat
 /resources/art/shaders/materials/all_item_tech_rakata_mind_trap_console_damaged.mat
+/resources/art/shaders/materials/all_item_tech_rakata_mind_trap_lights_2_suv.mat
 /resources/art/shaders/materials/all_item_tech_rakata_mind_trap_trap.mat
 /resources/art/shaders/materials/all_item_tech_reinforced_door.mat
 /resources/art/shaders/materials/all_item_tech_remote_detonator.mat
@@ -784,6 +809,7 @@
 /resources/art/shaders/materials/all_item_temple_holo_pedestal_holotech_device.mat
 /resources/art/shaders/materials/all_item_temple_holotable.mat
 /resources/art/shaders/materials/all_item_temple_lamp.mat
+/resources/art/shaders/materials/all_item_temple_light_gold.mat
 /resources/art/shaders/materials/all_item_temple_light_yellow.mat
 /resources/art/shaders/materials/all_item_temple_meditation.mat
 /resources/art/shaders/materials/all_item_temple_meeting_table_holodish_holodish.mat
@@ -869,6 +895,7 @@
 /resources/art/shaders/materials/corpse_head_bfn_03.mat
 /resources/art/shaders/materials/corpse_head_bma_01.mat
 /resources/art/shaders/materials/corpse_head_bma_02.mat
+/resources/art/shaders/materials/corpse_head_bma_03.mat
 /resources/art/shaders/materials/corpse_head_bmf_01.mat
 /resources/art/shaders/materials/corpse_head_bmf_02.mat
 /resources/art/shaders/materials/corpse_head_bmn_01.mat
@@ -904,6 +931,7 @@
 /resources/art/shaders/materials/item_con_plasteel_crate_02.mat
 /resources/art/shaders/materials/item_con_plasteel_crate_03.mat
 /resources/art/shaders/materials/item_eqp_stimpack.mat
+/resources/art/shaders/materials/item_eqp_stimpack_poison.mat
 /resources/art/shaders/materials/item_furn_armoire_imperial.mat
 /resources/art/shaders/materials/item_furn_barracks_bunk_imperial.mat
 /resources/art/shaders/materials/item_furn_barracks_lamp_imperial.mat
@@ -2729,6 +2757,24 @@
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_rancor_egg_n.dds
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_rancor_egg_n.tex
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_rancor_egg_n.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha_d.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha_d.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha_n.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha_n.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha_s.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha_s.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha01_d.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha01_d.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha01_n.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha01_n.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha01_s.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_alpha01_s.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_d.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_d.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_n.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_n.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_s.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_02_s.tiny.dds
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_alpha_d.dds
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_alpha_d.tex
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_alpha_d.tiny.dds
@@ -2750,6 +2796,12 @@
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_d.dds
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_d.tex
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_d.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_egg_d.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_egg_d.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_egg_n.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_egg_n.tiny.dds
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_egg_s.tex
+/resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_egg_s.tiny.dds
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_n.dds
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_n.tex
 /resources/art/static/area/all_all/item/creature/texture/all_item_creature_thranta_nest_n.tiny.dds
@@ -4945,6 +4997,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_02_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_03.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_dst.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_workbench.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_workbench_device.gr2
@@ -5148,6 +5201,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_rakata_mind_trap_base.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_rakata_mind_trap_console.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_rakata_mind_trap_console_damaged.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_rakata_mind_trap_lights_suv.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_rakata_mind_trap_pillar.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_rakata_mind_trap_trap.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_rakata_puzzle_raid.gr2

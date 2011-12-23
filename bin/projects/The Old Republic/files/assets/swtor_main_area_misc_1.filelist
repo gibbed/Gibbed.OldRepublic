@@ -1,4 +1,4 @@
-; 4796/5536 (86%)
+; 4806/5536 (86%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -10,6 +10,9 @@
 /resources/art/environmentmaps/spc_m01/area.dds
 /resources/art/environmentmaps/spc_m01/area.tex
 /resources/art/environmentmaps/spc_m01/area.tiny.dds
+/resources/art/environmentmaps/spc_m02/area.dds
+/resources/art/environmentmaps/spc_m02/area.tex
+/resources/art/environmentmaps/spc_m02/area.tiny.dds
 /resources/art/environmentmaps/spc_m03/area.dds
 /resources/art/environmentmaps/spc_m03/area.tex
 /resources/art/environmentmaps/spc_m03/area.tiny.dds
@@ -176,6 +179,10 @@
 /resources/art/shaders/materials/spc_env_asteroid_ice_02.mat
 /resources/art/shaders/materials/spc_env_asteroid_ice_03.mat
 /resources/art/shaders/materials/spc_env_asteroid_ice_04.mat
+/resources/art/shaders/materials/spc_env_asteroid_shard_01.mat
+/resources/art/shaders/materials/spc_env_asteroid_shard_02.mat
+/resources/art/shaders/materials/spc_env_asteroid_shard_03.mat
+/resources/art/shaders/materials/spc_env_asteroid_shard_04.mat
 /resources/art/shaders/materials/spc_env_crystal_spires.mat
 /resources/art/shaders/materials/spc_env_planettest.mat
 /resources/art/shaders/materials/spc_item_crafting_armor.mat
@@ -187,6 +194,8 @@
 /resources/art/shaders/materials/spc_item_emperor_throne.mat
 /resources/art/shaders/materials/spc_item_imp_torpedo_launcher.mat
 /resources/art/shaders/materials/spc_item_mine.mat
+/resources/art/shaders/materials/spc_item_planetsign_ald_imp.mat
+/resources/art/shaders/materials/spc_item_planetsign_ald_rep.mat
 /resources/art/shaders/materials/spc_item_planetsign_balmorra.mat
 /resources/art/shaders/materials/spc_item_planetsign_cor.mat
 /resources/art/shaders/materials/spc_item_planetsign_dro.mat
@@ -4264,6 +4273,7 @@
 /resources/world/areas/4611686044198570319/minimaps/map_world_01_02_r.dds
 /resources/world/areas/4611686044972970000/mapnotes.not
 /resources/world/areas/4611686044973070000/mapnotes.not
+/resources/world/areas/4611686044973070932/mapnotes.not
 /resources/world/areas/4611686044973071122/mapnotes.not
 /resources/world/areas/4611686047583470023/mapnotes.not
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_lower_r.dds

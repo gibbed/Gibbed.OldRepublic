@@ -1,4 +1,4 @@
-; 1556/1614 (96%)
+; 1564/1614 (96%)
 /resources/art/shaders/materials/all_arch_rep_water_tower_pool.mat
 /resources/art/shaders/materials/all_arch_ruins_house2.mat
 /resources/art/shaders/materials/all_arch_ruins_tower_floor.mat
@@ -19,6 +19,7 @@
 /resources/art/shaders/materials/ter_tyt_packed_dirt_02.mat
 /resources/art/shaders/materials/ter_tyt_riverbed_01.mat
 /resources/art/shaders/materials/ter_tyt_riverbed_02.mat
+/resources/art/shaders/materials/ter_tyt_rock_01_large.mat
 /resources/art/shaders/materials/ter_tyt_rock_02.mat
 /resources/art/shaders/materials/ter_tyt_rock_02_large.mat
 /resources/art/shaders/materials/ter_tyt_rock_03.mat
@@ -95,6 +96,7 @@
 /resources/art/shaders/materials/tyt_arch_jedi_temple_round_trim.mat
 /resources/art/shaders/materials/tyt_env_boulders.mat
 /resources/art/shaders/materials/tyt_env_boulders_no_moss.mat
+/resources/art/shaders/materials/tyt_env_farm_plantspt_base.mat
 /resources/art/shaders/materials/tyt_env_fleshraider_twigs.mat
 /resources/art/shaders/materials/tyt_env_fleshraiders_wheat.mat
 /resources/art/shaders/materials/tyt_env_grasses_catail.mat
@@ -131,6 +133,7 @@
 /resources/art/shaders/materials/tyt_speedtree_bush_wide_leaves.mat
 /resources/art/shaders/materials/tyt_speedtree_bush1.mat
 /resources/art/shaders/materials/tyt_speedtree_farm_plant_tall.mat
+/resources/art/shaders/materials/tyt_speedtree_farm_plant_tall_burned.mat
 /resources/art/shaders/materials/tyt_speedtree_thicket.mat
 /resources/art/shaders/materials/tyt_tree_dead_sapling_nocollision.mat
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_water_tower_pool_d.dds
@@ -1139,6 +1142,10 @@
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_bush1_n.dds
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_bush1_n.tex
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_bush1_n.tiny.dds
+/resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_farm_plant_tall_burned_d.dds
+/resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_farm_plant_tall_burned_d.tex
+/resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_farm_plant_tall_burned_n.dds
+/resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_farm_plant_tall_burned_n.tex
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_farm_plant_tall_d.dds
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_farm_plant_tall_d.tex
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_speedtree_farm_plant_tall_d.tiny.dds
@@ -1174,6 +1181,7 @@
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_bush_wide_static.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_bush1_gr2.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall.gr2
+/resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_burned.gr2
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_diffuse.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_diffuse.tex
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_farm_plant_tall_gr2.gr2
