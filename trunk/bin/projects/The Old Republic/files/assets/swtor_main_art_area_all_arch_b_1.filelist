@@ -1,4 +1,4 @@
-; 6228/6335 (98%)
+; 6255/6335 (98%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -27,6 +27,11 @@
 /resources/art/shaders/materials/all_arch_neu_city_tile03.mat
 /resources/art/shaders/materials/all_arch_neu_city_tile04.mat
 /resources/art/shaders/materials/all_arch_neu_city_tile05.mat
+/resources/art/shaders/materials/all_arch_neu_dam_detail.mat
+/resources/art/shaders/materials/all_arch_neu_dam_overlay.mat
+/resources/art/shaders/materials/all_arch_neu_dam_pillar.mat
+/resources/art/shaders/materials/all_arch_neu_dam_wall_01.mat
+/resources/art/shaders/materials/all_arch_neu_dam_wall_02.mat
 /resources/art/shaders/materials/all_arch_neu_destroyed_building_01_floor.mat
 /resources/art/shaders/materials/all_arch_neu_destroyed_building_01_trim.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_stack_tall.mat
@@ -52,6 +57,7 @@
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_top_detroyed.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_detroyed_parts.mat
 /resources/art/shaders/materials/all_arch_neu_land_speeder_crashed.mat
+/resources/art/shaders/materials/all_arch_neu_lighthouse.mat
 /resources/art/shaders/materials/all_arch_neu_mandalorian_trophy_case_all_arch_neu_mandalorian_case.mat
 /resources/art/shaders/materials/all_arch_neu_mining_bore.mat
 /resources/art/shaders/materials/all_arch_neu_mining_bore_engine.mat
@@ -108,6 +114,8 @@
 /resources/art/shaders/materials/all_arch_rep_atv_interior_wall2_01.mat
 /resources/art/shaders/materials/all_arch_rep_base_metal.mat
 /resources/art/shaders/materials/all_arch_rep_block_buttress.mat
+/resources/art/shaders/materials/all_arch_rep_block_metal01.mat
+/resources/art/shaders/materials/all_arch_rep_block_wall.mat
 /resources/art/shaders/materials/all_arch_rep_bridge_base.mat
 /resources/art/shaders/materials/all_arch_rep_bridge_broken.mat
 /resources/art/shaders/materials/all_arch_rep_bridge_pillar.mat
@@ -116,7 +124,11 @@
 /resources/art/shaders/materials/all_arch_rep_building_props_02.mat
 /resources/art/shaders/materials/all_arch_rep_cantina_dance_stage.mat
 /resources/art/shaders/materials/all_arch_rep_cantina_door.mat
+/resources/art/shaders/materials/all_arch_rep_cantina_floor.mat
 /resources/art/shaders/materials/all_arch_rep_cantina_stairs.mat
+/resources/art/shaders/materials/all_arch_rep_cantina_tank_base.mat
+/resources/art/shaders/materials/all_arch_rep_cantina_tank_details.mat
+/resources/art/shaders/materials/all_arch_rep_cantina_tank_trim.mat
 /resources/art/shaders/materials/all_arch_rep_fence.mat
 /resources/art/shaders/materials/all_arch_rep_forcefield_generator_pole.mat
 /resources/art/shaders/materials/all_arch_rep_fort_ceilings01.mat
@@ -161,10 +173,16 @@
 /resources/art/shaders/materials/all_arch_rep_medical_facility_building01.mat
 /resources/art/shaders/materials/all_arch_rep_medical_facility_building02.mat
 /resources/art/shaders/materials/all_arch_rep_medical_facility_building03.mat
+/resources/art/shaders/materials/all_arch_rep_observatory.mat
+/resources/art/shaders/materials/all_arch_rep_palace_detail01.mat
 /resources/art/shaders/materials/all_arch_rep_palace_elevator.mat
+/resources/art/shaders/materials/all_arch_rep_palace_elevator_dmg.mat
+/resources/art/shaders/materials/all_arch_rep_palace_floorground.mat
 /resources/art/shaders/materials/all_arch_rep_palace_lights01.mat
 /resources/art/shaders/materials/all_arch_rep_palace_metal01.mat
 /resources/art/shaders/materials/all_arch_rep_palace_rubble.mat
+/resources/art/shaders/materials/all_arch_rep_palace_stairs.mat
+/resources/art/shaders/materials/all_arch_rep_railfence.mat
 /resources/art/shaders/materials/all_arch_rep_road_02.mat
 /resources/art/shaders/materials/all_arch_rep_space_airlock.mat
 /resources/art/shaders/materials/all_arch_rep_space_ceiling_truss.mat
@@ -186,7 +204,9 @@
 /resources/art/shaders/materials/all_arch_rep_tent_medium.mat
 /resources/art/shaders/materials/all_arch_rep_tent_opensided.mat
 /resources/art/shaders/materials/all_arch_rep_tower.mat
+/resources/art/shaders/materials/all_arch_rep_tower_solar.mat
 /resources/art/shaders/materials/all_arch_rep_tower_tech.mat
+/resources/art/shaders/materials/all_arch_rep_tower_weather.mat
 /resources/art/shaders/materials/all_arch_rep_training_bay.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_door.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_door_bay.mat
@@ -197,6 +217,7 @@
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_trims.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_wall1.mat
 /resources/art/shaders/materials/all_arch_rep_wallset_01.mat
+/resources/art/shaders/materials/all_arch_rep_wallset_02.mat
 /resources/art/shaders/materials/all_arch_rep_wallset_containment.mat
 /resources/art/shaders/materials/all_arch_rep_wallset_containment_blue.mat
 /resources/art/shaders/materials/all_arch_rep_wallset_containment_broken.mat
@@ -266,6 +287,7 @@
 /resources/art/shaders/materials/all_arch_slum_radar.mat
 /resources/art/shaders/materials/all_arch_slum_water_filter.mat
 /resources/art/shaders/materials/all_arch_tech_aagun.mat
+/resources/art/shaders/materials/all_arch_tech_aagun_destroyed.mat
 /resources/art/shaders/materials/all_arch_tech_ion_cannon.mat
 /resources/art/shaders/materials/all_arch_tech_ion_cannon_siding.mat
 /resources/art/shaders/materials/all_arch_techcave_ceiling.mat
@@ -2624,6 +2646,11 @@
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_d.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_d.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_n.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_n.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_s.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_s.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_s.tiny.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_wall_01_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_wall_01_d.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_wall_01_d.tiny.dds

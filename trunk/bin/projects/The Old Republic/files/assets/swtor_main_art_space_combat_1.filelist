@@ -1,4 +1,4 @@
-; 480/513 (93%)
+; 491/513 (95%)
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.dds
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tex
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_d.tiny.dds
@@ -9,11 +9,19 @@
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_s.tex
 /resources/art/dynamic/space_combat/ships/texture/sc_imp_capital_destroyer_hanger_s.tiny.dds
 /resources/art/shaders/materials/sc_imp_capital_destroyer_hanger.mat
+/resources/art/shaders/materials/sc_m2_asteroid.mat
+/resources/art/shaders/materials/sc_m2_asteroid_crust.mat
+/resources/art/shaders/materials/sc_m2_asteroid_shard_top.mat
+/resources/art/shaders/materials/sc_m2_asteroid_top.mat
 /resources/art/shaders/materials/sc_m7_sky_asteroid01.mat
 /resources/art/shaders/materials/sc_m7_sky_asteroid02.mat
 /resources/art/shaders/materials/sc_skyscene_asteroidbelt_m07.mat
 /resources/art/shaders/materials/sc_skyscene_m01_planet.mat
 /resources/art/shaders/materials/sc_skyscene_m01_planet_clouds.mat
+/resources/art/shaders/materials/sc_skyscene_m02_moon_01.mat
+/resources/art/shaders/materials/sc_skyscene_m02_planet_01.mat
+/resources/art/shaders/materials/sc_skyscene_m02_planet_city_01.mat
+/resources/art/shaders/materials/sc_skyscene_m02_sun_01.mat
 /resources/art/shaders/materials/sc_skyscene_m02_sun_02.mat
 /resources/art/shaders/materials/sc_skyscene_m03_largeplanet.mat
 /resources/art/shaders/materials/sc_skyscene_m03_largeplanetclouds.mat
@@ -60,7 +68,10 @@
 /resources/art/static/space_combat/sc_skyscene_asteroidbelt_m07.gr2
 /resources/art/static/space_combat/sc_skyscene_m01_planet.gr2
 /resources/art/static/space_combat/sc_skyscene_m01_planet_clouds.gr2
+/resources/art/static/space_combat/sc_skyscene_m02_moon_01.gr2
+/resources/art/static/space_combat/sc_skyscene_m02_planet_01.gr2
 /resources/art/static/space_combat/sc_skyscene_m02_planet_city_01.gr2
+/resources/art/static/space_combat/sc_skyscene_m02_sun_01.gr2
 /resources/art/static/space_combat/sc_skyscene_m02_sun_02.gr2
 /resources/art/static/space_combat/sc_skyscene_m03_largeplanet.gr2
 /resources/art/static/space_combat/sc_skyscene_m03_largeplanetclouds.gr2

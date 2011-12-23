@@ -1,4 +1,4 @@
-; 2040/2112 (96%)
+; 2067/2112 (97%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
 /resources/art/defaultassets/default_age.dds
@@ -1669,6 +1669,33 @@
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bms_fleshraider_a01_v03_s.dds
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bms_fleshraider_a01_v03_s.tex
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bms_fleshraider_a01_v03_s.tiny.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a01_v01_d.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a01_v01_d.tex
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a01_v01_d.tiny.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a01_v01_n.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a01_v01_n.tex
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a01_v01_n.tiny.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a01_v01_s.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a01_v01_s.tex
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a01_v01_s.tiny.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a02_v01_d.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a02_v01_d.tex
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a02_v01_d.tiny.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a02_v01_n.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a02_v01_n.tex
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a02_v01_n.tiny.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a02_v01_s.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a02_v01_s.tex
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a02_v01_s.tiny.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a03_v01_d.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a03_v01_d.tex
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a03_v01_d.tiny.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a03_v01_n.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a03_v01_n.tex
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a03_v01_n.tiny.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a03_v01_s.dds
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a03_v01_s.tex
+/resources/art/dynamic/npc/geonosian/texture/___psd/geonosian_geonosian_a03_v01_s.tiny.dds
 /resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_faathra_a01_c01_d.dds
 /resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_faathra_a01_c01_d.tex
 /resources/art/dynamic/npc/hutt/texture/___psd/eye_hutt_faathra_a01_c01_d.tiny.dds

@@ -1,9 +1,12 @@
-; 3478/3574 (97%)
+; 3495/3574 (97%)
+/resources/art/shaders/materials/ald_arch_outpost_stairs.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_01.mat
 /resources/art/shaders/materials/all_arch_ancient_ship_02.mat
 /resources/art/shaders/materials/all_arch_ancient_voss_tomb_skylight.mat
+/resources/art/shaders/materials/all_arch_ass_den_arch.mat
+/resources/art/shaders/materials/all_arch_bunker.mat
 /resources/art/shaders/materials/all_arch_cave_2room_a01.mat
 /resources/art/shaders/materials/all_arch_cave_2room_a02.mat
 /resources/art/shaders/materials/all_arch_cave_2room_a03.mat
@@ -17,6 +20,14 @@
 /resources/art/shaders/materials/all_arch_cave_2room_b06.mat
 /resources/art/shaders/materials/all_arch_cave_2room_b08.mat
 /resources/art/shaders/materials/all_arch_cave_2room_b10.mat
+/resources/art/shaders/materials/all_arch_cave_2room_c01.mat
+/resources/art/shaders/materials/all_arch_cave_2room_c02.mat
+/resources/art/shaders/materials/all_arch_cave_2room_c03.mat
+/resources/art/shaders/materials/all_arch_cave_2room_c04.mat
+/resources/art/shaders/materials/all_arch_cave_2room_c05.mat
+/resources/art/shaders/materials/all_arch_cave_2room_c06.mat
+/resources/art/shaders/materials/all_arch_cave_2room_c07.mat
+/resources/art/shaders/materials/all_arch_cave_2room_c08.mat
 /resources/art/shaders/materials/all_arch_cave_floor1.mat
 /resources/art/shaders/materials/all_arch_cave_floor2.mat
 /resources/art/shaders/materials/all_arch_cave_wall1.mat
@@ -37,6 +48,7 @@
 /resources/art/shaders/materials/all_arch_city_pillars.mat
 /resources/art/shaders/materials/all_arch_city_security_fence.mat
 /resources/art/shaders/materials/all_arch_city_senate_decal_light.mat
+/resources/art/shaders/materials/all_arch_city_senate_lobby_light.mat
 /resources/art/shaders/materials/all_arch_city_spaceport_hangar_low.mat
 /resources/art/shaders/materials/all_arch_city_spaceport_landing_pad.mat
 /resources/art/shaders/materials/all_arch_city_spaceport_metal01.mat
@@ -63,6 +75,7 @@
 /resources/art/shaders/materials/all_arch_city_walkway_side01.mat
 /resources/art/shaders/materials/all_arch_crystal_formation.mat
 /resources/art/shaders/materials/all_arch_crystal_formation_green.mat
+/resources/art/shaders/materials/all_arch_fadeportal_ald_darkblue.mat
 /resources/art/shaders/materials/all_arch_fadeportal_bal_ext_bright.mat
 /resources/art/shaders/materials/all_arch_fadeportal_bal_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_dro_int_dark.mat
@@ -80,6 +93,7 @@
 /resources/art/shaders/materials/all_arch_fadeportal_tyt_outside.mat
 /resources/art/shaders/materials/all_arch_fadeportal_tyt_rep_building_grey.mat
 /resources/art/shaders/materials/all_arch_fadeportal_tyt_rep_building_grey_lighter.mat
+/resources/art/shaders/materials/all_arch_house_rist_floor_tile_02.mat
 /resources/art/shaders/materials/all_arch_imp_barracks_wall01.mat
 /resources/art/shaders/materials/all_arch_imp_bridge.mat
 /resources/art/shaders/materials/all_arch_imp_bridge_destroyed.mat
@@ -188,12 +202,14 @@
 /resources/art/shaders/materials/all_arch_imp_wall_30m_metal_base.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_panels.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_pillar_bottom.mat
+/resources/art/shaders/materials/all_arch_imp_wall_30m_pillar_legs.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_pillar_top.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_pillar_trim.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_unique.mat
 /resources/art/shaders/materials/all_arch_imp_wall_30m_wall_tech.mat
 /resources/art/shaders/materials/all_arch_imp_wallset_base_02.mat
 /resources/art/shaders/materials/all_arch_imp_war_room_tech_cabinet.mat
+/resources/art/shaders/materials/all_arch_jedi_temple_ceiling_destroyed.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_stack.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_tower_base.mat
 /resources/art/shaders/materials/all_arch_neu_droid_factory_tower_trim01.mat
@@ -1397,6 +1413,7 @@
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_que_light.dds
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_que_light.tex
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_que_light.tiny.dds
+/resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tat_czerka_mine_custom_d.dds
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tat_czerka_mine_custom_d.tex
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tat_czerka_mine_custom_d.tiny.dds
 /resources/art/static/area/all_all/arch/fadeportal/texture/all_arch_fadeportal_tat_exterior_bright_d.dds

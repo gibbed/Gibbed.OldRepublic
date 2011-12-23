@@ -1,4 +1,4 @@
-; 818/1210 (67%)
+; 826/1210 (68%)
 /resources/art/dynamic/creature/model/dwarf_drall_a01.gr2
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.clo
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.gr2
@@ -702,6 +702,14 @@
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v02_d.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v02_h.dds
 /resources/art/dynamic/player_character/nautolan/head/texture/___psd/head_nautolan_bms_non_a01_v02_s.dds
+/resources/art/dynamic/player_character/rakata/head/texture/___psd/head_rakata_bma_non_a01_v01_d.dds
+/resources/art/dynamic/player_character/rakata/head/texture/___psd/head_rakata_bma_non_a01_v01_d.tex
+/resources/art/dynamic/player_character/rakata/head/texture/___psd/head_rakata_bma_non_a01_v01_h.dds
+/resources/art/dynamic/player_character/rakata/head/texture/___psd/head_rakata_bma_non_a01_v01_h.tex
+/resources/art/dynamic/player_character/rakata/head/texture/___psd/head_rakata_bma_non_a01_v01_n.dds
+/resources/art/dynamic/player_character/rakata/head/texture/___psd/head_rakata_bma_non_a01_v01_n.tex
+/resources/art/dynamic/player_character/rakata/head/texture/___psd/head_rakata_bma_non_a01_v01_s.dds
+/resources/art/dynamic/player_character/rakata/head/texture/___psd/head_rakata_bma_non_a01_v01_s.tex
 /resources/art/dynamic/player_character/sullustan/head/texture/___psd/head_sullustan_bma_non_a01_v01_d.dds
 /resources/art/dynamic/player_character/sullustan/head/texture/___psd/head_sullustan_bma_non_a01_v01_h.dds
 /resources/art/dynamic/player_character/sullustan/head/texture/___psd/head_sullustan_bma_non_a01_v01_n.dds

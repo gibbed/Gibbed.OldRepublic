@@ -1,4 +1,4 @@
-; 235/421 (55%)
+; 236/421 (56%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/dynamic/age/index.xml
@@ -96,6 +96,7 @@
 /resources/art/shaders/materials/ter_hutta_swamp_trash_mud.mat
 /resources/art/shaders/materials/ter_hutta_swampmud.mat
 /resources/art/shaders/materials/terrain_checkered.mat
+/resources/art/shaders/materials/test_tyt_rock.mat
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_space_hall_cpanel_01_d.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_space_hall_cpanel_01_d.tex
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_space_hall_cpanel_01_d.tiny.dds
