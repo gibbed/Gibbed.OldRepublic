@@ -1,4 +1,4 @@
-; 1833/14180 (12%)
+; 1841/14180 (12%)
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_up.jba
@@ -195,6 +195,7 @@
 /resources/anim/humanoid/bfanew/ad_mv_rifle_run_forward_yaw_mid.jba
 /resources/anim/humanoid/bfanew/ad_mv_rifle_run_forward_yaw_retract.jba
 /resources/anim/humanoid/bfanew/ad_mv_rifle_run_forward_yaw_up.jba
+/resources/anim/humanoid/bfanew/ad_mv_rifle_stealth_yaw.jba
 /resources/anim/humanoid/bfanew/ad_mv_rifle_walk_back_yaw_down.jba
 /resources/anim/humanoid/bfanew/ad_mv_rifle_walk_back_yaw_mid.jba
 /resources/anim/humanoid/bfanew/ad_mv_rifle_walk_back_yaw_retract.jba
@@ -262,6 +263,7 @@
 /resources/anim/humanoid/bfanew/ad_rifle_sniper_yaw_mid.jba
 /resources/anim/humanoid/bfanew/ad_rifle_sniper_yaw_retract.jba
 /resources/anim/humanoid/bfanew/ad_rifle_sniper_yaw_up.jba
+/resources/anim/humanoid/bfanew/ad_rifle_steath_yaw.jba
 /resources/anim/humanoid/bfanew/ad_rifle_yaw_down.jba
 /resources/anim/humanoid/bfanew/ad_rifle_yaw_mid.jba
 /resources/anim/humanoid/bfanew/ad_rifle_yaw_retract.jba
@@ -552,6 +554,7 @@
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000059.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000060.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000061.mph
+/resources/anim/humanoid/bfanew/humanoid_action_autogen000062.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000063.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000064.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000070.mph
@@ -577,6 +580,7 @@
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000101.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000102.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000103.mph
+/resources/anim/humanoid/bfanew/humanoid_action_autogen000105.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000106.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000107.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000108.mph
@@ -635,6 +639,7 @@
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000163.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000164.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000165.mph
+/resources/anim/humanoid/bfanew/humanoid_action_autogen000169.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000179.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000180.mph
 /resources/anim/humanoid/bfanew/humanoid_action_autogen000184.mph
@@ -850,6 +855,7 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_rifle_cover.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_rifle_falling.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_rifle_sniper.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_combat_rifle_stealth.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_saber_01.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_saber_02.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_combat_saber_04.mph
@@ -905,6 +911,7 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_talk_walk_left_short.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_talk_walk_right_short.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_unarmed_spar.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_use_datapad.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_use_holocom.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_use_journal.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_idle_stand_use_map.mph
@@ -1728,6 +1735,7 @@
 /resources/anim/humanoid/bfbnew/humanoid_loco_idle_sit_chair_look_right.mph
 /resources/anim/humanoid/bfbnew/humanoid_loco_idle_sit_talk_normal.mph
 /resources/anim/humanoid/bfbnew/humanoid_loco_idle_stand_2hands_on_hips_observe.mph
+/resources/anim/humanoid/bfbnew/humanoid_loco_idle_stand_cold.mph
 /resources/anim/humanoid/bfbnew/humanoid_loco_idle_stand_dance_01.mph
 /resources/anim/humanoid/bfbnew/humanoid_loco_idle_stand_dance_male.mph
 /resources/anim/humanoid/bfbnew/humanoid_loco_idle_stand_drink_talk.mph

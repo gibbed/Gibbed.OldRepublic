@@ -1,4 +1,4 @@
-; 6255/6335 (98%)
+; 6256/6335 (98%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -2646,6 +2646,7 @@
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_d.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_d.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_n.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_n.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_n.tiny.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_block_metal01_s.dds

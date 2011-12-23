@@ -1,4 +1,4 @@
-; 2546/2575 (98%)
+; 2550/2575 (99%)
 /resources/art/environmentmaps/ald_main/area.dds
 /resources/art/environmentmaps/ald_main/area.tex
 /resources/art/environmentmaps/ald_main/area.tiny.dds
@@ -1637,6 +1637,7 @@
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_hall_red_marble_destroyed_s.dds
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_hall_red_marble_destroyed_s.tex
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_hall_red_marble_destroyed_s.tiny.dds
+/resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_hall_red_marble_n.dds
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_hall_red_marble_n.tex
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_hall_red_marble_n.tiny.dds
 /resources/art/static/area/cor_coruscant/arch/texture/cor_arch_senate_hall_red_marble_s.dds
@@ -2349,6 +2350,9 @@
 /resources/world/areas/4611686023868513034/minimaps/map_hub1_int_saviron_camp_00_00_r.dds
 /resources/world/areas/4611686023868513034/minimaps/map_hub1_int_saviron_camp_00_01_r.dds
 /resources/world/areas/4611686023868513034/minimaps/map_hub1_int_saviron_camp_00_02_r.dds
+/resources/world/areas/4611686023868513034/minimaps/map_hub1_int_saviron_camp_01_00_r.dds
+/resources/world/areas/4611686023868513034/minimaps/map_hub1_int_saviron_camp_01_01_r.dds
+/resources/world/areas/4611686023868513034/minimaps/map_hub1_int_saviron_camp_01_02_r.dds
 /resources/world/areas/4611686023868513034/minimaps/map_hub1_int_spaceport_imp_smuggler_00_00_r.dds
 /resources/world/areas/4611686023868513034/minimaps/map_hub1_int_spaceport_imp_smuggler_00_01_r.dds
 /resources/world/areas/4611686023868513034/minimaps/map_hub1_int_spaceport_imp_smuggler_01_00_r.dds

@@ -1,4 +1,4 @@
-; 10240/52255 (19%)
+; 10241/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -9319,6 +9319,7 @@
 /resources/gfx/icons/redrage.dds
 /resources/gfx/icons/redstimpack.dds
 /resources/gfx/icons/redsuperiorlightsabercrystal.dds
+/resources/gfx/icons/regenerate.dds
 /resources/gfx/icons/rejuvinate.dds
 /resources/gfx/icons/remotecontrol.dds
 /resources/gfx/icons/remotedetonationmine.dds

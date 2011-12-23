@@ -1,4 +1,4 @@
-; 209/412 (50%)
+; 217/412 (52%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
@@ -33,6 +33,7 @@
 /resources/bnk2/voc_battledroidliberation.bnk
 /resources/bnk2/voc_battledroidpacification.bnk
 /resources/bnk2/voc_battledroidrogue.bnk
+/resources/bnk2/voc_battledroidtython.bnk
 /resources/bnk2/voc_battledroidwarbot.bnk
 /resources/bnk2/voc_bith_m_alien_low_soundset.bnk
 /resources/bnk2/voc_blizz.bnk
@@ -45,6 +46,7 @@
 /resources/bnk2/voc_devaronian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_devaronian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_dewback.bnk
+/resources/bnk2/voc_dr_lokin.bnk
 /resources/bnk2/voc_dragonbat.bnk
 /resources/bnk2/voc_drate.bnk
 /resources/bnk2/voc_duros_m_alien_high_soundset.bnk
@@ -96,6 +98,8 @@
 /resources/bnk2/voc_kaliyo.bnk
 /resources/bnk2/voc_keldor_m_alien_med_soundset.bnk
 /resources/bnk2/voc_khem_val.bnk
+/resources/bnk2/voc_killik_m_alien_high_soundset.bnk
+/resources/bnk2/voc_killik_m_alien_med_soundset.bnk
 /resources/bnk2/voc_kintanenforcer.bnk
 /resources/bnk2/voc_kira_carson.bnk
 /resources/bnk2/voc_kitonak_m_alien_low_soundset.bnk
@@ -107,11 +111,13 @@
 /resources/bnk2/voc_lt_pierce.bnk
 /resources/bnk2/voc_mako.bnk
 /resources/bnk2/voc_manka.bnk
+/resources/bnk2/voc_mantellianflutterplume.bnk
 /resources/bnk2/voc_moncalamari_m_alien_med_soundset.bnk
 /resources/bnk2/voc_nautolan_f_alien_high_soundset.bnk
 /resources/bnk2/voc_nautolan_f_alien_med_soundset.bnk
 /resources/bnk2/voc_nautolan_m_alien_low_soundset.bnk
 /resources/bnk2/voc_neimoidian_m_alien_low_soundset.bnk
+/resources/bnk2/voc_nerf.bnk
 /resources/bnk2/voc_nikto_m_alien_med_soundset.bnk
 /resources/bnk2/voc_ortolan_m_alien_low_soundset.bnk
 /resources/bnk2/voc_player_bounty_hunter_f.bnk
@@ -134,6 +140,7 @@
 /resources/bnk2/voc_probeinclimatecondition.bnk
 /resources/bnk2/voc_probeordmantellrecon.bnk
 /resources/bnk2/voc_proberecon.bnk
+/resources/bnk2/voc_protocoldroidcourier.bnk
 /resources/bnk2/voc_protocoldroiddroservice.bnk
 /resources/bnk2/voc_protocoldroidgenmedical.bnk
 /resources/bnk2/voc_protocoldroidimpmedical.bnk
@@ -197,6 +204,7 @@
 /resources/bnk2/voc_vector.bnk
 /resources/bnk2/voc_vette.bnk
 /resources/bnk2/voc_vinecat.bnk
+/resources/bnk2/voc_vorntiger.bnk
 /resources/bnk2/voc_wampa.bnk
 /resources/bnk2/voc_weequay_m_alien_low_soundset.bnk
 /resources/bnk2/voc_weequay_m_alien_med_soundset.bnk

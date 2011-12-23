@@ -1,4 +1,4 @@
-; 2142/3873 (55%)
+; 2163/3873 (55%)
 /resources/art/dynamic/chest/index.xml
 /resources/art/dynamic/chest/model/chest_armor01_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfa_archetype.lod.gr2
@@ -41,6 +41,8 @@
 /resources/art/dynamic/chest/model/chest_armor01_bfn_archetype.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfn_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfn_heavy_bh_a02_arm.lod.gr2
+/resources/art/dynamic/chest/model/chest_armor01_bfn_heavy_bh_a02_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_armor01_bfn_heavy_bh_a02_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfn_heavy_bh_a03_back.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfn_heavy_bh_a03_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_armor01_bfn_heavy_bh_a03_collar.gr2
@@ -253,6 +255,9 @@
 /resources/art/dynamic/chest/model/chest_baggy_bfn_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a16_back.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a16_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a16_loin.clo
+/resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a16_loin.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a16_plate.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a18_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a18_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfn_heavy_ge_a18_shld.lod.gr2
@@ -313,12 +318,17 @@
 /resources/art/dynamic/chest/model/chest_baggy_bfs_med_bh_a01_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfs_med_bh_a01_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfs_med_bh_a01_shld.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfs_med_ge_a17_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfs_med_ge_a17_chest.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bfs_med_ge_a17_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfs_med_ge_a34_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bfs_med_ge_a34_loin.clo
 /resources/art/dynamic/chest/model/chest_baggy_bfs_med_ge_a34_loin.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_archetype.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_heavy_ge_a16_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bma_heavy_ge_a16_loin.clo
+/resources/art/dynamic/chest/model/chest_baggy_bma_heavy_ge_a16_loin.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_heavy_ge_a16_plate.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_heavy_ge_a18_back.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bma_heavy_ge_a18_back.lod.gr2
@@ -395,6 +405,8 @@
 /resources/art/dynamic/chest/model/chest_baggy_bmf_med_ge_a17_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bmf_med_ge_a17_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bmf_med_ge_a17_shld.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bmf_med_ge_a27_chest.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bmf_med_ge_a27_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bmf_med_ge_a34_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bmf_med_ge_a34_loin.clo
 /resources/art/dynamic/chest/model/chest_baggy_bmf_med_ge_a34_loin.lod.gr2
@@ -514,7 +526,9 @@
 /resources/art/dynamic/chest/model/chest_baggy_bms_med_ge_a02_collar.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_med_ge_a02_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_med_ge_a02_strap.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bms_med_ge_a17_back.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_med_ge_a17_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_baggy_bms_med_ge_a17_chest.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_med_ge_a17_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_med_ge_a17_shld.lod.gr2
 /resources/art/dynamic/chest/model/chest_baggy_bms_med_ge_a27_back.lod.gr2
@@ -1289,6 +1303,7 @@
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_f_03_n.tiny.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_f_n.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_m_01_n.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_m_01_n.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_m_03_n.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_m_03_n.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_m_n.dds
@@ -1302,9 +1317,13 @@
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_u_s.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military01_u_s.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military02_u_d.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military02_u_d.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military02_u_h.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military02_u_h.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military02_u_m.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military02_u_m.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military02_u_s.dds
+/resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military02_u_s.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_d.dds
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_d.tex
 /resources/art/dynamic/player_character/outfit/ge_baggy_med_a17/texture/___psd/chest_baggy_med_ge_a17military04_u_d.tiny.dds
@@ -1968,6 +1987,7 @@
 /resources/art/shaders/materials/chest_armor01_heavy_bh_a02c01_u.mat
 /resources/art/shaders/materials/chest_armor01_heavy_bh_a02c02_u.mat
 /resources/art/shaders/materials/chest_armor01_heavy_bh_a02c03_u.mat
+/resources/art/shaders/materials/chest_armor01_heavy_bh_a02c04_f.mat
 /resources/art/shaders/materials/chest_armor01_heavy_bh_a02c04_m.mat
 /resources/art/shaders/materials/chest_armor01_heavy_bh_a02c05_m.mat
 /resources/art/shaders/materials/chest_armor01_heavy_bh_a02c06_m.mat
@@ -1997,6 +2017,7 @@
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a16military02_m.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a16military03_f.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a16military03_m.mat
+/resources/art/shaders/materials/chest_baggy_heavy_ge_a16military05_f.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a16military06_f.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a16military06_m.mat
 /resources/art/shaders/materials/chest_baggy_heavy_ge_a16military07_f.mat
