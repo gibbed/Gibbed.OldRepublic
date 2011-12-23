@@ -1,4 +1,4 @@
-; 3499/14190 (24%)
+; 3501/14190 (24%)
 /resources/anim/humanoid/bfnnew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bfnnew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bfnnew/ad_2pistol_2h_yaw_up.jba
@@ -1826,6 +1826,7 @@
 /resources/anim/humanoid/bfnnew/humanoid_action_autogen000180.mph
 /resources/anim/humanoid/bfnnew/humanoid_action_autogen000184.mph
 /resources/anim/humanoid/bfnnew/humanoid_action_autogen000185.mph
+/resources/anim/humanoid/bfnnew/humanoid_action_autogen000205.mph
 /resources/anim/humanoid/bfnnew/humanoid_action_autogen000222.mph
 /resources/anim/humanoid/bfnnew/humanoid_action_autogen000232.mph
 /resources/anim/humanoid/bfnnew/humanoid_action_autogen000240.mph
@@ -3356,6 +3357,7 @@
 /resources/anim/humanoid/bfsnew/humanoid_loco_normal_falling.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_stunned.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_stunned_knockeddown.mph
+/resources/anim/humanoid/bfsnew/humanoid_no_aim_loco_autogen_po_arms_crossed_idle.mph
 /resources/anim/humanoid/bfsnew/humanoid_overlay.mph
 /resources/anim/humanoid/bfsnew/humanoid_overlay_autogen_ad_blank.mph
 /resources/anim/humanoid/bfsnew/humanoid_overlay_autogen_ad_face_concentration_pose_01.mph

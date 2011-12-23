@@ -1,4 +1,4 @@
-; 2067/2112 (97%)
+; 2074/2112 (98%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
 /resources/art/defaultassets/default_age.dds
@@ -1561,6 +1561,12 @@
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v03_s.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v03_s.tex
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v03_s.tiny.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v04_d.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v04_d.tex
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v04_d.tiny.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v04_s.dds
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v04_s.tex
+/resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v04_s.tiny.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_d.dds
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_d.tex
 /resources/art/dynamic/npc/dashade/texture/___psd/bms_dashade_a03_v05_d.tiny.dds
@@ -1975,6 +1981,7 @@
 /resources/art/shaders/materials/bms_dashade_a03_v01.mat
 /resources/art/shaders/materials/bms_dashade_a03_v02.mat
 /resources/art/shaders/materials/bms_dashade_a03_v03.mat
+/resources/art/shaders/materials/bms_dashade_a03_v04.mat
 /resources/art/shaders/materials/bms_dashade_a03_v05.mat
 /resources/art/shaders/materials/bms_fleshraider_a01_v01.mat
 /resources/art/shaders/materials/bms_fleshraider_a01_v02.mat

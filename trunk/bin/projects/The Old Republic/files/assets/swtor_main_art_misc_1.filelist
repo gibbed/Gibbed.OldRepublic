@@ -1,4 +1,4 @@
-; 1463/2181 (67%)
+; 1465/2181 (67%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -841,6 +841,8 @@
 /resources/art/lights/fill_warm_jedi_temple.tex
 /resources/art/lights/fill_warm_space.dds
 /resources/art/lights/fill_warm_space.tex
+/resources/art/lights/fx_falloff_halflinear_01.dds
+/resources/art/lights/fx_falloff_halflinear_01.tex
 /resources/art/lights/fx_falloff_linear_01.dds
 /resources/art/lights/fx_falloff_linear_01.tex
 /resources/art/lights/fx_gal_map_asteroid_field_lightramp.dds
