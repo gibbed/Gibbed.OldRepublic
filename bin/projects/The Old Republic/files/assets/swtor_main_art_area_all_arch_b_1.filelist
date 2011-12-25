@@ -1,4 +1,4 @@
-; 6256/6335 (98%)
+; 6270/6335 (98%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -103,6 +103,15 @@
 /resources/art/shaders/materials/all_arch_pal_house_stonefloor.mat
 /resources/art/shaders/materials/all_arch_pal_house_stonefloor2.mat
 /resources/art/shaders/materials/all_arch_pipe_hole.mat
+/resources/art/shaders/materials/all_arch_pipe_set_01.mat
+/resources/art/shaders/materials/all_arch_pipe_set_02.mat
+/resources/art/shaders/materials/all_arch_pipe_set_03.mat
+/resources/art/shaders/materials/all_arch_pipe_set_04.mat
+/resources/art/shaders/materials/all_arch_pipe_set_05.mat
+/resources/art/shaders/materials/all_arch_pipe_set_06.mat
+/resources/art/shaders/materials/all_arch_pipe_set_07.mat
+/resources/art/shaders/materials/all_arch_rep_atv_body_01.mat
+/resources/art/shaders/materials/all_arch_rep_atv_body_01_metal.mat
 /resources/art/shaders/materials/all_arch_rep_atv_doorramp_01.mat
 /resources/art/shaders/materials/all_arch_rep_atv_exterior_01.mat
 /resources/art/shaders/materials/all_arch_rep_atv_exterior_01_dmg.mat
@@ -136,7 +145,10 @@
 /resources/art/shaders/materials/all_arch_rep_fort_door_8m.mat
 /resources/art/shaders/materials/all_arch_rep_fort_door_jamb.mat
 /resources/art/shaders/materials/all_arch_rep_fort_door_jamb_noglow.mat
+/resources/art/shaders/materials/all_arch_rep_fort_door_lowglow_column.mat
+/resources/art/shaders/materials/all_arch_rep_fort_door_lowglow_jamb.mat
 /resources/art/shaders/materials/all_arch_rep_fort_door02.mat
+/resources/art/shaders/materials/all_arch_rep_fort_elevator_platform.mat
 /resources/art/shaders/materials/all_arch_rep_fort_exterior.mat
 /resources/art/shaders/materials/all_arch_rep_fort_exterior_panels.mat
 /resources/art/shaders/materials/all_arch_rep_fort_exterior_pipes.mat
@@ -186,6 +198,7 @@
 /resources/art/shaders/materials/all_arch_rep_road_02.mat
 /resources/art/shaders/materials/all_arch_rep_space_airlock.mat
 /resources/art/shaders/materials/all_arch_rep_space_ceiling_truss.mat
+/resources/art/shaders/materials/all_arch_rep_space_door_lg_damaged.mat
 /resources/art/shaders/materials/all_arch_rep_space_door_sm.mat
 /resources/art/shaders/materials/all_arch_rep_space_door_sm_alt.mat
 /resources/art/shaders/materials/all_arch_rep_space_door_sm_damaged.mat
@@ -193,6 +206,7 @@
 /resources/art/shaders/materials/all_arch_rep_space_elevator_int.mat
 /resources/art/shaders/materials/all_arch_rep_space_elevator_int_console.mat
 /resources/art/shaders/materials/all_arch_rep_space_elevator_int_floor.mat
+/resources/art/shaders/materials/all_arch_rep_space_hall_combo02_noemiss.mat
 /resources/art/shaders/materials/all_arch_rep_space_hall_floor_grate01.mat
 /resources/art/shaders/materials/all_arch_rep_space_room_bridge_floor01.mat
 /resources/art/shaders/materials/all_arch_rep_space_room_bridge_trim01.mat

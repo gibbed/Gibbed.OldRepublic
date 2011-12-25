@@ -1,4 +1,4 @@
-; 588/715 (82%)
+; 591/715 (82%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -32,6 +32,7 @@
 /resources/art/dynamic/mag/model/mag_doorimpspaceelevator_door.gr2
 /resources/art/dynamic/mag/model/mag_doorsithinterior_sith.gr2
 /resources/art/dynamic/mag/model/mag_doorsithtombtransition_v01.gr2
+/resources/art/dynamic/mag/model/mag_doortechcaveentrance_main.gr2
 /resources/art/dynamic/mag/model/mag_doortechcavelarge_v01.gr2
 /resources/art/dynamic/mag/model/mag_envfactorybelt_droid01.gr2
 /resources/art/dynamic/mag/model/mag_envfactorybelt_impfighterbody.gr2
@@ -234,6 +235,7 @@
 /resources/art/dynamic/spec/all_item_tech_rakata_mind_trap_trap_animated_skeleton.gr2
 /resources/art/dynamic/spec/archrepgenerator_skeleton.gr2
 /resources/art/dynamic/spec/bal_arch_okara_power_core.mag
+/resources/art/dynamic/spec/bal_arch_okara_power_core_skeleton.gr2
 /resources/art/dynamic/spec/bel_arch_rakata_teleporter_rotating_arm.mag
 /resources/art/dynamic/spec/bfanew_skeleton.gr2
 /resources/art/dynamic/spec/bfbnew_skeleton.gr2
@@ -253,6 +255,7 @@
 /resources/art/dynamic/spec/doorimpspaceelevator_skeleton.gr2
 /resources/art/dynamic/spec/doorsithinterior_skeleton.gr2
 /resources/art/dynamic/spec/doorsithtombtransition_skeleton.gr2
+/resources/art/dynamic/spec/doortechcaveentrance_skeleton.gr2
 /resources/art/dynamic/spec/doortechcavelarge_skeleton.gr2
 /resources/art/dynamic/spec/e3door.mag
 /resources/art/dynamic/spec/e3door_skeleton.gr2

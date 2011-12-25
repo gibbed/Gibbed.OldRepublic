@@ -1,4 +1,4 @@
-; 649/663 (97%)
+; 650/663 (98%)
 /resources/art/environmentmaps/ord_resize/area.dds
 /resources/art/environmentmaps/ord_resize/area.tex
 /resources/art/environmentmaps/ord_resize/area.tiny.dds
@@ -52,6 +52,7 @@
 /resources/art/shaders/materials/ter_ord_mud.mat
 /resources/art/shaders/materials/ter_ord_mud02.mat
 /resources/art/shaders/materials/ter_ord_purple_mud.mat
+/resources/art/shaders/materials/ter_ord_purple_water.mat
 /resources/art/shaders/materials/ter_ord_rubble01.mat
 /resources/art/shaders/materials/ter_ord_sand01.mat
 /resources/art/shaders/materials/ter_ord_yellow_mud.mat

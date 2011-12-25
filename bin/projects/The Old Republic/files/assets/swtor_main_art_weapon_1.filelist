@@ -1,4 +1,4 @@
-; 4354/4686 (92%)
+; 4379/4686 (93%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -232,6 +232,9 @@
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low01_a01_v04_d.dds
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low01_a01_v04_d.tex
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low01_a01_v04_d.tiny.dds
+/resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low01_a01_v04_n.dds
+/resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low01_a01_v04_n.tex
+/resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low01_a01_v04_n.tiny.dds
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low01_a01_v04_s.dds
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low01_a01_v04_s.tex
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_low01_a01_v04_s.tiny.dds
@@ -475,6 +478,9 @@
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high04_a01_v03_d.dds
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high04_a01_v03_d.tex
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high04_a01_v03_d.tiny.dds
+/resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high04_a01_v03_n.dds
+/resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high04_a01_v03_n.tex
+/resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high04_a01_v03_n.tiny.dds
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high04_a01_v03_s.dds
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high04_a01_v03_s.tex
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high04_a01_v03_s.tiny.dds
@@ -529,6 +535,9 @@
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high06_a01_v02_d.dds
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high06_a01_v02_d.tex
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high06_a01_v02_d.tiny.dds
+/resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high06_a01_v02_n.dds
+/resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high06_a01_v02_n.tex
+/resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high06_a01_v02_n.tiny.dds
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high06_a01_v02_s.dds
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high06_a01_v02_s.tex
 /resources/art/dynamic/weapon/blaster/texture/___psd/blaster_high06_a01_v02_s.tiny.dds
@@ -4059,13 +4068,17 @@
 /resources/art/dynamic/weapon/turret/wep_turret_republic.gr2
 /resources/art/shaders/materials/assaultcannon_high01_a01_v03.mat
 /resources/art/shaders/materials/assaultcannon_high01_a01_v04.mat
+/resources/art/shaders/materials/assaultcannon_high02_a01_v04.mat
 /resources/art/shaders/materials/assaultcannon_high03_a01_v01.mat
 /resources/art/shaders/materials/assaultcannon_high03_a01_v02.mat
 /resources/art/shaders/materials/assaultcannon_high03_a01_v04.mat
 /resources/art/shaders/materials/assaultcannon_high04_a01_v01.mat
 /resources/art/shaders/materials/assaultcannon_high04_a01_v02.mat
+/resources/art/shaders/materials/assaultcannon_high04_a01_v03.mat
+/resources/art/shaders/materials/assaultcannon_high04_a01_v04.mat
 /resources/art/shaders/materials/assaultcannon_high05_a01_v01.mat
 /resources/art/shaders/materials/assaultcannon_high05_a01_v03.mat
+/resources/art/shaders/materials/assaultcannon_high05_a01_v04.mat
 /resources/art/shaders/materials/assaultcannon_low01_a01_v01.mat
 /resources/art/shaders/materials/assaultcannon_low01_a01_v02.mat
 /resources/art/shaders/materials/assaultcannon_low01_a01_v04.mat
@@ -4086,11 +4099,15 @@
 /resources/art/shaders/materials/blaster_high03_a01_v04.mat
 /resources/art/shaders/materials/blaster_high04_a01_v01.mat
 /resources/art/shaders/materials/blaster_high04_a01_v02.mat
+/resources/art/shaders/materials/blaster_high04_a01_v03.mat
 /resources/art/shaders/materials/blaster_high05_a01_v01.mat
 /resources/art/shaders/materials/blaster_high05_a01_v02.mat
 /resources/art/shaders/materials/blaster_high05_a01_v03.mat
 /resources/art/shaders/materials/blaster_high05_a01_v04.mat
+/resources/art/shaders/materials/blaster_high06_a01_v02.mat
 /resources/art/shaders/materials/blaster_high06_a01_v03.mat
+/resources/art/shaders/materials/blaster_high07_a01_v04.mat
+/resources/art/shaders/materials/blaster_high08_a01_v01.mat
 /resources/art/shaders/materials/blaster_high08_a01_v02.mat
 /resources/art/shaders/materials/blaster_high08_a01_v03.mat
 /resources/art/shaders/materials/blaster_high08_a01_v04.mat
@@ -4105,6 +4122,7 @@
 /resources/art/shaders/materials/blaster_high11_a01_v02.mat
 /resources/art/shaders/materials/blaster_high11_a01_v03.mat
 /resources/art/shaders/materials/blaster_high11_a01_v04.mat
+/resources/art/shaders/materials/blaster_high12_a01_v01.mat
 /resources/art/shaders/materials/blaster_high12_a01_v02.mat
 /resources/art/shaders/materials/blaster_high12_a01_v03.mat
 /resources/art/shaders/materials/blaster_high12_a01_v04.mat
@@ -4171,6 +4189,7 @@
 /resources/art/shaders/materials/blaster_low13_a01_v04.mat
 /resources/art/shaders/materials/blaster_voss_a01_v02.mat
 /resources/art/shaders/materials/blaster_voss_a01_v03.mat
+/resources/art/shaders/materials/blaster_voss_a01_v04.mat
 /resources/art/shaders/materials/dualsaber_high01_a01_v01.mat
 /resources/art/shaders/materials/dualsaber_high02_a01_v01.mat
 /resources/art/shaders/materials/dualsaber_jedihigh01_a01_v01.mat
@@ -4251,14 +4270,18 @@
 /resources/art/shaders/materials/rifle_low08_a01_v02.mat
 /resources/art/shaders/materials/rifle_low08_a01_v03.mat
 /resources/art/shaders/materials/rifle_low08_a01_v04.mat
+/resources/art/shaders/materials/rifle_shotgunhigh01_a01_v03.mat
 /resources/art/shaders/materials/rifle_shotgunhigh02_a01_v01.mat
 /resources/art/shaders/materials/rifle_shotgunhigh02_a01_v02.mat
+/resources/art/shaders/materials/rifle_shotgunhigh02_a01_v03.mat
 /resources/art/shaders/materials/rifle_shotgunhigh03_a01_v01.mat
 /resources/art/shaders/materials/rifle_shotgunhigh03_a01_v02.mat
 /resources/art/shaders/materials/rifle_shotgunhigh03_a01_v03.mat
 /resources/art/shaders/materials/rifle_sniperhigh01_a01_v01.mat
+/resources/art/shaders/materials/rifle_sniperhigh01_a01_v02.mat
 /resources/art/shaders/materials/rifle_sniperhigh01_a01_v03.mat
 /resources/art/shaders/materials/rifle_sniperhigh04_a01_v01.mat
+/resources/art/shaders/materials/rifle_sniperhigh04_a01_v02.mat
 /resources/art/shaders/materials/rifle_sniperhigh04_a01_v03.mat
 /resources/art/shaders/materials/rifle_sniperhigh04_a01_v04.mat
 /resources/art/shaders/materials/rifle_sniperlow01_a01_v01.mat
@@ -4281,6 +4304,7 @@
 /resources/art/shaders/materials/saber_high04_a01_v01.mat
 /resources/art/shaders/materials/saber_high06_a01_v01.mat
 /resources/art/shaders/materials/saber_high07_a01_v01.mat
+/resources/art/shaders/materials/saber_jedihigh01_a01_v01.mat
 /resources/art/shaders/materials/saber_jedihigh03_a01_v01.mat
 /resources/art/shaders/materials/saber_jedihigh04_a01_v01.mat
 /resources/art/shaders/materials/saber_jedihigh05_a01_v01.mat
@@ -4302,6 +4326,7 @@
 /resources/art/shaders/materials/saber_sithlow02_a01_v01.mat
 /resources/art/shaders/materials/saber_sithlow03_a01_v01.mat
 /resources/art/shaders/materials/shotgun_low01_a01_v01.mat
+/resources/art/shaders/materials/wep_blaster_high01.mat
 /resources/art/shaders/materials/wep_melee_training_saber.mat
 /resources/art/shaders/materials/wep_quest_warblade.mat
 /resources/art/shaders/materials/wep_rifle_low01.mat

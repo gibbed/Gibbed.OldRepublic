@@ -1,4 +1,4 @@
-; 4806/5536 (86%)
+; 4807/5536 (86%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -202,6 +202,7 @@
 /resources/art/shaders/materials/spc_item_planetsign_hutta.mat
 /resources/art/shaders/materials/spc_item_planetsign_kor.mat
 /resources/art/shaders/materials/spc_item_planetsign_ord.mat
+/resources/art/shaders/materials/spc_item_planetsign_taris_imp.mat
 /resources/art/shaders/materials/spc_item_planetsign_tatooine_imp.mat
 /resources/art/shaders/materials/spc_item_planetsign_tatooine_rep.mat
 /resources/art/shaders/materials/spc_item_planetsign_tython.mat

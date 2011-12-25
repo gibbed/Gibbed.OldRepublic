@@ -1,4 +1,4 @@
-; 33/63 (52%)
+; 35/63 (55%)
 /resources/bnk2/abilities_creatures_data.bnk
 /resources/bnk2/abilities_general_data.bnk
 /resources/bnk2/abilities_imperialmelee_data.bnk
@@ -7,6 +7,7 @@
 /resources/bnk2/abilities_republicranged_data.bnk
 /resources/bnk2/cinematics_data.bnk
 /resources/bnk2/init.bnk
+/resources/bnk2/location_act_1_ships_data.bnk
 /resources/bnk2/location_alderaan_data.bnk
 /resources/bnk2/location_balmorra_data.bnk
 /resources/bnk2/location_characterselect_data.bnk
@@ -23,6 +24,7 @@
 /resources/bnk2/location_pvp_arena_data.bnk
 /resources/bnk2/location_pvp_ship_data.bnk
 /resources/bnk2/location_spacecombat_data.bnk
+/resources/bnk2/location_taris_2_data.bnk
 /resources/bnk2/location_tatooine_data.bnk
 /resources/bnk2/location_tython_data.bnk
 /resources/bnk2/movement_data.bnk
