@@ -1,4 +1,4 @@
-; 826/1210 (68%)
+; 841/1210 (69%)
 /resources/art/dynamic/creature/model/dwarf_drall_a01.gr2
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.clo
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.gr2
@@ -582,6 +582,18 @@
 /resources/art/dynamic/npc/ugnaught/textures/___psd/dwarf_ugnaught_a03_v01_s.dds
 /resources/art/dynamic/npc/ugnaught/textures/___psd/dwarf_ugnaught_a03_v01_s.tex
 /resources/art/dynamic/npc/ugnaught/textures/___psd/dwarf_ugnaught_a03_v01_s.tiny.dds
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_d.dds
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_d.tex
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_d.tiny.dds
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_m.dds
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_m.tex
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_m.tiny.dds
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_n.dds
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_n.tex
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_n.tiny.dds
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_s.dds
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_s.tex
+/resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_bowdaar_a01_v01_s.tiny.dds
 /resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_wookiee_a01_v01_d.dds
 /resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_wookiee_a01_v01_d.tex
 /resources/art/dynamic/npc/wookie/___anim/texture/___psd/wookiee_wookiee_a01_v01_d.tiny.dds
@@ -675,6 +687,8 @@
 /resources/art/dynamic/player_character/face_customization/eye/eye_joiner_non_a01_c01_d.dds
 /resources/art/dynamic/player_character/face_customization/eye/eye_joiner_non_a01_c01_d.tex
 /resources/art/dynamic/player_character/face_customization/eye/eye_joiner_non_a01_c01_d.tiny.dds
+/resources/art/dynamic/player_character/houk/head/texture/___psd/head_houk_bmf_non_a01_v01_d.dds
+/resources/art/dynamic/player_character/houk/head/texture/___psd/head_houk_bmf_non_a01_v01_h.dds
 /resources/art/dynamic/player_character/houk/head/texture/___psd/head_houk_bmf_non_a01_v01_n.dds
 /resources/art/dynamic/player_character/houk/head/texture/___psd/head_houk_bmf_non_a01_v01_s.dds
 /resources/art/dynamic/player_character/houk/head/texture/___psd/head_houk_bmf_non_a01_v02_d.dds
@@ -786,6 +800,7 @@
 /resources/art/shaders/materials/head_gand_bmn_non_a02_v01.mat
 /resources/art/shaders/materials/head_gran_bmn_non_a01_v01.mat
 /resources/art/shaders/materials/head_gran_bmn_non_a01_v02.mat
+/resources/art/shaders/materials/head_houk_bmf_non_a01_v01.mat
 /resources/art/shaders/materials/head_houk_bmf_non_a01_v02.mat
 /resources/art/shaders/materials/head_kaleesh_bms_non_a02_v01.mat
 /resources/art/shaders/materials/head_kaleesh_bms_non_a03_v01.mat

@@ -1,4 +1,4 @@
-; 10241/52255 (19%)
+; 10260/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -1182,6 +1182,7 @@
 /resources/gfx/gfx_production/warzone_alderaan_overlay.gfx
 /resources/gfx/gfx_production/warzone_arena_overlay.gfx
 /resources/gfx/gfx_production/warzone_voidstar_overlay.gfx
+/resources/gfx/icons/absorbshield.dds
 /resources/gfx/icons/absorbtionfield.dds
 /resources/gfx/icons/accesscard.dds
 /resources/gfx/icons/accesscardcolorvariant1.dds
@@ -1234,6 +1235,7 @@
 /resources/gfx/icons/armorpiercingclip.dds
 /resources/gfx/icons/armorplating.dds
 /resources/gfx/icons/armorreduced.dds
+/resources/gfx/icons/armortech.dds
 /resources/gfx/icons/armortechupgrade1.dds
 /resources/gfx/icons/armortechupgrade2.dds
 /resources/gfx/icons/armorunderlay1.dds
@@ -1374,6 +1376,7 @@
 /resources/gfx/icons/astrodroidhead.dds
 /resources/gfx/icons/astrodroidleg.dds
 /resources/gfx/icons/ataru.dds
+/resources/gfx/icons/attackslowed.dds
 /resources/gfx/icons/auraofinvincibility.dds
 /resources/gfx/icons/auraofleadership.dds
 /resources/gfx/icons/auraoflight.dds
@@ -1813,6 +1816,7 @@
 /resources/gfx/icons/burst.dds
 /resources/gfx/icons/cabonizedbounty.dds
 /resources/gfx/icons/callontheforce.dds
+/resources/gfx/icons/cannonball.dds
 /resources/gfx/icons/cannonsupercharger.dds
 /resources/gfx/icons/carbonitegrenade.dds
 /resources/gfx/icons/carbonitereinforcedshield.dds
@@ -1820,6 +1824,7 @@
 /resources/gfx/icons/carbonized.dds
 /resources/gfx/icons/carsunum.dds
 /resources/gfx/icons/casting.dds
+/resources/gfx/icons/cc_aggressive.dds
 /resources/gfx/icons/cc_attack.dds
 /resources/gfx/icons/cc_defensive.dds
 /resources/gfx/icons/cc_follow.dds
@@ -1920,6 +1925,7 @@
 /resources/gfx/icons/datapad.dds
 /resources/gfx/icons/datapadinabottle.dds
 /resources/gfx/icons/dataredlettering.dds
+/resources/gfx/icons/deadlycannon.dds
 /resources/gfx/icons/deathfield.dds
 /resources/gfx/icons/deathfromabove.dds
 /resources/gfx/icons/debuff_moving.dds
@@ -2013,6 +2019,7 @@
 /resources/gfx/icons/electroblade.low05.a02_v01.dds
 /resources/gfx/icons/electroblade.low05.a03_v01.dds
 /resources/gfx/icons/electrocution.dds
+/resources/gfx/icons/electronet.dds
 /resources/gfx/icons/electronicplug.dds
 /resources/gfx/icons/electronics.dds
 /resources/gfx/icons/electrostaff.chiss01.a01_v01.dds
@@ -2040,6 +2047,7 @@
 /resources/gfx/icons/energycapacitor.dds
 /resources/gfx/icons/energycollectormodule.dds
 /resources/gfx/icons/energycontainmentbottle.dds
+/resources/gfx/icons/energydrain.dds
 /resources/gfx/icons/energyoverloadfunnel.dds
 /resources/gfx/icons/energyscreenenhancer.dds
 /resources/gfx/icons/energyshield.dds
@@ -2096,6 +2104,7 @@
 /resources/gfx/icons/forcestorm.dds
 /resources/gfx/icons/forcestream.dds
 /resources/gfx/icons/forcestrike.dds
+/resources/gfx/icons/forcetechnique.dds
 /resources/gfx/icons/forcetrinket1.dds
 /resources/gfx/icons/forcetrinket1huevariant1.dds
 /resources/gfx/icons/forcetrinket2.dds
@@ -8956,6 +8965,7 @@
 /resources/gfx/icons/ipp.custom.social.voss_mystic.01.head.dds
 /resources/gfx/icons/ipp.custom.social.voss_mystic.01.legs.dds
 /resources/gfx/icons/irradiatedradioactivesample.dds
+/resources/gfx/icons/jcforceprodigy.dds
 /resources/gfx/icons/jcjedischolar.dds
 /resources/gfx/icons/jedi_equipment.dds
 /resources/gfx/icons/jediconsular.dds
@@ -8968,6 +8978,7 @@
 /resources/gfx/icons/jetcharge.dds
 /resources/gfx/icons/jkforcesensitiveorphan.dds
 /resources/gfx/icons/jkmiralukansurvivor.dds
+/resources/gfx/icons/jkwilderfugitive.dds
 /resources/gfx/icons/juyo.dds
 /resources/gfx/icons/kasotti.dds
 /resources/gfx/icons/kcredits.dds
@@ -8976,6 +8987,7 @@
 /resources/gfx/icons/keycardpurple.dds
 /resources/gfx/icons/killik_silk.dds
 /resources/gfx/icons/knockdown.dds
+/resources/gfx/icons/koltodart.dds
 /resources/gfx/icons/koltoinfusion.dds
 /resources/gfx/icons/koltoinhibitordart.dds
 /resources/gfx/icons/koltoinjection.dds
@@ -9127,6 +9139,7 @@
 /resources/gfx/icons/minorpurpleadrenal.dds
 /resources/gfx/icons/minorredstimpack.dds
 /resources/gfx/icons/minoryellowstimpack.dds
+/resources/gfx/icons/miralukanprodigy.dds
 /resources/gfx/icons/mirilantrader.dds
 /resources/gfx/icons/missileblast.dds
 /resources/gfx/icons/missilesalvo.dds
@@ -9319,6 +9332,7 @@
 /resources/gfx/icons/redrage.dds
 /resources/gfx/icons/redstimpack.dds
 /resources/gfx/icons/redsuperiorlightsabercrystal.dds
+/resources/gfx/icons/reflection.dds
 /resources/gfx/icons/regenerate.dds
 /resources/gfx/icons/rejuvinate.dds
 /resources/gfx/icons/remotecontrol.dds
@@ -9836,6 +9850,7 @@
 /resources/gfx/icons/shadowcloak.dds
 /resources/gfx/icons/shadowtechnique.dds
 /resources/gfx/icons/shadowwalk.dds
+/resources/gfx/icons/sharedbenevolence.dds
 /resources/gfx/icons/shat_ltsbr_crystal.dds
 /resources/gfx/icons/shell.dds
 /resources/gfx/icons/shellcolorvariant1.dds
@@ -10008,6 +10023,7 @@
 /resources/gfx/icons/taserjolt.dds
 /resources/gfx/icons/tatooine_flamegem.dds
 /resources/gfx/icons/taunt.dds
+/resources/gfx/icons/telekineticblast.dds
 /resources/gfx/icons/tempest.dds
 /resources/gfx/icons/tenacity.dds
 /resources/gfx/icons/terminate.dds
@@ -10085,6 +10101,8 @@
 /resources/gfx/icons/yellowminorlightsabercrystal.dds
 /resources/gfx/icons/yellowstimpack.dds
 /resources/gfx/icons/yellowsuperiorlightsabercrystal.dds
+/resources/gfx/icons/zabrakswordsman.dds
+/resources/gfx/icons/zabraktracker.dds
 /resources/gfx/icons/zalalloy.dds
 /resources/gfx/icons/zeydcloth.dds
 /resources/gfx/loadingscreen/ald_overlay.dds
@@ -10121,6 +10139,7 @@
 /resources/gfx/loadingscreen/spc_overlay_m08.dds
 /resources/gfx/loadingscreen/spc_overlay_m09.dds
 /resources/gfx/loadingscreen/taris_overlay.dds
+/resources/gfx/loadingscreen/taris_overlay_text.dds
 /resources/gfx/loadingscreen/tatooine_overlay.dds
 /resources/gfx/loadingscreen/tatooine_overlay_text.dds
 /resources/gfx/loadingscreen/tython_overlay.dds

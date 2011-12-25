@@ -1,4 +1,4 @@
-; 1482/1507 (98%)
+; 1483/1507 (98%)
 /resources/art/environmentmaps/bal_main/area.dds
 /resources/art/environmentmaps/bal_main/area.tex
 /resources/art/environmentmaps/bal_main/area.tiny.dds
@@ -55,6 +55,7 @@
 /resources/art/shaders/materials/bal_env_grass_blue_flowers.mat
 /resources/art/shaders/materials/bal_env_grass_pink_flowers.mat
 /resources/art/shaders/materials/bal_env_grass_scrubby.mat
+/resources/art/shaders/materials/bal_env_interior_trans_light.mat
 /resources/art/shaders/materials/bal_env_mountain_boulder_med.mat
 /resources/art/shaders/materials/bal_env_rockstep_01.mat
 /resources/art/shaders/materials/bal_env_rockstep_02.mat

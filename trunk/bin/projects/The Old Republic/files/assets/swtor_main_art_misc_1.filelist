@@ -1,4 +1,4 @@
-; 1465/2181 (67%)
+; 1490/2181 (68%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -481,6 +481,9 @@
 /resources/art/environmentmaps/z_shared/z_natural_cave.dds
 /resources/art/environmentmaps/z_shared/z_natural_cave.tex
 /resources/art/environmentmaps/z_shared/z_natural_cave.tiny.dds
+/resources/art/environmentmaps/z_shared/z_rep_cantina.dds
+/resources/art/environmentmaps/z_shared/z_rep_cantina.tex
+/resources/art/environmentmaps/z_shared/z_rep_cantina.tiny.dds
 /resources/art/environmentmaps/z_shared/z_rep_techcave.dds
 /resources/art/environmentmaps/z_shared/z_rep_techcave.tex
 /resources/art/environmentmaps/z_shared/z_rep_techcave.tiny.dds
@@ -589,6 +592,8 @@
 /resources/art/lights/ambient_imp_revan_droid_interior.tex
 /resources/art/lights/ambient_jedi_temple.dds
 /resources/art/lights/ambient_jedi_temple.tex
+/resources/art/lights/ambient_kaon_dark.dds
+/resources/art/lights/ambient_kaon_dark.tex
 /resources/art/lights/ambient_kor_tomb_02.tex
 /resources/art/lights/ambient_kor_tomb01.dds
 /resources/art/lights/ambient_kor_tomb01.tex
@@ -1041,8 +1046,28 @@
 /resources/art/lights/square_clouds02.tex
 /resources/art/lights/tar_exterior_lightramp.dds
 /resources/art/lights/tar_exterior_lightramp.tex
+/resources/art/lights/tar_interior_endar_spire.dds
+/resources/art/lights/tar_interior_endar_spire.tex
+/resources/art/lights/tar_interior_lightramp_cantina.dds
+/resources/art/lights/tar_interior_lightramp_cantina.tex
+/resources/art/lights/tar_interior_lightramp_caves.dds
+/resources/art/lights/tar_interior_lightramp_caves.tex
+/resources/art/lights/tar_interior_lightramp_chemworks.dds
+/resources/art/lights/tar_interior_lightramp_chemworks.tex
+/resources/art/lights/tar_interior_lightramp_godera.dds
+/resources/art/lights/tar_interior_lightramp_godera.tex
 /resources/art/lights/tar_interior_lightramp_junction.dds
 /resources/art/lights/tar_interior_lightramp_junction.tex
+/resources/art/lights/tar_interior_lightramp_sith.dds
+/resources/art/lights/tar_interior_lightramp_sith.tex
+/resources/art/lights/tar_interior_lightramp_transport5.dds
+/resources/art/lights/tar_interior_lightramp_transport5.tex
+/resources/art/lights/tar_interior_lightramp_vehicle_hanger.dds
+/resources/art/lights/tar_interior_lightramp_vehicle_hanger.tex
+/resources/art/lights/tar_interior_rep_fort_lightramp.dds
+/resources/art/lights/tar_interior_rep_fort_lightramp.tex
+/resources/art/lights/tar2_exterior_lightramp.dds
+/resources/art/lights/tar2_exterior_lightramp.tex
 /resources/art/lights/tat_exterior_lightramp.dds
 /resources/art/lights/tat_exterior_lightramp.tex
 /resources/art/lights/test_ac_exterior_nonsat.dds

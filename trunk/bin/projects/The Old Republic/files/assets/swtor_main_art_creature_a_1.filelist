@@ -1,4 +1,4 @@
-; 2074/2112 (98%)
+; 2075/2112 (98%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
 /resources/art/defaultassets/default_age.dds
@@ -2054,6 +2054,7 @@
 /resources/art/shaders/materials/geonosian_selonian_a01_v01.mat
 /resources/art/shaders/materials/geonosian_selonian_a01_v02.mat
 /resources/art/shaders/materials/geonosian_selonian_a01_v03.mat
+/resources/art/shaders/materials/head_bmn_torian_a01_v01.mat
 /resources/art/shaders/materials/hutt_belusfaathra_a01_v01.mat
 /resources/art/shaders/materials/hutt_drooga_a01_v01.mat
 /resources/art/shaders/materials/hutt_faathra_a01_v01.mat

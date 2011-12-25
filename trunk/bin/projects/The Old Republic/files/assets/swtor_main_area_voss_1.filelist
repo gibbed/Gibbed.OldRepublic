@@ -1,4 +1,4 @@
-; 3053/3358 (90%)
+; 3054/3358 (90%)
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tiny.dds
@@ -19,6 +19,7 @@
 /resources/art/shaders/materials/all_arch_ruins_wallset_high_broken_wall_pillar.mat
 /resources/art/shaders/materials/all_arch_ruins_wallset_high_intact_wall_pillar.mat
 /resources/art/shaders/materials/all_arch_ruins_wallset_low_intact.mat
+/resources/art/shaders/materials/all_bone_human_whole_01.mat
 /resources/art/shaders/materials/all_item_imp_scaffold_light.mat
 /resources/art/shaders/materials/all_item_tech_pipeset.mat
 /resources/art/shaders/materials/all_item_tech_server_details.mat
