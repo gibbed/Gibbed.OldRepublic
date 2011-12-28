@@ -1,4 +1,4 @@
-; 1237/1268 (97%)
+; 1238/1268 (97%)
 /resources/art/environmentmaps/hut_main/default.dds
 /resources/art/environmentmaps/hut_main/default.tex
 /resources/art/environmentmaps/hut_main/default.tiny.dds
@@ -95,6 +95,7 @@
 /resources/art/shaders/materials/hut_item_wood.mat
 /resources/art/shaders/materials/hut_mushroom_03_cluster.mat
 /resources/art/shaders/materials/hut_mushroom_top.mat
+/resources/art/shaders/materials/hut_palace_interior_door.mat
 /resources/art/shaders/materials/hut_pebble.mat
 /resources/art/shaders/materials/hut_pebble_mudchunk_01.mat
 /resources/art/shaders/materials/hut_skyscene_mountains.mat

@@ -1,4 +1,4 @@
-; 273/421 (64%)
+; 294/421 (69%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/dynamic/age/index.xml
@@ -91,6 +91,27 @@
 /resources/art/environmentmaps/coruscant_main/senate_interior.dds
 /resources/art/environmentmaps/coruscant_main/senate_interior.tex
 /resources/art/environmentmaps/coruscant_main/senate_interior.tiny.dds
+/resources/art/environmentmaps/cr_spec_test/spc_rep_trans.dds
+/resources/art/environmentmaps/cr_spec_test/spc_rep_trans.tex
+/resources/art/environmentmaps/cr_spec_test/spc_rep_trans.tiny.dds
+/resources/art/environmentmaps/hot_main_1/area.dds
+/resources/art/environmentmaps/hot_main_1/area.tex
+/resources/art/environmentmaps/hot_main_1/area.tiny.dds
+/resources/art/environmentmaps/hot_main_1/hoth_dreadnaught.dds
+/resources/art/environmentmaps/hot_main_1/hoth_dreadnaught.tex
+/resources/art/environmentmaps/hot_main_1/hoth_dreadnaught.tiny.dds
+/resources/art/environmentmaps/hot_main_1/hoth_ice_cave.dds
+/resources/art/environmentmaps/hot_main_1/hoth_ice_cave.tex
+/resources/art/environmentmaps/hot_main_1/hoth_ice_cave.tiny.dds
+/resources/art/environmentmaps/hot_main_1/hoth_ice_cave_hot.dds
+/resources/art/environmentmaps/hot_main_1/hoth_ice_cave_hot.tex
+/resources/art/environmentmaps/hot_main_1/hoth_ice_cave_hot.tiny.dds
+/resources/art/environmentmaps/hot_main_1/hoth_ice_cave_warm.dds
+/resources/art/environmentmaps/hot_main_1/hoth_ice_cave_warm.tex
+/resources/art/environmentmaps/hot_main_1/hoth_ice_cave_warm.tiny.dds
+/resources/art/environmentmaps/hot_main_1/hoth_techcave.dds
+/resources/art/environmentmaps/hot_main_1/hoth_techcave.tex
+/resources/art/environmentmaps/hot_main_1/hoth_techcave.tiny.dds
 /resources/art/environmentmaps/ilum_flashpoint_2_station/throne_center.dds
 /resources/art/environmentmaps/ilum_flashpoint_2_station/throne_center.tex
 /resources/art/environmentmaps/ilum_flashpoint_2_station/throne_center.tiny.dds

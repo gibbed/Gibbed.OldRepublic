@@ -1,4 +1,4 @@
-; 1937/3115 (62%)
+; 1972/3115 (63%)
 /resources/anim/humanoid/am_dwarf.xml
 /resources/anim/humanoid/am_humanoid.xml
 /resources/anim/humanoid/am_humanoid_npc.xml
@@ -51,6 +51,7 @@
 /resources/anim/placeable/all_item_tech_rakata_mind_trap_trap_animated/idle.jba
 /resources/anim/placeable/all_item_tech_rakata_mind_trap_trap_animated/mags.mph
 /resources/anim/placeable/am_bridgeimpvoidstar.xml
+/resources/anim/placeable/am_ilumctlpoint.xml
 /resources/anim/placeable/am_impconstructioncrane.xml
 /resources/anim/placeable/am_mags.xml
 /resources/anim/placeable/am_placeable_actions.xml
@@ -70,6 +71,8 @@
 /resources/anim/placeable/archrepgenerator/placeable_openclose.mph
 /resources/anim/placeable/bal_arch_okara_power_core/idle.jba
 /resources/anim/placeable/bal_arch_okara_power_core/mags.mph
+/resources/anim/placeable/bel_arch_rakata_teleporter_rotating_arm/idle.jba
+/resources/anim/placeable/bel_arch_rakata_teleporter_rotating_arm/mags.mph
 /resources/anim/placeable/bridgeimpvoidstar/mag_close.jba
 /resources/anim/placeable/bridgeimpvoidstar/mag_close_idle.jba
 /resources/anim/placeable/bridgeimpvoidstar/mag_open.jba
@@ -166,6 +169,11 @@
 /resources/anim/placeable/e3panel/idle_open.jba
 /resources/anim/placeable/e3panel/open.jba
 /resources/anim/placeable/e3panel/placeable_openclose_1.3.6.mph
+/resources/anim/placeable/envindderrick/close.jba
+/resources/anim/placeable/envindderrick/idle_close.jba
+/resources/anim/placeable/envindderrick/idle_open.jba
+/resources/anim/placeable/envindderrick/open.jba
+/resources/anim/placeable/envindderrick/placeable_openclose.mph
 /resources/anim/placeable/envinddrill/close.jba
 /resources/anim/placeable/envinddrill/idle_close.jba
 /resources/anim/placeable/envinddrill/idle_open.jba
@@ -181,6 +189,16 @@
 /resources/anim/placeable/envshipjump/idle_open.jba
 /resources/anim/placeable/envshipjump/open.jba
 /resources/anim/placeable/envshipjump/placeable_openclose.mph
+/resources/anim/placeable/envundcontainment/close.jba
+/resources/anim/placeable/envundcontainment/idle_close.jba
+/resources/anim/placeable/envundcontainment/idle_open.jba
+/resources/anim/placeable/envundcontainment/open.jba
+/resources/anim/placeable/envundcontainment/placeable_openclose.mph
+/resources/anim/placeable/envundsmokestacktop/close.jba
+/resources/anim/placeable/envundsmokestacktop/idle_close.jba
+/resources/anim/placeable/envundsmokestacktop/idle_open.jba
+/resources/anim/placeable/envundsmokestacktop/open.jba
+/resources/anim/placeable/envundsmokestacktop/placeable_openclose.mph
 /resources/anim/placeable/impconstructioncrane/mag_idle_01.jba
 /resources/anim/placeable/impconstructioncrane/mag_idle_02.jba
 /resources/anim/placeable/impconstructioncrane/mag_idle_03.jba
@@ -1661,6 +1679,21 @@
 /resources/anim/placeable/turretneusmallbase/idle_open.jba
 /resources/anim/placeable/turretneusmallbase/open.jba
 /resources/anim/placeable/turretneusmallbase/placeable_openclose.mph
+/resources/anim/placeable/vehrepatv/close.jba
+/resources/anim/placeable/vehrepatv/idle_close.jba
+/resources/anim/placeable/vehrepatv/idle_open.jba
+/resources/anim/placeable/vehrepatv/open.jba
+/resources/anim/placeable/vehrepatv/placeable_openclose.mph
+/resources/anim/placeable/vehrepatvilum/mag_death_01.jba
+/resources/anim/placeable/vehrepatvilum/mag_death_end_01.jba
+/resources/anim/placeable/vehrepatvilum/mag_death_end_pose_01.jba
+/resources/anim/placeable/vehrepatvilum/mag_death_pose_01.jba
+/resources/anim/placeable/vehrepatvilum/mag_fire_01.jba
+/resources/anim/placeable/vehrepatvilum/mag_idle_01.jba
+/resources/anim/placeable/vehrepatvilum/mag_idle_02.jba
+/resources/anim/placeable/vehrepatvilum/mag_spawn_pt01.jba
+/resources/anim/placeable/vehrepatvilum/mag_spawn_pt02.jba
+/resources/anim/placeable/vehrepatvilum/placeable_ilumctlpoint.mph
 /resources/art/dynamic/spec/acklay.dat
 /resources/art/dynamic/spec/acklay.dyc
 /resources/art/dynamic/spec/acklaydroid.dat
@@ -1684,6 +1717,7 @@
 /resources/art/dynamic/spec/battledroid.dyc
 /resources/art/dynamic/spec/battlewarbotrakataboss.dat
 /resources/art/dynamic/spec/battlewarbotrakataboss.dyc
+/resources/art/dynamic/spec/bel_arch_rakata_teleporter_rotating_arm.dyc
 /resources/art/dynamic/spec/bfa.dat
 /resources/art/dynamic/spec/bfa.dyc
 /resources/art/dynamic/spec/bfanew.dat
@@ -1924,6 +1958,7 @@
 /resources/art/dynamic/spec/turretneusmall.dyc
 /resources/art/dynamic/spec/turretneusmallbase.dyc
 /resources/art/dynamic/spec/vehrepatv.dyc
+/resources/art/dynamic/spec/vehrepatvilum.dyc
 /resources/art/dynamic/spec/walker.dat
 /resources/art/dynamic/spec/walker.dyc
 /resources/art/dynamic/spec/walkerhw.dat

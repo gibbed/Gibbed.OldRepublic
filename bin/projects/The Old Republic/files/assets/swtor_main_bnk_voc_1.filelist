@@ -1,11 +1,13 @@
-; 244/412 (59%)
+; 270/412 (65%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_med_soundset.bnk
 /resources/bnk2/voc_akk.bnk
 /resources/bnk2/voc_andronikos_revel.bnk
+/resources/bnk2/voc_anomid_m_alien_low_soundset.bnk
 /resources/bnk2/voc_anomid_m_alien_med_soundset.bnk
+/resources/bnk2/voc_arcona_m_alien_low_soundset.bnk
 /resources/bnk2/voc_arcona_m_alien_med_soundset.bnk
 /resources/bnk2/voc_ashara.bnk
 /resources/bnk2/voc_assassindroidancientguardian.bnk
@@ -38,9 +40,12 @@
 /resources/bnk2/voc_bith_m_alien_low_soundset.bnk
 /resources/bnk2/voc_blizz.bnk
 /resources/bnk2/voc_bogstalker.bnk
+/resources/bnk2/voc_bogwing.bnk
 /resources/bnk2/voc_bolraida.bnk
 /resources/bnk2/voc_bormu.bnk
 /resources/bnk2/voc_bowdaar.bnk
+/resources/bnk2/voc_broonmark.bnk
+/resources/bnk2/voc_cathar_f_alien_high_soundset.bnk
 /resources/bnk2/voc_cathar_f_alien_med_soundset.bnk
 /resources/bnk2/voc_cathar_m_alien_low_soundset.bnk
 /resources/bnk2/voc_cathar_m_alien_med_soundset.bnk
@@ -52,6 +57,7 @@
 /resources/bnk2/voc_devaronian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_devaronian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_dewback.bnk
+/resources/bnk2/voc_doc.bnk
 /resources/bnk2/voc_dr_lokin.bnk
 /resources/bnk2/voc_dragonbat.bnk
 /resources/bnk2/voc_drate.bnk
@@ -59,6 +65,7 @@
 /resources/bnk2/voc_duros_m_alien_low_soundset.bnk
 /resources/bnk2/voc_duros_m_alien_med_soundset.bnk
 /resources/bnk2/voc_elara.bnk
+/resources/bnk2/voc_ensign_temple.bnk
 /resources/bnk2/voc_evocii_f_alien_high_soundset.bnk
 /resources/bnk2/voc_evocii_f_alien_med_soundset.bnk
 /resources/bnk2/voc_evocii_lt_m_alien_med_soundset.bnk
@@ -71,16 +78,20 @@
 /resources/bnk2/voc_gamorrean_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gand_m_alien_low_soundset.bnk
 /resources/bnk2/voc_gault.bnk
+/resources/bnk2/voc_gendai_m_alien_low_soundset.bnk
 /resources/bnk2/voc_geonosian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_geonosian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gonkdroid.bnk
 /resources/bnk2/voc_gran_m_alien_low_soundset.bnk
 /resources/bnk2/voc_gran_m_alien_med_soundset.bnk
+/resources/bnk2/voc_guid.bnk
 /resources/bnk2/voc_gundark.bnk
 /resources/bnk2/voc_harvap.bnk
+/resources/bnk2/voc_harvorisk.bnk
 /resources/bnk2/voc_houk_m_alien_med_soundset.bnk
 /resources/bnk2/voc_hssiss.bnk
 /resources/bnk2/voc_hutt_m_alien_med_soundset.bnk
+/resources/bnk2/voc_icetromper.bnk
 /resources/bnk2/voc_imphuman_f_high_1_soundset.bnk
 /resources/bnk2/voc_imphuman_f_high_2_soundset.bnk
 /resources/bnk2/voc_imphuman_f_low_1_soundset.bnk
@@ -104,8 +115,10 @@
 /resources/bnk2/voc_jawavar_m_alien_med_soundset.bnk
 /resources/bnk2/voc_jorgan.bnk
 /resources/bnk2/voc_jurgoran.bnk
+/resources/bnk2/voc_kaleesh_m_alien_low_soundset.bnk
 /resources/bnk2/voc_kaliyo.bnk
 /resources/bnk2/voc_kathhound.bnk
+/resources/bnk2/voc_keldor_m_alien_low_soundset.bnk
 /resources/bnk2/voc_keldor_m_alien_med_soundset.bnk
 /resources/bnk2/voc_khem_val.bnk
 /resources/bnk2/voc_killik_m_alien_high_soundset.bnk
@@ -134,6 +147,7 @@
 /resources/bnk2/voc_nikto_m_alien_low_soundset.bnk
 /resources/bnk2/voc_nikto_m_alien_med_soundset.bnk
 /resources/bnk2/voc_ortolan_m_alien_low_soundset.bnk
+/resources/bnk2/voc_pantranwhitefang.bnk
 /resources/bnk2/voc_player_bounty_hunter_f.bnk
 /resources/bnk2/voc_player_bounty_hunter_m.bnk
 /resources/bnk2/voc_player_jedi_knight_f.bnk
@@ -163,6 +177,7 @@
 /resources/bnk2/voc_quinn.bnk
 /resources/bnk2/voc_qyzen_fess.bnk
 /resources/bnk2/voc_rakghoul.bnk
+/resources/bnk2/voc_rakghoullurker.bnk
 /resources/bnk2/voc_rakghoulskulker.bnk
 /resources/bnk2/voc_reek.bnk
 /resources/bnk2/voc_repassaultdroid.bnk
@@ -184,6 +199,9 @@
 /resources/bnk2/voc_rephuman_m_med_6_soundset.bnk
 /resources/bnk2/voc_rephuman_m_med_7_soundset.bnk
 /resources/bnk2/voc_rephuman_m_med_8_soundset.bnk
+/resources/bnk2/voc_rephumanlieu_f_high_1_soundset.bnk
+/resources/bnk2/voc_rephumanlieu_f_med_1_soundset.bnk
+/resources/bnk2/voc_rephumanlieu_m_high_1_soundset.bnk
 /resources/bnk2/voc_rephumanlieu_m_low_1_soundset.bnk
 /resources/bnk2/voc_rephumanlieu_m_med_1_soundset.bnk
 /resources/bnk2/voc_rodian_f_alien_high_soundset.bnk
@@ -194,6 +212,7 @@
 /resources/bnk2/voc_sandtusker.bnk
 /resources/bnk2/voc_scavengerdroid.bnk
 /resources/bnk2/voc_scorpio.bnk
+/resources/bnk2/voc_selkath_m_alien_med_soundset.bnk
 /resources/bnk2/voc_shaclaw.bnk
 /resources/bnk2/voc_shyrack.bnk
 /resources/bnk2/voc_skadge.bnk
@@ -202,6 +221,10 @@
 /resources/bnk2/voc_swampsnarler.bnk
 /resources/bnk2/voc_t7.bnk
 /resources/bnk2/voc_talos_drellik.bnk
+/resources/bnk2/voc_talz_m_alien_low_soundset.bnk
+/resources/bnk2/voc_talz_m_alien_med_soundset.bnk
+/resources/bnk2/voc_tarsariandevourer.bnk
+/resources/bnk2/voc_tauntaun.bnk
 /resources/bnk2/voc_terentatek.bnk
 /resources/bnk2/voc_tharan.bnk
 /resources/bnk2/voc_thranta.bnk
@@ -209,7 +232,9 @@
 /resources/bnk2/voc_togruta_f_alien_med_soundset.bnk
 /resources/bnk2/voc_togruta_m_alien_low_soundset.bnk
 /resources/bnk2/voc_torian.bnk
+/resources/bnk2/voc_trandoshan_m_alien_low_soundset.bnk
 /resources/bnk2/voc_trandoshan_m_alien_med_soundset.bnk
+/resources/bnk2/voc_trinthanprowler.bnk
 /resources/bnk2/voc_tukata.bnk
 /resources/bnk2/voc_tukatasmall.bnk
 /resources/bnk2/voc_tuskenraider_m_alien_low_soundset.bnk
@@ -236,6 +261,7 @@
 /resources/bnk2/voc_weequay_m_alien_med_soundset.bnk
 /resources/bnk2/voc_wingmaw.bnk
 /resources/bnk2/voc_womprat.bnk
+/resources/bnk2/voc_wookie_m_alien_low_soundset.bnk
 /resources/bnk2/voc_wraid.bnk
 /resources/bnk2/voc_xalek.bnk
 /resources/bnk2/voc_xuvvasoarer.bnk

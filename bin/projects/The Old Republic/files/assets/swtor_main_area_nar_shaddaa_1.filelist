@@ -1,4 +1,4 @@
-; 2052/2077 (98%)
+; 2053/2077 (98%)
 /resources/art/environmentmaps/nar_main/imperial_casino.dds
 /resources/art/environmentmaps/nar_main/imperial_casino.tex
 /resources/art/environmentmaps/nar_main/imperial_casino.tiny.dds
@@ -113,6 +113,7 @@
 /resources/art/shaders/materials/nar_item_street_light.mat
 /resources/art/shaders/materials/nar_item_tech_generator_01.mat
 /resources/art/shaders/materials/nar_item_tech_generator_anim_lights.mat
+/resources/art/shaders/materials/nar_item_tech_generator_off.mat
 /resources/art/shaders/materials/nar_skyscene_horizon.mat
 /resources/art/shaders/materials/tar_arch_tech_column_girder.mat
 /resources/art/shaders/materials/ter_ald_grass01.mat
