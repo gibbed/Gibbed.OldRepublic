@@ -1,4 +1,4 @@
-; 10260/52255 (19%)
+; 10265/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -1846,6 +1846,7 @@
 /resources/gfx/icons/chargedsaber.dds
 /resources/gfx/icons/cheapshot.dds
 /resources/gfx/icons/childoftheempire.dds
+/resources/gfx/icons/chillingpresence.dds
 /resources/gfx/icons/chipped_chitin.dds
 /resources/gfx/icons/chipset.dds
 /resources/gfx/icons/chipsetcolorvariant1.dds
@@ -2231,6 +2232,7 @@
 /resources/gfx/icons/insectantenna.dds
 /resources/gfx/icons/insecthead.dds
 /resources/gfx/icons/insectlimb.dds
+/resources/gfx/icons/insectstinger.dds
 /resources/gfx/icons/instantdeathdevice.dds
 /resources/gfx/icons/insulatedfleece.dds
 /resources/gfx/icons/intestines.dds
@@ -9964,6 +9966,7 @@
 /resources/gfx/icons/spaceupgradeempburst.dds
 /resources/gfx/icons/spaceupgradejammingfield.dds
 /resources/gfx/icons/spaceupgradepowerconversionmodule.dds
+/resources/gfx/icons/spaceupgradepowertoshields.dds
 /resources/gfx/icons/specailmeal.dds
 /resources/gfx/icons/specialcommendation.dds
 /resources/gfx/icons/specialegg.dds
@@ -10001,6 +10004,7 @@
 /resources/gfx/icons/sunderingassault.dds
 /resources/gfx/icons/superiorbluestimpack.dds
 /resources/gfx/icons/superiorgreenstimpack.dds
+/resources/gfx/icons/superiorlightgreenadrenal.dds
 /resources/gfx/icons/superiormedpac.dds
 /resources/gfx/icons/superiororangeadrenal.dds
 /resources/gfx/icons/superiorpinkadrenal.dds
@@ -10051,6 +10055,7 @@
 /resources/gfx/icons/tremels_ring.dds
 /resources/gfx/icons/trooper.dds
 /resources/gfx/icons/tumor.dds
+/resources/gfx/icons/turbulence.dds
 /resources/gfx/icons/tusk.dds
 /resources/gfx/icons/ultrachrome.dds
 /resources/gfx/icons/underworldmedicine.dds

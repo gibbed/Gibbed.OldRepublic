@@ -1,4 +1,4 @@
-; 1632/26944 (6%)
+; 1638/26944 (6%)
 /resources/anim/npc/dwarf/ad_2saber_body_pitch.jba
 /resources/anim/npc/dwarf/ad_2saber_body_yaw.jba
 /resources/anim/npc/dwarf/ad_blank.jba
@@ -1542,6 +1542,11 @@
 /resources/anim/npc/ithorian/dl_lefthand_05.jba
 /resources/anim/npc/ithorian/dl_lefthand_06.jba
 /resources/anim/npc/ithorian/dl_lefthand_07.jba
+/resources/anim/npc/ithorian/dl_observe_subtle_1.jba
+/resources/anim/npc/ithorian/dl_observe_subtle_2.jba
+/resources/anim/npc/ithorian/dl_observe_subtle_3.jba
+/resources/anim/npc/ithorian/dl_observe_subtle_4.jba
+/resources/anim/npc/ithorian/dl_observe_subtle_5.jba
 /resources/anim/npc/ithorian/dl_ponder_05.jba
 /resources/anim/npc/ithorian/dl_ponder_06.jba
 /resources/anim/npc/ithorian/dl_ponder_07.jba
@@ -1609,6 +1614,7 @@
 /resources/anim/npc/ithorian/ex_use_pants.jba
 /resources/anim/npc/ithorian/humanoid_action_common.mph
 /resources/anim/npc/ithorian/humanoid_loco_idle.mph
+/resources/anim/npc/ithorian/humanoid_loco_idle_stand_look_around_subtle.mph
 /resources/anim/npc/ithorian/humanoid_loco_idle_stand_ponder.mph
 /resources/anim/npc/ithorian/humanoid_loco_idle_stand_talk_arms_crossed.mph
 /resources/anim/npc/ithorian/humanoid_loco_idle_stand_talk_arms_front.mph

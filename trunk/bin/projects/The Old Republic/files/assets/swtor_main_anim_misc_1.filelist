@@ -1,4 +1,4 @@
-; 1914/3115 (61%)
+; 1937/3115 (62%)
 /resources/anim/humanoid/am_dwarf.xml
 /resources/anim/humanoid/am_humanoid.xml
 /resources/anim/humanoid/am_humanoid_npc.xml
@@ -79,6 +79,11 @@
 /resources/anim/placeable/cor_arch_works_fan/mags.mph
 /resources/anim/placeable/cor_arch_works_fan01/idle.jba
 /resources/anim/placeable/cor_arch_works_fan01/mags.mph
+/resources/anim/placeable/dooralltech1/close.jba
+/resources/anim/placeable/dooralltech1/idle_close.jba
+/resources/anim/placeable/dooralltech1/idle_open.jba
+/resources/anim/placeable/dooralltech1/open.jba
+/resources/anim/placeable/dooralltech1/placeable_openclose.mph
 /resources/anim/placeable/doorhuttpalacerancorlarge/close.jba
 /resources/anim/placeable/doorhuttpalacerancorlarge/idle_close.jba
 /resources/anim/placeable/doorhuttpalacerancorlarge/idle_open.jba
@@ -517,6 +522,15 @@
 /resources/anim/placeable/scpsagent/sc_roll_left.jba
 /resources/anim/placeable/scpsagent/sc_roll_right.jba
 /resources/anim/placeable/scpsagent/spacevehicle.mph
+/resources/anim/placeable/scpsjedi/ad_blank.jba
+/resources/anim/placeable/scpsjedi/ad_sc_damage_1.jba
+/resources/anim/placeable/scpsjedi/sc_attack_1.jba
+/resources/anim/placeable/scpsjedi/sc_idle.jba
+/resources/anim/placeable/scpsjedi/sc_lightspeed_enter.jba
+/resources/anim/placeable/scpsjedi/sc_lightspeed_exit.jba
+/resources/anim/placeable/scpsjedi/sc_roll_left.jba
+/resources/anim/placeable/scpsjedi/sc_roll_right.jba
+/resources/anim/placeable/scpsjedi/spacevehicle.mph
 /resources/anim/placeable/scpstrooper/ad_blank.jba
 /resources/anim/placeable/scpstrooper/ad_sc_damage_1.jba
 /resources/anim/placeable/scpstrooper/sc_attack_1.jba
@@ -526,6 +540,15 @@
 /resources/anim/placeable/scpstrooper/sc_roll_left.jba
 /resources/anim/placeable/scpstrooper/sc_roll_right.jba
 /resources/anim/placeable/scpstrooper/spacevehicle.mph
+/resources/anim/placeable/screpbomber/ad_blank.jba
+/resources/anim/placeable/screpbomber/ad_sc_damage_1.jba
+/resources/anim/placeable/screpbomber/sc_attack_1.jba
+/resources/anim/placeable/screpbomber/sc_idle.jba
+/resources/anim/placeable/screpbomber/sc_lightspeed_enter.jba
+/resources/anim/placeable/screpbomber/sc_lightspeed_exit.jba
+/resources/anim/placeable/screpbomber/sc_roll_left.jba
+/resources/anim/placeable/screpbomber/sc_roll_right.jba
+/resources/anim/placeable/screpbomber/spacevehicle.mph
 /resources/anim/placeable/screpcapshipbase/ad_blank.jba
 /resources/anim/placeable/screpcapshipbase/ad_sc_damage_1.jba
 /resources/anim/placeable/screpcapshipbase/sc_attack_1.jba

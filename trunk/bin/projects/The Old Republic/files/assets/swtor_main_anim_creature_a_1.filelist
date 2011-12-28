@@ -1,4 +1,5 @@
-; 2946/9320 (31%)
+; 2948/9320 (31%)
+/resources/anim/creature/acklaydroid/acklay_shutdown_loop.jba
 /resources/anim/creature/acklaydroid/ad_blank.jba
 /resources/anim/creature/acklaydroid/ad_body_pitch.jba
 /resources/anim/creature/acklaydroid/ad_body_yaw.jba
@@ -37,6 +38,7 @@
 /resources/anim/creature/acklaydroid/cb_sp_attack_2.jba
 /resources/anim/creature/acklaydroid/cb_spawn.jba
 /resources/anim/creature/acklaydroid/creature_action_common.mph
+/resources/anim/creature/acklaydroid/creature_loco_idle_acklay_droid_deactivated.mph
 /resources/anim/creature/acklaydroid/creature_overlay.mph
 /resources/anim/creature/acklaydroid/creature_quad_loco.mph
 /resources/anim/creature/acklaydroid/dg_crit_damage_1.jba
