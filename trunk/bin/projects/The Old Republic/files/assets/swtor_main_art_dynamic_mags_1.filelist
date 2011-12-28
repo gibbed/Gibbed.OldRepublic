@@ -1,4 +1,4 @@
-; 593/715 (82%)
+; 604/715 (84%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -19,6 +19,7 @@
 /resources/art/dynamic/mag/model/all_arch_und_farm_windmill_2.gr2
 /resources/art/dynamic/mag/model/all_item_tech_rakata_mind_trap_trap_animated.gr2
 /resources/art/dynamic/mag/model/bal_arch_okara_power_core.gr2
+/resources/art/dynamic/mag/model/bel_arch_rakata_teleporter_rotating_arm.gr2
 /resources/art/dynamic/mag/model/cor_arch_works_fan.gr2
 /resources/art/dynamic/mag/model/cor_arch_works_fan_floor_32x32.gr2
 /resources/art/dynamic/mag/model/cor_arch_works_fan01.gr2
@@ -44,6 +45,7 @@
 /resources/art/dynamic/mag/model/mag_envraidsoaplatform_in2.gr2
 /resources/art/dynamic/mag/model/mag_envrevanasteroids_a.gr2
 /resources/art/dynamic/mag/model/mag_envshipjump_repdestroyerside.gr2
+/resources/art/dynamic/mag/model/mag_envundcontainment_main.gr2
 /resources/art/dynamic/mag/model/mag_envundsmokestacktop_und.gr2
 /resources/art/dynamic/mag/model/mag_impconstructioncrane_v01.gr2
 /resources/art/dynamic/mag/model/mag_neuheavyutilityship_v01.gr2
@@ -128,6 +130,8 @@
 /resources/art/dynamic/mag/model/mag_turretioncannon_cannon.gr2
 /resources/art/dynamic/mag/model/mag_turretneularge_turret.gr2
 /resources/art/dynamic/mag/model/mag_turretneusmallbase_neu.gr2
+/resources/art/dynamic/mag/model/mag_vehrepatv_rep01.gr2
+/resources/art/dynamic/mag/model/mag_vehrepatv_v01.gr2
 /resources/art/dynamic/mag/model/nar_item_signage_redlight_18.gr2
 /resources/art/dynamic/mag/model/nar_item_signage_redlight_19.gr2
 /resources/art/dynamic/mag/model/spc_arch_imp_ss_social_ani_rings.gr2
@@ -238,6 +242,7 @@
 /resources/art/dynamic/spec/bal_arch_okara_power_core.mag
 /resources/art/dynamic/spec/bal_arch_okara_power_core_skeleton.gr2
 /resources/art/dynamic/spec/bel_arch_rakata_teleporter_rotating_arm.mag
+/resources/art/dynamic/spec/bel_arch_rakata_teleporter_rotating_arm_skeleton.gr2
 /resources/art/dynamic/spec/bfanew_skeleton.gr2
 /resources/art/dynamic/spec/bfbnew_skeleton.gr2
 /resources/art/dynamic/spec/bfsnew_skeleton.gr2
@@ -270,9 +275,12 @@
 /resources/art/dynamic/spec/e3dropship_skeleton.gr2
 /resources/art/dynamic/spec/e3panel.mag
 /resources/art/dynamic/spec/e3panel_skeleton.gr2
+/resources/art/dynamic/spec/envindderrick_skeleton.gr2
 /resources/art/dynamic/spec/envinddrill_skeleton.gr2
 /resources/art/dynamic/spec/envneugeneratorsmall_skeleton.gr2
 /resources/art/dynamic/spec/envshipjump_skeleton.gr2
+/resources/art/dynamic/spec/envundcontainment_skeleton.gr2
+/resources/art/dynamic/spec/envundsmokestacktop_skeleton.gr2
 /resources/art/dynamic/spec/impconstructioncrane_skeleton.gr2
 /resources/art/dynamic/spec/mag_airlockdoor_airlock.mag
 /resources/art/dynamic/spec/mag_airlockdoor_imp.mag
@@ -437,6 +445,7 @@
 /resources/art/dynamic/spec/mag_turretneularge_turret_red.mag
 /resources/art/dynamic/spec/mag_turretneusmallbase_neu.mag
 /resources/art/dynamic/spec/mag_vehrepatv_rep01.mag
+/resources/art/dynamic/spec/mag_vehrepatv_v01.mag
 /resources/art/dynamic/spec/nar_item_signage_redlight_18.mag
 /resources/art/dynamic/spec/nar_item_signage_redlight_18_skeleton.gr2
 /resources/art/dynamic/spec/nar_item_signage_redlight_19.mag
@@ -526,6 +535,8 @@
 /resources/art/dynamic/spec/treasurechestlarge_skeleton.gr2
 /resources/art/dynamic/spec/treasurechestmedium_skeleton.gr2
 /resources/art/dynamic/spec/treasurechestsmall_skeleton.gr2
+/resources/art/dynamic/spec/vehrepatv_skeleton.gr2
+/resources/art/dynamic/spec/vehrepatvilum_skeleton.gr2
 /resources/art/shaders/materials/all_arch_neu_windmill.mat
 /resources/art/shaders/materials/all_item_con_treasure_chest_01.mat
 /resources/art/shaders/materials/e3dropship_veh_rep_troop_transport_animated_combined.mat

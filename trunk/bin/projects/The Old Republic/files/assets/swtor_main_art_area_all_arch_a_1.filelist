@@ -1,4 +1,4 @@
-; 3495/3574 (97%)
+; 3499/3574 (97%)
 /resources/art/shaders/materials/ald_arch_outpost_stairs.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
@@ -79,11 +79,14 @@
 /resources/art/shaders/materials/all_arch_fadeportal_bal_ext_bright.mat
 /resources/art/shaders/materials/all_arch_fadeportal_bal_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_dro_int_dark.mat
+/resources/art/shaders/materials/all_arch_fadeportal_hth.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_academy_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_outside.mat
 /resources/art/shaders/materials/all_arch_fadeportal_nar_warehouse.mat
 /resources/art/shaders/materials/all_arch_fadeportal_pvp_huttball_01.mat
+/resources/art/shaders/materials/all_arch_fadeportal_que_dark.mat
+/resources/art/shaders/materials/all_arch_fadeportal_que_light.mat
 /resources/art/shaders/materials/all_arch_fadeportal_tat_czerka_mine_custom.mat
 /resources/art/shaders/materials/all_arch_fadeportal_tat_exterior_bright.mat
 /resources/art/shaders/materials/all_arch_fadeportal_tat_homestead_int_dark.mat
@@ -225,6 +228,7 @@
 /resources/art/shaders/materials/all_arch_rep_space_door_lg.mat
 /resources/art/shaders/materials/all_arch_rep_space_elevator.mat
 /resources/art/shaders/materials/all_arch_rep_space_elevator_door.mat
+/resources/art/shaders/materials/all_arch_rep_space_engine_01.mat
 /resources/art/shaders/materials/all_arch_rep_space_escape_pod_latch.mat
 /resources/art/shaders/materials/all_arch_rep_vehicle_hangar_wall2.mat
 /resources/art/shaders/materials/all_arch_und_factory_int_liquid.mat

@@ -1,4 +1,4 @@
-; 8689/8930 (97%)
+; 8712/8930 (97%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -404,6 +404,7 @@
 /resources/art/shaders/materials/all_item_factory_conveyor_door.mat
 /resources/art/shaders/materials/all_item_factory_conveyor_trim.mat
 /resources/art/shaders/materials/all_item_factory_conveyor_tunnel.mat
+/resources/art/shaders/materials/all_item_factory_incinerator.mat
 /resources/art/shaders/materials/all_item_farm_grain_container.mat
 /resources/art/shaders/materials/all_item_farm_plant_med_01.mat
 /resources/art/shaders/materials/all_item_farm_plant_short_01.mat
@@ -465,6 +466,7 @@
 /resources/art/shaders/materials/all_item_imp_space_bridge_ceil_light_int.mat
 /resources/art/shaders/materials/all_item_imp_table_lamp.mat
 /resources/art/shaders/materials/all_item_imp_table_lamp_off.mat
+/resources/art/shaders/materials/all_item_imp_totem.mat
 /resources/art/shaders/materials/all_item_imp_turret_manned.mat
 /resources/art/shaders/materials/all_item_imp_turret_manned_small.mat
 /resources/art/shaders/materials/all_item_imp_turret_manned_small_damaged.mat
@@ -532,6 +534,8 @@
 /resources/art/shaders/materials/all_item_rep_desk_computer_01.mat
 /resources/art/shaders/materials/all_item_rep_desk_computer_01_damaged.mat
 /resources/art/shaders/materials/all_item_rep_desk_computer_01_suv.mat
+/resources/art/shaders/materials/all_item_rep_desk_computer_01_suv_alert.mat
+/resources/art/shaders/materials/all_item_rep_desk_computer_01_suv_off.mat
 /resources/art/shaders/materials/all_item_rep_door_lock.mat
 /resources/art/shaders/materials/all_item_rep_fort_pipes.mat
 /resources/art/shaders/materials/all_item_rep_fort_railing.mat
@@ -644,10 +648,13 @@
 /resources/art/shaders/materials/all_item_tech_controlpanels01.mat
 /resources/art/shaders/materials/all_item_tech_controlpanels01_damaged.mat
 /resources/art/shaders/materials/all_item_tech_core_drum.mat
+/resources/art/shaders/materials/all_item_tech_d7_processor_core.mat
+/resources/art/shaders/materials/all_item_tech_d7_processor_core_destroyed.mat
 /resources/art/shaders/materials/all_item_tech_datacron_agility.mat
 /resources/art/shaders/materials/all_item_tech_datacron_cunning.mat
 /resources/art/shaders/materials/all_item_tech_datacron_endurance.mat
 /resources/art/shaders/materials/all_item_tech_datacron_min_max_choice.mat
+/resources/art/shaders/materials/all_item_tech_datacron_multi_choice.mat
 /resources/art/shaders/materials/all_item_tech_datacron_presence.mat
 /resources/art/shaders/materials/all_item_tech_datacron_strength.mat
 /resources/art/shaders/materials/all_item_tech_datacron_willpower.mat
@@ -656,6 +663,7 @@
 /resources/art/shaders/materials/all_item_tech_dome.mat
 /resources/art/shaders/materials/all_item_tech_droid_pod_combined.mat
 /resources/art/shaders/materials/all_item_tech_eradicator.mat
+/resources/art/shaders/materials/all_item_tech_field_projector.mat
 /resources/art/shaders/materials/all_item_tech_field_unit_projector.mat
 /resources/art/shaders/materials/all_item_tech_floating_dance_disk.mat
 /resources/art/shaders/materials/all_item_tech_floodlight_neu_blue.mat
@@ -718,6 +726,7 @@
 /resources/art/shaders/materials/all_item_tech_merchant_gadgets_03.mat
 /resources/art/shaders/materials/all_item_tech_mine_barrel.mat
 /resources/art/shaders/materials/all_item_tech_mine_barrel_fluid.mat
+/resources/art/shaders/materials/all_item_tech_mine_canister.mat
 /resources/art/shaders/materials/all_item_tech_missiles_large_all_item_tech_missiles.mat
 /resources/art/shaders/materials/all_item_tech_missiles_large_fin.mat
 /resources/art/shaders/materials/all_item_tech_missiles_small.mat
@@ -788,6 +797,7 @@
 /resources/art/shaders/materials/all_item_tech_support.mat
 /resources/art/shaders/materials/all_item_tech_tat_solar_panel.mat
 /resources/art/shaders/materials/all_item_tech_torture_machine_imperial.mat
+/resources/art/shaders/materials/all_item_tech_triplazer_flamethrower.mat
 /resources/art/shaders/materials/all_item_tech_und_monitor.mat
 /resources/art/shaders/materials/all_item_tech_und_monitor_blank.mat
 /resources/art/shaders/materials/all_item_tech_und_monitor_blank_suv.mat
@@ -800,6 +810,7 @@
 /resources/art/shaders/materials/all_item_tech_vaporator_derrick_white.mat
 /resources/art/shaders/materials/all_item_tech_wall_monitor.mat
 /resources/art/shaders/materials/all_item_tech_wall_monitor_02_d01_blue.mat
+/resources/art/shaders/materials/all_item_tech_wall_monitor_02_suv_alert.mat
 /resources/art/shaders/materials/all_item_tech_wall_monitor_02_suv_off.mat
 /resources/art/shaders/materials/all_item_tech_wires.mat
 /resources/art/shaders/materials/all_item_techcave_arch.mat
@@ -865,6 +876,7 @@
 /resources/art/shaders/materials/all_item_und_security_light.mat
 /resources/art/shaders/materials/all_item_und_security_light_03_off.mat
 /resources/art/shaders/materials/all_item_und_security_light_bluegreen.mat
+/resources/art/shaders/materials/all_item_und_signpost.mat
 /resources/art/shaders/materials/all_item_und_training_dummy_melee.mat
 /resources/art/shaders/materials/all_item_und_wall_computer.mat
 /resources/art/shaders/materials/all_item_und_wall_computer_screen.mat
@@ -875,6 +887,9 @@
 /resources/art/shaders/materials/all_item_vendor_authenticator_suv.mat
 /resources/art/shaders/materials/all_item_vendor_signs_frame.mat
 /resources/art/shaders/materials/all_item_vendor_virtual_stall.mat
+/resources/art/shaders/materials/all_item_volcanic_fissure01.mat
+/resources/art/shaders/materials/all_item_volcanic_fissure02.mat
+/resources/art/shaders/materials/all_item_volcanic_fissure03.mat
 /resources/art/shaders/materials/all_sith_interior_statue.mat
 /resources/art/shaders/materials/all_sith_interior_statue_redrim.mat
 /resources/art/shaders/materials/all_sith_interior_statue_whiterim.mat
@@ -901,6 +916,7 @@
 /resources/art/shaders/materials/corpse_ge_baggy_light_a32_settler01_body.mat
 /resources/art/shaders/materials/corpse_ge_baggy_light_a32_settler02_body.mat
 /resources/art/shaders/materials/corpse_head_bfa_01.mat
+/resources/art/shaders/materials/corpse_head_bfa_03.mat
 /resources/art/shaders/materials/corpse_head_bfn_01.mat
 /resources/art/shaders/materials/corpse_head_bfn_02.mat
 /resources/art/shaders/materials/corpse_head_bfn_03.mat
@@ -937,6 +953,9 @@
 /resources/art/shaders/materials/hair_evocii_non_a07_v01_f.mat
 /resources/art/shaders/materials/head_evocii_bfa_non_a01_v01.mat
 /resources/art/shaders/materials/head_evocii_bma_non_a01_v01.mat
+/resources/art/shaders/materials/hth_item_con_crate_shipping_detail.mat
+/resources/art/shaders/materials/hth_item_con_crate_shipping_end.mat
+/resources/art/shaders/materials/hth_item_con_crate_shipping_side.mat
 /resources/art/shaders/materials/item_con_crate_ancient_01.mat
 /resources/art/shaders/materials/item_con_crate_ancient_02.mat
 /resources/art/shaders/materials/item_con_locker_imperial.mat
@@ -3528,6 +3547,7 @@
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02_bottom.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02_damaged.gr2
+/resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02_damaged01_top.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02_top.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_wall_tech_01.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_wall_tech_02.gr2
@@ -4192,8 +4212,10 @@
 /resources/art/static/area/all_all/item/republic/all_item_rep_crate_02d.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_crate_w_pallet.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_desk_computer_01.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_desk_computer_01_dmg.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_desk_computer_a.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_desk_computer_damaged.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_desk_computer_off.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_door_lock.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_fort_pipe_large_02.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_fort_pipe_large_04.gr2
@@ -5013,6 +5035,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_02.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_03.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_03_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_03_dmg.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_d.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_dmg.gr2

@@ -1,4 +1,4 @@
-; 10265/52255 (19%)
+; 10291/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -476,6 +476,7 @@
 /resources/gfx/codex/cdx.lore.dromund_kaas.statue_west.dds
 /resources/gfx/codex/cdx.lore.flashpoint.illum.the_schism_collective.dds
 /resources/gfx/codex/cdx.lore.flashpoint.ilum.malgus_vision.dds
+/resources/gfx/codex/cdx.lore.flashpoint.ilum.the_emperors_space_station.dds
 /resources/gfx/codex/cdx.lore.hoth.battle_of_hoth.dds
 /resources/gfx/codex/cdx.lore.hoth.caught_between_two_foes.dds
 /resources/gfx/codex/cdx.lore.hoth.hoth_no_place_for_vehicles.dds
@@ -904,6 +905,7 @@
 /resources/gfx/codex/cdx.tutorial.character.sheet.dds
 /resources/gfx/codex/cdx.tutorial.chat.dds
 /resources/gfx/codex/cdx.tutorial.class_story.dds
+/resources/gfx/codex/cdx.tutorial.class_story_multiplayer.dds
 /resources/gfx/codex/cdx.tutorial.companion_affection.dds
 /resources/gfx/codex/cdx.tutorial.companions.dds
 /resources/gfx/codex/cdx.tutorial.cover.dds
@@ -1192,6 +1194,7 @@
 /resources/gfx/icons/acidblade.dds
 /resources/gfx/icons/adrenelinerush.dds
 /resources/gfx/icons/advancedmedicalprobe.dds
+/resources/gfx/icons/aegis.dds
 /resources/gfx/icons/afraid.dds
 /resources/gfx/icons/agonizingsaber.dds
 /resources/gfx/icons/agrinium.dds
@@ -1926,6 +1929,7 @@
 /resources/gfx/icons/datapad.dds
 /resources/gfx/icons/datapadinabottle.dds
 /resources/gfx/icons/dataredlettering.dds
+/resources/gfx/icons/dazingshot.dds
 /resources/gfx/icons/deadlycannon.dds
 /resources/gfx/icons/deathfield.dds
 /resources/gfx/icons/deathfromabove.dds
@@ -1996,6 +2000,7 @@
 /resources/gfx/icons/dualsaber.sithlow01.a01_v01.dds
 /resources/gfx/icons/dualsaber.sithlow02.a01_v01.dds
 /resources/gfx/icons/dualsaber.sithlow03.a01_v01.dds
+/resources/gfx/icons/duelwield.dds
 /resources/gfx/icons/durasteelbar.dds
 /resources/gfx/icons/durasteelscrapmetal.dds
 /resources/gfx/icons/earpiece1.dds
@@ -2080,7 +2085,9 @@
 /resources/gfx/icons/flashgrenade.dds
 /resources/gfx/icons/flawedlightsabercrystal.dds
 /resources/gfx/icons/flimsi.dds
+/resources/gfx/icons/flourish.dds
 /resources/gfx/icons/flurryofbolts.dds
+/resources/gfx/icons/focusfire.dds
 /resources/gfx/icons/focusinglens1.dds
 /resources/gfx/icons/focusinglens2.dds
 /resources/gfx/icons/focusinglens3.dds
@@ -2092,6 +2099,7 @@
 /resources/gfx/icons/force_crush.dds
 /resources/gfx/icons/forcearmor.dds
 /resources/gfx/icons/forcecharge.dds
+/resources/gfx/icons/forcecharge_old.dds
 /resources/gfx/icons/forcecrush.dds
 /resources/gfx/icons/forcedrain.dds
 /resources/gfx/icons/forcefocus1.dds
@@ -2101,6 +2109,7 @@
 /resources/gfx/icons/forceimbuedzeydcloth.dds
 /resources/gfx/icons/forceleap.dds
 /resources/gfx/icons/forcepull.dds
+/resources/gfx/icons/forcequake.dds
 /resources/gfx/icons/forcespeed.dds
 /resources/gfx/icons/forcestorm.dds
 /resources/gfx/icons/forcestream.dds
@@ -2155,6 +2164,7 @@
 /resources/gfx/icons/greensuperiorlightsabercrystal.dds
 /resources/gfx/icons/guard.dds
 /resources/gfx/icons/guard_desat.dds
+/resources/gfx/icons/guardianleap.dds
 /resources/gfx/icons/gylan.dds
 /resources/gfx/icons/hailofbolts.dds
 /resources/gfx/icons/hammershot.dds
@@ -2177,6 +2187,7 @@
 /resources/gfx/icons/heavydutyyellowstimpack.dds
 /resources/gfx/icons/herbivoreomnivoreteeth.dds
 /resources/gfx/icons/highenergyclip.dds
+/resources/gfx/icons/highimpactround.dds
 /resources/gfx/icons/hilt1_str.dds
 /resources/gfx/icons/hilt1_wil.dds
 /resources/gfx/icons/hiltstrike.dds
@@ -2233,8 +2244,10 @@
 /resources/gfx/icons/insecthead.dds
 /resources/gfx/icons/insectlimb.dds
 /resources/gfx/icons/insectstinger.dds
+/resources/gfx/icons/inspiringstrike.dds
 /resources/gfx/icons/instantdeathdevice.dds
 /resources/gfx/icons/insulatedfleece.dds
+/resources/gfx/icons/interceptorshield.dds
 /resources/gfx/icons/intestines.dds
 /resources/gfx/icons/introspection.dds
 /resources/gfx/icons/invisible_pistol_blue.dds
@@ -8969,6 +8982,7 @@
 /resources/gfx/icons/irradiatedradioactivesample.dds
 /resources/gfx/icons/jcforceprodigy.dds
 /resources/gfx/icons/jcjedischolar.dds
+/resources/gfx/icons/jcmirlalanwanderer.dds
 /resources/gfx/icons/jedi_equipment.dds
 /resources/gfx/icons/jediconsular.dds
 /resources/gfx/icons/jediholocommunicator.dds
@@ -8977,10 +8991,12 @@
 /resources/gfx/icons/jediholocron3.dds
 /resources/gfx/icons/jediknight.dds
 /resources/gfx/icons/jedistonetablet.dds
+/resources/gfx/icons/jetboost.dds
 /resources/gfx/icons/jetcharge.dds
 /resources/gfx/icons/jkforcesensitiveorphan.dds
 /resources/gfx/icons/jkmiralukansurvivor.dds
 /resources/gfx/icons/jkwilderfugitive.dds
+/resources/gfx/icons/jumping_strike.dds
 /resources/gfx/icons/juyo.dds
 /resources/gfx/icons/kasotti.dds
 /resources/gfx/icons/kcredits.dds
@@ -9047,6 +9063,7 @@
 /resources/gfx/icons/larger/tips.abilities.dds
 /resources/gfx/icons/larger/tips.crafting.dds
 /resources/gfx/icons/larger/tips.exit.map.dds
+/resources/gfx/icons/larger/tips.holo.calls.dds
 /resources/gfx/icons/larger/tips.lfg.dds
 /resources/gfx/icons/larger/tips.mission.mapnotes.dds
 /resources/gfx/icons/larger/tips.mission.tab.dds
@@ -9230,6 +9247,7 @@
 /resources/gfx/icons/nutsandbolts2.dds
 /resources/gfx/icons/nylasteel.dds
 /resources/gfx/icons/nylitecloth.dds
+/resources/gfx/icons/obfuscate.dds
 /resources/gfx/icons/offense.dds
 /resources/gfx/icons/opportunisticstrike.dds
 /resources/gfx/icons/orangeadrenal.dds
@@ -9282,6 +9300,7 @@
 /resources/gfx/icons/plateoffood.dds
 /resources/gfx/icons/plexisteel.dds
 /resources/gfx/icons/pocketrepairkit.dds
+/resources/gfx/icons/pointblankshot.dds
 /resources/gfx/icons/poisonmeat.dds
 /resources/gfx/icons/polaritycharge.dds
 /resources/gfx/icons/polyfibe.dds
@@ -9998,6 +10017,7 @@
 /resources/gfx/icons/structuralbracing.dds
 /resources/gfx/icons/stunned.dds
 /resources/gfx/icons/subterfuge.dds
+/resources/gfx/icons/suckerpunch.dds
 /resources/gfx/icons/suffocate.dds
 /resources/gfx/icons/summon2.dds
 /resources/gfx/icons/sunblaze.dds
@@ -10012,11 +10032,13 @@
 /resources/gfx/icons/superioryellowstimpack.dds
 /resources/gfx/icons/supermissilebay.dds
 /resources/gfx/icons/supplypack.dds
+/resources/gfx/icons/surge.dds
 /resources/gfx/icons/surgicalprobe.dds
 /resources/gfx/icons/surveyorskit.dds
 /resources/gfx/icons/swchildoftheempire.dds
 /resources/gfx/icons/sweep.dds
 /resources/gfx/icons/sweepinggunfire.dds
+/resources/gfx/icons/sweepingslash.dds
 /resources/gfx/icons/swsithpureblood.dds
 /resources/gfx/icons/swwarhardenednoble.dds
 /resources/gfx/icons/synthweave.dds
@@ -10116,6 +10138,7 @@
 /resources/gfx/loadingscreen/bal_overlay.dds
 /resources/gfx/loadingscreen/bal_overlay_text.dds
 /resources/gfx/loadingscreen/bel_overlay.dds
+/resources/gfx/loadingscreen/bel_overlay_text.dds
 /resources/gfx/loadingscreen/bwa_splash.dds
 /resources/gfx/loadingscreen/bwa_splash.tex
 /resources/gfx/loadingscreen/class_load_screen.dds
@@ -10125,7 +10148,9 @@
 /resources/gfx/loadingscreen/dro_overlay_text.dds
 /resources/gfx/loadingscreen/dromund_kaas_overlay.dds
 /resources/gfx/loadingscreen/hoth_overlay.dds
+/resources/gfx/loadingscreen/hoth_overlay_text.dds
 /resources/gfx/loadingscreen/hutta_overlay.dds
+/resources/gfx/loadingscreen/hutta_overlay_text.dds
 /resources/gfx/loadingscreen/ilum_overlay.dds
 /resources/gfx/loadingscreen/imp_overlay.dds
 /resources/gfx/loadingscreen/korriban_overlay.dds
@@ -10134,6 +10159,7 @@
 /resources/gfx/loadingscreen/nar_overlay_text.dds
 /resources/gfx/loadingscreen/ord_overlay.dds
 /resources/gfx/loadingscreen/quesh_overlay.dds
+/resources/gfx/loadingscreen/quesh_overlay_text.dds
 /resources/gfx/loadingscreen/republic_overlay.dds
 /resources/gfx/loadingscreen/spc_overlay_m01.dds
 /resources/gfx/loadingscreen/spc_overlay_m02.dds

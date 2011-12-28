@@ -1,4 +1,4 @@
-; 1510/2181 (69%)
+; 1565/2182 (71%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -543,6 +543,7 @@
 /resources/art/lights/345_068_052.dds
 /resources/art/lights/345_068_052.tex
 /resources/art/lights/44_79_99.dds
+/resources/art/lights/44_79_99.tex
 /resources/art/lights/72_162_136.dds
 /resources/art/lights/72_162_136.tex
 /resources/art/lights/acad_hall_allwhite_01.dds
@@ -554,6 +555,8 @@
 /resources/art/lights/ambient_032_041_006.tex
 /resources/art/lights/ambient_033_076_015.dds
 /resources/art/lights/ambient_033_076_015.tex
+/resources/art/lights/ambient_171_54_25.dds
+/resources/art/lights/ambient_171_54_25.tex
 /resources/art/lights/ambient_204_69_31.dds
 /resources/art/lights/ambient_204_69_31.tex
 /resources/art/lights/ambient_ald_killik_caves_test.dds
@@ -582,10 +585,16 @@
 /resources/art/lights/ambient_gormak.tex
 /resources/art/lights/ambient_hth_dreadnaught_interior.dds
 /resources/art/lights/ambient_hth_dreadnaught_interior.tex
+/resources/art/lights/ambient_hth_icecave_interior.dds
+/resources/art/lights/ambient_hth_icecave_interior.tex
 /resources/art/lights/ambient_hth_imp_ship_interior.dds
 /resources/art/lights/ambient_hth_imp_ship_interior.tex
+/resources/art/lights/ambient_hth_techcave_hot.dds
+/resources/art/lights/ambient_hth_techcave_hot.tex
 /resources/art/lights/ambient_hth_techcave_interior.dds
 /resources/art/lights/ambient_hth_techcave_interior.tex
+/resources/art/lights/ambient_hth_techcave_interior_pirate.dds
+/resources/art/lights/ambient_hth_techcave_interior_pirate.tex
 /resources/art/lights/ambient_hutt_palace_jaguuna.dds
 /resources/art/lights/ambient_hutt_palace_jaguuna.tex
 /resources/art/lights/ambient_imp_revan_droid_interior.dds
@@ -632,12 +641,24 @@
 /resources/art/lights/bal_exterior_lightramp.tex
 /resources/art/lights/bal_interior_lightramp_arms_factory.dds
 /resources/art/lights/bal_interior_lightramp_arms_factory.tex
+/resources/art/lights/bal_interior_lightramp_imp_headquarters.dds
+/resources/art/lights/bal_interior_lightramp_imp_headquarters.tex
 /resources/art/lights/bal_interior_lightramp_okara_droid_factory.dds
 /resources/art/lights/bal_interior_lightramp_okara_droid_factory.tex
 /resources/art/lights/bel_exterior_lightramp.dds
 /resources/art/lights/bel_exterior_lightramp.tex
+/resources/art/lights/bel_interior_imp_lodgement_lightramp.dds
+/resources/art/lights/bel_interior_imp_lodgement_lightramp.tex
+/resources/art/lights/bel_interior_lightramp.dds
+/resources/art/lights/bel_interior_lightramp.tex
+/resources/art/lights/bel_interior_rak_prison_lightramp.dds
+/resources/art/lights/bel_interior_rak_prison_lightramp.tex
 /resources/art/lights/bel_interior_rep_prison_lightramp.dds
 /resources/art/lights/bel_interior_rep_prison_lightramp.tex
+/resources/art/lights/bel_interior_rep_techcave_lightramp.dds
+/resources/art/lights/bel_interior_rep_techcave_lightramp.tex
+/resources/art/lights/bel_interior_republic_fort_lightramp.dds
+/resources/art/lights/bel_interior_republic_fort_lightramp.tex
 /resources/art/lights/bel_raid_interior_lightramp_01.dds
 /resources/art/lights/bel_raid_interior_lightramp_01.tex
 /resources/art/lights/bel_whiteroom_lightramp.dds
@@ -674,6 +695,8 @@
 /resources/art/lights/falloff_exponential.dds
 /resources/art/lights/falloff_exponential.tex
 /resources/art/lights/falloff_exponential.tiny.dds
+/resources/art/lights/falloff_imp_st_01.dds
+/resources/art/lights/falloff_imp_st_01.tex
 /resources/art/lights/falloff_linear.dds
 /resources/art/lights/falloff_linear.tex
 /resources/art/lights/falloff_linear.tiny.dds
@@ -732,6 +755,8 @@
 /resources/art/lights/fill_037_092_099.tex
 /resources/art/lights/fill_039_041_089.dds
 /resources/art/lights/fill_039_041_089.tex
+/resources/art/lights/fill_039_043_099.dds
+/resources/art/lights/fill_039_043_099.tex
 /resources/art/lights/fill_039_099_099.dds
 /resources/art/lights/fill_039_099_099.tex
 /resources/art/lights/fill_041_054_71.dds
@@ -811,6 +836,10 @@
 /resources/art/lights/fill_dro_darktemple_yellow.tex
 /resources/art/lights/fill_gormak_blue.dds
 /resources/art/lights/fill_gormak_blue.tex
+/resources/art/lights/fill_hth_techcave_fire.dds
+/resources/art/lights/fill_hth_techcave_fire.tex
+/resources/art/lights/fill_hth_techcave_hot_omni.dds
+/resources/art/lights/fill_hth_techcave_hot_omni.tex
 /resources/art/lights/fill_imp_st_ceiling_blue.dds
 /resources/art/lights/fill_imp_st_ceiling_blue.tex
 /resources/art/lights/fill_imp_st_ceiling_blue.tiny.dds
@@ -840,6 +869,8 @@
 /resources/art/lights/fill_undergound_ruins.tiny.dds
 /resources/art/lights/fill_voss_tombs_blue.dds
 /resources/art/lights/fill_voss_tombs_blue.tex
+/resources/art/lights/fill_voss_tombs_bluefill.dds
+/resources/art/lights/fill_voss_tombs_bluefill.tex
 /resources/art/lights/fill_voss_tombs_green.dds
 /resources/art/lights/fill_voss_tombs_green.tex
 /resources/art/lights/fill_warm_jedi_temple.dds
@@ -872,11 +903,21 @@
 /resources/art/lights/galaxymap_main_d.tex
 /resources/art/lights/holo_lightramp_v04.dds
 /resources/art/lights/holo_lightramp_v04.tex
+/resources/art/lights/hth_exterior_lightramp.dds
+/resources/art/lights/hth_exterior_lightramp.tex
+/resources/art/lights/hth_exterior_lightramp_omni.dds
+/resources/art/lights/hth_exterior_lightramp_omni.tex
+/resources/art/lights/hth_interior_ambient.dds
+/resources/art/lights/hth_interior_ambient.tex
+/resources/art/lights/hth_interior_pointlight.dds
+/resources/art/lights/hth_interior_pointlight.tex
 /resources/art/lights/hut_exterior_lightramp.dds
 /resources/art/lights/hut_exterior_lightramp.tex
 /resources/art/lights/hut_spaceport_interior_lightramp.dds
 /resources/art/lights/hut_spaceport_interior_lightramp.tex
 /resources/art/lights/kaon_sky_ramp.tex
+/resources/art/lights/kor_acad_hall.dds
+/resources/art/lights/kor_acad_hall.tex
 /resources/art/lights/korriban_ramp.dds
 /resources/art/lights/korriban_ramp.tex
 /resources/art/lights/lightbox.dds
@@ -971,6 +1012,8 @@
 /resources/art/lights/lum_round_fourpix_falloff02.tex
 /resources/art/lights/lum_round_hutta_palace_ceiling.dds
 /resources/art/lights/lum_round_hutta_palace_ceiling.tex
+/resources/art/lights/lum_round_hutta_palace_light.dds
+/resources/art/lights/lum_round_hutta_palace_light.tex
 /resources/art/lights/lum_round_jedi_temple.dds
 /resources/art/lights/lum_round_jedi_temple.tex
 /resources/art/lights/lum_round_soft_edge.dds
@@ -1004,6 +1047,10 @@
 /resources/art/lights/ord_exterior_lightramp_volcano.tex
 /resources/art/lights/que_exterior_lightramp.dds
 /resources/art/lights/que_exterior_lightramp.tex
+/resources/art/lights/quesh_sciencetechcave_lightramp.dds
+/resources/art/lights/quesh_sciencetechcave_lightramp.tex
+/resources/art/lights/rep_techcave_lightramp.dds
+/resources/art/lights/rep_techcave_lightramp.tex
 /resources/art/lights/round_fourpix_clouds.dds
 /resources/art/lights/round_fourpix_clouds.tex
 /resources/art/lights/round_fourpix_clouds_180.dds
@@ -1078,6 +1125,8 @@
 /resources/art/lights/test_ac_exterior_nonsat.tex
 /resources/art/lights/test_ac_interior_nonsat_dark.dds
 /resources/art/lights/test_ac_interior_nonsat_dark.tex
+/resources/art/lights/test_ambient_occupied_caves.dds
+/resources/art/lights/test_ambient_occupied_caves.tex
 /resources/art/lights/test_andrew_point.dds
 /resources/art/lights/test_andrew_point.tex
 /resources/art/lights/tomb4_ramp.dds
@@ -1107,6 +1156,8 @@
 /resources/art/planets/hutta.gr2
 /resources/art/planets/korriban.gr2
 /resources/art/planets/nar_shadda.gr2
+/resources/art/planets/planets_atmosphere_hoth.gr2
+/resources/art/planets/quesh.gr2
 /resources/art/planets/taris.gr2
 /resources/art/planets/tatooine.gr2
 /resources/art/planets/texture/clouds_dromund_d.dds
@@ -1249,13 +1300,16 @@
 /resources/art/shaders/materials/kor_acad_standard_wall.mat
 /resources/art/shaders/materials/missing_granny.mat
 /resources/art/shaders/materials/planets_alderaan.mat
+/resources/art/shaders/materials/planets_atmosphere_hoth.mat
 /resources/art/shaders/materials/planets_balmorra.mat
 /resources/art/shaders/materials/planets_belsavis.mat
 /resources/art/shaders/materials/planets_coruscant.mat
 /resources/art/shaders/materials/planets_dromund_kass.mat
 /resources/art/shaders/materials/planets_hoth.mat
+/resources/art/shaders/materials/planets_hutta.mat
 /resources/art/shaders/materials/planets_korriban.mat
 /resources/art/shaders/materials/planets_nar_shadda.mat
+/resources/art/shaders/materials/planets_quesh.mat
 /resources/art/shaders/materials/planets_taris.mat
 /resources/art/shaders/materials/planets_tatooine.mat
 /resources/art/shaders/materials/planets_tython.mat
@@ -1294,6 +1348,7 @@
 /resources/art/static/designblockout/collision/dbo_collision_sphere_10m.gr2
 /resources/art/static/designblockout/cover_objects/dbo_universal_superexclusion_test.gr2
 /resources/art/static/designblockout/dbo_blocking_volume_16x10.gr2
+/resources/art/static/designblockout/designutility/dbo_30meter.gr2
 /resources/art/static/designblockout/designutility/dbo_40m_rocket_distance.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_auction_house.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_bank.gr2

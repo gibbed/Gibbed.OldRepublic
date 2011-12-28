@@ -1,4 +1,4 @@
-; 4811/5536 (86%)
+; 4819/5536 (87%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -122,6 +122,8 @@
 /resources/art/shaders/materials/all_item_space_debris_metal02.mat
 /resources/art/shaders/materials/all_item_space_debris_trims.mat
 /resources/art/shaders/materials/all_item_tech_imp_wallcomputer.mat
+/resources/art/shaders/materials/bel_arch_rakata_tower_base.mat
+/resources/art/shaders/materials/bel_arch_rakata_tower_middle.mat
 /resources/art/shaders/materials/char_select_bounty_hunter_blinking_lights_suv.mat
 /resources/art/shaders/materials/char_select_jedi_int_suv_01.mat
 /resources/art/shaders/materials/crafting_table_synthweaving.mat
@@ -160,6 +162,7 @@
 /resources/art/shaders/materials/spc_arch_rep_trans_int_wall03.mat
 /resources/art/shaders/materials/spc_arch_rep_trans_pillar01.mat
 /resources/art/shaders/materials/spc_arch_rep_trans_pillar02.mat
+/resources/art/shaders/materials/spc_arch_rep_trans_tech_column01.mat
 /resources/art/shaders/materials/spc_arch_ss_door_lg.mat
 /resources/art/shaders/materials/spc_arch_ss_door_lg_noemis.mat
 /resources/art/shaders/materials/spc_arch_ss_doorframe.mat
@@ -200,11 +203,16 @@
 /resources/art/shaders/materials/spc_item_planetsign_ald_imp.mat
 /resources/art/shaders/materials/spc_item_planetsign_ald_rep.mat
 /resources/art/shaders/materials/spc_item_planetsign_balmorra.mat
+/resources/art/shaders/materials/spc_item_planetsign_bel_imp.mat
 /resources/art/shaders/materials/spc_item_planetsign_cor.mat
 /resources/art/shaders/materials/spc_item_planetsign_dro.mat
+/resources/art/shaders/materials/spc_item_planetsign_hoth_imp.mat
+/resources/art/shaders/materials/spc_item_planetsign_hoth_rep.mat
 /resources/art/shaders/materials/spc_item_planetsign_hutta.mat
 /resources/art/shaders/materials/spc_item_planetsign_kor.mat
 /resources/art/shaders/materials/spc_item_planetsign_ord.mat
+/resources/art/shaders/materials/spc_item_planetsign_que_imp.mat
+/resources/art/shaders/materials/spc_item_planetsign_que_rep.mat
 /resources/art/shaders/materials/spc_item_planetsign_taris_imp.mat
 /resources/art/shaders/materials/spc_item_planetsign_tatooine_imp.mat
 /resources/art/shaders/materials/spc_item_planetsign_tatooine_rep.mat

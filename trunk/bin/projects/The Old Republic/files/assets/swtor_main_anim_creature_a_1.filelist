@@ -1,4 +1,4 @@
-; 2948/9320 (31%)
+; 3005/9320 (32%)
 /resources/anim/creature/acklaydroid/acklay_shutdown_loop.jba
 /resources/anim/creature/acklaydroid/ad_blank.jba
 /resources/anim/creature/acklaydroid/ad_body_pitch.jba
@@ -38,6 +38,8 @@
 /resources/anim/creature/acklaydroid/cb_sp_attack_2.jba
 /resources/anim/creature/acklaydroid/cb_spawn.jba
 /resources/anim/creature/acklaydroid/creature_action_common.mph
+/resources/anim/creature/acklaydroid/creature_action_conversation.mph
+/resources/anim/creature/acklaydroid/creature_loco_cnv.mph
 /resources/anim/creature/acklaydroid/creature_loco_idle_acklay_droid_deactivated.mph
 /resources/anim/creature/acklaydroid/creature_overlay.mph
 /resources/anim/creature/acklaydroid/creature_quad_loco.mph
@@ -73,6 +75,24 @@
 /resources/anim/creature/acklaydroid/dg_tele_skid_land_west.jba
 /resources/anim/creature/acklaydroid/dg_tele_upright_land.jba
 /resources/anim/creature/acklaydroid/dg_tele_upright_prone_land_front.jba
+/resources/anim/creature/acklaydroid/dl_agree.jba
+/resources/anim/creature/acklaydroid/dl_death_enter.jba
+/resources/anim/creature/acklaydroid/dl_death_idle.jba
+/resources/anim/creature/acklaydroid/dl_disagree.jba
+/resources/anim/creature/acklaydroid/dl_idle.jba
+/resources/anim/creature/acklaydroid/dl_injured_enter.jba
+/resources/anim/creature/acklaydroid/dl_injured_exit.jba
+/resources/anim/creature/acklaydroid/dl_injured_idle.jba
+/resources/anim/creature/acklaydroid/dl_look_down.jba
+/resources/anim/creature/acklaydroid/dl_look_left.jba
+/resources/anim/creature/acklaydroid/dl_look_right.jba
+/resources/anim/creature/acklaydroid/dl_look_up.jba
+/resources/anim/creature/acklaydroid/dl_threaten_attack.jba
+/resources/anim/creature/acklaydroid/dl_threaten_enter.jba
+/resources/anim/creature/acklaydroid/dl_threaten_exit.jba
+/resources/anim/creature/acklaydroid/dl_threaten_idle.jba
+/resources/anim/creature/acklaydroid/dl_threaten_roar.jba
+/resources/anim/creature/acklaydroid/dl_weightshift_1.jba
 /resources/anim/creature/acklaydroid/ev_dodge_1.jba
 /resources/anim/creature/acklaydroid/ev_dodge_2.jba
 /resources/anim/creature/acklaydroid/ex_idle_1.jba
@@ -83,6 +103,8 @@
 /resources/anim/creature/acklaydroid/mv_cb_turn_cw_90.jba
 /resources/anim/creature/acklaydroid/mv_run_back.jba
 /resources/anim/creature/acklaydroid/mv_run_forward.jba
+/resources/anim/creature/acklaydroid/mv_run_normal_enter.jba
+/resources/anim/creature/acklaydroid/mv_run_normal_exit.jba
 /resources/anim/creature/acklaydroid/mv_run_strafe_east.jba
 /resources/anim/creature/acklaydroid/mv_run_strafe_west.jba
 /resources/anim/creature/acklaydroid/mv_skid_upright.jba
@@ -92,6 +114,8 @@
 /resources/anim/creature/acklaydroid/mv_turn_cw_90.jba
 /resources/anim/creature/acklaydroid/mv_walk_back.jba
 /resources/anim/creature/acklaydroid/mv_walk_forward.jba
+/resources/anim/creature/acklaydroid/mv_walk_normal_enter.jba
+/resources/anim/creature/acklaydroid/mv_walk_normal_exit.jba
 /resources/anim/creature/acklaydroid/mv_walk_strafe_east.jba
 /resources/anim/creature/acklaydroid/mv_walk_strafe_west.jba
 /resources/anim/creature/am_acklaydroid.xml
@@ -419,6 +443,9 @@
 /resources/anim/creature/colicoiddroid/cb_sp_attack_2.jba
 /resources/anim/creature/colicoiddroid/cb_spawn.jba
 /resources/anim/creature/colicoiddroid/creature_action_common.mph
+/resources/anim/creature/colicoiddroid/creature_action_conversation.mph
+/resources/anim/creature/colicoiddroid/creature_loco_cnv.mph
+/resources/anim/creature/colicoiddroid/creature_loco_idle.mph
 /resources/anim/creature/colicoiddroid/creature_overlay.mph
 /resources/anim/creature/colicoiddroid/creature_quad_loco.mph
 /resources/anim/creature/colicoiddroid/dg_crit_damage_1.jba
@@ -453,6 +480,24 @@
 /resources/anim/creature/colicoiddroid/dg_tele_skid_land_west.jba
 /resources/anim/creature/colicoiddroid/dg_tele_upright_land.jba
 /resources/anim/creature/colicoiddroid/dg_tele_upright_prone_land_front.jba
+/resources/anim/creature/colicoiddroid/dl_agree.jba
+/resources/anim/creature/colicoiddroid/dl_death_enter.jba
+/resources/anim/creature/colicoiddroid/dl_death_idle.jba
+/resources/anim/creature/colicoiddroid/dl_disagree.jba
+/resources/anim/creature/colicoiddroid/dl_idle.jba
+/resources/anim/creature/colicoiddroid/dl_injured_enter.jba
+/resources/anim/creature/colicoiddroid/dl_injured_exit.jba
+/resources/anim/creature/colicoiddroid/dl_injured_idle.jba
+/resources/anim/creature/colicoiddroid/dl_look_down.jba
+/resources/anim/creature/colicoiddroid/dl_look_left.jba
+/resources/anim/creature/colicoiddroid/dl_look_right.jba
+/resources/anim/creature/colicoiddroid/dl_look_up.jba
+/resources/anim/creature/colicoiddroid/dl_threaten_attack.jba
+/resources/anim/creature/colicoiddroid/dl_threaten_enter.jba
+/resources/anim/creature/colicoiddroid/dl_threaten_exit.jba
+/resources/anim/creature/colicoiddroid/dl_threaten_idle.jba
+/resources/anim/creature/colicoiddroid/dl_threaten_roar.jba
+/resources/anim/creature/colicoiddroid/dl_weightshift_1.jba
 /resources/anim/creature/colicoiddroid/ev_dodge_1.jba
 /resources/anim/creature/colicoiddroid/ev_dodge_2.jba
 /resources/anim/creature/colicoiddroid/ex_idle_1.jba
@@ -463,6 +508,8 @@
 /resources/anim/creature/colicoiddroid/mv_cb_turn_cw_90.jba
 /resources/anim/creature/colicoiddroid/mv_run_back.jba
 /resources/anim/creature/colicoiddroid/mv_run_forward.jba
+/resources/anim/creature/colicoiddroid/mv_run_normal_enter.jba
+/resources/anim/creature/colicoiddroid/mv_run_normal_exit.jba
 /resources/anim/creature/colicoiddroid/mv_run_strafe_east.jba
 /resources/anim/creature/colicoiddroid/mv_run_strafe_west.jba
 /resources/anim/creature/colicoiddroid/mv_skid_upright.jba
@@ -472,6 +519,8 @@
 /resources/anim/creature/colicoiddroid/mv_turn_cw_90.jba
 /resources/anim/creature/colicoiddroid/mv_walk_back.jba
 /resources/anim/creature/colicoiddroid/mv_walk_forward.jba
+/resources/anim/creature/colicoiddroid/mv_walk_normal_enter.jba
+/resources/anim/creature/colicoiddroid/mv_walk_normal_exit.jba
 /resources/anim/creature/colicoiddroid/mv_walk_strafe_east.jba
 /resources/anim/creature/colicoiddroid/mv_walk_strafe_west.jba
 /resources/anim/creature/dewback/ad_blank.jba
@@ -512,6 +561,7 @@
 /resources/anim/creature/dewback/cb_sp_attack_2.jba
 /resources/anim/creature/dewback/cb_spawn.jba
 /resources/anim/creature/dewback/creature_action_common.mph
+/resources/anim/creature/dewback/creature_loco_cnv.mph
 /resources/anim/creature/dewback/creature_loco_idle.mph
 /resources/anim/creature/dewback/creature_overlay.mph
 /resources/anim/creature/dewback/creature_quad_loco.mph
@@ -2870,6 +2920,10 @@
 /resources/anim/npc/hutt/am_observe.jba
 /resources/anim/npc/hutt/am_stretch.jba
 /resources/anim/npc/hutt/am_yawn.jba
+/resources/anim/npc/hutt/cd_apprentice_girik_kill_hutt_death_01.jba
+/resources/anim/npc/hutt/cd_apprentice_girik_kill_hutt_death_02.jba
+/resources/anim/npc/hutt/cd_apprentice_girik_kill_hutt_deathpose_01.jba
+/resources/anim/npc/hutt/cd_apprentice_girik_kill_hutt_deathpose_02.jba
 /resources/anim/npc/hutt/dl_2hand_stop.jba
 /resources/anim/npc/hutt/dl_2hand_up.jba
 /resources/anim/npc/hutt/dl_agree.jba
@@ -2899,6 +2953,7 @@
 /resources/anim/npc/hutt/ex_idle_2.jba
 /resources/anim/npc/hutt/ex_idle_3.jba
 /resources/anim/npc/hutt/ex_idle_4.jba
+/resources/anim/npc/hutt/hutt_action_autogen.mph
 /resources/anim/npc/hutt/hutt_action_common.mph
 /resources/anim/npc/hutt/hutt_loco_cnv.mph
 /resources/anim/npc/hutt/hutt_loco_idle.mph
@@ -2907,6 +2962,8 @@
 /resources/anim/npc/hutt/mv_turn_right_90.jba
 /resources/anim/npc/hutt/mv_walk_back.jba
 /resources/anim/npc/hutt/mv_walk_forward.jba
+/resources/anim/npc/hutt/mv_walk_normal_enter.jba
+/resources/anim/npc/hutt/mv_walk_normal_exit.jba
 /resources/anim/npc/huttsit/ad_head_pitch.jba
 /resources/anim/npc/huttsit/ad_head_yaw.jba
 /resources/anim/npc/huttsit/am_observe.jba

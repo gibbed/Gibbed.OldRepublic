@@ -1,4 +1,4 @@
-; 3054/3358 (90%)
+; 3055/3358 (90%)
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tiny.dds
@@ -36,6 +36,7 @@
 /resources/art/shaders/materials/vos_arch_vosstomb_sconce_dmg.mat
 /resources/art/shaders/materials/vos_arch_vosstomb_urn.mat
 /resources/art/shaders/materials/vos_env_boulders.mat
+/resources/art/shaders/materials/vos_item_gormak_floor_junk.mat
 /resources/art/shaders/materials/vos_item_ruins_tablet.mat
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_house_b_metal01_d.dds
 /resources/art/static/area/all_all/arch/imperial/texture/all_arch_imp_house_b_metal01_d.tex

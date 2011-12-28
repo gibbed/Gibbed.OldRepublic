@@ -1,4 +1,4 @@
-; 6270/6335 (98%)
+; 6300/6335 (99%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -8,6 +8,10 @@
 /resources/art/shaders/materials/all_arch_city_facade.mat
 /resources/art/shaders/materials/all_arch_hut_small_mudseam.mat
 /resources/art/shaders/materials/all_arch_imp_city_block_bldg_roof_02.mat
+/resources/art/shaders/materials/all_arch_metal_tech_hall_ceiling.mat
+/resources/art/shaders/materials/all_arch_metal_tech_hall_floor01.mat
+/resources/art/shaders/materials/all_arch_metal_tech_hall_wall.mat
+/resources/art/shaders/materials/all_arch_mineshaft_entrance.mat
 /resources/art/shaders/materials/all_arch_mineshaft_entrance_door.mat
 /resources/art/shaders/materials/all_arch_narshadda_holo_bench.mat
 /resources/art/shaders/materials/all_arch_neu_bantha_shelter_antenna.mat
@@ -56,6 +60,11 @@
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_top.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_top_detroyed.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_detroyed_parts.mat
+/resources/art/shaders/materials/all_arch_neu_industrial_tower_base.mat
+/resources/art/shaders/materials/all_arch_neu_industrial_tower_details.mat
+/resources/art/shaders/materials/all_arch_neu_industrial_tower_metal.mat
+/resources/art/shaders/materials/all_arch_neu_industrial_tower_metal_dark.mat
+/resources/art/shaders/materials/all_arch_neu_industrial_tower_trim.mat
 /resources/art/shaders/materials/all_arch_neu_land_speeder_crashed.mat
 /resources/art/shaders/materials/all_arch_neu_lighthouse.mat
 /resources/art/shaders/materials/all_arch_neu_mandalorian_trophy_case_all_arch_neu_mandalorian_case.mat
@@ -110,6 +119,9 @@
 /resources/art/shaders/materials/all_arch_pipe_set_05.mat
 /resources/art/shaders/materials/all_arch_pipe_set_06.mat
 /resources/art/shaders/materials/all_arch_pipe_set_07.mat
+/resources/art/shaders/materials/all_arch_rakata_wall_set02.mat
+/resources/art/shaders/materials/all_arch_rakata_wall_set02a.mat
+/resources/art/shaders/materials/all_arch_rakata_wall_set03a.mat
 /resources/art/shaders/materials/all_arch_rep_atv_body_01.mat
 /resources/art/shaders/materials/all_arch_rep_atv_body_01_metal.mat
 /resources/art/shaders/materials/all_arch_rep_atv_doorramp_01.mat
@@ -206,10 +218,21 @@
 /resources/art/shaders/materials/all_arch_rep_space_elevator_int.mat
 /resources/art/shaders/materials/all_arch_rep_space_elevator_int_console.mat
 /resources/art/shaders/materials/all_arch_rep_space_elevator_int_floor.mat
+/resources/art/shaders/materials/all_arch_rep_space_engine_02.mat
+/resources/art/shaders/materials/all_arch_rep_space_hall_ceiling_vent01.mat
 /resources/art/shaders/materials/all_arch_rep_space_hall_combo02_noemiss.mat
 /resources/art/shaders/materials/all_arch_rep_space_hall_floor_grate01.mat
+/resources/art/shaders/materials/all_arch_rep_space_hall_metal_generic01.mat
+/resources/art/shaders/materials/all_arch_rep_space_room_bridge_brace01.mat
+/resources/art/shaders/materials/all_arch_rep_space_room_bridge_ceiling01.mat
+/resources/art/shaders/materials/all_arch_rep_space_room_bridge_ceiling02.mat
+/resources/art/shaders/materials/all_arch_rep_space_room_bridge_console01.mat
 /resources/art/shaders/materials/all_arch_rep_space_room_bridge_floor01.mat
+/resources/art/shaders/materials/all_arch_rep_space_room_bridge_floor03.mat
+/resources/art/shaders/materials/all_arch_rep_space_room_bridge_glass.mat
 /resources/art/shaders/materials/all_arch_rep_space_room_bridge_trim01.mat
+/resources/art/shaders/materials/all_arch_rep_space_room_bridge_wall01.mat
+/resources/art/shaders/materials/all_arch_rep_space_room_bridge_wall02.mat
 /resources/art/shaders/materials/all_arch_rep_stairs.mat
 /resources/art/shaders/materials/all_arch_rep_store_metal.mat
 /resources/art/shaders/materials/all_arch_rep_store_prop02.mat
@@ -298,6 +321,7 @@
 /resources/art/shaders/materials/all_arch_slum_med_hut_int_r2_wall.mat
 /resources/art/shaders/materials/all_arch_slum_med_hut_int_r3_floor.mat
 /resources/art/shaders/materials/all_arch_slum_med_hut_int_r3_wall.mat
+/resources/art/shaders/materials/all_arch_slum_pavillion_top.mat
 /resources/art/shaders/materials/all_arch_slum_radar.mat
 /resources/art/shaders/materials/all_arch_slum_water_filter.mat
 /resources/art/shaders/materials/all_arch_tech_aagun.mat
@@ -422,6 +446,8 @@
 /resources/art/shaders/materials/all_arch_volcano_light.mat
 /resources/art/shaders/materials/all_arch_volcano_walkway_nolight.mat
 /resources/art/shaders/materials/all_arch_volcano_walkway_panel.mat
+/resources/art/shaders/materials/all_arch_whiteroom_ceiling.mat
+/resources/art/shaders/materials/all_arch_whiteroom_floor.mat
 /resources/art/shaders/materials/all_imperial_guard_post.mat
 /resources/art/shaders/materials/all_med_facility_imperial.mat
 /resources/art/shaders/materials/all_med_facility_imperial_generator.mat
@@ -444,6 +470,7 @@
 /resources/art/shaders/materials/arch_rep_temple_rotunda_holocron_nocollision.mat
 /resources/art/shaders/materials/cor_arch_city_wallset_vista_01.mat
 /resources/art/shaders/materials/cor_arch_city_wallset_vista_02.mat
+/resources/art/shaders/materials/hut_arch_industrial_silvermetal.mat
 /resources/art/shaders/materials/kor_acad_ceiling_panel_stripes.mat
 /resources/art/shaders/materials/kor_acad_floor_main_room.mat
 /resources/art/shaders/materials/kor_acad_front_entrance.mat
@@ -3419,6 +3446,9 @@
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_space_room_bridge_floor03_s.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_space_room_bridge_floor03_s.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_space_room_bridge_floor03_s.tiny.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_space_room_bridge_glass_d.dds
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_space_room_bridge_glass_d.tex
+/resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_space_room_bridge_glass_d.tiny.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_space_room_bridge_trim01_d.dds
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_space_room_bridge_trim01_d.tex
 /resources/art/static/area/all_all/arch/republic/texture/all_arch_rep_space_room_bridge_trim01_d.tiny.dds
