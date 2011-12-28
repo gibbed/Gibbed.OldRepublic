@@ -1,4 +1,4 @@
-; 8680/8930 (97%)
+; 8689/8930 (97%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -625,6 +625,7 @@
 /resources/art/shaders/materials/all_item_tech_ceiling_light.mat
 /resources/art/shaders/materials/all_item_tech_ceiling_panel.mat
 /resources/art/shaders/materials/all_item_tech_city_computer.mat
+/resources/art/shaders/materials/all_item_tech_city_computer_d01_off.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_monitor.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_off.mat
 /resources/art/shaders/materials/all_item_tech_city_computer_suv_a.mat
@@ -769,6 +770,7 @@
 /resources/art/shaders/materials/all_item_tech_server.mat
 /resources/art/shaders/materials/all_item_tech_server_screen_suv.mat
 /resources/art/shaders/materials/all_item_tech_server_screen_suv_alert.mat
+/resources/art/shaders/materials/all_item_tech_server_screen_suv_off.mat
 /resources/art/shaders/materials/all_item_tech_sign.mat
 /resources/art/shaders/materials/all_item_tech_slot_machine_01.mat
 /resources/art/shaders/materials/all_item_tech_slot_machine_01_screen.mat
@@ -3526,6 +3528,7 @@
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02_bottom.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02_damaged.gr2
+/resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02_top.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_wall_tech_01.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_wall_tech_02.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_wall_tech_03.gr2
@@ -4333,6 +4336,7 @@
 /resources/art/static/area/all_all/item/republic/all_item_rep_turret_manned_bottom.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_turret_manned_damaged.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_turret_manned_damaged_top.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_turret_manned_top.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_camera.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_camera_02.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_computer_01.gr2
@@ -5018,12 +5022,14 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_02_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_03.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_dmg.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_dst.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_workbench.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_workbench_device.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_clicker01.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_computer_terminal.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_computer_terminal_dst.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_back.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_controls.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_console_large_controls_a.gr2
@@ -5258,6 +5264,8 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_server_screen.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_server_screen_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_server_screen_blank.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_server_screen_dmg.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_server_screen_dst.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_server_screen_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_server_wedge.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_sign01.gr2
@@ -5325,6 +5333,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_wall_monitor_02_decal.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_wall_monitor_02_decal01.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_wall_monitor_02_decal03.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_wall_monitor_02_dst.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_wall_monitor_02_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_wires_curve.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_wires_s_curve.gr2

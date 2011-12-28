@@ -1,4 +1,4 @@
-; 7347/14391 (51%)
+; 7442/14391 (51%)
 /resources/anim/humanoid/bmnnew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bmnnew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bmnnew/ad_2pistol_2h_yaw_up.jba
@@ -1527,9 +1527,11 @@
 /resources/anim/humanoid/bmnnew/cd_apprentice_girik_kill_react_2.jba
 /resources/anim/humanoid/bmnnew/cd_apprentice_girik_kill_react_3.jba
 /resources/anim/humanoid/bmnnew/cd_apprentice_girik_suicide.jba
+/resources/anim/humanoid/bmnnew/cd_azalie_action.jba
 /resources/anim/humanoid/bmnnew/cd_backhand_1.jba
 /resources/anim/humanoid/bmnnew/cd_backstab_kiwi_attack.jba
 /resources/anim/humanoid/bmnnew/cd_backstab_kiwi_typing.jba
+/resources/anim/humanoid/bmnnew/cd_baras_cradle_kill_action_01.jba
 /resources/anim/humanoid/bmnnew/cd_benor_assess_damage.jba
 /resources/anim/humanoid/bmnnew/cd_benor_concentrate.jba
 /resources/anim/humanoid/bmnnew/cd_bh_judo_action_enter.jba
@@ -1564,7 +1566,12 @@
 /resources/anim/humanoid/bmnnew/cd_corso_riggs_wtf_walk.jba
 /resources/anim/humanoid/bmnnew/cd_count_alde_death_01.jba
 /resources/anim/humanoid/bmnnew/cd_count_alde_deathpose_01.jba
+/resources/anim/humanoid/bmnnew/cd_count_alde_evade_rifle_01.jba
+/resources/anim/humanoid/bmnnew/cd_count_alde_evade_rifle_02.jba
+/resources/anim/humanoid/bmnnew/cd_count_alde_evade_rifle_03.jba
+/resources/anim/humanoid/bmnnew/cd_count_alde_evade_rifle_04.jba
 /resources/anim/humanoid/bmnnew/cd_count_alde_evade_unarmed_02.jba
+/resources/anim/humanoid/bmnnew/cd_count_alde_evade_unarmed_03.jba
 /resources/anim/humanoid/bmnnew/cd_darmas_cards_1.jba
 /resources/anim/humanoid/bmnnew/cd_darmas_cards_2.jba
 /resources/anim/humanoid/bmnnew/cd_darth_baras_device_react.jba
@@ -1644,6 +1651,8 @@
 /resources/anim/humanoid/bmnnew/cd_hk47_droid_02_idle.jba
 /resources/anim/humanoid/bmnnew/cd_hk47_walk_enter.jba
 /resources/anim/humanoid/bmnnew/cd_hk47_walk_enter_idle.jba
+/resources/anim/humanoid/bmnnew/cd_hunter_kiss_give_01.jba
+/resources/anim/humanoid/bmnnew/cd_hunter_kiss_receive_01.jba
 /resources/anim/humanoid/bmnnew/cd_hunter_suicide_01.jba
 /resources/anim/humanoid/bmnnew/cd_huttsbane_01.jba
 /resources/anim/humanoid/bmnnew/cd_huttsbane_02.jba
@@ -1743,6 +1752,8 @@
 /resources/anim/humanoid/bmnnew/cd_reneget_brutal_punch_react_01.jba
 /resources/anim/humanoid/bmnnew/cd_revan_grab_mask.jba
 /resources/anim/humanoid/bmnnew/cd_revan_imprisoned_float.jba
+/resources/anim/humanoid/bmnnew/cd_revan_imprisoned_land.jba
+/resources/anim/humanoid/bmnnew/cd_revan_mask.jba
 /resources/anim/humanoid/bmnnew/cd_rifle_kill_enter.jba
 /resources/anim/humanoid/bmnnew/cd_rifle_kill_exit.jba
 /resources/anim/humanoid/bmnnew/cd_rifle_kill_loop.jba
@@ -1776,6 +1787,7 @@
 /resources/anim/humanoid/bmnnew/cd_seros_guard_idle_04.jba
 /resources/anim/humanoid/bmnnew/cd_seros_guard_idle_05.jba
 /resources/anim/humanoid/bmnnew/cd_seros_guard_idle_06.jba
+/resources/anim/humanoid/bmnnew/cd_shai_goon_bonk_react_deathpose_01.jba
 /resources/anim/humanoid/bmnnew/cd_sign_treaty.jba
 /resources/anim/humanoid/bmnnew/cd_sith_entrance_bodyguard1_enter.jba
 /resources/anim/humanoid/bmnnew/cd_sith_entrance_bodyguard2_enter.jba
@@ -2081,6 +2093,7 @@
 /resources/anim/humanoid/bmnnew/dl_brag_military_3.jba
 /resources/anim/humanoid/bmnnew/dl_brag_sith_1.jba
 /resources/anim/humanoid/bmnnew/dl_brag_smuggler_1.jba
+/resources/anim/humanoid/bmnnew/dl_brutal_back_stomp_pistol_01.jba
 /resources/anim/humanoid/bmnnew/dl_brutal_hit_pistol_01.jba
 /resources/anim/humanoid/bmnnew/dl_brutal_hit_saber_01.jba
 /resources/anim/humanoid/bmnnew/dl_brutal_hit_weapon_react_01.jba
@@ -2215,6 +2228,7 @@
 /resources/anim/humanoid/bmnnew/dl_injection_react_1.jba
 /resources/anim/humanoid/bmnnew/dl_injection_react_2.jba
 /resources/anim/humanoid/bmnnew/dl_injection_react_3.jba
+/resources/anim/humanoid/bmnnew/dl_injection_react_4.jba
 /resources/anim/humanoid/bmnnew/dl_injection_react_5.jba
 /resources/anim/humanoid/bmnnew/dl_insult_jedi_1.jba
 /resources/anim/humanoid/bmnnew/dl_insult_military_1.jba
@@ -2323,6 +2337,11 @@
 /resources/anim/humanoid/bmnnew/dl_pound_fists_righthand_1.jba
 /resources/anim/humanoid/bmnnew/dl_pound_fists_righthand_2.jba
 /resources/anim/humanoid/bmnnew/dl_pound_fists_righthand_3.jba
+/resources/anim/humanoid/bmnnew/dl_punch_kneel_action_right_01.jba
+/resources/anim/humanoid/bmnnew/dl_punch_kneel_action_right_02.jba
+/resources/anim/humanoid/bmnnew/dl_punch_kneel2_action_right_01.jba
+/resources/anim/humanoid/bmnnew/dl_punch_kneel2_action_right_02.jba
+/resources/anim/humanoid/bmnnew/dl_punch_sit_action_right_01.jba
 /resources/anim/humanoid/bmnnew/dl_punch_sit_action_right_02.jba
 /resources/anim/humanoid/bmnnew/dl_punch_sit_react_right_01.jba
 /resources/anim/humanoid/bmnnew/dl_punch_sit_react_right_02.jba
@@ -2440,7 +2459,12 @@
 /resources/anim/humanoid/bmnnew/dl_romance_2p_shoulder_touch_receive_1.jba
 /resources/anim/humanoid/bmnnew/dl_romance_2p_shove_playful_give_1.jba
 /resources/anim/humanoid/bmnnew/dl_romance_2p_shove_playful_receive_1.jba
+/resources/anim/humanoid/bmnnew/dl_romance_come_hither_exit_follow_01.jba
+/resources/anim/humanoid/bmnnew/dl_romance_come_hither_exit_follow_02.jba
+/resources/anim/humanoid/bmnnew/dl_romance_come_hither_exit_lead_01.jba
 /resources/anim/humanoid/bmnnew/dl_romance_coy_1.jba
+/resources/anim/humanoid/bmnnew/dl_romance_crushed_exit_01.jba
+/resources/anim/humanoid/bmnnew/dl_romance_crying_exit_01.jba
 /resources/anim/humanoid/bmnnew/dl_romance_hand_hold_front_give_enter_01.jba
 /resources/anim/humanoid/bmnnew/dl_romance_hand_hold_front_give_exit_01.jba
 /resources/anim/humanoid/bmnnew/dl_romance_hand_hold_front_give_idle_01.jba
@@ -2703,6 +2727,7 @@
 /resources/anim/humanoid/bmnnew/em_wave_1.jba
 /resources/anim/humanoid/bmnnew/em_wave_2.jba
 /resources/anim/humanoid/bmnnew/em_wave_3.jba
+/resources/anim/humanoid/bmnnew/em_wave_4.jba
 /resources/anim/humanoid/bmnnew/em_wave_5.jba
 /resources/anim/humanoid/bmnnew/em_wave_6.jba
 /resources/anim/humanoid/bmnnew/em_weight_shift_1.jba
@@ -2895,11 +2920,13 @@
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000039.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000040.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000041.mph
+/resources/anim/humanoid/bmnnew/humanoid_action_autogen000047.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000048.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000050.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000051.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000056.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000057.mph
+/resources/anim/humanoid/bmnnew/humanoid_action_autogen000058.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000059.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000060.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000061.mph
@@ -3003,12 +3030,15 @@
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000164.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000165.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000169.mph
+/resources/anim/humanoid/bmnnew/humanoid_action_autogen000176.mph
+/resources/anim/humanoid/bmnnew/humanoid_action_autogen000177.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000179.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000180.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000184.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000185.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000190.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000205.mph
+/resources/anim/humanoid/bmnnew/humanoid_action_autogen000211.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000222.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000232.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000240.mph
@@ -3055,6 +3085,7 @@
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000298.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000299.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000300.mph
+/resources/anim/humanoid/bmnnew/humanoid_action_autogen000302.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000304.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000305.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000306.mph
@@ -3199,6 +3230,8 @@
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_attention_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_back_wall_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_choke_idle_01.mph
+/resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_choke_kneel_deathpose_01.mph
+/resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_choke_kneel_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_choke_react_deathpose_02.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_choke_react_idle_01.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_console_idle_01.mph
@@ -3210,6 +3243,8 @@
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_holocom_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_injured_head_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_injured_kneel_deathpose_01.mph
+/resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_injured_kneel_deathpose_02.mph
+/resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_injured_kneel_deathpose_03.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_injured_kneel_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_injured_kneel2_deathpose_01.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_injured_kneel2_idle_01.mph
@@ -3259,6 +3294,7 @@
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_weapon_low_kill_deathpose_1a.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_weapon_low_kill_deathpose_2a.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_weapon_threaten_deathpose_1a.mph
+/resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_weapon_threaten_deathpose_1b.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_weapon_threaten_react_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_cnv.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_combat_2pistol.mph
@@ -4126,6 +4162,13 @@
 /resources/anim/humanoid/bmnnew/po_choke_kill_action_01.jba
 /resources/anim/humanoid/bmnnew/po_choke_kill_react_01.jba
 /resources/anim/humanoid/bmnnew/po_choke_kill_react_deathpose_01.jba
+/resources/anim/humanoid/bmnnew/po_choke_kneel_death_01.jba
+/resources/anim/humanoid/bmnnew/po_choke_kneel_death_02.jba
+/resources/anim/humanoid/bmnnew/po_choke_kneel_deathpose_01.jba
+/resources/anim/humanoid/bmnnew/po_choke_kneel_deathpose_02.jba
+/resources/anim/humanoid/bmnnew/po_choke_kneel_idle.jba
+/resources/anim/humanoid/bmnnew/po_choke_kneel_to_kneel2.jba
+/resources/anim/humanoid/bmnnew/po_choke_kneel_to_normal.jba
 /resources/anim/humanoid/bmnnew/po_choke_react_death_01.jba
 /resources/anim/humanoid/bmnnew/po_choke_react_death_02.jba
 /resources/anim/humanoid/bmnnew/po_choke_react_deathpose_01.jba
@@ -4401,6 +4444,10 @@
 /resources/anim/humanoid/bmnnew/po_normal_to_step_back.jba
 /resources/anim/humanoid/bmnnew/po_normal_to_step_in.jba
 /resources/anim/humanoid/bmnnew/po_normal_to_talk_headset.jba
+/resources/anim/humanoid/bmnnew/po_normal_to_turn_180_ccw.jba
+/resources/anim/humanoid/bmnnew/po_normal_to_turn_180_cw.jba
+/resources/anim/humanoid/bmnnew/po_normal_to_turn_45_ccw.jba
+/resources/anim/humanoid/bmnnew/po_normal_to_turn_45_cw.jba
 /resources/anim/humanoid/bmnnew/po_normal_to_twist_behind.jba
 /resources/anim/humanoid/bmnnew/po_normal_to_twist_behind_left.jba
 /resources/anim/humanoid/bmnnew/po_normal_to_use_pda.jba
@@ -4656,6 +4703,12 @@
 /resources/anim/humanoid/bmnnew/po_talk_headset_righthand_01.jba
 /resources/anim/humanoid/bmnnew/po_talk_headset_righthand_02.jba
 /resources/anim/humanoid/bmnnew/po_talk_headset_to_normal.jba
+/resources/anim/humanoid/bmnnew/po_throne_jump_down.jba
+/resources/anim/humanoid/bmnnew/po_throne_jump_up.jba
+/resources/anim/humanoid/bmnnew/po_throne_normal_to_sit_back.jba
+/resources/anim/humanoid/bmnnew/po_throne_sit_back_2hands_01.jba
+/resources/anim/humanoid/bmnnew/po_throne_sit_back_2hands_02.jba
+/resources/anim/humanoid/bmnnew/po_throne_sit_back_head_nod_01.jba
 /resources/anim/humanoid/bmnnew/po_turn_180_ccw_to_normal.jba
 /resources/anim/humanoid/bmnnew/po_turn_180_cw_to_normal.jba
 /resources/anim/humanoid/bmnnew/po_turn_45_ccw_to_normal.jba
@@ -4753,6 +4806,7 @@
 /resources/anim/humanoid/bmnnew/si_rifle_ground_cover_1.jba
 /resources/anim/humanoid/bmnnew/si_rifle_jump_down_1.jba
 /resources/anim/humanoid/bmnnew/si_rifle_ledge_up.jba
+/resources/anim/humanoid/bmnnew/si_rifle_rappel_down.jba
 /resources/anim/humanoid/bmnnew/si_rifle_rappel_down_2.jba
 /resources/anim/humanoid/bmnnew/si_rifle_roll_from_cover_left.jba
 /resources/anim/humanoid/bmnnew/si_rifle_roll_from_cover_right.jba
@@ -5122,6 +5176,7 @@
 /resources/anim/humanoid/bmsnew/am_2p_shady_deal_talk_1.jba
 /resources/anim/humanoid/bmsnew/am_2p_sit_table_1.jba
 /resources/anim/humanoid/bmsnew/am_2p_sit_table_2.jba
+/resources/anim/humanoid/bmsnew/am_arms_crossed_walk_01.jba
 /resources/anim/humanoid/bmsnew/am_arms_crossed_walk_02.jba
 /resources/anim/humanoid/bmsnew/am_env_idle_hot_02.jba
 /resources/anim/humanoid/bmsnew/am_env_idle_hot_04.jba
@@ -5248,8 +5303,10 @@
 /resources/anim/humanoid/bmsnew/cb_bfg_fire_2.jba
 /resources/anim/humanoid/bmsnew/cb_bfg_fire_big_1.jba
 /resources/anim/humanoid/bmsnew/cb_bfg_fire_big_2.jba
+/resources/anim/humanoid/bmsnew/cb_bfg_fire_special_1.jba
 /resources/anim/humanoid/bmsnew/cb_bfg_fire_special_2.jba
 /resources/anim/humanoid/bmsnew/cb_bfg_fire_special_3.jba
+/resources/anim/humanoid/bmsnew/cb_bfg_fire_special_4.jba
 /resources/anim/humanoid/bmsnew/cb_bfg_fire_special_end_1.jba
 /resources/anim/humanoid/bmsnew/cb_bfg_fire_special_end_2.jba
 /resources/anim/humanoid/bmsnew/cb_bfg_fire_special_loop_1.jba
@@ -5850,6 +5907,9 @@
 /resources/anim/humanoid/bmsnew/cd_nudge_body_player_01_pistol.jba
 /resources/anim/humanoid/bmsnew/cd_revan_grab_mask.jba
 /resources/anim/humanoid/bmsnew/cd_saber_kill_exit.jba
+/resources/anim/humanoid/bmsnew/cd_seros_guard_idle_03.jba
+/resources/anim/humanoid/bmsnew/cd_seros_guard_idle_04.jba
+/resources/anim/humanoid/bmsnew/cd_seros_guard_idle_05.jba
 /resources/anim/humanoid/bmsnew/cd_vaverone_zare_deflect_01.jba
 /resources/anim/humanoid/bmsnew/cd_vaverone_zare_shoot_01.jba
 /resources/anim/humanoid/bmsnew/dg_2pistol_2h_damage_1.jba
@@ -6002,6 +6062,8 @@
 /resources/anim/humanoid/bmsnew/dl_bow_4.jba
 /resources/anim/humanoid/bmsnew/dl_brag_jedi_1.jba
 /resources/anim/humanoid/bmsnew/dl_brag_sith_1.jba
+/resources/anim/humanoid/bmsnew/dl_brutal_back_stomp_rifle_react_01.jba
+/resources/anim/humanoid/bmsnew/dl_brutal_hit_rifle_01.jba
 /resources/anim/humanoid/bmsnew/dl_bullhorn_righthand_1.jba
 /resources/anim/humanoid/bmsnew/dl_casual_stretch_2.jba
 /resources/anim/humanoid/bmsnew/dl_casual_wave.jba
@@ -6167,9 +6229,11 @@
 /resources/anim/humanoid/bmsnew/em_cough_1.jba
 /resources/anim/humanoid/bmsnew/em_cough_2.jba
 /resources/anim/humanoid/bmsnew/em_cry_1.jba
+/resources/anim/humanoid/bmsnew/em_double_guns_01.jba
 /resources/anim/humanoid/bmsnew/em_drink.jba
 /resources/anim/humanoid/bmsnew/em_drink_canteen_1.jba
 /resources/anim/humanoid/bmsnew/em_eat.jba
+/resources/anim/humanoid/bmsnew/em_fist_bump_01.jba
 /resources/anim/humanoid/bmsnew/em_fist_pump_1.jba
 /resources/anim/humanoid/bmsnew/em_fist_pump_2.jba
 /resources/anim/humanoid/bmsnew/em_fist_pump_3.jba
@@ -6320,6 +6384,7 @@
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000041.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000050.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000051.mph
+/resources/anim/humanoid/bmsnew/humanoid_action_autogen000053.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000057.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000059.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000060.mph
@@ -6330,6 +6395,7 @@
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000070.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000071.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000072.mph
+/resources/anim/humanoid/bmsnew/humanoid_action_autogen000073.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000074.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000075.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000076.mph
@@ -6362,6 +6428,7 @@
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000115.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000116.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000117.mph
+/resources/anim/humanoid/bmsnew/humanoid_action_autogen000118.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000120.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000121.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_autogen000122.mph
@@ -6552,12 +6619,15 @@
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000081.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000082.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000083.mph
+/resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000084.mph
+/resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000085.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000091.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000099.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000101.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000102.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000103.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000104.mph
+/resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000106.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000107.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000108.mph
 /resources/anim/humanoid/bmsnew/humanoid_action_no_aim_autogen000111.mph
@@ -6589,13 +6659,17 @@
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_fix_kneel_low_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_fix_stand_high_idle_02.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_fix_stand_med_idle.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_injured_head_idle.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_injured_kneel_deathpose_04.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_injured_kneel_idle.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_injured_kneel2_deathpose_03.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_injured_kneel2_idle_01.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_injured_laying_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_injured_lean_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_injured_stand_deathpose_1.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_injured_stand_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_kneel_idle.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_kneel2_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_laying_deathpose_1.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_pistol_ready_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_pistol_threaten_idle.mph
@@ -6678,6 +6752,7 @@
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_normal.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_observe_up.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_point_forward.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_ponder.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_possessed.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_1hand_on_hip.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_2hands_on_hip_military.mph
@@ -6688,10 +6763,12 @@
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_arms_front.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_big.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_crazy_rant.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_forget_it.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_headset.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_laugh_01.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_left_hand.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_left_thumb.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_little_pumped.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_normal_01.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_normal_02.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_talk_normal_03.mph
@@ -6711,6 +6788,7 @@
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_cannon_idle_02.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_datapad.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_dual_pistols_idle.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_dual_pistols_threaten.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_guitar.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_holocom.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_journal.mph
@@ -6721,6 +6799,8 @@
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_pistol_cover_right.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_pistol_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_pistol_threaten.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_pole_saber_idle.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_pole_saber_train.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_rifle_alerted.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_rifle_alerted_headset.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_rifle_cover_crouch.mph
@@ -6733,6 +6813,7 @@
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_saber_idle_warrior.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_saber_threaten.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_saber_train_01.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_use_saber_train_02.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_idle_stand_view_map_talk.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_kneeling.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_knockeddown.mph
@@ -6747,6 +6828,9 @@
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_2p_sad_talk_1.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_2p_shady_deal_listen_1.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_2p_shady_deal_talk_1.mph
+/resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_2p_sit_table_1.mph
+/resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_2p_sit_table_2.mph
+/resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_arms_crossed_walk_01.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_arms_crossed_walk_02.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_cowering_cover_4.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_injured_laying_idle.mph
@@ -6759,11 +6843,14 @@
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_stand_lean_idle_01.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_stand_lean_type_01.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_stand_map.mph
+/resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_table_scene_01.mph
+/resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_table_scene_02.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_wander_back.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_wander_forward.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_wander_left.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_wander_right.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_am_weed_ground.mph
+/resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_as_hostage_sit_idle_1.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_as_pray_loop.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_as_sit_normal_loop.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_as_sit_normal_relax_loop_1.mph
@@ -6798,6 +6885,7 @@
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_po_injured_head_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_po_injured_kneel_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_po_injured_stand_deathpose_1.mph
+/resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_po_injured_stand_deathpose_2.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_po_kneel_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_po_laying_deathpose_1.mph
 /resources/anim/humanoid/bmsnew/humanoid_no_aim_loco_autogen_po_laying_deathpose_2.mph
@@ -7132,7 +7220,14 @@
 /resources/anim/humanoid/bmsnew/po_injured_kneel_to_normal.jba
 /resources/anim/humanoid/bmsnew/po_injured_kneel2_death_01.jba
 /resources/anim/humanoid/bmsnew/po_injured_kneel2_death_02.jba
+/resources/anim/humanoid/bmsnew/po_injured_kneel2_death_03.jba
+/resources/anim/humanoid/bmsnew/po_injured_kneel2_death_04.jba
+/resources/anim/humanoid/bmsnew/po_injured_kneel2_deathpose_01.jba
+/resources/anim/humanoid/bmsnew/po_injured_kneel2_deathpose_02.jba
+/resources/anim/humanoid/bmsnew/po_injured_kneel2_deathpose_03.jba
+/resources/anim/humanoid/bmsnew/po_injured_kneel2_deathpose_04.jba
 /resources/anim/humanoid/bmsnew/po_injured_kneel2_idle_01.jba
+/resources/anim/humanoid/bmsnew/po_injured_kneel2_idle_02.jba
 /resources/anim/humanoid/bmsnew/po_injured_kneel2_to_normal.jba
 /resources/anim/humanoid/bmsnew/po_injured_laying_idle.jba
 /resources/anim/humanoid/bmsnew/po_injured_laying_to_death.jba

@@ -1,4 +1,4 @@
-; 1490/2181 (68%)
+; 1510/2181 (69%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -1022,6 +1022,8 @@
 /resources/art/lights/sc_ambient_m02.tex
 /resources/art/lights/sc_ambient_m03.dds
 /resources/art/lights/sc_ambient_m03.tex
+/resources/art/lights/sc_ambient_m04.dds
+/resources/art/lights/sc_ambient_m04.tex
 /resources/art/lights/sc_ambient_m05.dds
 /resources/art/lights/sc_ambient_m05.tex
 /resources/art/lights/sc_ambient_m07.dds
@@ -1030,6 +1032,8 @@
 /resources/art/lights/sc_ambient_m08.tex
 /resources/art/lights/sc_bounce_m03.dds
 /resources/art/lights/sc_bounce_m03.tex
+/resources/art/lights/sc_bounce_m04.dds
+/resources/art/lights/sc_bounce_m04.tex
 /resources/art/lights/sc_bounce_m05.dds
 /resources/art/lights/sc_bounce_m05.tex
 /resources/art/lights/sc_bounce_m07.dds
@@ -1430,6 +1434,22 @@
 /resources/art/static/designblockout/droids/mouse_droid_a01_body.gr2
 /resources/art/static/designblockout/droids/mouse_droid_a01_eye.gr2
 /resources/art/static/designblockout/droids/mouse_droid_a01_wheels.gr2
+/resources/art/static/designblockout/droids/rak_arm_left_lower.gr2
+/resources/art/static/designblockout/droids/rak_arm_left_shoulder.gr2
+/resources/art/static/designblockout/droids/rak_arm_left_upper.gr2
+/resources/art/static/designblockout/droids/rak_arm_right_lower.gr2
+/resources/art/static/designblockout/droids/rak_arm_right_shoulder.gr2
+/resources/art/static/designblockout/droids/rak_arm_right_upper.gr2
+/resources/art/static/designblockout/droids/rak_foot_left.gr2
+/resources/art/static/designblockout/droids/rak_foot_right.gr2
+/resources/art/static/designblockout/droids/rak_head.gr2
+/resources/art/static/designblockout/droids/rak_leg_left_lower.gr2
+/resources/art/static/designblockout/droids/rak_leg_left_upper.gr2
+/resources/art/static/designblockout/droids/rak_leg_right_lower.gr2
+/resources/art/static/designblockout/droids/rak_leg_right_upper.gr2
+/resources/art/static/designblockout/droids/rak_pelvis.gr2
+/resources/art/static/designblockout/droids/rak_torso.gr2
+/resources/art/static/designblockout/droids/rak_waist.gr2
 /resources/art/static/designblockout/flashpoints/dbo_revan_chamber.gr2
 /resources/art/static/designblockout/imp_arc/dbo_all_arch_imp_space_door_med_busted.gr2
 /resources/art/static/designblockout/imp_arc/dbo_imp_arc_wire_hang_a_01.gr2
