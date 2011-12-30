@@ -1,4 +1,4 @@
-; 10291/52255 (19%)
+; 10295/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -1233,6 +1233,7 @@
 /resources/gfx/icons/armament3.dds
 /resources/gfx/icons/armor_generic.dds
 /resources/gfx/icons/armorhardeningpackage.dds
+/resources/gfx/icons/armormelt.dds
 /resources/gfx/icons/armoroverlay1.dds
 /resources/gfx/icons/armoroverlay2.dds
 /resources/gfx/icons/armorpiercingclip.dds
@@ -1383,6 +1384,7 @@
 /resources/gfx/icons/auraofinvincibility.dds
 /resources/gfx/icons/auraofleadership.dds
 /resources/gfx/icons/auraoflight.dds
+/resources/gfx/icons/auraofresistance.dds
 /resources/gfx/icons/auraofvalor.dds
 /resources/gfx/icons/avabushspice.dds
 /resources/gfx/icons/backlash.dds
@@ -9249,6 +9251,7 @@
 /resources/gfx/icons/nylitecloth.dds
 /resources/gfx/icons/obfuscate.dds
 /resources/gfx/icons/offense.dds
+/resources/gfx/icons/oilslick.dds
 /resources/gfx/icons/opportunisticstrike.dds
 /resources/gfx/icons/orangeadrenal.dds
 /resources/gfx/icons/orangelesserlightsabercrystal.dds
@@ -9840,6 +9843,7 @@
 /resources/gfx/icons/saber.sithlow03.a01_v01.dds
 /resources/gfx/icons/saber_jedihigh02_a01_v01.dds
 /resources/gfx/icons/saberstrike.dds
+/resources/gfx/icons/saberthrow.dds
 /resources/gfx/icons/sacrifice.dds
 /resources/gfx/icons/salvation.dds
 /resources/gfx/icons/sandwich.dds

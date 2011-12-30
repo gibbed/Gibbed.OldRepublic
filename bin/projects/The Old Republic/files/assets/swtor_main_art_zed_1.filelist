@@ -1,4 +1,4 @@
-; 294/421 (69%)
+; 297/421 (70%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/dynamic/age/index.xml
@@ -118,6 +118,9 @@
 /resources/art/environmentmaps/imp_transition_flashpoint/interior_ship.dds
 /resources/art/environmentmaps/imp_transition_flashpoint/interior_ship.tex
 /resources/art/environmentmaps/imp_transition_flashpoint/interior_ship.tiny.dds
+/resources/art/environmentmaps/rep_revan_arc_2_prison/imp_ship.dds
+/resources/art/environmentmaps/rep_revan_arc_2_prison/imp_ship.tex
+/resources/art/environmentmaps/rep_revan_arc_2_prison/imp_ship.tiny.dds
 /resources/art/environmentmaps/rep_transition_flashpoint/imperial_ship.dds
 /resources/art/environmentmaps/rep_transition_flashpoint/imperial_ship.tex
 /resources/art/environmentmaps/rep_transition_flashpoint/imperial_ship.tiny.dds

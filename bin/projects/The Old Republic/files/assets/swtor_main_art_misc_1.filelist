@@ -1,4 +1,4 @@
-; 1565/2182 (71%)
+; 1567/2182 (71%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -1090,6 +1090,8 @@
 /resources/art/lights/spc_exterior_lightramp_imp_foundry.dds
 /resources/art/lights/spc_exterior_lightramp_imp_foundry.tex
 /resources/art/lights/spc_exterior_lightramp_imp_foundry.tiny.dds
+/resources/art/lights/spc_exterior_lightramp_imp_revan.dds
+/resources/art/lights/spc_exterior_lightramp_imp_revan.tex
 /resources/art/lights/spc_vault_space_cin_imp.dds
 /resources/art/lights/spc_vault_space_cin_imp.tex
 /resources/art/lights/square_clouds.dds

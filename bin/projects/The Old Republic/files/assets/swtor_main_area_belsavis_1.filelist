@@ -1,4 +1,4 @@
-; 2603/2659 (97%)
+; 2604/2659 (97%)
 /resources/art/environmentmaps/bel_main/area.dds
 /resources/art/environmentmaps/bel_main/area.tex
 /resources/art/environmentmaps/bel_main/area.tiny.dds
@@ -73,6 +73,7 @@
 /resources/art/shaders/materials/bel_arch_rakata_statue_03.mat
 /resources/art/shaders/materials/bel_arch_rakata_teleporter.mat
 /resources/art/shaders/materials/bel_arch_rakata_terminals.mat
+/resources/art/shaders/materials/bel_arch_rakata_terminals_02.mat
 /resources/art/shaders/materials/bel_arch_rakata_tower_arm_base.mat
 /resources/art/shaders/materials/bel_arch_rakata_tower_arm_end.mat
 /resources/art/shaders/materials/bel_arch_rakata_tower_arm_key.mat

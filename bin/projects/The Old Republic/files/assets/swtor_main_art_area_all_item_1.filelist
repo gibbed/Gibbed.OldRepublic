@@ -1,4 +1,4 @@
-; 8712/8930 (97%)
+; 8717/8930 (97%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -486,6 +486,7 @@
 /resources/art/shaders/materials/all_item_medical_republic_operation_table_01.mat
 /resources/art/shaders/materials/all_item_medical_republic_wallmonitor_01.mat
 /resources/art/shaders/materials/all_item_medical_republic_wallmonitor_01_suv.mat
+/resources/art/shaders/materials/all_item_medical_republic_wallmonitor_01_suv_alert.mat
 /resources/art/shaders/materials/all_item_medical_republic_wallmonitor_01screen.mat
 /resources/art/shaders/materials/all_item_medical_wall_monitor02.mat
 /resources/art/shaders/materials/all_item_misc_backpack.mat
@@ -645,6 +646,7 @@
 /resources/art/shaders/materials/all_item_tech_console_large_front.mat
 /resources/art/shaders/materials/all_item_tech_console_large_screen.mat
 /resources/art/shaders/materials/all_item_tech_console_large_screen_suv.mat
+/resources/art/shaders/materials/all_item_tech_console_large_screen_suv_alert.mat
 /resources/art/shaders/materials/all_item_tech_controlpanels01.mat
 /resources/art/shaders/materials/all_item_tech_controlpanels01_damaged.mat
 /resources/art/shaders/materials/all_item_tech_core_drum.mat
@@ -5043,7 +5045,10 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_02.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_02_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_02_dmg.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_03.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_03_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_03_dmg.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_dmg.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_city_computer_works_dst.gr2

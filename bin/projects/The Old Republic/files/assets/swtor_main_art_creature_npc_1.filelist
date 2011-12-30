@@ -1,4 +1,4 @@
-; 893/1210 (73%)
+; 896/1210 (74%)
 /resources/art/dynamic/creature/model/dwarf_drall_a01.gr2
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.clo
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.gr2
@@ -551,9 +551,12 @@
 /resources/art/dynamic/npc/togruta/head/texture/___psd/eye_togruta_non_a01_c02_d.tiny.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v01_d.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v01_n.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v01_n.tex
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v01_s.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v02_d.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v02_d.tex
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v02_s.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v02_s.tex
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v03_d.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v03_s.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_d.dds
