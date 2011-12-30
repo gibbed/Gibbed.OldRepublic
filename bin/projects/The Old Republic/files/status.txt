@@ -1,4 +1,4 @@
-257586/364794 (70%)
+257587/364794 (70%)
 
          4/50 (8%) files\assets\swtor_main_area_epsilon_1.filelist
  10420/52255 (19%) files\assets\swtor_main_gfx_1.filelist
@@ -14,7 +14,7 @@
      293/439 (66%) files\assets\swtor_main_bnk_streamed_b_1.filelist
      275/412 (66%) files\assets\swtor_main_bnk_voc_1.filelist
      278/397 (70%) files\assets\swtor_main_bnk_streamed_a_1.filelist
-   6689/9320 (71%) files\assets\swtor_main_anim_creature_a_1.filelist
+   6690/9320 (71%) files\assets\swtor_main_anim_creature_a_1.filelist
    6536/9173 (71%) files\assets\swtor_main_anim_creature_b_1.filelist
      303/421 (71%) files\assets\swtor_main_art_zed_1.filelist
          5/7 (71%) files\assets\swtor_main_zed_1.filelist
