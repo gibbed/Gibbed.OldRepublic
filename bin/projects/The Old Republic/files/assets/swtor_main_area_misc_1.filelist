@@ -1,4 +1,4 @@
-; 4824/5536 (87%)
+; 4826/5536 (87%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -1792,6 +1792,7 @@
 /resources/art/static/area/spc_space/item/spc_item_ps_smug_chair_b_upgrade.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_smug_couch_a_upgrade.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_smug_couch_b_upgrade.gr2
+/resources/art/static/area/spc_space/item/spc_item_ps_smug_couch_d_upgrade.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_smug_holo_communicator.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_smug_table_a_upgrade.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_smug_table_b_upgrade.gr2
@@ -1800,6 +1801,7 @@
 /resources/art/static/area/spc_space/item/spc_item_ps_smuggler_cpt_locker03.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_smuggler_cpt_locker03_upgrade.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_trooper_chair_a_upgrade.gr2
+/resources/art/static/area/spc_space/item/spc_item_ps_trooper_couch_a.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_trooper_cpt_locker.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_trooper_cpt_locker_upgrade.gr2
 /resources/art/static/area/spc_space/item/spc_item_ps_trooper_cpt_locker03.gr2

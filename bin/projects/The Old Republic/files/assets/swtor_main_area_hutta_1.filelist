@@ -1,4 +1,4 @@
-; 1238/1268 (97%)
+; 1240/1268 (97%)
 /resources/art/environmentmaps/hut_main/default.dds
 /resources/art/environmentmaps/hut_main/default.tex
 /resources/art/environmentmaps/hut_main/default.tiny.dds
@@ -310,6 +310,8 @@
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_entrance_ramp.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_rancor.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_rancor_02.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_rancor_02_bridge_large.gr2
+/resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_rancor_02_bridge_small.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_throne.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_throne_lights.gr2
 /resources/art/static/area/hut_hutta/arch/hut_arch_und_huttpalace_rm_throne_raid_02.gr2

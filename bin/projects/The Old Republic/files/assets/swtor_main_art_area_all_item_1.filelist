@@ -1,4 +1,4 @@
-; 8717/8930 (97%)
+; 8741/8930 (97%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -1123,6 +1123,7 @@
 /resources/art/static/area/all_all/item/all_animal_pen_small_resize.gr2
 /resources/art/static/area/all_all/item/all_bone_human_whole_01.gr2
 /resources/art/static/area/all_all/item/all_bone_human_whole_02.gr2
+/resources/art/static/area/all_all/item/all_item_alderaan_crown.gr2
 /resources/art/static/area/all_all/item/all_item_astromech_serving_tray.gr2
 /resources/art/static/area/all_all/item/all_item_banner_alde.gr2
 /resources/art/static/area/all_all/item/all_item_banner_alde_hanging.gr2
@@ -1178,6 +1179,9 @@
 /resources/art/static/area/all_all/item/all_item_munitions_stockpile_01_pile.gr2
 /resources/art/static/area/all_all/item/all_item_munitions_stockpile_02.gr2
 /resources/art/static/area/all_all/item/all_item_munitions_stockpile_03.gr2
+/resources/art/static/area/all_all/item/all_item_munitions_stockpile_destroyed_01.gr2
+/resources/art/static/area/all_all/item/all_item_munitions_stockpile_destroyed_02.gr2
+/resources/art/static/area/all_all/item/all_item_munitions_stockpile_destroyed_03.gr2
 /resources/art/static/area/all_all/item/all_item_munitions_stockpile_rigging.gr2
 /resources/art/static/area/all_all/item/all_item_palace_statue_01.gr2
 /resources/art/static/area/all_all/item/all_item_palace_statue_01_dmg01.gr2
@@ -3433,6 +3437,7 @@
 /resources/art/static/area/all_all/item/imperial/all_item_imp_citadel_bench.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_computer_cubicle.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_computer_cubicle_blank.gr2
+/resources/art/static/area/all_all/item/imperial/all_item_imp_computer_cubicle_blank_a.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_computer_cubicle_blank_off.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_cooking_item_01.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_cooking_item_02.gr2
@@ -3460,6 +3465,8 @@
 /resources/art/static/area/all_all/item/imperial/all_item_imp_junk_02.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_junk_03.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_kolto_tank.gr2
+/resources/art/static/area/all_all/item/imperial/all_item_imp_kolto_tank_glass.gr2
+/resources/art/static/area/all_all/item/imperial/all_item_imp_kolto_tank_noglass.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_landing.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_landing_02.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_life_support_column.gr2
@@ -3546,6 +3553,8 @@
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand01.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand01_bottom.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand01_damaged.gr2
+/resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand01_damaged_top.gr2
+/resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand01_top.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02_bottom.gr2
 /resources/art/static/area/all_all/item/imperial/all_item_imp_turret_stand02_damaged.gr2
@@ -4367,6 +4376,7 @@
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_computer_01_damaged.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_computer_a.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wall_computer_dmg.gr2
+/resources/art/static/area/all_all/item/republic/all_item_rep_wall_computer_off.gr2
 /resources/art/static/area/all_all/item/republic/all_item_rep_wardrobe.gr2
 /resources/art/static/area/all_all/item/republic/texture/all_item_rep_ammo_box_d.dds
 /resources/art/static/area/all_all/item/republic/texture/all_item_rep_ammo_box_d.tex
@@ -5088,6 +5098,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_wall05.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_wall05_damaged.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_wall05_noscreen.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_wall05_noscreen_damaged.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_wall06.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_wall06_damaged.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_controlpanel_wall06_noscreen.gr2
@@ -5163,14 +5174,19 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_hoverdirectory.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_huge_generator.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_comp_terminal.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_imp_comp_terminal_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_comp_terminal_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_block_large.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_block_medium.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_block_small.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_large_back.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_large_controls.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_large_controls_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_large_controls_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_large_screen.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_large_screen_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_large_screen_dmg.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_large_screen_dst.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_console_large_screen_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_imp_wallcomputer.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_jukebox_imp.gr2
@@ -5179,6 +5195,8 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_jukebox_neu_on.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_library_panel.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_library_panel_02.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_library_panel_02_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_library_panel_02_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_library_panel_02_works.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_library_panel_02_works_a.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_library_panel_02_works_off.gr2
@@ -5342,6 +5360,7 @@
 /resources/art/static/area/all_all/item/tech/all_item_tech_und_monitor.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_und_monitor_blank.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_und_monitor_blank_a.gr2
+/resources/art/static/area/all_all/item/tech/all_item_tech_und_monitor_blank_dmg.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_und_monitor_blank_off.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_und_monitor_console.gr2
 /resources/art/static/area/all_all/item/tech/all_item_tech_upgrade_terminal.gr2
@@ -8553,8 +8572,13 @@
 /resources/art/static/item/furniture/item_furn_sword_rack_imperial.gr2
 /resources/art/static/item/furniture/item_furn_table_planning_imperial.gr2
 /resources/art/static/item/furniture/item_furn_terminal_desk_imperial.gr2
+/resources/art/static/item/furniture/item_furn_terminal_desk_imperial_a.gr2
+/resources/art/static/item/furniture/item_furn_terminal_desk_imperial_dmg.gr2
+/resources/art/static/item/furniture/item_furn_terminal_desk_imperial_dst.gr2
 /resources/art/static/item/furniture/item_furn_terminal_desk_imperial_off.gr2
 /resources/art/static/item/furniture/item_furn_terminal_wall_imperial.gr2
+/resources/art/static/item/furniture/item_furn_terminal_wall_imperial_a.gr2
+/resources/art/static/item/furniture/item_furn_terminal_wall_imperial_off.gr2
 /resources/art/static/item/furniture/item_furn_training_apparatus_imperial.gr2
 /resources/art/static/item/furniture/item_furn_training_dummy_imperial.gr2
 /resources/art/static/item/furniture/texture/item_furn_armoire_imperial_d.dds

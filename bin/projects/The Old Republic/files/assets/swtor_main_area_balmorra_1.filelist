@@ -1,4 +1,4 @@
-; 1483/1507 (98%)
+; 1486/1507 (98%)
 /resources/art/environmentmaps/bal_main/area.dds
 /resources/art/environmentmaps/bal_main/area.tex
 /resources/art/environmentmaps/bal_main/area.tiny.dds
@@ -450,9 +450,12 @@
 /resources/art/static/area/bal_balmorra/item/bal_item_ceiling_light_card_d.dds
 /resources/art/static/area/bal_balmorra/item/bal_item_ceiling_light_card_d.tex
 /resources/art/static/area/bal_balmorra/item/bal_item_ceiling_light_card_d.tiny.dds
+/resources/art/static/area/bal_balmorra/item/bal_item_colicoid_design_group_destroyed.gr2
+/resources/art/static/area/bal_balmorra/item/bal_item_colicoid_design_group_intact.gr2
 /resources/art/static/area/bal_balmorra/item/bal_item_colicoid_mound_group_left.gr2
 /resources/art/static/area/bal_balmorra/item/bal_item_colicoid_mound_group_right.gr2
 /resources/art/static/area/bal_balmorra/item/bal_item_factory_forcefield.gr2
+/resources/art/static/area/bal_balmorra/item/bal_item_factory_forcefield_red.gr2
 /resources/art/static/area/bal_balmorra/item/bal_item_hazard_vault_ceiling.gr2
 /resources/art/static/area/bal_balmorra/item/bal_item_okara_droid_crate.gr2
 /resources/art/static/area/bal_balmorra/item/bal_item_okara_droid_crate_open.gr2

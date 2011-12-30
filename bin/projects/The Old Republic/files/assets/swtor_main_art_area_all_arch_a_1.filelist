@@ -1,4 +1,4 @@
-; 3500/3574 (97%)
+; 3502/3574 (97%)
 /resources/art/shaders/materials/ald_arch_outpost_stairs.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
@@ -1586,6 +1586,7 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_fort_holoconsole_02.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_fort_holoconsole_02_a.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_fort_holoconsole_03.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_fort_holoconsole_off.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_fort_hugeroom.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_fort_hugeroom_02.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_fort_light_accent.gr2
@@ -1663,6 +1664,7 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_pillar_computer.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_pillar_computer_enterable.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_pillar_computer_top.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_pillar_computer_top_off.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_road_12m.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_road_12m_endcap.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_road_12m_nolights.gr2
