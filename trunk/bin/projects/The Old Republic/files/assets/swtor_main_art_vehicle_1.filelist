@@ -1,4 +1,4 @@
-; 1383/1548 (89%)
+; 1398/1548 (90%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_engine_jet_pulse.dds
@@ -835,12 +835,16 @@
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_05.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_wing.gr2
 /resources/art/static/vehicle/player_mount/mount_imp_model_a_scheme_01.gr2
+/resources/art/static/vehicle/player_mount/mount_imp_model_a_scheme_02.gr2
+/resources/art/static/vehicle/player_mount/mount_imp_model_a_scheme_03.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_01.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_b_scheme_03.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_ddx.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_e_scheme_01.gr2
 /resources/art/static/vehicle/player_mount/mount_neu_model_e_scheme_02.gr2
+/resources/art/static/vehicle/player_mount/mount_neu_model_e_scheme_03.gr2
+/resources/art/static/vehicle/player_mount/mount_neu_model_e_scheme_04.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_c_scheme_01.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_c_scheme_02.gr2
 /resources/art/static/vehicle/player_mount/mount_rep_model_c_scheme_03.gr2
@@ -1130,7 +1134,16 @@
 /resources/art/static/vehicle/player_mount/texture/veh_pl_mt_speeder_wasp_05_s.tiny.dds
 /resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_02_v01.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_02_v01_shell.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_02_v02.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_02_v02_shell.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_02_v03.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_02_v03_shell.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_02_v04.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_02_v04_shelll.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_03_v01.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_landspeeder_03_v02.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_anteater_01.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_anteater_02.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_anteater_03.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_anteater_04.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_greatwhite_a.gr2
@@ -1139,7 +1152,9 @@
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_hammerhead_a.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_hammerhead_b.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_hammerhead_c.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_wasp_02.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_wasp_03.gr2
+/resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_wasp_04.gr2
 /resources/art/static/vehicle/player_mount/veh_pl_mt_speeder_wasp_05.gr2
 /resources/art/static/vehicle/republic/dbo_swingwing_closed.gr2
 /resources/art/static/vehicle/republic/texture/veh_rep_capital_ship_detail01_d.dds

@@ -1,4 +1,4 @@
-; 6300/6335 (99%)
+; 6302/6335 (99%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
@@ -628,6 +628,7 @@
 /resources/art/static/area/all_all/arch/all_arch_techcave_entrance_02_top.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_entrance_beam.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_entrance_door.gr2
+/resources/art/static/area/all_all/arch/all_arch_techcave_entrance_door_broken01.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_entrance_frame.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_entrance_frame_collision.gr2
 /resources/art/static/area/all_all/arch/all_arch_techcave_entrance_left_interior.gr2
@@ -797,6 +798,7 @@
 /resources/art/static/area/all_all/arch/all_arch_underground_ruins_walldeco_med02.gr2
 /resources/art/static/area/all_all/arch/all_arch_underground_ruins_walldeco_xlarge.gr2
 /resources/art/static/area/all_all/arch/all_arch_vendor_armor.gr2
+/resources/art/static/area/all_all/arch/all_arch_vendor_armor_crate_arrangement.gr2
 /resources/art/static/area/all_all/arch/all_arch_vendor_armor_flag.gr2
 /resources/art/static/area/all_all/arch/all_arch_vendor_armor_no_flag.gr2
 /resources/art/static/area/all_all/arch/all_arch_vendor_bank.gr2

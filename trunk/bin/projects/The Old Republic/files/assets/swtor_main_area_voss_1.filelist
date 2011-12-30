@@ -1,4 +1,4 @@
-; 3055/3358 (90%)
+; 3057/3358 (91%)
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tiny.dds
@@ -2022,12 +2022,14 @@
 /resources/art/static/area/vos_voss/item/texture/voss_item_voss_table_s.tex
 /resources/art/static/area/vos_voss/item/texture/voss_item_voss_table_s.tiny.dds
 /resources/art/static/area/vos_voss/item/vos_item_bone_pendant.gr2
+/resources/art/static/area/vos_voss/item/vos_item_dirtmound.gr2
 /resources/art/static/area/vos_voss/item/vos_item_furn_temple_bench_interior.gr2
 /resources/art/static/area/vos_voss/item/vos_item_gormak_ceiling_tech.gr2
 /resources/art/static/area/vos_voss/item/vos_item_gormak_control_panel.gr2
 /resources/art/static/area/vos_voss/item/vos_item_gormak_floor_access_decal.gr2
 /resources/art/static/area/vos_voss/item/vos_item_gormak_floor_junk.gr2
 /resources/art/static/area/vos_voss/item/vos_item_gormak_floor_panel.gr2
+/resources/art/static/area/vos_voss/item/vos_item_gormak_head.gr2
 /resources/art/static/area/vos_voss/item/vos_item_imp_citadel_bench.gr2
 /resources/art/static/area/vos_voss/item/vos_item_ruins_tablet.gr2
 /resources/art/static/area/vos_voss/item/vos_item_ruins_tablet_broken_01.gr2

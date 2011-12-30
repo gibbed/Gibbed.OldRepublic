@@ -1,4 +1,4 @@
-; 2551/2575 (99%)
+; 2553/2575 (99%)
 /resources/art/environmentmaps/ald_main/area.dds
 /resources/art/environmentmaps/ald_main/area.tex
 /resources/art/environmentmaps/ald_main/area.tiny.dds
@@ -956,6 +956,8 @@
 /resources/art/static/area/ald_alderaan/env/texture/ter_ald_snow_highfreq01_alpha_n.tiny.dds
 /resources/art/static/area/ald_alderaan/item/ald_item_statue01.gr2
 /resources/art/static/area/ald_alderaan/item/ald_item_statue02.gr2
+/resources/art/static/area/ald_alderaan/item/ald_item_weather_tower_reactor_destroyed.gr2
+/resources/art/static/area/ald_alderaan/item/ald_item_weather_tower_reactor_intact.gr2
 /resources/art/static/area/ald_alderaan/item/texture/ald_item_statues01_d.dds
 /resources/art/static/area/ald_alderaan/item/texture/ald_item_statues01_d.tex
 /resources/art/static/area/ald_alderaan/item/texture/ald_item_statues01_d.tiny.dds
