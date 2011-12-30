@@ -1,4 +1,4 @@
-; 6689/9320 (71%)
+; 6690/9320 (71%)
 /resources/anim/creature/acklay/ad_blank.jba
 /resources/anim/creature/acklay/ad_body_pitch.jba
 /resources/anim/creature/acklay/ad_body_yaw.jba
@@ -610,6 +610,7 @@
 /resources/anim/creature/colicoiddroid/cb_sp_attack_2.jba
 /resources/anim/creature/colicoiddroid/cb_spawn.jba
 /resources/anim/creature/colicoiddroid/cb_spawn_2.jba
+/resources/anim/creature/colicoiddroid/colicoid_shutdown_loop.jba
 /resources/anim/creature/colicoiddroid/creature_action_common.mph
 /resources/anim/creature/colicoiddroid/creature_action_conversation.mph
 /resources/anim/creature/colicoiddroid/creature_loco.mph
