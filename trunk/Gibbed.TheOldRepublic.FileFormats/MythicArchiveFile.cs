@@ -27,7 +27,7 @@ using Gibbed.IO;
 
 namespace Gibbed.TheOldRepublic.FileFormats
 {
-    public class ArchiveFile
+    public class MythicArchiveFile
     {
         public Endian Endian;
         public uint Version;
@@ -35,7 +35,8 @@ namespace Gibbed.TheOldRepublic.FileFormats
         public uint Unknown18;
         public uint WriteSequence;
         public uint ConfirmSequence;
-        public List<Archive.Entry> Entries = new List<Archive.Entry>();
+        public List<Archive.Entry> Entries
+            = new List<Archive.Entry>();
 
         public void Serialize(Stream output)
         {

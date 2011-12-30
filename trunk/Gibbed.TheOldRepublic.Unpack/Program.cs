@@ -114,7 +114,7 @@ namespace Gibbed.TheOldRepublic.Unpack
             }
             var hashes = manager.LoadListsFileNames();
 
-            var archive = new ArchiveFile();
+            var archive = new MythicArchiveFile();
             using (var input = File.OpenRead(inputPath))
             {
                 archive.Deserialize(input);

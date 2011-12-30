@@ -20,10 +20,8 @@
  *    distribution.
  */
 
-using System;
 using System.Collections.Generic;
 using System.Text;
-using Gibbed.IO;
 
 namespace Gibbed.TheOldRepublic.FileFormats
 {
@@ -111,6 +109,15 @@ namespace Gibbed.TheOldRepublic.FileFormats
                 guess[3] == 'B')
             {
                 return new KeyValuePair<string, string>("granny", "gr2");
+            }
+            else if (
+                read >= 4 &&
+                guess[0] == 'B' &&
+                guess[1] == 'K' &&
+                guess[2] == 'H' &&
+                guess[3] == 'D')
+            {
+                return new KeyValuePair<string, string>("sounds", "bnk");
             }
             else if (
                 read >= 5 &&
