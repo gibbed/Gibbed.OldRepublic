@@ -1,4 +1,4 @@
-; 723/738 (97%)
+; 729/738 (98%)
 /resources/art/environmentmaps/que_main/area.dds
 /resources/art/environmentmaps/que_main/area.tex
 /resources/art/environmentmaps/que_main/area.tiny.dds
@@ -329,13 +329,17 @@
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_03.gr2
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_03_d.dds
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_03_d.tex
+/resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_03_d.tiny.dds
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_03_n.dds
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_03_n.tex
+/resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_03_n.tiny.dds
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_04.gr2
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_04_d.dds
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_04_d.tex
+/resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_04_d.tiny.dds
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_04_n.dds
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_04_n.tex
+/resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_04_n.tiny.dds
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_05.gr2
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_dyd.gr2
 /resources/art/static/area/que_quesh/speedtree/que_junglebrush/que_junglebrush_dyd_01.gr2
@@ -355,8 +359,10 @@
 /resources/art/static/area/que_quesh/speedtree/que_tree_03.spt
 /resources/art/static/area/que_quesh/speedtree/que_tree_bark01a_d.dds
 /resources/art/static/area/que_quesh/speedtree/que_tree_bark01a_d.tex
+/resources/art/static/area/que_quesh/speedtree/que_tree_bark01a_d.tiny.dds
 /resources/art/static/area/que_quesh/speedtree/que_tree_bark01a_n.dds
 /resources/art/static/area/que_quesh/speedtree/que_tree_bark01a_n.tex
+/resources/art/static/area/que_quesh/speedtree/que_tree_bark01a_n.tiny.dds
 /resources/art/static/area/que_quesh/speedtree/que_tree_diffuse.dds
 /resources/art/static/area/que_quesh/speedtree/que_tree_diffuse.tex
 /resources/art/static/area/que_quesh/speedtree/que_tree_diffuse_billboards.dds

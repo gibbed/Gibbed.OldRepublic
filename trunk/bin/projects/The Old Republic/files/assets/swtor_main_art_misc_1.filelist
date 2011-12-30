@@ -1,4 +1,4 @@
-; 1567/2182 (71%)
+; 1579/2182 (72%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -42,6 +42,7 @@
 /resources/art/defaultassets/blob.tex
 /resources/art/defaultassets/blue.dds
 /resources/art/defaultassets/blue.tex
+/resources/art/defaultassets/blue.tiny.dds
 /resources/art/defaultassets/coverpoint_auto.dds
 /resources/art/defaultassets/coverpoint_auto.tex
 /resources/art/defaultassets/coverpoint_exclusion.dds
@@ -58,6 +59,7 @@
 /resources/art/defaultassets/flat_r.tex
 /resources/art/defaultassets/gold.dds
 /resources/art/defaultassets/gold.tex
+/resources/art/defaultassets/gold.tiny.dds
 /resources/art/defaultassets/gray.dds
 /resources/art/defaultassets/gray.tex
 /resources/art/defaultassets/gray_02_n.dds
@@ -80,12 +82,15 @@
 /resources/art/defaultassets/gray10.tex
 /resources/art/defaultassets/gray20.dds
 /resources/art/defaultassets/gray20.tex
+/resources/art/defaultassets/gray20.tiny.dds
 /resources/art/defaultassets/gray30.dds
 /resources/art/defaultassets/gray30.tex
 /resources/art/defaultassets/gray40.dds
 /resources/art/defaultassets/gray40.tex
+/resources/art/defaultassets/gray40.tiny.dds
 /resources/art/defaultassets/green.dds
 /resources/art/defaultassets/green.tex
+/resources/art/defaultassets/green.tiny.dds
 /resources/art/defaultassets/green_02_n.dds
 /resources/art/defaultassets/green_02_n.tex
 /resources/art/defaultassets/light_box.dds
@@ -96,10 +101,13 @@
 /resources/art/defaultassets/ltblue.tex
 /resources/art/defaultassets/ltgreen.dds
 /resources/art/defaultassets/ltgreen.tex
+/resources/art/defaultassets/ltgreen.tiny.dds
 /resources/art/defaultassets/ltpurp.dds
 /resources/art/defaultassets/ltpurp.tex
+/resources/art/defaultassets/ltpurp.tiny.dds
 /resources/art/defaultassets/ltred.dds
 /resources/art/defaultassets/ltred.tex
+/resources/art/defaultassets/ltred.tiny.dds
 /resources/art/defaultassets/mini_map_city_worlds.dds
 /resources/art/defaultassets/mini_map_city_worlds.tex
 /resources/art/defaultassets/mini_map_override.dds
@@ -138,6 +146,7 @@
 /resources/art/defaultassets/occluder_02_n.tex
 /resources/art/defaultassets/red.dds
 /resources/art/defaultassets/red.tex
+/resources/art/defaultassets/red.tiny.dds
 /resources/art/defaultassets/scan_pattern.dds
 /resources/art/defaultassets/scan_pattern.tex
 /resources/art/defaultassets/table_hair_01.dds
@@ -1298,6 +1307,7 @@
 /resources/art/shaders/materials/__white.mat
 /resources/art/shaders/materials/clouds_dromund.mat
 /resources/art/shaders/materials/dbo_universal_superexclusion_test.mat
+/resources/art/shaders/materials/designblockout_imperial_body.mat
 /resources/art/shaders/materials/designblockout_republic_body.mat
 /resources/art/shaders/materials/kor_acad_standard_wall.mat
 /resources/art/shaders/materials/missing_granny.mat
@@ -1317,6 +1327,7 @@
 /resources/art/shaders/materials/planets_tython.mat
 /resources/art/shaders/materials/spawner_gold.mat
 /resources/art/shaders/materials/spawner_ltgreen.mat
+/resources/art/shaders/materials/spawner_ltred.mat
 /resources/art/shaders/materials/spawner_red.mat
 /resources/art/shaders/materials/standard_1.mat
 /resources/art/shaders/materials/util_black.mat
@@ -1325,6 +1336,7 @@
 /resources/art/shaders/materials/util_ltpurple.mat
 /resources/art/shaders/materials/util_red.mat
 /resources/art/shaders/materials/util_red_hidden.mat
+/resources/art/shaders/materials/util_white.mat
 /resources/art/shaders/materials/util_yellow_hidden.mat
 /resources/art/shaders/materials/white_utility_hidden.mat
 /resources/art/static/area/all_all/arch/texture/all_arch_pal_house_trim_s.dds

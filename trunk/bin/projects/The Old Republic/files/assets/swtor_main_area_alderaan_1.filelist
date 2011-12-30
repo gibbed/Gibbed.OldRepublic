@@ -1,4 +1,4 @@
-; 2553/2575 (99%)
+; 2558/2575 (99%)
 /resources/art/environmentmaps/ald_main/area.dds
 /resources/art/environmentmaps/ald_main/area.tex
 /resources/art/environmentmaps/ald_main/area.tiny.dds
@@ -14,6 +14,7 @@
 /resources/art/lights/hut_interior_lit_ramp.dds
 /resources/art/lights/hut_interior_lit_ramp.tex
 /resources/art/lights/hut_interior_lit_ramp.tiny.dds
+/resources/art/shaders/materials/a_green_test.mat
 /resources/art/shaders/materials/ald_arch_battleground_cannon_body.mat
 /resources/art/shaders/materials/ald_arch_battleground_cannon_stand.mat
 /resources/art/shaders/materials/ald_arch_battleground_platform_details.mat
@@ -29,6 +30,7 @@
 /resources/art/shaders/materials/ald_arch_outpost_wallset02.mat
 /resources/art/shaders/materials/ald_arch_pal_house_stonefloor2.mat
 /resources/art/shaders/materials/ald_arch_rep_road.mat
+/resources/art/shaders/materials/ald_arch_ruins_bench.mat
 /resources/art/shaders/materials/ald_arch_ruins_floortile.mat
 /resources/art/shaders/materials/ald_arch_ruins_floortile_broken.mat
 /resources/art/shaders/materials/ald_arch_ruins_floortile_decorative.mat
@@ -1245,6 +1247,7 @@
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_rock02_s.dds
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_rock02_s.tex
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_rock02_s.tiny.dds
+/resources/art/static/area/ald_alderaan/terrain_map/ter_ald_rock03_alpha_d.dds
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_rock03_alpha_d.tex
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_rock03_alpha_d.tiny.dds
 /resources/art/static/area/ald_alderaan/terrain_map/ter_ald_rock03_d.dds
@@ -1690,8 +1693,10 @@
 /resources/art/static/area/tyt_tython/speedtree/texture/tyt_dead_twisted_tree_s.tiny.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_trunk.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_trunk.tex
+/resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_trunk.tiny.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_trunk_n.dds
 /resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_trunk_n.tex
+/resources/art/static/area/tyt_tython/speedtree/tyt_speedtree_trunk_n.tiny.dds
 /resources/world/areas/4611686023868513034/map_alderaan_main_r.dds
 /resources/world/areas/4611686023868513034/map_h1_counselor_r.dds
 /resources/world/areas/4611686023868513034/map_h1_organa_knight_r.dds

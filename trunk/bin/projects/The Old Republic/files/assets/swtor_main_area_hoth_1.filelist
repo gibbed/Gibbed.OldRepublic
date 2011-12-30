@@ -1,10 +1,13 @@
-; 4590/4697 (97%)
+; 4630/4697 (98%)
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tex
+/resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tiny.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_n.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_n.tex
+/resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_n.tiny.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_s.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_s.tex
+/resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_s.tiny.dds
 /resources/art/shaders/materials/ald_env_boulder_med01_snow.mat
 /resources/art/shaders/materials/all_arch_hoth_wrecked_ship_door.mat
 /resources/art/shaders/materials/all_arch_hoth_wrecked_ship_ent_floor.mat
@@ -77,7 +80,10 @@
 /resources/art/shaders/materials/hth_arch_lightning_spire_conduit.mat
 /resources/art/shaders/materials/hth_arch_med_facility_imperial.mat
 /resources/art/shaders/materials/hth_arch_med_facility_imperial_glass.mat
+/resources/art/shaders/materials/hth_arch_metal_shoring.mat
 /resources/art/shaders/materials/hth_arch_neu_farm_silo.mat
+/resources/art/shaders/materials/hth_arch_rep_atv_body_01.mat
+/resources/art/shaders/materials/hth_arch_rep_atv_body_01_metal.mat
 /resources/art/shaders/materials/hth_arch_rep_generator_metal.mat
 /resources/art/shaders/materials/hth_arch_rep_generator_tech.mat
 /resources/art/shaders/materials/hth_arch_rep_generator_vent.mat
@@ -101,6 +107,8 @@
 /resources/art/shaders/materials/hth_arch_rep_space_hall_glow01.mat
 /resources/art/shaders/materials/hth_arch_rep_space_hallsm_floor01.mat
 /resources/art/shaders/materials/hth_arch_rep_space_room_bridge_floor02.mat
+/resources/art/shaders/materials/hth_arch_rep_wallset_01.mat
+/resources/art/shaders/materials/hth_arch_rep_wallset_02.mat
 /resources/art/shaders/materials/hth_arch_ruins_meditation_circle_ruined.mat
 /resources/art/shaders/materials/hth_arch_ship_medium_damaged_engine.mat
 /resources/art/shaders/materials/hth_arch_ship_medium_damaged_hole.mat
@@ -235,6 +243,9 @@
 /resources/art/shaders/materials/hth_item_holo_communicator.mat
 /resources/art/shaders/materials/hth_item_imp_banner_stand.mat
 /resources/art/shaders/materials/hth_item_imp_cooking_items.mat
+/resources/art/shaders/materials/hth_item_imp_floodlight_large_base.mat
+/resources/art/shaders/materials/hth_item_imp_floodlight_large_light_off.mat
+/resources/art/shaders/materials/hth_item_imp_floodlight_large_panel.mat
 /resources/art/shaders/materials/hth_item_imp_fort_pipes.mat
 /resources/art/shaders/materials/hth_item_imp_prototype_turret.mat
 /resources/art/shaders/materials/hth_item_imp_prototype_turret_damaged.mat
@@ -314,6 +325,8 @@
 /resources/art/shaders/materials/hth_veh_neu_speeder_02.mat
 /resources/art/shaders/materials/hth_veh_neu_speeder_03.mat
 /resources/art/shaders/materials/hth_veh_neu_speeder_van.mat
+/resources/art/shaders/materials/hth_veh_nue_starship_ricker_body.mat
+/resources/art/shaders/materials/hth_veh_nue_starship_ricker_wings.mat
 /resources/art/shaders/materials/ter_hth_cliff_cliffbase.mat
 /resources/art/shaders/materials/ter_hth_cliff_cliffbase_90.mat
 /resources/art/shaders/materials/ter_hth_ice_floor.mat
@@ -1290,6 +1303,15 @@
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_med_facility_imperial_s.dds
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_med_facility_imperial_s.tex
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_med_facility_imperial_s.tiny.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_metal_shoring_d.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_metal_shoring_d.tex
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_metal_shoring_d.tiny.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_metal_shoring_n.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_metal_shoring_n.tex
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_metal_shoring_n.tiny.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_metal_shoring_s.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_metal_shoring_s.tex
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_metal_shoring_s.tiny.dds
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_neu_farm_silo_d.dds
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_neu_farm_silo_d.tex
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_neu_farm_silo_d.tiny.dds
@@ -1512,6 +1534,24 @@
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_space_room_bridge_floor02_s.dds
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_space_room_bridge_floor02_s.tex
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_space_room_bridge_floor02_s.tiny.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_01_d.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_01_d.tex
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_01_d.tiny.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_01_n.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_01_n.tex
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_01_n.tiny.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_01_s.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_01_s.tex
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_01_s.tiny.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_02_d.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_02_d.tex
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_02_d.tiny.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_02_n.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_02_n.tex
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_02_n.tiny.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_02_s.dds
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_02_s.tex
+/resources/art/static/area/hth_hoth/arch/texture/hth_arch_rep_wallset_02_s.tiny.dds
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_ruins_meditation_circle_ruined_d.dds
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_ruins_meditation_circle_ruined_d.tex
 /resources/art/static/area/hth_hoth/arch/texture/hth_arch_ruins_meditation_circle_ruined_d.tiny.dds

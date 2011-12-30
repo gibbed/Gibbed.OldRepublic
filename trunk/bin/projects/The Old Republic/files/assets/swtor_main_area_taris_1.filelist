@@ -1,4 +1,4 @@
-; 1770/1793 (98%)
+; 1773/1793 (98%)
 /resources/art/environmentmaps/tar_main/chem_factory.dds
 /resources/art/environmentmaps/tar_main/chem_factory.tex
 /resources/art/environmentmaps/tar_main/chem_factory.tiny.dds
@@ -87,7 +87,10 @@
 /resources/art/shaders/materials/tar_item_toxic_waste_plane.mat
 /resources/art/shaders/materials/tar_item_toxic_waste_plane_blue_01.mat
 /resources/art/shaders/materials/tar_junglebrush_01.mat
+/resources/art/shaders/materials/tar_skyscene_buildings.mat
+/resources/art/shaders/materials/tar_skyscene_buildings_tiles.mat
 /resources/art/shaders/materials/tar02_skyscene_buildings_tiles.mat
+/resources/art/shaders/materials/tar2_env_interior_trans_dark.mat
 /resources/art/shaders/materials/tar2_skyscene_cards_01.mat
 /resources/art/shaders/materials/ter_tar_debris01.mat
 /resources/art/shaders/materials/ter_tar_debris02.mat

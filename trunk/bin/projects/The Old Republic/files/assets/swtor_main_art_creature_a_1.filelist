@@ -1,10 +1,13 @@
-; 2076/2112 (98%)
+; 2091/2112 (99%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
+/resources/art/defaultassets/blackfullalpha.tiny.dds
 /resources/art/defaultassets/default_age.dds
 /resources/art/defaultassets/default_age.tex
+/resources/art/defaultassets/default_age.tiny.dds
 /resources/art/defaultassets/default_facepaint.dds
 /resources/art/defaultassets/default_facepaint.tex
+/resources/art/defaultassets/default_facepaint.tiny.dds
 /resources/art/dynamic/creature/acklay/texture/___psd/acklay_acklay_a02_v01_d.dds
 /resources/art/dynamic/creature/acklay/texture/___psd/acklay_acklay_a02_v01_d.tex
 /resources/art/dynamic/creature/acklay/texture/___psd/acklay_acklay_a02_v01_d.tiny.dds
@@ -1642,6 +1645,9 @@
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a04_v01_s.dds
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a04_v01_s.tex
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a04_v01_s.tiny.dds
+/resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a04_v0101_n.dds
+/resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a04_v0101_n.tex
+/resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a04_v0101_n.tiny.dds
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a04_v02_d.dds
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a04_v02_d.tex
 /resources/art/dynamic/npc/fleshraider/textures/___psd/bmf_fleshraider_a04_v02_d.tiny.dds
@@ -1810,6 +1816,15 @@
 /resources/art/dynamic/npc/rakghoul_boss/texture/___psd/bms_rakghoul_boss03_v01_s.dds
 /resources/art/dynamic/npc/rakghoul_boss/texture/___psd/bms_rakghoul_boss03_v01_s.tex
 /resources/art/dynamic/npc/rakghoul_boss/texture/___psd/bms_rakghoul_boss03_v01_s.tiny.dds
+/resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_d.dds
+/resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_d.tex
+/resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_d.tiny.dds
+/resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_m.dds
+/resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_m.tex
+/resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_m.tiny.dds
+/resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_n.dds
+/resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_n.tex
+/resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_n.tiny.dds
 /resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_s.dds
 /resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_s.tex
 /resources/art/dynamic/npc/selonian/texture/___psd/geonosian_selonian_a01_v01_s.tiny.dds

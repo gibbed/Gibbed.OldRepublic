@@ -1,4 +1,4 @@
-; 1486/1507 (98%)
+; 1490/1507 (98%)
 /resources/art/environmentmaps/bal_main/area.dds
 /resources/art/environmentmaps/bal_main/area.tex
 /resources/art/environmentmaps/bal_main/area.tiny.dds
@@ -66,6 +66,7 @@
 /resources/art/shaders/materials/bal_item_baf_painted_sign.mat
 /resources/art/shaders/materials/bal_item_baf_sign.mat
 /resources/art/shaders/materials/bal_item_factory_forcefield.mat
+/resources/art/shaders/materials/bal_item_factory_forcefield_red.mat
 /resources/art/shaders/materials/bal_item_okara_droid_crate.mat
 /resources/art/shaders/materials/bal_item_okara_logos.mat
 /resources/art/shaders/materials/bal_item_pipe_console.mat
@@ -569,13 +570,16 @@
 /resources/art/static/area/bal_balmorra/speedtree/shrubs/bal_speedtree_shrubs_dead_01.gr2
 /resources/art/static/area/bal_balmorra/speedtree/shrubs/texture/bal_speedtree_shrubs_dead_01_d.dds
 /resources/art/static/area/bal_balmorra/speedtree/shrubs/texture/bal_speedtree_shrubs_dead_01_d.tex
+/resources/art/static/area/bal_balmorra/speedtree/shrubs/texture/bal_speedtree_shrubs_dead_01_d.tiny.dds
 /resources/art/static/area/bal_balmorra/speedtree/shrubs/texture/bal_speedtree_shrubs_dead_01_n.dds
 /resources/art/static/area/bal_balmorra/speedtree/shrubs/texture/bal_speedtree_shrubs_dead_01_n.tex
 /resources/art/static/area/bal_balmorra/speedtree/shrubs/texture/bal_speedtree_shrubs_dead_01_n.tiny.dds
 /resources/art/static/area/bal_balmorra/speedtree/tree_dead/bal_speedtree_dead_bark.dds
 /resources/art/static/area/bal_balmorra/speedtree/tree_dead/bal_speedtree_dead_bark.tex
+/resources/art/static/area/bal_balmorra/speedtree/tree_dead/bal_speedtree_dead_bark.tiny.dds
 /resources/art/static/area/bal_balmorra/speedtree/tree_dead/bal_speedtree_dead_bark_n.dds
 /resources/art/static/area/bal_balmorra/speedtree/tree_dead/bal_speedtree_dead_bark_n.tex
+/resources/art/static/area/bal_balmorra/speedtree/tree_dead/bal_speedtree_dead_bark_n.tiny.dds
 /resources/art/static/area/bal_balmorra/speedtree/tree_dead/bal_tree_dead_log.gr2
 /resources/art/static/area/bal_balmorra/speedtree/tree_dead/bal_tree_dead_new01.gr2
 /resources/art/static/area/bal_balmorra/speedtree/tree_dead/texture/bal_dead_bark01_d.dds

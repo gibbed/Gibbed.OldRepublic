@@ -1,6 +1,7 @@
-; 6302/6335 (99%)
+; 6330/6335 (99%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
+/resources/art/defaultassets/chartreuse.tiny.dds
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.dds
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.tex
 /resources/art/fx/texture/uv_atlas/all_arch_neu_droid_factory_stack_lights_k.tiny.dds
@@ -8,6 +9,7 @@
 /resources/art/shaders/materials/all_arch_city_facade.mat
 /resources/art/shaders/materials/all_arch_hut_small_mudseam.mat
 /resources/art/shaders/materials/all_arch_imp_city_block_bldg_roof_02.mat
+/resources/art/shaders/materials/all_arch_imp_fort_hallway_strips_emiss.mat
 /resources/art/shaders/materials/all_arch_metal_tech_hall_ceiling.mat
 /resources/art/shaders/materials/all_arch_metal_tech_hall_floor01.mat
 /resources/art/shaders/materials/all_arch_metal_tech_hall_wall.mat
@@ -61,9 +63,11 @@
 /resources/art/shaders/materials/all_arch_neu_industrial_bridge_lift_top_detroyed.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_detroyed_parts.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_tower_base.mat
+/resources/art/shaders/materials/all_arch_neu_industrial_tower_base_destroyed.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_tower_details.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_tower_metal.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_tower_metal_dark.mat
+/resources/art/shaders/materials/all_arch_neu_industrial_tower_metal_destroyed.mat
 /resources/art/shaders/materials/all_arch_neu_industrial_tower_trim.mat
 /resources/art/shaders/materials/all_arch_neu_land_speeder_crashed.mat
 /resources/art/shaders/materials/all_arch_neu_lighthouse.mat
@@ -173,6 +177,9 @@
 /resources/art/shaders/materials/all_arch_rep_fort_wall04.mat
 /resources/art/shaders/materials/all_arch_rep_generator_metal.mat
 /resources/art/shaders/materials/all_arch_rep_generator_vent.mat
+/resources/art/shaders/materials/all_arch_rep_holo_table_base.mat
+/resources/art/shaders/materials/all_arch_rep_holo_table_top.mat
+/resources/art/shaders/materials/all_arch_rep_holo_table_trim.mat
 /resources/art/shaders/materials/all_arch_rep_house_a_door.mat
 /resources/art/shaders/materials/all_arch_rep_house_a02.mat
 /resources/art/shaders/materials/all_arch_rep_house_a03.mat
@@ -234,6 +241,7 @@
 /resources/art/shaders/materials/all_arch_rep_space_room_bridge_wall01.mat
 /resources/art/shaders/materials/all_arch_rep_space_room_bridge_wall02.mat
 /resources/art/shaders/materials/all_arch_rep_stairs.mat
+/resources/art/shaders/materials/all_arch_rep_store_door.mat
 /resources/art/shaders/materials/all_arch_rep_store_metal.mat
 /resources/art/shaders/materials/all_arch_rep_store_prop02.mat
 /resources/art/shaders/materials/all_arch_rep_tent_large.mat
@@ -274,7 +282,10 @@
 /resources/art/shaders/materials/all_arch_ruins_large_statue.mat
 /resources/art/shaders/materials/all_arch_ruins_meditation_circle.mat
 /resources/art/shaders/materials/all_arch_ruins_meditation_circle_ruined.mat
+/resources/art/shaders/materials/all_arch_ruins_monster_closet_door.mat
 /resources/art/shaders/materials/all_arch_ruins_pillar_01.mat
+/resources/art/shaders/materials/all_arch_ruins_pillar_02.mat
+/resources/art/shaders/materials/all_arch_ruins_pillar_03.mat
 /resources/art/shaders/materials/all_arch_ruins_sith_temple_floor.mat
 /resources/art/shaders/materials/all_arch_ruins_sith_temple_rubble.mat
 /resources/art/shaders/materials/all_arch_ruins_sith_temple_stairs.mat
@@ -353,6 +364,7 @@
 /resources/art/shaders/materials/all_arch_techcave_path.mat
 /resources/art/shaders/materials/all_arch_techcave_rocktrim.mat
 /resources/art/shaders/materials/all_arch_techcave_wall.mat
+/resources/art/shaders/materials/all_arch_temple_plate.mat
 /resources/art/shaders/materials/all_arch_und_bridge_ramp.mat
 /resources/art/shaders/materials/all_arch_und_bridge_support.mat
 /resources/art/shaders/materials/all_arch_und_cantina_small_door.mat
@@ -455,6 +467,7 @@
 /resources/art/shaders/materials/all_sith_banner_stand_off.mat
 /resources/art/shaders/materials/all_sith_interior_set_door.mat
 /resources/art/shaders/materials/all_sithtomb_door_jam.mat
+/resources/art/shaders/materials/all_sithtomb_door_jam_white.mat
 /resources/art/shaders/materials/all_sithtomb_room_cap_open_sky.mat
 /resources/art/shaders/materials/all_sithtomb_room_dashade01.mat
 /resources/art/shaders/materials/all_sithtomb_room_dashade02.mat
@@ -467,9 +480,11 @@
 /resources/art/shaders/materials/all_wallset_imperial_containment_base.mat
 /resources/art/shaders/materials/all_wallset_imperial_containment_turret.mat
 /resources/art/shaders/materials/all_wallset_imperial_containment_wall_base.mat
+/resources/art/shaders/materials/arch_rep_temple_rotunda_holocron.mat
 /resources/art/shaders/materials/arch_rep_temple_rotunda_holocron_nocollision.mat
 /resources/art/shaders/materials/cor_arch_city_wallset_vista_01.mat
 /resources/art/shaders/materials/cor_arch_city_wallset_vista_02.mat
+/resources/art/shaders/materials/dro_arch_trimstonewall.mat
 /resources/art/shaders/materials/hut_arch_industrial_silvermetal.mat
 /resources/art/shaders/materials/kor_acad_ceiling_panel_stripes.mat
 /resources/art/shaders/materials/kor_acad_floor_main_room.mat
@@ -488,6 +503,7 @@
 /resources/art/shaders/materials/kor_tomb_stonewall03.mat
 /resources/art/shaders/materials/nar_arch_city_matte_ceiling.mat
 /resources/art/shaders/materials/occluder_terrain.mat
+/resources/art/shaders/materials/temp_metal.mat
 /resources/art/shaders/materials/ter_rep_metal_gray01.mat
 /resources/art/static/area/all_all/arch/a_all_wallset_imperial_containment_wall_16m.gr2
 /resources/art/static/area/all_all/arch/all_arch_metal_tech_hall_32m_01.gr2
@@ -3926,6 +3942,7 @@
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_cobweb_s.dds
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_cobweb_s.tex
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_cobweb_s.tiny.dds
+/resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_crystal_d.dds
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_crystal_d.tex
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_crystal_d.tiny.dds
 /resources/art/static/area/all_all/arch/ruins/texture/all_arch_underground_ruins_crystal_n.dds
@@ -5136,8 +5153,10 @@
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_d.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_d.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_d.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_n.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_n.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_n.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_s.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_s.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_pillar_top_s.tiny.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_underground_ruins_podium_d.dds
@@ -5398,6 +5417,15 @@
 /resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_s.dds
 /resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_s.tex
 /resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_s.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_white_d.dds
+/resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_white_d.tex
+/resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_white_d.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_white_n.dds
+/resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_white_n.tex
+/resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_white_n.tiny.dds
+/resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_white_s.dds
+/resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_white_s.tex
+/resources/art/static/area/all_all/arch/texture/all_sithtomb_door_jam_white_s.tiny.dds
 /resources/art/static/area/all_all/arch/texture/all_sithtomb_room_cap_open_sky_d.dds
 /resources/art/static/area/all_all/arch/texture/all_sithtomb_room_cap_open_sky_d.tex
 /resources/art/static/area/all_all/arch/texture/all_sithtomb_room_cap_open_sky_d.tiny.dds

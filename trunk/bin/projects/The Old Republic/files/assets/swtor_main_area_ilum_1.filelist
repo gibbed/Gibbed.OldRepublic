@@ -1,5 +1,12 @@
-; 403/563 (71%)
+; 422/563 (74%)
+/resources/art/shaders/materials/ilm_crystal_formation_purple.mat
+/resources/art/shaders/materials/ilm_env_ceilng_light.mat
+/resources/art/shaders/materials/ilm_env_crystal_formation_blue.mat
+/resources/art/shaders/materials/ilm_env_crystal_formation_green.mat
+/resources/art/shaders/materials/ilm_env_forcecrystals_blue.mat
+/resources/art/shaders/materials/ilm_env_forcecrystals_green.mat
 /resources/art/shaders/materials/ilm_env_forcecrystals_purple.mat
+/resources/art/shaders/materials/ilm_skyscene_tiles.mat
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.tiny.dds
@@ -65,6 +72,12 @@
 /resources/art/static/area/ilm_ilum/env/texture/ilm_crystal_formation_purple_d.dds
 /resources/art/static/area/ilm_ilum/env/texture/ilm_crystal_formation_purple_d.tex
 /resources/art/static/area/ilm_ilum/env/texture/ilm_crystal_formation_purple_d.tiny.dds
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_ceilng_light_d.dds
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_ceilng_light_d.tex
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_ceilng_light_d.tiny.dds
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_ceilng_light_n.dds
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_ceilng_light_n.tex
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_ceilng_light_n.tiny.dds
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_01_n.dds
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_01_n.tex
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_01_n.tiny.dds
@@ -74,6 +87,12 @@
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_blue_d.dds
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_blue_d.tex
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_blue_d.tiny.dds
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_blue_n.dds
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_blue_n.tex
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_blue_n.tiny.dds
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_blue_s.dds
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_blue_s.tex
+/resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_blue_s.tiny.dds
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_green_d.dds
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_green_d.tex
 /resources/art/static/area/ilm_ilum/env/texture/ilm_env_forcecrystals_green_d.tiny.dds

@@ -1,4 +1,4 @@
-; 2604/2659 (97%)
+; 2612/2659 (98%)
 /resources/art/environmentmaps/bel_main/area.dds
 /resources/art/environmentmaps/bel_main/area.tex
 /resources/art/environmentmaps/bel_main/area.tiny.dds
@@ -45,6 +45,7 @@
 /resources/art/shaders/materials/bel_arch_rakata_generator02.mat
 /resources/art/shaders/materials/bel_arch_rakata_holoterminal.mat
 /resources/art/shaders/materials/bel_arch_rakata_holoterminal_table.mat
+/resources/art/shaders/materials/bel_arch_rakata_holoterminal_table_damaged.mat
 /resources/art/shaders/materials/bel_arch_rakata_holoterminal_table_deactivated.mat
 /resources/art/shaders/materials/bel_arch_rakata_int_ceilingtile01.mat
 /resources/art/shaders/materials/bel_arch_rakata_int_floortile01.mat
@@ -52,6 +53,7 @@
 /resources/art/shaders/materials/bel_arch_rakata_int_wall_raw.mat
 /resources/art/shaders/materials/bel_arch_rakata_int_wall01.mat
 /resources/art/shaders/materials/bel_arch_rakata_large_computer_terminal.mat
+/resources/art/shaders/materials/bel_arch_rakata_large_computer_terminal_damaged.mat
 /resources/art/shaders/materials/bel_arch_rakata_pipes.mat
 /resources/art/shaders/materials/bel_arch_rakata_prison_cell_accessories.mat
 /resources/art/shaders/materials/bel_arch_rakata_prison_cell_exterior.mat
@@ -62,6 +64,7 @@
 /resources/art/shaders/materials/bel_arch_rakata_prop_light_hanging.mat
 /resources/art/shaders/materials/bel_arch_rakata_prop_light_hanging_v02.mat
 /resources/art/shaders/materials/bel_arch_rakata_prop_metal_urn.mat
+/resources/art/shaders/materials/bel_arch_rakata_raid_prison_facade.mat
 /resources/art/shaders/materials/bel_arch_rakata_security_camera.mat
 /resources/art/shaders/materials/bel_arch_rakata_security_panel.mat
 /resources/art/shaders/materials/bel_arch_rakata_security_turret.mat
@@ -84,10 +87,14 @@
 /resources/art/shaders/materials/bel_arch_rakata_vault_door_broken_02.mat
 /resources/art/shaders/materials/bel_arch_rakata_vault_stone01.mat
 /resources/art/shaders/materials/bel_arch_rakata_vault_stone02.mat
+/resources/art/shaders/materials/bel_arch_rep_prison_forcefield.mat
 /resources/art/shaders/materials/bel_arch_rep_prison_gate.mat
 /resources/art/shaders/materials/bel_arch_rep_road.mat
 /resources/art/shaders/materials/bel_env_boulder_overhang_snow.mat
 /resources/art/shaders/materials/bel_env_cliff_cliffbase.mat
+/resources/art/shaders/materials/bel_env_cliff_plateau01.mat
+/resources/art/shaders/materials/bel_env_cliff_plateau02.mat
+/resources/art/shaders/materials/bel_env_cliff_plateau03.mat
 /resources/art/shaders/materials/bel_env_cliff_spire01.mat
 /resources/art/shaders/materials/bel_env_cliff_spire01a.mat
 /resources/art/shaders/materials/bel_env_cliff_spire02.mat
@@ -111,6 +118,7 @@
 /resources/art/shaders/materials/bel_podgrass01.mat
 /resources/art/shaders/materials/bel_podgrass01_tall.mat
 /resources/art/shaders/materials/bel_podgrass02.mat
+/resources/art/shaders/materials/bel_raid_skyscene.mat
 /resources/art/shaders/materials/bel_skyscene_tiles.mat
 /resources/art/shaders/materials/ord_env_boulder_overhang.mat
 /resources/art/shaders/materials/ter_bel_dirt01.mat

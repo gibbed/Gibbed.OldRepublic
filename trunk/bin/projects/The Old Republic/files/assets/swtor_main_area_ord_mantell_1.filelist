@@ -1,4 +1,4 @@
-; 650/663 (98%)
+; 652/663 (98%)
 /resources/art/environmentmaps/ord_resize/area.dds
 /resources/art/environmentmaps/ord_resize/area.tex
 /resources/art/environmentmaps/ord_resize/area.tiny.dds
@@ -32,6 +32,7 @@
 /resources/art/shaders/materials/ord_speedtree_pampasgrass01.mat
 /resources/art/shaders/materials/ord_speedtree_thicket01_leaves.mat
 /resources/art/shaders/materials/ord_wilds_cliff_large.mat
+/resources/art/shaders/materials/sky_ord_skydome.mat
 /resources/art/shaders/materials/ter_ord_debris01.mat
 /resources/art/shaders/materials/ter_ord_grass01.mat
 /resources/art/shaders/materials/ter_ord_grass02.mat
@@ -224,6 +225,7 @@
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01.spt
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_burnt_d.dds
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_burnt_d.tex
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_burnt_d.tiny.dds
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_d.dds
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_d.tex
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia02.spt
