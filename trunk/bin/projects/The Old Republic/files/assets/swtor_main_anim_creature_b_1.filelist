@@ -1,4 +1,4 @@
-; 2861/9173 (31%)
+; 2865/9173 (31%)
 /resources/anim/creature/am_manta.xml
 /resources/anim/creature/am_mote.xml
 /resources/anim/creature/am_probe.xml
@@ -49,6 +49,8 @@
 /resources/anim/creature/manta/creature_loco_idle_manta_roam_high_02.mph
 /resources/anim/creature/manta/creature_loco_idle_manta_roam_high_03.mph
 /resources/anim/creature/manta/creature_loco_idle_manta_roam_high_04.mph
+/resources/anim/creature/manta/creature_loco_idle_manta_roam_low_01.mph
+/resources/anim/creature/manta/creature_loco_idle_manta_roam_low_02.mph
 /resources/anim/creature/manta/creature_loco_idle_manta_roam_low_04.mph
 /resources/anim/creature/manta/creature_overlay.mph
 /resources/anim/creature/manta/dg_crit_damage_1.jba
@@ -94,6 +96,8 @@
 /resources/anim/creature/manta/mv_roam_high_02.jba
 /resources/anim/creature/manta/mv_roam_high_03.jba
 /resources/anim/creature/manta/mv_roam_high_04.jba
+/resources/anim/creature/manta/mv_roam_low_01.jba
+/resources/anim/creature/manta/mv_roam_low_02.jba
 /resources/anim/creature/manta/mv_roam_low_04.jba
 /resources/anim/creature/manta/mv_run_back.jba
 /resources/anim/creature/manta/mv_run_forward.jba

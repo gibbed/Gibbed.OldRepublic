@@ -1,5 +1,7 @@
-; 270/412 (65%)
+; 275/412 (66%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
+/resources/bnk2/voc_acklay.bnk
+/resources/bnk2/voc_acklayqueen.bnk
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_med_soundset.bnk
@@ -77,6 +79,7 @@
 /resources/bnk2/voc_fleshrdr_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gamorrean_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gand_m_alien_low_soundset.bnk
+/resources/bnk2/voc_gand_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gault.bnk
 /resources/bnk2/voc_gendai_m_alien_low_soundset.bnk
 /resources/bnk2/voc_geonosian_m_alien_low_soundset.bnk
@@ -88,6 +91,7 @@
 /resources/bnk2/voc_gundark.bnk
 /resources/bnk2/voc_harvap.bnk
 /resources/bnk2/voc_harvorisk.bnk
+/resources/bnk2/voc_hk51.bnk
 /resources/bnk2/voc_houk_m_alien_med_soundset.bnk
 /resources/bnk2/voc_hssiss.bnk
 /resources/bnk2/voc_hutt_m_alien_med_soundset.bnk
@@ -116,6 +120,7 @@
 /resources/bnk2/voc_jorgan.bnk
 /resources/bnk2/voc_jurgoran.bnk
 /resources/bnk2/voc_kaleesh_m_alien_low_soundset.bnk
+/resources/bnk2/voc_kaleesh_m_alien_med_soundset.bnk
 /resources/bnk2/voc_kaliyo.bnk
 /resources/bnk2/voc_kathhound.bnk
 /resources/bnk2/voc_keldor_m_alien_low_soundset.bnk

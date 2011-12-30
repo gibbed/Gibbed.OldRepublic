@@ -1,4 +1,4 @@
-; 3499/3574 (97%)
+; 3500/3574 (97%)
 /resources/art/shaders/materials/ald_arch_outpost_stairs.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
@@ -80,6 +80,7 @@
 /resources/art/shaders/materials/all_arch_fadeportal_bal_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_dro_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_hth.mat
+/resources/art/shaders/materials/all_arch_fadeportal_ilm_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_academy_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_int_dark.mat
 /resources/art/shaders/materials/all_arch_fadeportal_kor_outside.mat

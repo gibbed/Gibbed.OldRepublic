@@ -1,4 +1,4 @@
-; 1972/3115 (63%)
+; 2008/3115 (64%)
 /resources/anim/humanoid/am_dwarf.xml
 /resources/anim/humanoid/am_humanoid.xml
 /resources/anim/humanoid/am_humanoid_npc.xml
@@ -44,6 +44,11 @@
 /resources/anim/pet/petprobe/mv_walk_back.jba
 /resources/anim/pet/petprobe/mv_walk_forward.jba
 /resources/anim/pet/petprobe/pet_loco.mph
+/resources/anim/placeable/airlockdoor/close.jba
+/resources/anim/placeable/airlockdoor/idle_close.jba
+/resources/anim/placeable/airlockdoor/idle_open.jba
+/resources/anim/placeable/airlockdoor/open.jba
+/resources/anim/placeable/airlockdoor/placeable_openclose.mph
 /resources/anim/placeable/all_arch_neu_windmill/idle.jba
 /resources/anim/placeable/all_arch_neu_windmill/mags.mph
 /resources/anim/placeable/all_arch_und_farm_windmill_2/idle.jba
@@ -78,6 +83,11 @@
 /resources/anim/placeable/bridgeimpvoidstar/mag_open.jba
 /resources/anim/placeable/bridgeimpvoidstar/mag_open_idle.jba
 /resources/anim/placeable/bridgeimpvoidstar/placeable_bridgeimpvoidstar.mph
+/resources/anim/placeable/cinerevanasteroid/close.jba
+/resources/anim/placeable/cinerevanasteroid/idle_close.jba
+/resources/anim/placeable/cinerevanasteroid/idle_open.jba
+/resources/anim/placeable/cinerevanasteroid/open.jba
+/resources/anim/placeable/cinerevanasteroid/placeable_openclose.mph
 /resources/anim/placeable/cor_arch_works_fan/idle.jba
 /resources/anim/placeable/cor_arch_works_fan/mags.mph
 /resources/anim/placeable/cor_arch_works_fan01/idle.jba
@@ -112,6 +122,11 @@
 /resources/anim/placeable/doorimpspaceelevator/idle_open.jba
 /resources/anim/placeable/doorimpspaceelevator/open.jba
 /resources/anim/placeable/doorimpspaceelevator/placeable_openclose.mph
+/resources/anim/placeable/doorrakatalg/close.jba
+/resources/anim/placeable/doorrakatalg/idle_close.jba
+/resources/anim/placeable/doorrakatalg/idle_open.jba
+/resources/anim/placeable/doorrakatalg/open.jba
+/resources/anim/placeable/doorrakatalg/placeable_openclose.mph
 /resources/anim/placeable/doorsithinterior/close.jba
 /resources/anim/placeable/doorsithinterior/idle_close.jba
 /resources/anim/placeable/doorsithinterior/idle_open.jba
@@ -169,6 +184,11 @@
 /resources/anim/placeable/e3panel/idle_open.jba
 /resources/anim/placeable/e3panel/open.jba
 /resources/anim/placeable/e3panel/placeable_openclose_1.3.6.mph
+/resources/anim/placeable/envfactorybelt/close.jba
+/resources/anim/placeable/envfactorybelt/idle_close.jba
+/resources/anim/placeable/envfactorybelt/idle_open.jba
+/resources/anim/placeable/envfactorybelt/open.jba
+/resources/anim/placeable/envfactorybelt/placeable_openclose.mph
 /resources/anim/placeable/envindderrick/close.jba
 /resources/anim/placeable/envindderrick/idle_close.jba
 /resources/anim/placeable/envindderrick/idle_open.jba
@@ -184,6 +204,21 @@
 /resources/anim/placeable/envneugeneratorsmall/idle_open.jba
 /resources/anim/placeable/envneugeneratorsmall/open.jba
 /resources/anim/placeable/envneugeneratorsmall/placeable_openclose.mph
+/resources/anim/placeable/envrakatapiston/close.jba
+/resources/anim/placeable/envrakatapiston/idle_close.jba
+/resources/anim/placeable/envrakatapiston/idle_open.jba
+/resources/anim/placeable/envrakatapiston/open.jba
+/resources/anim/placeable/envrakatapiston/placeable_openclose.mph
+/resources/anim/placeable/envrepshipreactor/close.jba
+/resources/anim/placeable/envrepshipreactor/idle_close.jba
+/resources/anim/placeable/envrepshipreactor/idle_open.jba
+/resources/anim/placeable/envrepshipreactor/open.jba
+/resources/anim/placeable/envrepshipreactor/placeable_openclose.mph
+/resources/anim/placeable/envrevanasteroids/close.jba
+/resources/anim/placeable/envrevanasteroids/idle_close.jba
+/resources/anim/placeable/envrevanasteroids/idle_open.jba
+/resources/anim/placeable/envrevanasteroids/open.jba
+/resources/anim/placeable/envrevanasteroids/placeable_openclose.mph
 /resources/anim/placeable/envshipjump/close.jba
 /resources/anim/placeable/envshipjump/idle_close.jba
 /resources/anim/placeable/envshipjump/idle_open.jba
@@ -1806,6 +1841,7 @@
 /resources/art/dynamic/spec/envraidlavaplatform.dyc
 /resources/art/dynamic/spec/envraidsoaplatform.dyc
 /resources/art/dynamic/spec/envrakatapiston.dyc
+/resources/art/dynamic/spec/envrepshipreactor.dyc
 /resources/art/dynamic/spec/envrevanasteroids.dyc
 /resources/art/dynamic/spec/envrocklevitate.dyc
 /resources/art/dynamic/spec/envshipcrash.dyc

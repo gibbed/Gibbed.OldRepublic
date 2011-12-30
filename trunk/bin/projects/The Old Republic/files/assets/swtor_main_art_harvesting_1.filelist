@@ -1,4 +1,4 @@
-; 794/862 (92%)
+; 816/862 (94%)
 /resources/art/shaders/materials/har_broken_vehicle_component.mat
 /resources/art/shaders/materials/har_bush_green.mat
 /resources/art/shaders/materials/har_bush_orange.mat
@@ -11,6 +11,8 @@
 /resources/art/shaders/materials/har_crystal_igneous_blue.mat
 /resources/art/shaders/materials/har_crystal_igneous_green.mat
 /resources/art/shaders/materials/har_crystal_igneous_red.mat
+/resources/art/shaders/materials/har_crystal_lucent_green.mat
+/resources/art/shaders/materials/har_crystal_lucent_red.mat
 /resources/art/shaders/materials/har_crystal_sheen_large.mat
 /resources/art/shaders/materials/har_crystal_sheen_small.mat
 /resources/art/shaders/materials/har_crystal_solid_large_blue.mat
@@ -55,6 +57,7 @@
 /resources/art/shaders/materials/har_slicing_computer_small_03.mat
 /resources/art/shaders/materials/har_slicing_footlocker_dial.mat
 /resources/art/shaders/materials/har_slicing_footlocker_panel.mat
+/resources/art/shaders/materials/har_slicing_footlocker_screen.mat
 /resources/art/shaders/materials/har_slicing_safeboxes_dial.mat
 /resources/art/shaders/materials/har_slicing_safeboxes_panel.mat
 /resources/art/shaders/materials/har_slicing_safeboxes_screen.mat
@@ -66,6 +69,7 @@
 /resources/art/shaders/materials/har_vine_red.mat
 /resources/art/shaders/materials/har_weed_green.mat
 /resources/art/shaders/materials/har_weed_pink.mat
+/resources/art/shaders/materials/har_weed_purple.mat
 /resources/art/static/harvesting/har_broken_vehicle_component.gr2
 /resources/art/static/harvesting/har_broken_vehicle_component_element.gr2
 /resources/art/static/harvesting/har_bush_green.gr2
@@ -251,6 +255,24 @@
 /resources/art/static/harvesting/texture/har_crystal_igneous_red_s.dds
 /resources/art/static/harvesting/texture/har_crystal_igneous_red_s.tex
 /resources/art/static/harvesting/texture/har_crystal_igneous_red_s.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_green_d.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_green_d.tex
+/resources/art/static/harvesting/texture/har_crystal_lucent_green_d.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_green_n.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_green_n.tex
+/resources/art/static/harvesting/texture/har_crystal_lucent_green_n.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_green_s.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_green_s.tex
+/resources/art/static/harvesting/texture/har_crystal_lucent_green_s.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_red_d.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_red_d.tex
+/resources/art/static/harvesting/texture/har_crystal_lucent_red_d.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_red_n.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_red_n.tex
+/resources/art/static/harvesting/texture/har_crystal_lucent_red_n.tiny.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_red_s.dds
+/resources/art/static/harvesting/texture/har_crystal_lucent_red_s.tex
+/resources/art/static/harvesting/texture/har_crystal_lucent_red_s.tiny.dds
 /resources/art/static/harvesting/texture/har_crystal_sheen_large_d.dds
 /resources/art/static/harvesting/texture/har_crystal_sheen_large_d.tex
 /resources/art/static/harvesting/texture/har_crystal_sheen_large_d.tiny.dds

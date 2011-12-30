@@ -1,4 +1,4 @@
-; 39/63 (61%)
+; 40/63 (63%)
 /resources/bnk2/abilities_creatures_data.bnk
 /resources/bnk2/abilities_general_data.bnk
 /resources/bnk2/abilities_imperialmelee_data.bnk
@@ -15,6 +15,7 @@
 /resources/bnk2/location_characterselect_data.bnk
 /resources/bnk2/location_dromundkaas_data.bnk
 /resources/bnk2/location_fp_hammer_data.bnk
+/resources/bnk2/location_fp_imperial_revan_arc_data.bnk
 /resources/bnk2/location_fp_imperial_spacedock_data.bnk
 /resources/bnk2/location_fp_imperial_transition_data.bnk
 /resources/bnk2/location_hoth_data.bnk
