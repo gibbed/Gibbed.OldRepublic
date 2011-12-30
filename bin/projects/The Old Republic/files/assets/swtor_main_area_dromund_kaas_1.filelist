@@ -1,4 +1,4 @@
-; 1490/1560 (95%)
+; 1500/1560 (96%)
 /resources/art/environmentmaps/dro_main/area.dds
 /resources/art/environmentmaps/dro_main/area.tex
 /resources/art/environmentmaps/dro_main/area.tiny.dds
@@ -54,6 +54,8 @@
 /resources/art/shaders/materials/dro_env_cliff_set.mat
 /resources/art/shaders/materials/dro_env_glowing_plants_angular.mat
 /resources/art/shaders/materials/dro_env_glowing_plants_round.mat
+/resources/art/shaders/materials/dro_env_glowing_plants_round_orange.mat
+/resources/art/shaders/materials/dro_env_hanging_moss.mat
 /resources/art/shaders/materials/dro_env_hanging_vine.mat
 /resources/art/shaders/materials/dro_env_mountain_boulder_med_01.mat
 /resources/art/shaders/materials/dro_env_mountain_boulder_med_02.mat
@@ -954,8 +956,10 @@
 /resources/art/static/area/dro_kass/speedtree/dro_largefern/dro_largefern.gr2
 /resources/art/static/area/dro_kass/speedtree/dro_largefern/dro_largefern_d.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largefern/dro_largefern_d.tex
+/resources/art/static/area/dro_kass/speedtree/dro_largefern/dro_largefern_d.tiny.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largefern/dro_largefern_n.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largefern/dro_largefern_n.tex
+/resources/art/static/area/dro_kass/speedtree/dro_largefern/dro_largefern_n.tiny.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree.spt
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_bark.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_bark.tex
@@ -970,12 +974,16 @@
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_roots.gr2
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_a_d.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_a_d.tex
+/resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_a_d.tiny.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_a_n.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_a_n.tex
+/resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_a_n.tiny.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_b_d.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_b_d.tex
+/resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_b_d.tiny.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_b_n.dds
 /resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_b_n.tex
+/resources/art/static/area/dro_kass/speedtree/dro_largetree/dro_largetree_trunk_b_n.tiny.dds
 /resources/art/static/area/dro_kass/speedtree/dro_leafytree/dro_leafytree.gr2
 /resources/art/static/area/dro_kass/speedtree/dro_leafytree/dro_leafytree.spt
 /resources/art/static/area/dro_kass/speedtree/dro_leafytree/texture/dro_leafytree_d.dds
@@ -995,12 +1003,14 @@
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1.spt
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark.dds
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark.tex
+/resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark.tiny.dds
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark_d.dds
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark_d.tex
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark_n.dds
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark_n.tex
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark_normal.dds
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark_normal.tex
+/resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree1bark_normal.tiny.dds
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree2.spt
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_thintree3.spt
 /resources/art/static/area/dro_kass/speedtree/dro_thintree/dro_trees_diffuse.dds

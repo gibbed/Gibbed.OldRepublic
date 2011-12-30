@@ -1,6 +1,10 @@
-; 6660/6699 (99%)
+; 6664/6699 (99%)
 /resources/art/defaultassets/ltorange.dds
 /resources/art/defaultassets/ltorange.tex
+/resources/art/defaultassets/ltorange.tiny.dds
+/resources/art/shaders/materials/engine_cover_left.mat
+/resources/art/shaders/materials/engine_cover_right.mat
+/resources/art/shaders/materials/engine_cover_top.mat
 /resources/art/shaders/materials/engine_staging_human_03.mat
 /resources/art/shaders/materials/engine_staging_human_04.mat
 /resources/art/shaders/materials/engine_staging_human_05.mat

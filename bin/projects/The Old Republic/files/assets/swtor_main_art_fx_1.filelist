@@ -1,4 +1,4 @@
-; 17959/22915 (78%)
+; 18005/22915 (78%)
 /resources/art/defaultassets/white.dds
 /resources/art/defaultassets/white.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_mini_a01_v01_d.dds
@@ -4458,8 +4458,10 @@
 /resources/art/fx/geometry/trooper/texture/tr_medical_scan_screen_d.dds
 /resources/art/fx/geometry/trooper/texture/tr_medical_scan_screen_d.tex
 /resources/art/fx/geometry/trooper/texture/tr_medical_scan_screen_d.tiny.dds
+/resources/art/fx/geometry/trooper/texture/tr_plastique_explosive_d.dds
 /resources/art/fx/geometry/trooper/texture/tr_plastique_explosive_d.tex
 /resources/art/fx/geometry/trooper/texture/tr_plastique_explosive_d.tiny.dds
+/resources/art/fx/geometry/trooper/texture/tr_plastique_explosive_n.dds
 /resources/art/fx/geometry/trooper/texture/tr_plastique_explosive_n.tex
 /resources/art/fx/geometry/trooper/texture/tr_plastique_explosive_n.tiny.dds
 /resources/art/fx/geometry/trooper/texture/tr_plastique_explosive_s.dds
@@ -15983,6 +15985,7 @@
 /resources/art/fx/texture/debris/blast_mark_rim.tex
 /resources/art/fx/texture/debris/blast_mark_rim_02.dds
 /resources/art/fx/texture/debris/blast_mark_rim_02.tex
+/resources/art/fx/texture/debris/blast_mark_rim_02.tiny.dds
 /resources/art/fx/texture/debris/blastmark_with_lip_01.dds
 /resources/art/fx/texture/debris/bw_2x2_chunks.dds
 /resources/art/fx/texture/debris/bw_2x2_chunks.tex
@@ -16091,6 +16094,7 @@
 /resources/art/fx/texture/electricity/electric_center_piece.tex
 /resources/art/fx/texture/electricity/electric_net_proj_tile_bw.dds
 /resources/art/fx/texture/electricity/electric_net_proj_tile_bw.tex
+/resources/art/fx/texture/electricity/electric_net_proj_tile_bw.tiny.dds
 /resources/art/fx/texture/electricity/electric_orb.dds
 /resources/art/fx/texture/electricity/electric_orb.tex
 /resources/art/fx/texture/electricity/electric_rings_01_bw.dds
@@ -16164,6 +16168,12 @@
 /resources/art/fx/texture/environment/env_taralv_waterfall_topfoam_01.tex
 /resources/art/fx/texture/environment/env_vos_nightmare_leaves_01_bw.dds
 /resources/art/fx/texture/environment/env_vos_nightmare_leaves_01_bw.tex
+/resources/art/fx/texture/environment/env_vos_vasca_veiw_cloud_layer.dds
+/resources/art/fx/texture/environment/env_vos_vasca_veiw_cloud_layer.tex
+/resources/art/fx/texture/environment/env_vos_vasca_veiw_cloud_layer.tiny.dds
+/resources/art/fx/texture/environment/env_vos_vasca_veiw_grnd_layer.dds
+/resources/art/fx/texture/environment/env_vos_vasca_veiw_grnd_layer.tex
+/resources/art/fx/texture/environment/env_vos_vasca_veiw_grnd_layer.tiny.dds
 /resources/art/fx/texture/environment/flies_02.dds
 /resources/art/fx/texture/environment/fx_nar_casino_center_topwindow_01_bw.dds
 /resources/art/fx/texture/environment/fx_nar_casino_center_window01_bw.dds
@@ -16223,6 +16233,7 @@
 /resources/art/fx/texture/fire/tile_fire_01.tiny.dds
 /resources/art/fx/texture/fire/tile_fire_01_bw.dds
 /resources/art/fx/texture/fire/tile_fire_01_bw.tex
+/resources/art/fx/texture/fire/tile_fire_01_bw.tiny.dds
 /resources/art/fx/texture/galaxy_map/coordinates_text.dds
 /resources/art/fx/texture/galaxy_map/gal_item_galaxymap_region_1_d.dds
 /resources/art/fx/texture/galaxy_map/gal_item_galaxymap_region_2_d.dds
@@ -16387,6 +16398,7 @@
 /resources/art/fx/texture/glow/bw_fx_tatooine_sun_glow_low.tex
 /resources/art/fx/texture/glow/bw_glow_ring_inner_grad_radial.dds
 /resources/art/fx/texture/glow/bw_glow_ring_inner_grad_radial.tex
+/resources/art/fx/texture/glow/bw_glow_ring_inner_grad_radial.tiny.dds
 /resources/art/fx/texture/glow/bw_glowring_holoring.dds
 /resources/art/fx/texture/glow/bw_glowring_holoring.tex
 /resources/art/fx/texture/glow/bw_glowring_yellow.dds
@@ -16456,14 +16468,18 @@
 /resources/art/fx/texture/glow/flare03.tex
 /resources/art/fx/texture/glow/flare04.dds
 /resources/art/fx/texture/glow/flare04.tex
+/resources/art/fx/texture/glow/flare04.tiny.dds
 /resources/art/fx/texture/glow/force_choke.dds
 /resources/art/fx/texture/glow/force_energy_draw_in.dds
 /resources/art/fx/texture/glow/force_energy_draw_in.tex
+/resources/art/fx/texture/glow/force_energy_draw_in.tiny.dds
 /resources/art/fx/texture/glow/force_field_blue_large.dds
 /resources/art/fx/texture/glow/force_ghost_glow_02.dds
 /resources/art/fx/texture/glow/force_ghost_glow_02.tex
+/resources/art/fx/texture/glow/force_ghost_glow_02.tiny.dds
 /resources/art/fx/texture/glow/force_ghost_proj_01.dds
 /resources/art/fx/texture/glow/force_ghost_proj_01.tex
+/resources/art/fx/texture/glow/force_ghost_proj_01.tiny.dds
 /resources/art/fx/texture/glow/fuzzycolumn.dds
 /resources/art/fx/texture/glow/fuzzycolumn.tex
 /resources/art/fx/texture/glow/fuzzycolumn_thincenter.dds
@@ -16471,6 +16487,7 @@
 /resources/art/fx/texture/glow/fx_bal2_colicoid_droid_holo_callouts.dds
 /resources/art/fx/texture/glow/fx_caustic_tile.dds
 /resources/art/fx/texture/glow/fx_caustic_tile.tex
+/resources/art/fx/texture/glow/fx_caustic_tile.tiny.dds
 /resources/art/fx/texture/glow/fx_dripping_energy_01.dds
 /resources/art/fx/texture/glow/fx_dripping_energy_01.tex
 /resources/art/fx/texture/glow/fx_electrical_spark_noise_01.dds
@@ -16548,6 +16565,7 @@
 /resources/art/fx/texture/glow/glow_streams_03.dds
 /resources/art/fx/texture/glow/glow_streams_04.dds
 /resources/art/fx/texture/glow/glow_streams_04.tex
+/resources/art/fx/texture/glow/glow_streams_04.tiny.dds
 /resources/art/fx/texture/glow/glow_wedge.dds
 /resources/art/fx/texture/glow/glow_with_streaks_01.dds
 /resources/art/fx/texture/glow/glowbar.dds
@@ -16591,6 +16609,7 @@
 /resources/art/fx/texture/glow/light_streaks_outer_flip.tex
 /resources/art/fx/texture/glow/lightbeam_01.dds
 /resources/art/fx/texture/glow/lightbeam_01.tex
+/resources/art/fx/texture/glow/lightbeam_01.tiny.dds
 /resources/art/fx/texture/glow/ltng_glowing_energy_strip.dds
 /resources/art/fx/texture/glow/muzzle_flare_02.dds
 /resources/art/fx/texture/glow/muzzle_flare_02.tex
@@ -16698,6 +16717,7 @@
 /resources/art/fx/texture/gradient/black_white_2px_side_stripes.tiny.dds
 /resources/art/fx/texture/gradient/distorted_gradient.dds
 /resources/art/fx/texture/gradient/distorted_gradient.tex
+/resources/art/fx/texture/gradient/distorted_gradient.tiny.dds
 /resources/art/fx/texture/gradient/fx_black_gradient_01.dds
 /resources/art/fx/texture/gradient/fx_corner_gradient.dds
 /resources/art/fx/texture/gradient/fx_fresnel_gradient.dds
@@ -16714,6 +16734,7 @@
 /resources/art/fx/texture/gradient/fx_shield_dual_falloff.tiny.dds
 /resources/art/fx/texture/gradient/fx_shield_gradient_fade.dds
 /resources/art/fx/texture/gradient/fx_shield_gradient_fade.tex
+/resources/art/fx/texture/gradient/fx_shield_gradient_fade.tiny.dds
 /resources/art/fx/texture/gradient/fx_shield_rim.dds
 /resources/art/fx/texture/gradient/fx_shield_rim.tex
 /resources/art/fx/texture/gradient/fx_shield_rim.tiny.dds
@@ -16751,6 +16772,7 @@
 /resources/art/fx/texture/holograms/fx_scanner_cone_noise.dds
 /resources/art/fx/texture/holograms/fx_scanner_cone_smoke.dds
 /resources/art/fx/texture/holograms/fx_scanner_cone_smoke.tex
+/resources/art/fx/texture/holograms/fx_scanner_cone_smoke.tiny.dds
 /resources/art/fx/texture/holograms/holo_char_human_01.dds
 /resources/art/fx/texture/holograms/holo_char_moncalimari_01.dds
 /resources/art/fx/texture/holograms/holo_char_nautolan_01.dds
@@ -16785,6 +16807,7 @@
 /resources/art/fx/texture/liquid/bw_hot_liquid_metal_splash.dds
 /resources/art/fx/texture/liquid/bw_kolto_tank_grnd_water.dds
 /resources/art/fx/texture/liquid/bw_kolto_tank_grnd_water.tex
+/resources/art/fx/texture/liquid/bw_kolto_tank_grnd_water.tiny.dds
 /resources/art/fx/texture/liquid/caustic_lines.dds
 /resources/art/fx/texture/liquid/caustic_lines_tiled.dds
 /resources/art/fx/texture/liquid/caustic_lines_tiled.tex
@@ -16794,6 +16817,7 @@
 /resources/art/fx/texture/liquid/caustics_tile_01.tiny.dds
 /resources/art/fx/texture/liquid/caustics_tile_02.dds
 /resources/art/fx/texture/liquid/caustics_tile_02.tex
+/resources/art/fx/texture/liquid/caustics_tile_02.tiny.dds
 /resources/art/fx/texture/liquid/crystal_smoke.dds
 /resources/art/fx/texture/liquid/crystal_smoke.tex
 /resources/art/fx/texture/liquid/droplet.dds
@@ -16818,6 +16842,7 @@
 /resources/art/fx/texture/liquid/fx_molten_splat_01_bw.dds
 /resources/art/fx/texture/liquid/fx_molten_stream_01_bw.dds
 /resources/art/fx/texture/liquid/fx_molten_stream_01_bw.tex
+/resources/art/fx/texture/liquid/fx_molten_stream_01_bw.tiny.dds
 /resources/art/fx/texture/liquid/fx_molten_stream_02_bw.dds
 /resources/art/fx/texture/liquid/fx_molten_stream_02_bw.tex
 /resources/art/fx/texture/liquid/fx_proj_egg_goo.dds
@@ -16837,6 +16862,7 @@
 /resources/art/fx/texture/liquid/proj_spatter_orange.tex
 /resources/art/fx/texture/liquid/proj_spatter_orange_bw.dds
 /resources/art/fx/texture/liquid/proj_spatter_orange_bw.tex
+/resources/art/fx/texture/liquid/proj_spatter_orange_bw.tiny.dds
 /resources/art/fx/texture/liquid/proj_splatter_green_bw.dds
 /resources/art/fx/texture/liquid/proj_splatter_green_bw.tex
 /resources/art/fx/texture/liquid/snowflakes_02.dds
@@ -16864,6 +16890,7 @@
 /resources/art/fx/texture/monitor/aurek_lorem_trans_4x9.dds
 /resources/art/fx/texture/monitor/bw_fx_holo_beam_banner.dds
 /resources/art/fx/texture/monitor/bw_fx_holo_beam_banner.tex
+/resources/art/fx/texture/monitor/bw_fx_holo_beam_banner.tiny.dds
 /resources/art/fx/texture/monitor/cor_arrive_text.dds
 /resources/art/fx/texture/monitor/cor_citymap_img.dds
 /resources/art/fx/texture/monitor/cor_cityscape_img.dds
@@ -16935,6 +16962,7 @@
 /resources/art/fx/texture/monitor/generator_machine_01.dds
 /resources/art/fx/texture/monitor/holo_screen_congratulations.dds
 /resources/art/fx/texture/monitor/holo_screen_congratulations.tex
+/resources/art/fx/texture/monitor/holo_screen_congratulations.tiny.dds
 /resources/art/fx/texture/monitor/lcd_graphic_shockdrum_01_core.dds
 /resources/art/fx/texture/monitor/lcd_graphic_shockdrum_02.dds
 /resources/art/fx/texture/monitor/lcd_graphic_symbols_01.dds
@@ -17207,6 +17235,7 @@
 /resources/art/fx/texture/smoke/fx_dry_ice_cycle.dds
 /resources/art/fx/texture/smoke/fx_dry_ice_smoke.dds
 /resources/art/fx/texture/smoke/fx_dry_ice_smoke.tex
+/resources/art/fx/texture/smoke/fx_dry_ice_smoke.tiny.dds
 /resources/art/fx/texture/smoke/fx_dust_cloud_slight_transparent_01.dds
 /resources/art/fx/texture/smoke/fx_smoke_02.dds
 /resources/art/fx/texture/smoke/fx_smoke_02_8x8.dds
@@ -17501,6 +17530,7 @@
 /resources/art/fx/texture/uv_masks/fx_anim_mask_police_flickering.tiny.dds
 /resources/art/fx/texture/uv_masks/fx_noise_sphere_mask_k.dds
 /resources/art/fx/texture/uv_masks/fx_noise_sphere_mask_k.tex
+/resources/art/fx/texture/uv_masks/fx_noise_sphere_mask_k.tiny.dds
 /resources/art/fx/texture/uv_masks/standard_blaster_k.dds
 /resources/art/fx/texture/uv_masks/standard_blaster_k.tex
 /resources/art/fx/texture/uv_masks/standard_blaster_k.tiny.dds
@@ -17597,6 +17627,7 @@
 /resources/art/fx/texture/weapon_ranged/carbonite_spray_03.dds
 /resources/art/fx/texture/weapon_ranged/droid_muzzle_flash_lrg.dds
 /resources/art/fx/texture/weapon_ranged/droid_muzzle_flash_lrg.tex
+/resources/art/fx/texture/weapon_ranged/droid_muzzle_flash_lrg.tiny.dds
 /resources/art/fx/texture/weapon_ranged/fx_cannon_laser_pulse.dds
 /resources/art/fx/texture/weapon_ranged/fx_laser_sight_01.dds
 /resources/art/fx/texture/weapon_ranged/fx_laser_sight_01.tex
@@ -17664,6 +17695,7 @@
 /resources/art/shaders/materials/chest_armor01_heavy_bh_a03c01_m.mat
 /resources/art/shaders/materials/cin_spirit_compass.mat
 /resources/art/shaders/materials/cine_mouse_droid_a01_v01.mat
+/resources/art/shaders/materials/cor_lightbeam_suv.mat
 /resources/art/shaders/materials/dam_chunk.mat
 /resources/art/shaders/materials/debris_chunk.mat
 /resources/art/shaders/materials/dirt_plume_geo.mat
@@ -17674,13 +17706,17 @@
 /resources/art/shaders/materials/env_cor_light_beam.mat
 /resources/art/shaders/materials/env_fx_ty_map_globe_noise.mat
 /resources/art/shaders/materials/env_fx_ty_map_orbit_rings.mat
+/resources/art/shaders/materials/env_ilum_forcefield_dome.mat
 /resources/art/shaders/materials/env_imp_holoship_x.mat
 /resources/art/shaders/materials/env_imp_revan_dome_forcefield.mat
 /resources/art/shaders/materials/env_kor_prison_wall.mat
 /resources/art/shaders/materials/env_plane_color_aqua.mat
 /resources/art/shaders/materials/env_plane_color_black.mat
 /resources/art/shaders/materials/env_plane_color_blue.mat
+/resources/art/shaders/materials/env_plane_color_green.mat
 /resources/art/shaders/materials/env_plane_color_red.mat
+/resources/art/shaders/materials/env_plane_color_yellow.mat
+/resources/art/shaders/materials/env_spwn_in_metal_floor.mat
 /resources/art/shaders/materials/env_tar_2_moon_01.mat
 /resources/art/shaders/materials/env_tyt_maproom_strip_02.mat
 /resources/art/shaders/materials/fx_all_adrenal_buff_injector.mat
@@ -17694,6 +17730,7 @@
 /resources/art/shaders/materials/fx_all_health_buff_injector.mat
 /resources/art/shaders/materials/fx_all_stim_buff_injector.mat
 /resources/art/shaders/materials/fx_andytest_enviromap_01.mat
+/resources/art/shaders/materials/fx_anim_restraints_band.mat
 /resources/art/shaders/materials/fx_asteroid_energy.mat
 /resources/art/shaders/materials/fx_bal_lifter_lights.mat
 /resources/art/shaders/materials/fx_bh_barrell_kolto_ring.mat
@@ -17710,6 +17747,7 @@
 /resources/art/shaders/materials/fx_cin_button_red_01.mat
 /resources/art/shaders/materials/fx_cin_button_white_01.mat
 /resources/art/shaders/materials/fx_cine_saberforge_crystalrig_01.mat
+/resources/art/shaders/materials/fx_cine_saberforge_powercanister.mat
 /resources/art/shaders/materials/fx_debris_crater_01.mat
 /resources/art/shaders/materials/fx_debrischunk_01.mat
 /resources/art/shaders/materials/fx_elevator_buttons_anim.mat
@@ -17751,6 +17789,7 @@
 /resources/art/shaders/materials/fx_loot_rare.mat
 /resources/art/shaders/materials/fx_mask_spc_env_planettest_01.mat
 /resources/art/shaders/materials/fx_med_center_cylinder.mat
+/resources/art/shaders/materials/fx_melted_chain.mat
 /resources/art/shaders/materials/fx_probe_mini_a02_original.mat
 /resources/art/shaders/materials/fx_probe_mini_bottom.mat
 /resources/art/shaders/materials/fx_probe_mini_top.mat
@@ -17799,6 +17838,7 @@
 /resources/art/shaders/materials/fx_superlow_rep_starfighter_01.mat
 /resources/art/shaders/materials/fx_surrounding_lightning.mat
 /resources/art/shaders/materials/fx_tar_2_star_gradient.mat
+/resources/art/shaders/materials/fx_tar_restraint_block.mat
 /resources/art/shaders/materials/fx_thruster_blue_2_suv.mat
 /resources/art/shaders/materials/fx_thruster_blue_suv.mat
 /resources/art/shaders/materials/fx_thruster_red_suv.mat
@@ -17836,6 +17876,8 @@
 /resources/art/shaders/materials/hex_shield.mat
 /resources/art/shaders/materials/hutt_announcer_animated.mat
 /resources/art/shaders/materials/ice_spikes.mat
+/resources/art/shaders/materials/ill_dome_01.mat
+/resources/art/shaders/materials/ill_dome_02.mat
 /resources/art/shaders/materials/imperial_fleet_holo.mat
 /resources/art/shaders/materials/jc_restoration_spiralband.mat
 /resources/art/shaders/materials/jc_wind_ring.mat
@@ -17857,6 +17899,7 @@
 /resources/art/shaders/materials/orig_fx_rocket_launcher_mat.mat
 /resources/art/shaders/materials/pistol_test.mat
 /resources/art/shaders/materials/plain_plane.mat
+/resources/art/shaders/materials/planets_coruscant_hologram.mat
 /resources/art/shaders/materials/planets_galaxymap_blue_edge.mat
 /resources/art/shaders/materials/planets_galaxymap_blue_edge_01.mat
 /resources/art/shaders/materials/probe_entrench.mat
@@ -17881,6 +17924,7 @@
 /resources/art/shaders/materials/sphere_hexagon_shield.mat
 /resources/art/shaders/materials/sphere_hexagon_shield_orange.mat
 /resources/art/shaders/materials/splash01.mat
+/resources/art/shaders/materials/starfield_test.mat
 /resources/art/shaders/materials/sw_saber_ward_glow.mat
 /resources/art/shaders/materials/sw_swirl_streak.mat
 /resources/art/shaders/materials/tr_anim_plastique_timer.mat
@@ -17894,6 +17938,8 @@
 /resources/art/shaders/materials/turret_cannon_large_blast_blue.mat
 /resources/art/shaders/materials/turret_cannon_large_blast_green.mat
 /resources/art/shaders/materials/turret_cannon_large_blast_red.mat
+/resources/art/shaders/materials/vasca_view_clouds_suv.mat
+/resources/art/shaders/materials/vasca_view_grnd.mat
 /resources/art/shaders/materials/veh_neu_bus_large_mid.mat
 /resources/art/shaders/materials/veh_neu_light_cruiser.mat
 /resources/art/shaders/materials/vfx_battledroid_crit_missle.mat

@@ -1,4 +1,4 @@
-; 1282/1290 (99%)
+; 1284/1290 (99%)
 /resources/art/environmentmaps/kor_rebuild_test/area2.dds
 /resources/art/environmentmaps/kor_rebuild_test/area2.tex
 /resources/art/environmentmaps/kor_rebuild_test/area2.tiny.dds
@@ -51,6 +51,7 @@
 /resources/art/shaders/materials/kor_tomb_item_halberd_rack.mat
 /resources/art/shaders/materials/kor_tomb_item_hate_machine.mat
 /resources/art/shaders/materials/kor_tomb_item_holocron.mat
+/resources/art/shaders/materials/kor_tomb_item_rope.mat
 /resources/art/shaders/materials/kor_tomb_item_sarcophagus_ruin.mat
 /resources/art/shaders/materials/kor_tomb_item_sconce_01.mat
 /resources/art/shaders/materials/kor_tomb_item_sconce_01_blue.mat
@@ -78,6 +79,7 @@
 /resources/art/shaders/materials/kor_vod_elev_floor.mat
 /resources/art/shaders/materials/kor_vod_elev_parts.mat
 /resources/art/shaders/materials/kor_vod_elev_tiled.mat
+/resources/art/shaders/materials/kor_vod_elevator.mat
 /resources/art/shaders/materials/kor_vod_grass01.mat
 /resources/art/shaders/materials/kor_vod_grass02.mat
 /resources/art/shaders/materials/kor_vod_grass03.mat

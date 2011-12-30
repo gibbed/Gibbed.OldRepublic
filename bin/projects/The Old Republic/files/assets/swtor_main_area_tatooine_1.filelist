@@ -1,4 +1,4 @@
-; 2518/2530 (99%)
+; 2525/2530 (99%)
 /resources/art/environmentmaps/tat_main/area.dds
 /resources/art/environmentmaps/tat_main/area.tex
 /resources/art/environmentmaps/tat_main/area.tiny.dds
@@ -135,8 +135,11 @@
 /resources/art/shaders/materials/tat_grass02.mat
 /resources/art/shaders/materials/tat_grass03.mat
 /resources/art/shaders/materials/tat_item_aeration_vents.mat
+/resources/art/shaders/materials/tat_item_bone_skulls_krayt.mat
 /resources/art/shaders/materials/tat_item_bones_giant.mat
 /resources/art/shaders/materials/tat_item_bones_krayt_skull.mat
+/resources/art/shaders/materials/tat_item_glyph.mat
+/resources/art/shaders/materials/tat_item_glyph_glow.mat
 /resources/art/shaders/materials/tat_item_merchant_stall.mat
 /resources/art/shaders/materials/tat_item_moisture_vaporator.mat
 /resources/art/shaders/materials/tat_item_moisture_vaporator_cistern_cap.mat
@@ -1531,13 +1534,17 @@
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_01.gr2
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_01_d.dds
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_01_d.tex
+/resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_01_d.tiny.dds
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_01_n.dds
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_01_n.tex
+/resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_01_n.tiny.dds
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_02.gr2
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_02_d.dds
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_02_d.tex
+/resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_02_d.tiny.dds
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_02_n.dds
 /resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_02_n.tex
+/resources/art/static/area/tat_tatooine/speedtree/tat_speedtree_bush_02_n.tiny.dds
 /resources/art/static/area/tat_tatooine/terrain_map/ter_tat_debris02_d.dds
 /resources/art/static/area/tat_tatooine/terrain_map/ter_tat_debris02_d.tex
 /resources/art/static/area/tat_tatooine/terrain_map/ter_tat_debris02_d.tiny.dds

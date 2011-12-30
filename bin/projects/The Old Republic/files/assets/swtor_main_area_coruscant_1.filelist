@@ -1,6 +1,7 @@
-; 2143/2157 (99%)
+; 2153/2157 (99%)
 /resources/art/defaultassets/occluder.dds
 /resources/art/defaultassets/occluder.tex
+/resources/art/defaultassets/occluder.tiny.dds
 /resources/art/fx/texture/uv_atlas/all_item_works_huge_generator_lights_d.dds
 /resources/art/fx/texture/uv_atlas/all_item_works_huge_generator_lights_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_works_huge_generator_lights_d.tiny.dds
@@ -10,6 +11,7 @@
 /resources/art/shaders/materials/all_arch_city_ext_bwall_a_new.mat
 /resources/art/shaders/materials/all_arch_city_ext_bwall_a_new_crit.mat
 /resources/art/shaders/materials/all_arch_city_ext_bwall_wall01.mat
+/resources/art/shaders/materials/all_arch_city_senate_trim02.mat
 /resources/art/shaders/materials/all_arch_neu_city_set_building_01.mat
 /resources/art/shaders/materials/all_arch_neu_city_set_building_02.mat
 /resources/art/shaders/materials/all_arch_rep_palace_trim01.mat
@@ -54,6 +56,9 @@
 /resources/art/shaders/materials/cor_env_interior_trans_dark.mat
 /resources/art/shaders/materials/cor_item_city_rock_fountain.mat
 /resources/art/shaders/materials/cor_item_city_rock_fountain_rock.mat
+/resources/art/shaders/materials/cor_item_lightpost_tower.mat
+/resources/art/shaders/materials/cor_item_poster_justicar.mat
+/resources/art/shaders/materials/cor_item_sign_blacksun.mat
 /resources/art/shaders/materials/cor_item_sign_frame.mat
 /resources/art/shaders/materials/cor_item_sign_justicar.mat
 /resources/art/shaders/materials/cor_item_sign_market.mat
@@ -63,10 +68,15 @@
 /resources/art/shaders/materials/cor_item_works_huge_generator_trim_blue.mat
 /resources/art/shaders/materials/cor_item_works_huge_generator_trim_blue_off.mat
 /resources/art/shaders/materials/cor_jedi_palace_arch.mat
+/resources/art/shaders/materials/cor_jedi_palace_destroyed_altar_stand.mat
+/resources/art/shaders/materials/cor_jedi_palace_destroyed_altar_wall.mat
+/resources/art/shaders/materials/cor_jedi_palace_destroyed_brick.mat
 /resources/art/shaders/materials/cor_jedi_palace_destroyed_large_pillar.mat
 /resources/art/shaders/materials/cor_jedi_palace_pillar.mat
 /resources/art/shaders/materials/cor_jedi_palace_pillar02.mat
 /resources/art/shaders/materials/cor_jedi_temple_balcony_destroyed.mat
+/resources/art/shaders/materials/cor_jedi_temple_balcony_destroyed_new.mat
+/resources/art/shaders/materials/cor_jedi_temple_balcony_destroyed_new02.mat
 /resources/art/shaders/materials/cor_jedi_temple_floortrim_destroyed.mat
 /resources/art/shaders/materials/cor_jedi_temple_panels_destroyed.mat
 /resources/art/shaders/materials/cor_jedi_temple_trim_destroyed.mat
