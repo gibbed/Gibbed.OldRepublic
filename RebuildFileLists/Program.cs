@@ -124,7 +124,7 @@ namespace RebuildFileLists
 
             Console.WriteLine("Searching for archives...");
             var inputPaths = Directory.GetFiles(
-                installPath, "*.tor", SearchOption.AllDirectories);
+                Path.Combine(installPath, "Assets"), "*.tor", SearchOption.AllDirectories);
 
             var outputPaths = new List<string>();
 
@@ -149,7 +149,7 @@ namespace RebuildFileLists
 
                 outputPaths.Add(outputPath);
 
-                var archive = new ArchiveFile();
+                var archive = new MythicArchiveFile();
 
                 if (File.Exists(inputPath + ".bak") == true)
                 {

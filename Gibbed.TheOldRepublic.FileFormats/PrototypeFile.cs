@@ -20,10 +20,9 @@
  *    distribution.
  */
 
-using System.Text;
 using System;
-using System.Collections.Generic;
 using System.IO;
+using System.Text;
 using Gibbed.IO;
 
 namespace Gibbed.TheOldRepublic.FileFormats

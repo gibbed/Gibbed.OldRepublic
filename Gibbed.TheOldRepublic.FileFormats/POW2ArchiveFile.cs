@@ -21,41 +21,38 @@
  */
 
 using System;
+using System.Collections.Generic;
 using System.IO;
 using Gibbed.IO;
 
 namespace Gibbed.TheOldRepublic.FileFormats
 {
-    public class DataBlob
+    public class POW2ArchiveFile
     {
-        public ushort Flags;
+        public Endian Endian;
 
-        public byte UnknownSetting
+        public void Serialize(Stream output)
         {
-            get { return (byte)((this.Flags >> 3) & 0xF); }
-            set
+            throw new FormatException();
+        }
+
+        public void Deserialize(Stream input)
+        {
+            var magic = input.ReadValueU32(Endian.Little);
+            if (magic != 0x32574F50 &&
+                magic.Swap() != 0x32574F50) // 'POW2'
             {
-                this.Flags &= 0xFF87; // ~(0xFu << 3)
-                this.Flags |= (ushort)((value & 0xFu) << 3);
+                throw new FormatException("bad magic");
             }
-        }
+            var endian = magic == 0x32574F50 ? Endian.Little : Endian.Big;
 
-        public void Serialize(MemoryStream output, Endian endian)
-        {
+            var headerSize = input.ReadValueU32(endian);
+            if (headerSize != 72)
+            {
+                throw new FormatException();
+            }
+
             throw new NotImplementedException();
-        }
-
-        public void Deserialize(MemoryStream input, Endian endian)
-        {
-            var start = input.Position;
-            var length = input.ReadValueU32(endian);
-            var end = start + length;
-
-            var unknown04 = input.ReadValueU32(endian);
-            var unknown08 = input.ReadValueU64(endian);
-            this.Flags = input.ReadValueU16(endian);
-
-            var dataOffset = input.ReadValueU16(endian);
         }
     }
 }
