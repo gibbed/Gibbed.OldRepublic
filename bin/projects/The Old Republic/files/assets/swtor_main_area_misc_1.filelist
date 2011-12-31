@@ -1,4 +1,4 @@
-; 4872/5536 (88%)
+; 4873/5536 (88%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -4295,6 +4295,7 @@
 /resources/world/areas/4611686033507370314/map_int_esseles_hangar_b_r.dds
 /resources/world/areas/4611686033507370314/map_int_esseles_passenger_deck_r.dds
 /resources/world/areas/4611686033507370314/map_int_esseles_port_wing_r.dds
+/resources/world/areas/4611686033507370314/mapnotes.not
 /resources/world/areas/4611686033507370314/minimaps/map_int_emperors_glory_detention_level_00_00_r.dds
 /resources/world/areas/4611686033507370314/minimaps/map_int_emperors_glory_detention_level_00_01_r.dds
 /resources/world/areas/4611686033507370314/minimaps/map_int_emperors_glory_engineering_deck_00_00_r.dds

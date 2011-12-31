@@ -1,4 +1,4 @@
-; 239/244 (97%)
+; 244/244 (100%)
 /resources/en-us/bnk2/cnv_location_universal_imperial_flight_commander.acb
 /resources/en-us/bnk2/cnv_location_universal_republic_comm_sergeant.acb
 /resources/en-us/bnk2/cnv_location_universal_republic_flight_commander.acb
@@ -52,13 +52,18 @@
 /resources/en-us/bnk2/cnv_misc_generic_lines_bounty_hunter_f.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_bounty_hunter_m.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_jedi_knight_f.acb
+/resources/en-us/bnk2/cnv_misc_generic_lines_jedi_knight_m.acb
+/resources/en-us/bnk2/cnv_misc_generic_lines_jedi_wizard_f.acb
+/resources/en-us/bnk2/cnv_misc_generic_lines_jedi_wizard_m.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_sith_sorcerer_f.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_sith_sorcerer_m.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_sith_warrior_f.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_sith_warrior_m.acb
+/resources/en-us/bnk2/cnv_misc_generic_lines_smuggler_f.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_smuggler_m.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_spy_f.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_spy_m.acb
+/resources/en-us/bnk2/cnv_misc_generic_lines_trooper_f.acb
 /resources/en-us/bnk2/cnv_misc_generic_lines_trooper_m.acb
 /resources/en-us/bnk2/cnv_misc_pvp_general.acb
 /resources/en-us/bnk2/cnv_misc_pvp_killstreaks.acb
