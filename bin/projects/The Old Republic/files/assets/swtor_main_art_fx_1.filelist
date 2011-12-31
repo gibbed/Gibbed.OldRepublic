@@ -1,4 +1,4 @@
-; 18005/22915 (78%)
+; 18057/22915 (78%)
 /resources/art/defaultassets/white.dds
 /resources/art/defaultassets/white.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_mini_a01_v01_d.dds
@@ -278,6 +278,7 @@
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_forceslam_caster_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_forceslam_debris_cast_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_forceslam_snare_01.fxspec
+/resources/art/fx/fxspec/abilities/jedi_consular/jc_forceslam_target_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_forcevalor_cast_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_forcevalor_handcast_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_hemorrhage_debuff.fxspec
@@ -289,6 +290,7 @@
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_lowslash_impact_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_lunge_saber.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_meditation.fxspec
+/resources/art/fx/fxspec/abilities/jedi_consular/jc_mental_alacrity_proc.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_mentalblock.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_mentalblock_cast.fxspec
 /resources/art/fx/fxspec/abilities/jedi_consular/jc_mind_trick_stealth.fxspec
@@ -362,6 +364,7 @@
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_cycloneattack_cast_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_cycloneattack_target_01.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_disable_snare.fxspec
+/resources/art/fx/fxspec/abilities/jedi_knight/jk_distraction_target_debuff.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_enure_buff.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_enure_cast.fxspec
 /resources/art/fx/fxspec/abilities/jedi_knight/jk_exhaustion_cast.fxspec
@@ -1077,6 +1080,8 @@
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_darksidepower_normal_loop_01.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_darksidepower_normal_loop_06.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_darksidepower_normal_loop_07.fxspec
+/resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_darksidepower_normal_loop_08.fxspec
+/resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_darksidepower_normal_loop_09.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_darksidepower_normal_loop_11.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_darksidepower_normal_loop_14.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_electricity_normal_loop_01.fxspec
@@ -1084,6 +1089,7 @@
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_electricity_normal_loop_04.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_electricity_normal_loop_05.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_electricity_normal_loop_06.fxspec
+/resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_electricity_normal_loop_13.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_electricity_normal_loop_14.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_electricity_normal_loop_15.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_electricity_normal_loop_16.fxspec
@@ -1131,6 +1137,7 @@
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_tech_normal_loop_14.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_tech_normal_loop_17.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_tech_normal_loop_18.fxspec
+/resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_tech_normal_loop_19.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_tech_normal_loop_20.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_tech_normal_loop_22.fxspec
 /resources/art/fx/fxspec/cinematics/audio_dummies/sfx_cine_tech_normal_loop_24.fxspec
@@ -1159,14 +1166,18 @@
 /resources/art/fx/fxspec/cinematics/environments/all/cine_storage_crate_closing.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/cine_storage_crate_opening.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/field_holo_hover.fxspec
+/resources/art/fx/fxspec/cinematics/environments/all/field_holo_hover_phonebooth.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/field_holo_rise_hover.fxspec
+/resources/art/fx/fxspec/cinematics/environments/all/field_holo_rise_hover_phonebooth.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_1_to_1.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_1_to_1_char_spawn.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_cell.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_cell_char_spawn.fxspec
+/resources/art/fx/fxspec/cinematics/environments/all/holocall_cell_char_spawn_hand.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_cell_static.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_cell_static_hand.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_large_2_point_5_char_spawn.fxspec
+/resources/art/fx/fxspec/cinematics/environments/all/holocall_large_2_point_5_scale.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_large_2_point_5_static.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_phonebooth.fxspec
 /resources/art/fx/fxspec/cinematics/environments/all/holocall_phonebooth_45.fxspec
@@ -1194,13 +1205,17 @@
 /resources/art/fx/fxspec/cinematics/force_ghost_projector.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_electricity_body_arcs_looping.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_eye_glow_purple.fxspec
+/resources/art/fx/fxspec/cinematics/force_powers/all_eye_glow_red.fxspec
+/resources/art/fx/fxspec/cinematics/force_powers/all_eye_glow_yellow.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_force_fear_cast.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_forcechoke_cast_rhand.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_forcechoke_small_for_cine.fxspec
+/resources/art/fx/fxspec/cinematics/force_powers/all_forcelightning_lefthanded_purple.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_forcelightning_massive_01.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_forcelightning_onehanded_blue.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_forcelightning_onehanded_purple.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_forcelightning_target_impacts.fxspec
+/resources/art/fx/fxspec/cinematics/force_powers/all_forcelightning_target_impacts_huge.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_forcelightning_target_massive_impacts.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_forcelightning_twohanded_purple.fxspec
 /resources/art/fx/fxspec/cinematics/force_powers/all_forcepush_cast.fxspec
@@ -1215,6 +1230,7 @@
 /resources/art/fx/fxspec/cinematics/held_items/cin_item_pda_lefthand.fxspec
 /resources/art/fx/fxspec/cinematics/held_items/cin_item_pda_posture.fxspec
 /resources/art/fx/fxspec/cinematics/held_items/cin_item_pda_righthand.fxspec
+/resources/art/fx/fxspec/cinematics/held_items/cin_item_rifle_righthand.fxspec
 /resources/art/fx/fxspec/cinematics/held_items/cin_item_sm_shiv_knife.fxspec
 /resources/art/fx/fxspec/cinematics/held_items/revan_mask.fxspec
 /resources/art/fx/fxspec/cinematics/lightsaber_hums/sfx_cine_lightsaberhum_normal_loop_01.fxspec
@@ -1233,6 +1249,7 @@
 /resources/art/fx/fxspec/cinematics/location/ord_mantell/trooper/cine_trooper_ord_intro_walkerdoor01.fxspec
 /resources/art/fx/fxspec/cinematics/location/taris_imperial/warrior/cine_warrior_tar2_droidelevator03_transformcaster.fxspec
 /resources/art/fx/fxspec/cinematics/melee_attacks/cin_lightsaber_impact.fxspec
+/resources/art/fx/fxspec/cinematics/nonforce_powers/carbonize_target_end.fxspec
 /resources/art/fx/fxspec/cinematics/nonforce_powers/carbonize_target_start.fxspec
 /resources/art/fx/fxspec/cinematics/nonforce_powers/cine_droid_tech_scan.fxspec
 /resources/art/fx/fxspec/cinematics/nonforce_powers/cine_probe_droid_scan.fxspec
@@ -1244,6 +1261,7 @@
 /resources/art/fx/fxspec/cinematics/saber_forge/cine_forgeguardian_rock_impact.fxspec
 /resources/art/fx/fxspec/cinematics/saber_forge/cine_forgeguardian_rock_static.fxspec
 /resources/art/fx/fxspec/cinematics/saber_forge/cine_forgeguardian_rock_thrown.fxspec
+/resources/art/fx/fxspec/consular_meditation_body_glow.fxspec
 /resources/art/fx/fxspec/consular_shield_body.fxspec
 /resources/art/fx/fxspec/conversation/cin_security_laser_blue.fxspec
 /resources/art/fx/fxspec/conversation/confirmation_checkmark_green.fxspec
@@ -1273,6 +1291,7 @@
 /resources/art/fx/fxspec/creatures/droids/mining_droid_laser_flash.fxspec
 /resources/art/fx/fxspec/creatures/droids/mining_droid_projectile.fxspec
 /resources/art/fx/fxspec/creatures/droids/mining_droid_projectile_deflected.fxspec
+/resources/art/fx/fxspec/creatures/generic_impacts/bormu_giant_special_attack.fxspec
 /resources/art/fx/fxspec/creatures/generic_impacts/cr_bite_impact_large_crit.fxspec
 /resources/art/fx/fxspec/creatures/generic_impacts/cr_bite_impact_medium.fxspec
 /resources/art/fx/fxspec/creatures/generic_impacts/cr_bite_impact_medium_crit.fxspec
@@ -1300,6 +1319,7 @@
 /resources/art/fx/fxspec/creatures/rakatas/rk_force_grenade_individual_target.fxspec
 /resources/art/fx/fxspec/creatures/rakatas/rk_force_pushback_hand.fxspec
 /resources/art/fx/fxspec/creatures/rakatas/rk_force_pushback_projectile.fxspec
+/resources/art/fx/fxspec/creatures/rakatas/rk_shock_force.fxspec
 /resources/art/fx/fxspec/creatures/rakghoul/rg_boss_spit_fakeprojectile_impact.fxspec
 /resources/art/fx/fxspec/cryochamber.fxspec
 /resources/art/fx/fxspec/dynamic_saber_sparks_01.fxspec
@@ -1456,7 +1476,9 @@
 /resources/art/fx/fxspec/env_tyt_mist.fxspec
 /resources/art/fx/fxspec/env_tyt_mushroom_glow_01.fxspec
 /resources/art/fx/fxspec/env_tyt_mushroom_glow_02.fxspec
+/resources/art/fx/fxspec/env_tyt_projector.fxspec
 /resources/art/fx/fxspec/env_tyt_rainbow.fxspec
+/resources/art/fx/fxspec/env_vos_ambient_fog.fxspec
 /resources/art/fx/fxspec/environments/alderaan/env_ald_blowingleaves_01.fxspec
 /resources/art/fx/fxspec/environments/alderaan/env_ald_bombingrun_explosion_01.fxspec
 /resources/art/fx/fxspec/environments/alderaan/env_ald_bubble_rush.fxspec
@@ -1512,6 +1534,7 @@
 /resources/art/fx/fxspec/environments/all/env_all_elevator_sparks_01.fxspec
 /resources/art/fx/fxspec/environments/all/env_all_elevator_sparks_02.fxspec
 /resources/art/fx/fxspec/environments/all/env_all_falling_dust_cycle.fxspec
+/resources/art/fx/fxspec/environments/all/env_all_falling_dust_cycle_02.fxspec
 /resources/art/fx/fxspec/environments/all/env_all_forcefield_conveyor_red.fxspec
 /resources/art/fx/fxspec/environments/all/env_all_generator_glow.fxspec
 /resources/art/fx/fxspec/environments/all/env_all_holo_projector.fxspec
@@ -1633,6 +1656,7 @@
 /resources/art/fx/fxspec/environments/belsavis/env_bel_damaged_sparks_02.fxspec
 /resources/art/fx/fxspec/environments/belsavis/env_bel_holo_planet.fxspec
 /resources/art/fx/fxspec/environments/belsavis/env_bel_lava_burst_01.fxspec
+/resources/art/fx/fxspec/environments/belsavis/env_bel_lava_evaporating_water.fxspec
 /resources/art/fx/fxspec/environments/belsavis/env_bel_lava_steam_01.fxspec
 /resources/art/fx/fxspec/environments/belsavis/env_bel_light_volumes_01.fxspec
 /resources/art/fx/fxspec/environments/belsavis/env_bel_lightsaber_damage_rand.fxspec
@@ -1642,6 +1666,8 @@
 /resources/art/fx/fxspec/environments/belsavis/env_bel_prison_forcefield_02.fxspec
 /resources/art/fx/fxspec/environments/belsavis/env_bel_prison_holder_glow_01.fxspec
 /resources/art/fx/fxspec/environments/belsavis/env_bel_skybox_noctilucent_clouds_01.fxspec
+/resources/art/fx/fxspec/environments/belsavis/env_bel_teleporter_arm.fxspec
+/resources/art/fx/fxspec/environments/belsavis/env_bel_teleporter_lightning.fxspec
 /resources/art/fx/fxspec/environments/belsavis/env_narrow_light_ray.fxspec
 /resources/art/fx/fxspec/environments/belsavis/sky_bel_spacegarage_planet.fxspec
 /resources/art/fx/fxspec/environments/belsavis/sky_bel_sun_01.fxspec
@@ -1714,6 +1740,7 @@
 /resources/art/fx/fxspec/environments/dromund/env_dro_footpath.fxspec
 /resources/art/fx/fxspec/environments/dromund/env_dro_general_fog.fxspec
 /resources/art/fx/fxspec/environments/dromund/env_dro_general_fog_sm.fxspec
+/resources/art/fx/fxspec/environments/dromund/env_dro_holotable_glows.fxspec
 /resources/art/fx/fxspec/environments/dromund/env_dro_imperial_logo.fxspec
 /resources/art/fx/fxspec/environments/dromund/env_dro_lightning_core.fxspec
 /resources/art/fx/fxspec/environments/dromund/env_dro_lightning_machine.fxspec
@@ -1761,6 +1788,7 @@
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_planet_sprite_02.fxspec
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_planet_taris.fxspec
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_planet_tatooine.fxspec
+/resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_planet_voss.fxspec
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_player_indicator.fxspec
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_roll_over_region_01.fxspec
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_roll_over_region_02.fxspec
@@ -1777,6 +1805,7 @@
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_spacestation_alone.fxspec
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_spinning_bottom_layer.fxspec
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_stars.fxspec
+/resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_veh_imp_transport_pvp.fxspec
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_zoom_dark.fxspec
 /resources/art/fx/fxspec/environments/galaxy_map/fx_gal_map_zoom_glow.fxspec
 /resources/art/fx/fxspec/environments/hoth/env_hot_bridge_window_snow_01.fxspec
@@ -2111,10 +2140,14 @@
 /resources/art/fx/fxspec/environments/tython/sky_tyt_moon_02.fxspec
 /resources/art/fx/fxspec/environments/tython/sky_tyt_noctilucent_clouds_01.fxspec
 /resources/art/fx/fxspec/environments/tython/sky_tyt_sun_01.fxspec
+/resources/art/fx/fxspec/environments/voss/env_vos_dockingbay_planet.fxspec
 /resources/art/fx/fxspec/environments/voss/env_vos_generator_electric_01.fxspec
 /resources/art/fx/fxspec/environments/voss/env_vos_gormak_cannon_charge_01.fxspec
+/resources/art/fx/fxspec/environments/voss/env_vos_holo_planet.fxspec
 /resources/art/fx/fxspec/environments/voss/env_vos_nightmare_groundfog_01.fxspec
 /resources/art/fx/fxspec/environments/voss/env_voss_green_light.fxspec
+/resources/art/fx/fxspec/environments/voss/sky_vos_overhead_clouds_01.fxspec
+/resources/art/fx/fxspec/environments/voss/sky_voss_moon_01.fxspec
 /resources/art/fx/fxspec/expl_liquid_blue_medium_ground.fxspec
 /resources/art/fx/fxspec/force_field_amber.fxspec
 /resources/art/fx/fxspec/force_field_amber_lightning.fxspec
@@ -2168,10 +2201,12 @@
 /resources/art/fx/fxspec/green_blinking_light_small.fxspec
 /resources/art/fx/fxspec/green_infoconsole.fxspec
 /resources/art/fx/fxspec/green_solid_light_small.fxspec
+/resources/art/fx/fxspec/hatred_hand_eye_glows.fxspec
 /resources/art/fx/fxspec/holding_mousedroid.fxspec
 /resources/art/fx/fxspec/imp_large_forcefield_blue.fxspec
 /resources/art/fx/fxspec/imptrans_bootlock_e3.fxspec
 /resources/art/fx/fxspec/imptrans_reptransport_engine_no_offset.fxspec
+/resources/art/fx/fxspec/items/all_datacron_01.fxspec
 /resources/art/fx/fxspec/items/all_datacron_agility.fxspec
 /resources/art/fx/fxspec/items/all_datacron_cunning.fxspec
 /resources/art/fx/fxspec/items/all_datacron_endurance.fxspec
@@ -2464,6 +2499,7 @@
 /resources/art/fx/fxspec/vehicles/mount_neu_model_b_scheme_03.fxspec
 /resources/art/fx/fxspec/vehicles/mount_neu_model_ddx.fxspec
 /resources/art/fx/fxspec/vehicles/mount_neu_model_e_scheme_01.fxspec
+/resources/art/fx/fxspec/vehicles/mount_neu_model_e_scheme_03.fxspec
 /resources/art/fx/fxspec/vehicles/mount_rep_model_c_scheme_02.fxspec
 /resources/art/fx/fxspec/vehicles/mount_rep_model_c_scheme_03.fxspec
 /resources/art/fx/fxspec/vehicles/mount_rep_model_c_scheme_04.fxspec
@@ -2792,6 +2828,7 @@
 /resources/art/fx/fxspec/worlddesign/idle_epp_props/handheld_map_panel_01.fxspec
 /resources/art/fx/fxspec/worlddesign/idle_epp_props/handheld_map_panel_02.fxspec
 /resources/art/fx/fxspec/worlddesign/idle_epp_props/handheld_map_panel_03.fxspec
+/resources/art/fx/fxspec/worlddesign/idle_epp_props/holocom_empty_right_hand.fxspec
 /resources/art/fx/fxspec/worlddesign/idle_epp_props/holocom_person_right_hand.fxspec
 /resources/art/fx/fxspec/worlddesign/idle_epp_props/holocom_planet_right_hand.fxspec
 /resources/art/fx/fxspec/worlddesign/idle_epp_props/holocom_speeder_right_hand.fxspec
@@ -3000,6 +3037,7 @@
 /resources/art/fx/geometry/all/fx_rappel_clip.gr2
 /resources/art/fx/geometry/all/fx_rappel_hook.gr2
 /resources/art/fx/geometry/all/fx_ring_deactivate.gr2
+/resources/art/fx/geometry/all/fx_security_beam_blue.gr2
 /resources/art/fx/geometry/all/fx_sphere_piece_explode.gr2
 /resources/art/fx/geometry/all/fx_splatter_plane_01.gr2
 /resources/art/fx/geometry/all/fx_splatter_plane_02.gr2
@@ -3555,6 +3593,7 @@
 /resources/art/fx/geometry/env_bal_forcefield_sobrik.gr2
 /resources/art/fx/geometry/env_hut_splash_01.gr2
 /resources/art/fx/geometry/env_imp_holoship_x.gr2
+/resources/art/fx/geometry/env_lava_blobs_01.gr2
 /resources/art/fx/geometry/env_lava_fall_02.gr2
 /resources/art/fx/geometry/env_plain_plane.gr2
 /resources/art/fx/geometry/env_plane_aqua.gr2
@@ -5856,6 +5895,8 @@
 /resources/art/fx/particles/char_select_milky_way_p.prt
 /resources/art/fx/particles/char_select_moon_01.prt
 /resources/art/fx/particles/char_select_moon_01_p.prt
+/resources/art/fx/particles/char_select_planet_glow.prt
+/resources/art/fx/particles/char_select_planet_glow_p.prt
 /resources/art/fx/particles/char_select_planet_rotator_01.prt
 /resources/art/fx/particles/char_select_planet_rotator_02.prt
 /resources/art/fx/particles/char_select_planet_rotator_03.prt
@@ -6961,6 +7002,8 @@
 /resources/art/fx/particles/env_bel_republic_icon_p.prt
 /resources/art/fx/particles/env_bel_rising_lava_heat_01.prt
 /resources/art/fx/particles/env_bel_rising_lava_heat_01_p.prt
+/resources/art/fx/particles/env_bel_teleporter_streaks.prt
+/resources/art/fx/particles/env_bel_teleporter_streaks_p.prt
 /resources/art/fx/particles/env_blaster_rot_dummy.prt
 /resources/art/fx/particles/env_campfire_core.prt
 /resources/art/fx/particles/env_campfire_core_p.prt
@@ -8404,6 +8447,10 @@
 /resources/art/fx/particles/fx_env_tar_flying_creature_01_p.prt
 /resources/art/fx/particles/fx_env_tat_flying_creature_01.prt
 /resources/art/fx/particles/fx_env_tat_flying_creature_01_p.prt
+/resources/art/fx/particles/fx_env_vos_dockingbay_planet.prt
+/resources/art/fx/particles/fx_env_vos_dockingbay_planet_p.prt
+/resources/art/fx/particles/fx_env_vos_fog.prt
+/resources/art/fx/particles/fx_env_vos_fog_p.prt
 /resources/art/fx/particles/fx_expanding_dust_cycle.prt
 /resources/art/fx/particles/fx_expanding_dust_cycle_p.prt
 /resources/art/fx/particles/fx_explosion_cloud_cycle.prt
@@ -16741,6 +16788,8 @@
 /resources/art/fx/texture/gradient/fx_transparent_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_d.tex
 /resources/art/fx/texture/gradient/fx_transparent_d.tiny.dds
+/resources/art/fx/texture/gradient/hotedge_blurred_gradient.dds
+/resources/art/fx/texture/gradient/hotedge_blurred_gradient.tex
 /resources/art/fx/texture/gradient/proj_line_swipe_grad.dds
 /resources/art/fx/texture/gradient/proj_line_swipe_grad.tex
 /resources/art/fx/texture/gradient/scanlines_blurred_wrap.dds
@@ -17143,6 +17192,8 @@
 /resources/art/fx/texture/sky/fx_skybox_tython_sun_01.dds
 /resources/art/fx/texture/sky/fx_skybox_voss_moon_02.dds
 /resources/art/fx/texture/sky/fx_skybox_voss_moonrings_01.dds
+/resources/art/fx/texture/sky/fx_skybox_voss_noctilucent_01.dds
+/resources/art/fx/texture/sky/fx_skybox_voss_noctilucent_01.tex
 /resources/art/fx/texture/sky/fx_skybox_voss_sun_01.dds
 /resources/art/fx/texture/sky/hutta_moon_lights_02.dds
 /resources/art/fx/texture/sky/hutta_moon_lights_02.tex
@@ -17810,6 +17861,7 @@
 /resources/art/shaders/materials/fx_ring_deactivate.mat
 /resources/art/shaders/materials/fx_rocket_launcher_sight.mat
 /resources/art/shaders/materials/fx_saber_low02_thrown.mat
+/resources/art/shaders/materials/fx_security_beam_blue.mat
 /resources/art/shaders/materials/fx_shockwave_sphere.mat
 /resources/art/shaders/materials/fx_si_backlash_partialshieldcentered.mat
 /resources/art/shaders/materials/fx_si_black_wisp_01.mat

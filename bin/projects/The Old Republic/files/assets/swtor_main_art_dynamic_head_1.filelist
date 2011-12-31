@@ -1,4 +1,4 @@
-; 12780/19795 (64%)
+; 12826/19795 (64%)
 /resources/art/dynamic/eyecolor/index.xml
 /resources/art/dynamic/face/index.xml
 /resources/art/dynamic/face/model/face_bhgoggles01_bfa_archetype.gr2
@@ -90,6 +90,8 @@
 /resources/art/dynamic/face/model/face_bhhelmet05_bfa_heavy_bh_a06_antenna.lod.gr2
 /resources/art/dynamic/face/model/face_bhhelmet05_bmn_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_bhhelmet05_bmn_heavy_bh_a06_antenna.lod.gr2
+/resources/art/dynamic/face/model/face_bhhelmet05_bms_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_bhhelmet05_bms_heavy_bh_a06_antenna.lod.gr2
 /resources/art/dynamic/face/model/face_bhhelmet06_bms_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_bhhelmet06_bms_heavy_bh_a04_tubes.lod.gr2
 /resources/art/dynamic/face/model/face_bhhelmet08_bfa_archetype.lod.gr2
@@ -305,6 +307,8 @@
 /resources/art/dynamic/face/model/face_gehelmet19_bmf_heavy_ge_a24_fin.lod.gr2
 /resources/art/dynamic/face/model/face_gehelmet19_bmn_heavy_ge_a24_fin.lod.gr2
 /resources/art/dynamic/face/model/face_gehelmet19_bms_heavy_ge_a24_fin.lod.gr2
+/resources/art/dynamic/face/model/face_gehelmet20_bfa_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_gehelmet20_bma_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_gehelmet20_bms_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_gehelmet21_bfa_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_gehelmet21_bfa_light_ge_a21_flair.lod.gr2
@@ -463,6 +467,7 @@
 /resources/art/dynamic/face/model/face_spgoggles01_bfa_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_spgoggles01_bfn_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_spgoggles01_bma_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_spgoggles01_bmf_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_spgoggles01_bmn_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_sphelmet02_bfa_archetype.gr2
 /resources/art/dynamic/face/model/face_sphelmet02_bfa_archetype.lod.gr2
@@ -571,12 +576,20 @@
 /resources/art/dynamic/face/model/face_sscirclet02_bmn_ss_h02_jewel.lod.gr2
 /resources/art/dynamic/face/model/face_sscirclet02_bms_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_sscirclet02_bms_ss_h02_jewel.lod.gr2
+/resources/art/dynamic/face/model/face_sshelmet01_bfa_archetype.gr2
+/resources/art/dynamic/face/model/face_sshelmet01_bfa_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_sshelmet01_bfn_archetype.gr2
 /resources/art/dynamic/face/model/face_sshelmet01_bfn_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_sshelmet01_bfn_light_ss_a04_head.gr2
 /resources/art/dynamic/face/model/face_sshelmet01_bfn_light_ss_a04_head.lod.gr2
 /resources/art/dynamic/face/model/face_sshelmet01_bmf_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_sshelmet01_bmf_light_ss_a04_head.lod.gr2
+/resources/art/dynamic/face/model/face_sshelmet01_bmn_archetype.gr2
 /resources/art/dynamic/face/model/face_sshelmet01_bmn_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_sshelmet01_bmn_light_ss_a04_head.gr2
 /resources/art/dynamic/face/model/face_sshelmet01_bmn_light_ss_a04_head.lod.gr2
+/resources/art/dynamic/face/model/face_sshelmet01_bms_archetype.gr2
+/resources/art/dynamic/face/model/face_sshelmet01_bms_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_sshelmet02_bfn_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_sshelmet02_bmn_archetype.gr2
 /resources/art/dynamic/face/model/face_sshelmet02_bmn_archetype.lod.gr2
@@ -589,6 +602,7 @@
 /resources/art/dynamic/face/model/face_sshelmet04_bma_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_sshelmet04_bmf_archetype.gr2
 /resources/art/dynamic/face/model/face_sshelmet04_bmf_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_sshelmet04_bmf_light_ss_a05_hat.lod.gr2
 /resources/art/dynamic/face/model/face_sshelmet04_bmn_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_sshelmet04_bmn_light_ss_a05_hat.lod.gr2
 /resources/art/dynamic/face/model/face_sshelmet04_bms_archetype.gr2
@@ -603,6 +617,7 @@
 /resources/art/dynamic/face/model/face_ssmask01_bfn_light_ss_a02_grill.lod.gr2
 /resources/art/dynamic/face/model/face_ssmask01_bma_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_ssmask01_bmf_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_ssmask01_bmn_archetype.gr2
 /resources/art/dynamic/face/model/face_ssmask01_bmn_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_ssmask01_bmn_light_ss_a02_grill.lod.gr2
 /resources/art/dynamic/face/model/face_ssmask01_bms_archetype.lod.gr2
@@ -617,7 +632,9 @@
 /resources/art/dynamic/face/model/face_ssneck01_bfs_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_ssneck01_bfs_light_ss_a05_ear.lod.gr2
 /resources/art/dynamic/face/model/face_ssneck01_bma_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_ssneck01_bmf_archetype.gr2
 /resources/art/dynamic/face/model/face_ssneck01_bmf_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_ssneck01_bmf_light_ss_a05_ear.gr2
 /resources/art/dynamic/face/model/face_ssneck01_bmf_light_ss_a05_ear.lod.gr2
 /resources/art/dynamic/face/model/face_ssneck01_bmn_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_ssneck01_bmn_light_ss_a05_ear.lod.gr2
@@ -714,6 +731,7 @@
 /resources/art/dynamic/face/model/face_swmask04_bfs_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_swmask04_bma_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_swmask04_bmf_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_swmask04_bmn_archetype.gr2
 /resources/art/dynamic/face/model/face_swmask04_bmn_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_swmask04_bms_archetype.lod.gr2
 /resources/art/dynamic/face/model/face_trhelmet01_bfa_archetype.lod.gr2
@@ -757,6 +775,7 @@
 /resources/art/dynamic/face/model/face_trhelmet07_bmf_heavy_tr_a03_fin.lod.gr2
 /resources/art/dynamic/face/model/face_trhelmet07_bmn_archetype.gr2
 /resources/art/dynamic/face/model/face_trhelmet07_bmn_archetype.lod.gr2
+/resources/art/dynamic/face/model/face_trhelmet07_bmn_heavy_tr_a02_flap.gr2
 /resources/art/dynamic/face/model/face_trhelmet07_bmn_heavy_tr_a02_flap.lod.gr2
 /resources/art/dynamic/face/model/face_trhelmet07_bmn_heavy_tr_a03_fin.lod.gr2
 /resources/art/dynamic/face/model/face_trhelmet07_bms_archetype.lod.gr2
@@ -905,6 +924,7 @@
 /resources/art/dynamic/facehair/model/facehair_human_bfb_caucasian_sp_cyber03_eye.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfb_caucasian_sp_cyber03_side.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfb_caucasian_sw_cyber02_side01.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bfb_caucasian_sw_cyber04_front.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfn_african_sm_cyber02_bottom.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfn_african_sp_cyber03_brow.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bfn_african_sp_cyber03_cheek.gr2
@@ -1315,6 +1335,7 @@
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber03_sideburns.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber03_top.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber03_top.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber04_bottom.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber04_bottom.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber04_front.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bmn_caucasian_sm_cyber04_front.lod.gr2
@@ -1366,6 +1387,8 @@
 /resources/art/dynamic/facehair/model/facehair_human_bms_african_sp_cyber01_ear.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_african_sp_cyber01_glasses.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_african_sp_cyber02_glasses.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_african_sp_cyber03_brow.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_african_sp_cyber03_ear.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_african_sw_cyber01_bottom.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_african_sw_cyber01_bottom.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_african_sw_cyber01_top.gr2
@@ -1400,6 +1423,8 @@
 /resources/art/dynamic/facehair/model/facehair_human_bms_asian_sp_cyber03_ear.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_asian_sp_cyber03_eye.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_asian_sp_cyber03_side.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_asian_sw_cyber01_bottom.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_asian_sw_cyber01_top.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_asian_sw_cyber02_front.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_asian_sw_cyber02_side01.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_asian_sw_cyber02_side02.lod.gr2
@@ -1450,6 +1475,10 @@
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sm_cyber03_beard.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sm_cyber03_sideburns.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sm_cyber03_top.lod.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sm_cyber04_bottom.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sm_cyber04_front.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sm_cyber04_stache.gr2
+/resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sm_cyber04_top.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sp_cyber01_ear.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sp_cyber01_ear.lod.gr2
 /resources/art/dynamic/facehair/model/facehair_human_bms_caucasian_sp_cyber01_glasses.lod.gr2
@@ -1739,6 +1768,7 @@
 /resources/art/dynamic/hair/model/hair_cathar_bms_a01_base.gr2
 /resources/art/dynamic/hair/model/hair_cathar_bms_a01_base.lod.gr2
 /resources/art/dynamic/hair/model/hair_cathar_bms_a01_beard.gr2
+/resources/art/dynamic/hair/model/hair_cathar_bms_a01_beard.lod.gr2
 /resources/art/dynamic/hair/model/hair_evocii_bfa_non_a01.gr2
 /resources/art/dynamic/hair/model/hair_evocii_bfa_non_a01.lod.gr2
 /resources/art/dynamic/hair/model/hair_evocii_bfa_non_a02.gr2
@@ -2159,6 +2189,7 @@
 /resources/art/dynamic/hair/model/hair_human_bmf_non_a04_length.gr2
 /resources/art/dynamic/hair/model/hair_human_bmf_non_a04_length.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bmf_non_a04_longlength.gr2
+/resources/art/dynamic/hair/model/hair_human_bmf_non_a04_longlength.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bmf_non_a05.gr2
 /resources/art/dynamic/hair/model/hair_human_bmf_non_a05.lod.gr2
 /resources/art/dynamic/hair/model/hair_human_bmf_non_a05_bangs.gr2
@@ -2569,6 +2600,8 @@
 /resources/art/dynamic/hair/model/hair_zabrakrep_bmn_non_a10_attach.gr2
 /resources/art/dynamic/hair/model/hair_zabrakrep_bms_non_a01_base.lod.gr2
 /resources/art/dynamic/hair/model/hair_zabrakrep_bms_non_a01_side.lod.gr2
+/resources/art/dynamic/hair/model/hair_zabrakrep_bms_non_a02_base.lod.gr2
+/resources/art/dynamic/hair/model/hair_zabrakrep_bms_non_a02_front.lod.gr2
 /resources/art/dynamic/hair/model/hair_zabrakrep_bms_non_a03_base.gr2
 /resources/art/dynamic/hair/model/hair_zabrakrep_bms_non_a03_base.lod.gr2
 /resources/art/dynamic/hair/model/hair_zabrakrep_bms_non_a03_front.gr2
@@ -3213,6 +3246,7 @@
 /resources/art/dynamic/head/model/head_nikto_bms_non_a02.lod.gr2
 /resources/art/dynamic/head/model/head_ongree_bma_non_a01.gr2
 /resources/art/dynamic/head/model/head_rakata_bma_non_a01.gr2
+/resources/art/dynamic/head/model/head_rakata_bma_non_a01.lod.gr2
 /resources/art/dynamic/head/model/head_rakata_bms_non_a01.gr2
 /resources/art/dynamic/head/model/head_rodian_bfa_non_a01.gr2
 /resources/art/dynamic/head/model/head_rodian_bfa_non_a01.lod.gr2
@@ -4112,10 +4146,12 @@
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith08_01_m.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith08_02_m.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith09_01_u.dds
+/resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith09_02_u.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith10_01_u.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith11_01_u.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith12_01_u.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith13_01_u.dds
+/resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith13_02_u.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith14_01_u.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith15_01_u.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_rattataki_non_sith15_02_u.dds
@@ -4284,6 +4320,7 @@
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith13_01_m.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith14_01_f.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith14_01_m.dds
+/resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith15_01_f.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith16_01_f.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith16_01_m.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_twilek_non_sith18_01_f.dds
@@ -4424,6 +4461,7 @@
 /resources/art/dynamic/player_character/face_customization/complexion/comp_zabrak_non_sith32_01_f.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_zabrak_non_sitheyebrow01_01_f.dds
 /resources/art/dynamic/player_character/face_customization/complexion/comp_zabrak_non_sitheyebrow01_01_m.dds
+/resources/art/dynamic/player_character/face_customization/complexion/comp_zabrak_non_sitheyebrow01_02_m.dds
 /resources/art/dynamic/player_character/face_customization/eye/eye_chiss_non_a01_c01_d.dds
 /resources/art/dynamic/player_character/face_customization/eye/eye_chiss_non_a01_c01_d.tex
 /resources/art/dynamic/player_character/face_customization/eye/eye_chiss_non_a01_c01_d.tiny.dds
@@ -11236,6 +11274,9 @@
 /resources/art/dynamic/player_character/twiliek/head/texture/___psd/head_twilek_bfs_asian_a01_v01_n.dds
 /resources/art/dynamic/player_character/twiliek/head/texture/___psd/head_twilek_bfs_asian_a01_v01_n.tex
 /resources/art/dynamic/player_character/twiliek/head/texture/___psd/head_twilek_bfs_asian_a01_v01_n.tiny.dds
+/resources/art/dynamic/player_character/twiliek/head/texture/___psd/head_twilek_bfs_asian_a01_v02_d.dds
+/resources/art/dynamic/player_character/twiliek/head/texture/___psd/head_twilek_bfs_asian_a01_v02_h.dds
+/resources/art/dynamic/player_character/twiliek/head/texture/___psd/head_twilek_bfs_asian_a01_v02_n.dds
 /resources/art/dynamic/player_character/twiliek/head/texture/___psd/head_twilek_bfs_asian_a01_v03_d.dds
 /resources/art/dynamic/player_character/twiliek/head/texture/___psd/head_twilek_bfs_asian_a01_v03_d.tex
 /resources/art/dynamic/player_character/twiliek/head/texture/___psd/head_twilek_bfs_asian_a01_v03_d.tiny.dds
@@ -11716,6 +11757,9 @@
 /resources/art/dynamic/player_character/twiliek/texture/___psd/hair_twilek_non_a07_v02_f_s.dds
 /resources/art/dynamic/player_character/twiliek/texture/___psd/hair_twilek_non_a07_v02_f_s.tex
 /resources/art/dynamic/player_character/twiliek/texture/___psd/hair_twilek_non_a07_v02_f_s.tiny.dds
+/resources/art/dynamic/player_character/voss/head/texture/___psd/head_voss_bfa_non_a03_v01_d.dds
+/resources/art/dynamic/player_character/voss/head/texture/___psd/head_voss_bfa_non_a03_v01_n.dds
+/resources/art/dynamic/player_character/voss/head/texture/___psd/head_voss_bfa_non_a03_v01_s.dds
 /resources/art/dynamic/player_character/zabrak/hair/texture/___psd/hair_zabrak_non_a05_v01_f_d.dds
 /resources/art/dynamic/player_character/zabrak/hair/texture/___psd/hair_zabrak_non_a05_v01_f_d.tex
 /resources/art/dynamic/player_character/zabrak/hair/texture/___psd/hair_zabrak_non_a05_v01_f_d.tiny.dds
@@ -12673,6 +12717,7 @@
 /resources/art/shaders/materials/head_twilek_bfs_african_a01_v01.mat
 /resources/art/shaders/materials/head_twilek_bfs_african_a01_v03.mat
 /resources/art/shaders/materials/head_twilek_bfs_asian_a01_v01.mat
+/resources/art/shaders/materials/head_twilek_bfs_asian_a01_v02.mat
 /resources/art/shaders/materials/head_twilek_bfs_asian_a01_v03.mat
 /resources/art/shaders/materials/head_twilek_bfs_asian_a01_v04.mat
 /resources/art/shaders/materials/head_twilek_bfs_caucasian_a01_v01.mat
@@ -12713,6 +12758,7 @@
 /resources/art/shaders/materials/head_twilek_bms_caucasian_a01_v02.mat
 /resources/art/shaders/materials/head_twilek_bms_caucasian_a01_v03.mat
 /resources/art/shaders/materials/head_twilek_bms_caucasian_a01_v04.mat
+/resources/art/shaders/materials/head_voss_bfa_non_a03_v01.mat
 /resources/art/shaders/materials/head_weequay_bms_non_a01_v01.mat
 /resources/art/shaders/materials/head_weequay_bms_non_a01_v02.mat
 /resources/art/shaders/materials/head_zabrakimp_african_a01c01_f.mat

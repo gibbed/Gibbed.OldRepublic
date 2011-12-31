@@ -1,4 +1,4 @@
-; 1579/2182 (72%)
+; 1608/2182 (73%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -478,6 +478,9 @@
 /resources/art/environmentmaps/z_shared/z_city_greebles.dds
 /resources/art/environmentmaps/z_shared/z_city_greebles.tex
 /resources/art/environmentmaps/z_shared/z_city_greebles.tiny.dds
+/resources/art/environmentmaps/z_shared/z_gormak.dds
+/resources/art/environmentmaps/z_shared/z_gormak.tex
+/resources/art/environmentmaps/z_shared/z_gormak.tiny.dds
 /resources/art/environmentmaps/z_shared/z_imp_techcave.dds
 /resources/art/environmentmaps/z_shared/z_imp_techcave.tex
 /resources/art/environmentmaps/z_shared/z_imp_techcave.tiny.dds
@@ -572,6 +575,8 @@
 /resources/art/lights/ambient_ald_killik_caves_test.tex
 /resources/art/lights/ambient_ald_thul.dds
 /resources/art/lights/ambient_ald_thul.tex
+/resources/art/lights/ambient_black.dds
+/resources/art/lights/ambient_black.tex
 /resources/art/lights/ambient_cor_justicar.dds
 /resources/art/lights/ambient_cor_justicar.tex
 /resources/art/lights/ambient_cor_market.dds
@@ -592,6 +597,8 @@
 /resources/art/lights/ambient_dro_imperial_interiors.tex
 /resources/art/lights/ambient_gormak.dds
 /resources/art/lights/ambient_gormak.tex
+/resources/art/lights/ambient_gormak_king.dds
+/resources/art/lights/ambient_gormak_king.tex
 /resources/art/lights/ambient_hth_dreadnaught_interior.dds
 /resources/art/lights/ambient_hth_dreadnaught_interior.tex
 /resources/art/lights/ambient_hth_icecave_interior.dds
@@ -642,6 +649,16 @@
 /resources/art/lights/ambient_tat_tunnel_warm.tex
 /resources/art/lights/ambient_tomb01.dds
 /resources/art/lights/ambient_tomb01.tex
+/resources/art/lights/ambient_voss_caves.dds
+/resources/art/lights/ambient_voss_caves.tex
+/resources/art/lights/ambient_voss_caves_creepy.dds
+/resources/art/lights/ambient_voss_caves_creepy.tex
+/resources/art/lights/ambient_voss_gormak.dds
+/resources/art/lights/ambient_voss_gormak.tex
+/resources/art/lights/ambient_voss_tombs.dds
+/resources/art/lights/ambient_voss_tombs.tex
+/resources/art/lights/ambient_voss_tombs_shrine_of_healing.dds
+/resources/art/lights/ambient_voss_tombs_shrine_of_healing.tex
 /resources/art/lights/andrew_test_fill.dds
 /resources/art/lights/andrew_test_fill.tex
 /resources/art/lights/andrew_test_fill2.dds
@@ -746,6 +763,8 @@
 /resources/art/lights/fill_000_100_098.tiny.dds
 /resources/art/lights/fill_011_091_083.dds
 /resources/art/lights/fill_011_091_083.tex
+/resources/art/lights/fill_011_091_83.dds
+/resources/art/lights/fill_011_091_83.tex
 /resources/art/lights/fill_011_092_091.dds
 /resources/art/lights/fill_011_092_091.tex
 /resources/art/lights/fill_011_092_091.tiny.dds
@@ -845,6 +864,8 @@
 /resources/art/lights/fill_dro_darktemple_yellow.tex
 /resources/art/lights/fill_gormak_blue.dds
 /resources/art/lights/fill_gormak_blue.tex
+/resources/art/lights/fill_gormak_orange.dds
+/resources/art/lights/fill_gormak_orange.tex
 /resources/art/lights/fill_hth_techcave_fire.dds
 /resources/art/lights/fill_hth_techcave_fire.tex
 /resources/art/lights/fill_hth_techcave_hot_omni.dds
@@ -882,6 +903,8 @@
 /resources/art/lights/fill_voss_tombs_bluefill.tex
 /resources/art/lights/fill_voss_tombs_green.dds
 /resources/art/lights/fill_voss_tombs_green.tex
+/resources/art/lights/fill_voss_tombs_olive.dds
+/resources/art/lights/fill_voss_tombs_olive.tex
 /resources/art/lights/fill_warm_jedi_temple.dds
 /resources/art/lights/fill_warm_jedi_temple.tex
 /resources/art/lights/fill_warm_space.dds
@@ -892,6 +915,8 @@
 /resources/art/lights/fx_falloff_linear_01.tex
 /resources/art/lights/fx_gal_map_asteroid_field_lightramp.dds
 /resources/art/lights/fx_gal_map_asteroid_field_lightramp.tex
+/resources/art/lights/fx_lum_blurred_circular_rings.dds
+/resources/art/lights/fx_lum_blurred_circular_rings.tex
 /resources/art/lights/fx_lum_sp_recuperate.dds
 /resources/art/lights/fx_lum_sp_recuperate.tex
 /resources/art/lights/fx_ramp_backface_01.dds
@@ -1153,6 +1178,8 @@
 /resources/art/lights/tyt_interior_lightramp_flesh_raider_lantern.tex
 /resources/art/lights/ui_character_portrait_lightramp.dds
 /resources/art/lights/ui_character_portrait_lightramp.tex
+/resources/art/lights/vos_exterior_lightramp.dds
+/resources/art/lights/vos_exterior_lightramp.tex
 /resources/art/lights/working/test_walk_angle.dds
 /resources/art/lights/working/test_walk_angle.tex
 /resources/art/marketing/green_dome.dds
@@ -1304,6 +1331,7 @@
 /resources/art/planets/texture/planets_voss_s.tex
 /resources/art/planets/texture/planets_voss_s.tiny.dds
 /resources/art/planets/tython.gr2
+/resources/art/planets/voss.gr2
 /resources/art/shaders/materials/__white.mat
 /resources/art/shaders/materials/clouds_dromund.mat
 /resources/art/shaders/materials/dbo_universal_superexclusion_test.mat
@@ -1325,6 +1353,7 @@
 /resources/art/shaders/materials/planets_taris.mat
 /resources/art/shaders/materials/planets_tatooine.mat
 /resources/art/shaders/materials/planets_tython.mat
+/resources/art/shaders/materials/planets_voss.mat
 /resources/art/shaders/materials/spawner_gold.mat
 /resources/art/shaders/materials/spawner_ltgreen.mat
 /resources/art/shaders/materials/spawner_ltred.mat

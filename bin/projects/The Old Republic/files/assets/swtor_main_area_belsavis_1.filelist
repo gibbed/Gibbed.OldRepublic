@@ -1,4 +1,4 @@
-; 2612/2659 (98%)
+; 2634/2659 (99%)
 /resources/art/environmentmaps/bel_main/area.dds
 /resources/art/environmentmaps/bel_main/area.tex
 /resources/art/environmentmaps/bel_main/area.tiny.dds
@@ -433,6 +433,7 @@
 /resources/art/static/area/bel_belsavis/arch/bel_arch_rakata_teleporter.gr2
 /resources/art/static/area/bel_belsavis/arch/bel_arch_rakata_teleporter_cave_entrance_inside.gr2
 /resources/art/static/area/bel_belsavis/arch/bel_arch_rakata_teleporter_cave_entrance_inside_02.gr2
+/resources/art/static/area/bel_belsavis/arch/bel_arch_rakata_teleporter_rotating_arm.gr2
 /resources/art/static/area/bel_belsavis/arch/bel_arch_rakata_terminal01.gr2
 /resources/art/static/area/bel_belsavis/arch/bel_arch_rakata_terminal02.gr2
 /resources/art/static/area/bel_belsavis/arch/bel_arch_rakata_terminal03.gr2
@@ -1718,6 +1719,7 @@
 /resources/world/areas/4611686025952170568/map_hub3_int_rak_eshkha_depot_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_int_rak_eshkha_leaderhall_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_int_rak_eshkha_vault_01_r.dds
+/resources/world/areas/4611686025952170568/map_hub3_int_rak_key_keepers_lair_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_int_rak_maxsec_cave_01a_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_int_rak_maxsec_cellblock1_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_int_rak_maxsec_junction_r.dds
@@ -1730,6 +1732,7 @@
 /resources/world/areas/4611686025952170568/map_hub3_int_solitary_confinement_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_int_takingontheasylum_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_max_sec_ops_center_r.dds
+/resources/world/areas/4611686025952170568/map_hub3_maxsec_caves_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_mnemonia_lv1_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_r.dds
 /resources/world/areas/4611686025952170568/map_hub3_rak_maxsec_cave_02_teleporter_r.dds
@@ -2316,6 +2319,7 @@
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_int_rak_eshkha_vault_01_00_01_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_int_rak_eshkha_vault_01_01_00_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_int_rak_eshkha_vault_01_01_01_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_int_rak_key_keepers_lair_00_00_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_int_rak_maxsec_cave_01a_00_00_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_int_rak_maxsec_cave_01a_00_01_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_int_rak_maxsec_cave_01a_00_02_r.dds
@@ -2365,6 +2369,24 @@
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_int_takingontheasylum_01_00_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_int_takingontheasylum_01_01_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_max_sec_ops_center_00_00_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_00_02_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_00_03_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_00_04_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_01_00_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_01_01_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_01_02_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_01_03_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_01_04_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_02_00_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_02_01_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_02_02_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_02_03_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_02_04_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_03_00_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_03_01_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_03_02_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_03_03_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub3_maxsec_caves_03_04_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_mnemonia_lv1_00_00_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_mnemonia_lv1_00_01_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub3_mnemonia_lv1_01_00_r.dds

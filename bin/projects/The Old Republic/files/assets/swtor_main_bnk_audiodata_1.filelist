@@ -1,4 +1,4 @@
-; 40/63 (63%)
+; 41/63 (65%)
 /resources/bnk2/abilities_creatures_data.bnk
 /resources/bnk2/abilities_general_data.bnk
 /resources/bnk2/abilities_imperialmelee_data.bnk
@@ -32,6 +32,7 @@
 /resources/bnk2/location_taris_2_data.bnk
 /resources/bnk2/location_tatooine_data.bnk
 /resources/bnk2/location_tython_data.bnk
+/resources/bnk2/location_voss_data.bnk
 /resources/bnk2/movement_data.bnk
 /resources/bnk2/music_data.bnk
 /resources/bnk2/swtor_startup.bnk

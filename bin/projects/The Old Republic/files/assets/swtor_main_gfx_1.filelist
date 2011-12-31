@@ -1,4 +1,4 @@
-; 10420/52255 (19%)
+; 10422/52255 (19%)
 /resources/gfx/codex/cdx.achievements.alderaan.ulgo_siegebreaker.dds
 /resources/gfx/codex/cdx.achievements.balmorra.grandfather.dds
 /resources/gfx/codex/cdx.achievements.belsavis.the_primal_destroyer.dds
@@ -305,6 +305,7 @@
 /resources/gfx/codex/cdx.location.korriban.tomb_of_tulak_hord.dds
 /resources/gfx/codex/cdx.location.korriban.valley_of_the_dark_lords.dds
 /resources/gfx/codex/cdx.location.open_worlds.imperial_dreadnought.dds
+/resources/gfx/codex/cdx.location.open_worlds.imperial_transport.dds
 /resources/gfx/codex/cdx.location.open_worlds.republic_destroyer.dds
 /resources/gfx/codex/cdx.location.open_worlds.space_station.dds
 /resources/gfx/codex/cdx.location.ord_mantell.drelliad_village.dds
@@ -10304,6 +10305,7 @@
 /resources/gfx/loadingscreen/tatooine_overlay_text.dds
 /resources/gfx/loadingscreen/tython_overlay.dds
 /resources/gfx/loadingscreen/voss_overlay.dds
+/resources/gfx/loadingscreen/voss_overlay_text.dds
 /resources/gfx/loadingscreen/warzone_alderaan_overlay.dds
 /resources/gfx/loadingscreen/warzone_arena_overlay.dds
 /resources/gfx/loadingscreen/warzone_voidstar_overlay.dds
