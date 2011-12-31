@@ -1,4 +1,4 @@
-; 3246/3358 (96%)
+; 3247/3358 (96%)
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tiny.dds
@@ -2473,6 +2473,7 @@
 /resources/world/areas/4611686025383332936/map_vosska_tower_of_prophecy_level_2_r.dds
 /resources/world/areas/4611686025383332936/map_vosska_tower_of_prophecy_lobby_r.dds
 /resources/world/areas/4611686025383332936/map_world_r.dds
+/resources/world/areas/4611686025383332936/mapnotes.not
 /resources/world/areas/4611686025383332936/minimaps/map_garage_imperial_airlock_agent_00_00_r.dds
 /resources/world/areas/4611686025383332936/minimaps/map_garage_imperial_airlock_bounty_00_00_r.dds
 /resources/world/areas/4611686025383332936/minimaps/map_garage_imperial_airlock_inquisitor_00_00_r.dds

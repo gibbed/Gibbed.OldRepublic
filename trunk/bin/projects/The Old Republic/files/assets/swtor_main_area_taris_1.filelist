@@ -1,4 +1,7 @@
-; 1773/1793 (98%)
+; 1777/1793 (99%)
+/resources/art/environmentmaps/tar_main/area.dds
+/resources/art/environmentmaps/tar_main/area.tex
+/resources/art/environmentmaps/tar_main/area.tiny.dds
 /resources/art/environmentmaps/tar_main/chem_factory.dds
 /resources/art/environmentmaps/tar_main/chem_factory.tex
 /resources/art/environmentmaps/tar_main/chem_factory.tiny.dds
@@ -1152,6 +1155,7 @@
 /resources/world/areas/4611686023014030644/map_spaceport_smuggler_hangar_r.dds
 /resources/world/areas/4611686023014030644/map_spaceport_trooper_hangar_r.dds
 /resources/world/areas/4611686023014030644/map_taris_main_r.dds
+/resources/world/areas/4611686023014030644/mapnotes.not
 /resources/world/areas/4611686023014030644/minimaps/map_int_hub1_dr_goderas_hideout_00_00_r.dds
 /resources/world/areas/4611686023014030644/minimaps/map_int_hub1_dr_goderas_hideout_01_00_r.dds
 /resources/world/areas/4611686023014030644/minimaps/map_int_hub1_dr_goderas_hideout_entrance_00_00_r.dds

@@ -1,15 +1,18 @@
-; 395/469 (84%)
+; 404/469 (86%)
 /resources/world/areas/4611686035947170168/map_bh_mandalore_world_r.dds
+/resources/world/areas/4611686035947170168/mapnotes.not
 /resources/world/areas/4611686035947170168/minimaps/map_bh_mandalore_world_00_00_r.dds
 /resources/world/areas/4611686040994970456/map_bh_tyrant_hangar_deck_r.dds
 /resources/world/areas/4611686040994970456/map_bh_tyrant_operations_r.dds
 /resources/world/areas/4611686040994970456/map_bh_tyrant_world_r.dds
+/resources/world/areas/4611686040994970456/mapnotes.not
 /resources/world/areas/4611686040994970456/minimaps/map_bh_tyrant_hangar_deck_00_00_r.dds
 /resources/world/areas/4611686040994970456/minimaps/map_bh_tyrant_operations_00_00_r.dds
 /resources/world/areas/4611686041464170233/map_bh_chancellor_founder_hangar_r.dds
 /resources/world/areas/4611686041464170233/map_bh_chancellor_founder_passenger_r.dds
 /resources/world/areas/4611686041464170233/map_bh_chancellor_station_r.dds
 /resources/world/areas/4611686041464170233/map_bh_chancellor_world_r.dds
+/resources/world/areas/4611686041464170233/mapnotes.not
 /resources/world/areas/4611686041464170233/minimaps/map_bh_chancellor_founder_hangar_00_00_r.dds
 /resources/world/areas/4611686041464170233/minimaps/map_bh_chancellor_founder_hangar_00_01_r.dds
 /resources/world/areas/4611686041464170233/minimaps/map_bh_chancellor_founder_hangar_01_00_r.dds
@@ -23,16 +26,20 @@
 /resources/world/areas/4611686041700070232/map_inq_pyron_bridge_r.dds
 /resources/world/areas/4611686041700070232/map_inq_pyron_transport_deck_r.dds
 /resources/world/areas/4611686041700070232/map_inq_pyron_world_r.dds
+/resources/world/areas/4611686041700070232/mapnotes.not
 /resources/world/areas/4611686041700070232/minimaps/map_inq_pyron_bridge_00_00_r.dds
 /resources/world/areas/4611686041700070232/minimaps/map_inq_pyron_bridge_01_00_r.dds
 /resources/world/areas/4611686041700070232/minimaps/map_inq_pyron_transport_deck_00_00_r.dds
 /resources/world/areas/4611686041700070345/map_war_transponder_world_r.dds
+/resources/world/areas/4611686041700070345/mapnotes.not
 /resources/world/areas/4611686041748971553/map_war_moffmasken_world_r.dds
+/resources/world/areas/4611686041748971553/mapnotes.not
 /resources/world/areas/4611686041748971553/minimaps/map_war_moffmasken_world_00_00_r.dds
 /resources/world/areas/4611686041748971553/minimaps/map_war_moffmasken_world_01_00_r.dds
 /resources/world/areas/4611686041922470000/map_agnt_tenebrous_hangar_r.dds
 /resources/world/areas/4611686041922470000/map_agnt_tenebrous_operations_r.dds
 /resources/world/areas/4611686041922470000/map_agnt_tenebrous_world_r.dds
+/resources/world/areas/4611686041922470000/mapnotes.not
 /resources/world/areas/4611686041922470000/minimaps/map_agnt_tenebrous_hangar_00_00_r.dds
 /resources/world/areas/4611686041922470000/minimaps/map_agnt_tenebrous_hangar_00_01_r.dds
 /resources/world/areas/4611686041922470000/minimaps/map_agnt_tenebrous_hangar_01_00_r.dds
@@ -47,6 +54,7 @@
 /resources/world/areas/4611686041944170162/map_railgun_r.dds
 /resources/world/areas/4611686041944170162/map_security_r.dds
 /resources/world/areas/4611686041944170162/map_trp_gauntlet_world_r.dds
+/resources/world/areas/4611686041944170162/mapnotes.not
 /resources/world/areas/4611686041944170162/minimaps/map_airlock_00_00_r.dds
 /resources/world/areas/4611686041944170162/minimaps/map_atrium_00_00_r.dds
 /resources/world/areas/4611686041944170162/minimaps/map_atrium_00_01_r.dds
@@ -65,6 +73,7 @@
 /resources/world/areas/4611686044023070789/map_hangar_deck_r.dds
 /resources/world/areas/4611686044023070789/map_secure_vaults_r.dds
 /resources/world/areas/4611686044023070789/map_smug_treasury_world_r.dds
+/resources/world/areas/4611686044023070789/mapnotes.not
 /resources/world/areas/4611686044023070789/minimaps/map_hangar_deck_00_00_r.dds
 /resources/world/areas/4611686044023070789/minimaps/map_hangar_deck_00_01_r.dds
 /resources/world/areas/4611686044023070789/minimaps/map_hangar_deck_01_00_r.dds

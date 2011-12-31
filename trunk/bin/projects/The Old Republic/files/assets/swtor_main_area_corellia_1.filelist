@@ -1,4 +1,4 @@
-; 2447/2911 (84%)
+; 2448/2911 (84%)
 /resources/art/shaders/materials/ald_item_banners.mat
 /resources/art/shaders/materials/all_item_corellia_large_sign_01.mat
 /resources/art/shaders/materials/all_item_corellia_large_sign_intact.mat
@@ -1810,6 +1810,7 @@
 /resources/world/areas/4611686033020472228/map_hub4_vanguard_hq_r.dds
 /resources/world/areas/4611686033020472228/map_hub4_vorins_rise_r.dds
 /resources/world/areas/4611686033020472228/map_hub4_vowrawns_safehouse_r.dds
+/resources/world/areas/4611686033020472228/mapnotes.not
 /resources/world/areas/4611686033020472228/minimaps/map_hub1_imperial_00_00_r.dds
 /resources/world/areas/4611686033020472228/minimaps/map_hub1_imperial_00_01_r.dds
 /resources/world/areas/4611686033020472228/minimaps/map_hub1_imperial_00_02_r.dds

@@ -1,4 +1,4 @@
-; 303/421 (71%)
+; 304/421 (72%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/defaultassets/checkered.tiny.dds
@@ -83,6 +83,7 @@
 /resources/art/environmentmaps/coruscant_main/area.tiny.dds
 /resources/art/environmentmaps/coruscant_main/black_sun_exterior.dds
 /resources/art/environmentmaps/coruscant_main/black_sun_exterior.tex
+/resources/art/environmentmaps/coruscant_main/black_sun_exterior.tiny.dds
 /resources/art/environmentmaps/coruscant_main/interior.dds
 /resources/art/environmentmaps/coruscant_main/interior.tex
 /resources/art/environmentmaps/coruscant_main/interior.tiny.dds

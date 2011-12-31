@@ -1,4 +1,4 @@
-; 1490/1507 (98%)
+; 1491/1507 (98%)
 /resources/art/environmentmaps/bal_main/area.dds
 /resources/art/environmentmaps/bal_main/area.tex
 /resources/art/environmentmaps/bal_main/area.tiny.dds
@@ -1207,6 +1207,7 @@
 /resources/world/areas/4611686040187270001/map_spaceport_hangar59_r.dds
 /resources/world/areas/4611686040187270001/map_spaceport_main_level_1_r.dds
 /resources/world/areas/4611686040187270001/map_spaceport_main_level_2_r.dds
+/resources/world/areas/4611686040187270001/mapnotes.not
 /resources/world/areas/4611686040187270001/minimaps/map_garage_republic_airlock_consular_00_00_r.dds
 /resources/world/areas/4611686040187270001/minimaps/map_garage_republic_airlock_knight_00_00_r.dds
 /resources/world/areas/4611686040187270001/minimaps/map_garage_republic_airlock_smuggler_00_00_r.dds

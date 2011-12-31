@@ -1,4 +1,4 @@
-; 422/563 (74%)
+; 423/563 (75%)
 /resources/art/shaders/materials/ilm_crystal_formation_purple.mat
 /resources/art/shaders/materials/ilm_env_ceilng_light.mat
 /resources/art/shaders/materials/ilm_env_crystal_formation_blue.mat
@@ -246,6 +246,7 @@
 /resources/world/areas/4611686039258170278/map_republic_research_r.dds
 /resources/world/areas/4611686039258170278/map_republic_waystation_r.dds
 /resources/world/areas/4611686039258170278/map_temple_escape_tunnel_r.dds
+/resources/world/areas/4611686039258170278/mapnotes.not
 /resources/world/areas/4611686039258170278/minimaps/map_crystal_mine_00_00_r.dds
 /resources/world/areas/4611686039258170278/minimaps/map_crystal_mine_00_01_r.dds
 /resources/world/areas/4611686039258170278/minimaps/map_crystal_mine_00_02_r.dds
