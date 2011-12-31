@@ -1,4 +1,4 @@
-; 275/412 (66%)
+; 281/412 (68%)
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_acklay.bnk
 /resources/bnk2/voc_acklayqueen.bnk
@@ -68,6 +68,8 @@
 /resources/bnk2/voc_duros_m_alien_med_soundset.bnk
 /resources/bnk2/voc_elara.bnk
 /resources/bnk2/voc_ensign_temple.bnk
+/resources/bnk2/voc_eshka_m_alien_low_soundset.bnk
+/resources/bnk2/voc_eshka_m_alien_med_soundset.bnk
 /resources/bnk2/voc_evocii_f_alien_high_soundset.bnk
 /resources/bnk2/voc_evocii_f_alien_med_soundset.bnk
 /resources/bnk2/voc_evocii_lt_m_alien_med_soundset.bnk
@@ -80,6 +82,7 @@
 /resources/bnk2/voc_gamorrean_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gand_m_alien_low_soundset.bnk
 /resources/bnk2/voc_gand_m_alien_med_soundset.bnk
+/resources/bnk2/voc_gargantuan.bnk
 /resources/bnk2/voc_gault.bnk
 /resources/bnk2/voc_gendai_m_alien_low_soundset.bnk
 /resources/bnk2/voc_geonosian_m_alien_low_soundset.bnk
@@ -128,6 +131,7 @@
 /resources/bnk2/voc_khem_val.bnk
 /resources/bnk2/voc_killik_m_alien_high_soundset.bnk
 /resources/bnk2/voc_killik_m_alien_med_soundset.bnk
+/resources/bnk2/voc_kintan.bnk
 /resources/bnk2/voc_kintanenforcer.bnk
 /resources/bnk2/voc_kira_carson.bnk
 /resources/bnk2/voc_kitonak_m_alien_low_soundset.bnk
@@ -181,6 +185,7 @@
 /resources/bnk2/voc_protocoldroidrepmedical.bnk
 /resources/bnk2/voc_quinn.bnk
 /resources/bnk2/voc_qyzen_fess.bnk
+/resources/bnk2/voc_rakata_m_alien_med_soundset.bnk
 /resources/bnk2/voc_rakghoul.bnk
 /resources/bnk2/voc_rakghoullurker.bnk
 /resources/bnk2/voc_rakghoulskulker.bnk
@@ -260,6 +265,7 @@
 /resources/bnk2/voc_vette.bnk
 /resources/bnk2/voc_vinecat.bnk
 /resources/bnk2/voc_vorntiger.bnk
+/resources/bnk2/voc_voss_f_alien_med_soundset.bnk
 /resources/bnk2/voc_vrblther.bnk
 /resources/bnk2/voc_wampa.bnk
 /resources/bnk2/voc_weequay_m_alien_low_soundset.bnk

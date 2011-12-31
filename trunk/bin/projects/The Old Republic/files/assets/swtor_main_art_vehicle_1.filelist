@@ -1,4 +1,4 @@
-; 1488/1548 (96%)
+; 1489/1548 (96%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tiny.dds
@@ -400,6 +400,7 @@
 /resources/art/static/vehicle/imp/veh_imp_transport_light_troop_body.gr2
 /resources/art/static/vehicle/imp/veh_imp_transport_light_troop_wing_1.gr2
 /resources/art/static/vehicle/imp/veh_imp_transport_light_troop_wing_2.gr2
+/resources/art/static/vehicle/imp/veh_imp_transport_pvp_closed_hatches.gr2
 /resources/art/static/vehicle/imp/veh_imp_troop_transport.gr2
 /resources/art/static/vehicle/imp/veh_imp_troop_transport_flight_wingsdown.gr2
 /resources/art/static/vehicle/neutral/speeder/texture/veh_neu_air_speeder_blue_d.dds

@@ -1,4 +1,4 @@
-; 1248/1268 (98%)
+; 1253/1268 (98%)
 /resources/art/environmentmaps/hut_main/default.dds
 /resources/art/environmentmaps/hut_main/default.tex
 /resources/art/environmentmaps/hut_main/default.tiny.dds
@@ -83,6 +83,7 @@
 /resources/art/shaders/materials/hut_evocii_totem.mat
 /resources/art/shaders/materials/hut_grass01.mat
 /resources/art/shaders/materials/hut_grass02.mat
+/resources/art/shaders/materials/hut_grass03.mat
 /resources/art/shaders/materials/hut_grass04.mat
 /resources/art/shaders/materials/hut_grass05.mat
 /resources/art/shaders/materials/hut_grass06.mat
@@ -969,6 +970,10 @@
 /resources/art/static/area/hut_hutta/speedtree/hut_mushrooms_02.gr2
 /resources/art/static/area/hut_hutta/speedtree/hut_swampfern2.gr2
 /resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_thintree1.spt
+/resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_thintree1_diffuse.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_thintree1_diffuse.tex
+/resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_thintree1_normal.dds
+/resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_thintree1_normal.tex
 /resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_tree_bark_02.dds
 /resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_tree_bark_02.tex
 /resources/art/static/area/hut_hutta/speedtree/hut_thintree/hut_tree_bark_02.tiny.dds
