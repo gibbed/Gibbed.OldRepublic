@@ -1,4 +1,4 @@
-; 4873/5536 (88%)
+; 4877/5536 (88%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -29,6 +29,9 @@
 /resources/art/environmentmaps/spc_m08/area.dds
 /resources/art/environmentmaps/spc_m08/area.tex
 /resources/art/environmentmaps/spc_m08/area.tiny.dds
+/resources/art/environmentmaps/spc_m09/area.dds
+/resources/art/environmentmaps/spc_m09/area.tex
+/resources/art/environmentmaps/spc_m09/area.tiny.dds
 /resources/art/environmentmaps/spc_ps_imp_agent/area.dds
 /resources/art/environmentmaps/spc_ps_imp_agent/area.tex
 /resources/art/environmentmaps/spc_ps_imp_agent/area.tiny.dds
@@ -4341,6 +4344,7 @@
 /resources/world/areas/4611686044973071122/mapnotes.not
 /resources/world/areas/4611686046956070020/mapnotes.not
 /resources/world/areas/4611686047583470023/mapnotes.not
+/resources/world/areas/4611686048287570020/mapnotes.not
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_lower_r.dds
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_r.dds
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_world_r.dds

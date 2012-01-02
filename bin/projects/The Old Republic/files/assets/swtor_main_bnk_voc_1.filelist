@@ -1,4 +1,5 @@
-; 281/412 (68%)
+; 294/412 (71%)
+/resources/bnk2/voc_abyssin_m_alien_low_soundset.bnk
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_acklay.bnk
 /resources/bnk2/voc_acklayqueen.bnk
@@ -88,10 +89,13 @@
 /resources/bnk2/voc_geonosian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_geonosian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gonkdroid.bnk
+/resources/bnk2/voc_gormak_m_alien_low_soundset.bnk
+/resources/bnk2/voc_gormak_m_alien_med_soundset.bnk
 /resources/bnk2/voc_gran_m_alien_low_soundset.bnk
 /resources/bnk2/voc_gran_m_alien_med_soundset.bnk
 /resources/bnk2/voc_guid.bnk
 /resources/bnk2/voc_gundark.bnk
+/resources/bnk2/voc_guss.bnk
 /resources/bnk2/voc_harvap.bnk
 /resources/bnk2/voc_harvorisk.bnk
 /resources/bnk2/voc_hk51.bnk
@@ -117,6 +121,7 @@
 /resources/bnk2/voc_imphumanlieu_m_low_1_soundset.bnk
 /resources/bnk2/voc_imphumanlieu_m_med_1_soundset.bnk
 /resources/bnk2/voc_iraida.bnk
+/resources/bnk2/voc_ithorian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_jaesa.bnk
 /resources/bnk2/voc_jawa_m_alien_med_soundset.bnk
 /resources/bnk2/voc_jawavar_m_alien_med_soundset.bnk
@@ -145,14 +150,18 @@
 /resources/bnk2/voc_mako.bnk
 /resources/bnk2/voc_manka.bnk
 /resources/bnk2/voc_mantellianflutterplume.bnk
+/resources/bnk2/voc_mawvorr.bnk
 /resources/bnk2/voc_moncalamari_m_alien_med_soundset.bnk
+/resources/bnk2/voc_nadia.bnk
 /resources/bnk2/voc_nautolan_f_alien_high_soundset.bnk
 /resources/bnk2/voc_nautolan_f_alien_med_soundset.bnk
 /resources/bnk2/voc_nautolan_m_alien_low_soundset.bnk
+/resources/bnk2/voc_nautolan_m_alien_med_soundset.bnk
 /resources/bnk2/voc_neimoidian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_nekghoul.bnk
 /resources/bnk2/voc_nerf.bnk
 /resources/bnk2/voc_nexu.bnk
+/resources/bnk2/voc_nightmarebeast.bnk
 /resources/bnk2/voc_nikto_m_alien_low_soundset.bnk
 /resources/bnk2/voc_nikto_m_alien_med_soundset.bnk
 /resources/bnk2/voc_ortolan_m_alien_low_soundset.bnk
@@ -264,8 +273,12 @@
 /resources/bnk2/voc_veractyl.bnk
 /resources/bnk2/voc_vette.bnk
 /resources/bnk2/voc_vinecat.bnk
+/resources/bnk2/voc_vorantikus.bnk
 /resources/bnk2/voc_vorntiger.bnk
+/resources/bnk2/voc_voss_f_alien_high_soundset.bnk
 /resources/bnk2/voc_voss_f_alien_med_soundset.bnk
+/resources/bnk2/voc_voss_m_alien_low_soundset.bnk
+/resources/bnk2/voc_voss_m_alien_med_soundset.bnk
 /resources/bnk2/voc_vrblther.bnk
 /resources/bnk2/voc_wampa.bnk
 /resources/bnk2/voc_weequay_m_alien_low_soundset.bnk
