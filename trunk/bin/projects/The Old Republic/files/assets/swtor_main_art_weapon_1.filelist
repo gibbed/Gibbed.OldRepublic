@@ -1,4 +1,4 @@
-; 4681/4686 (99%)
+; 4682/4686 (99%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -2744,6 +2744,7 @@
 /resources/art/dynamic/weapon/quest/texture/wep_quest_warblade_s.tiny.dds
 /resources/art/dynamic/weapon/quest/wep_quest_warblade.gr2
 /resources/art/dynamic/weapon/rifle/___modeling/___working/shotgun_low01_a01_v01.gr2
+/resources/art/dynamic/weapon/rifle/rifle_high03_a01_v01.gr2
 /resources/art/dynamic/weapon/rifle/rifle_low05_a03_v03.gr2
 /resources/art/dynamic/weapon/rifle/rifle_shotgun_high02_a03_v04.gr2
 /resources/art/dynamic/weapon/rifle/texture/___psd/rifle_bowcasterhigh01_a01_v01_d.dds

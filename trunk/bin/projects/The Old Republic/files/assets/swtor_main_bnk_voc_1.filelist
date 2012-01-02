@@ -1,4 +1,4 @@
-; 294/412 (71%)
+; 297/412 (72%)
 /resources/bnk2/voc_abyssin_m_alien_low_soundset.bnk
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_acklay.bnk
@@ -63,6 +63,7 @@
 /resources/bnk2/voc_doc.bnk
 /resources/bnk2/voc_dr_lokin.bnk
 /resources/bnk2/voc_dragonbat.bnk
+/resources/bnk2/voc_drall_m_alien_med_soundset.bnk
 /resources/bnk2/voc_drate.bnk
 /resources/bnk2/voc_duros_m_alien_high_soundset.bnk
 /resources/bnk2/voc_duros_m_alien_low_soundset.bnk
@@ -232,6 +233,7 @@
 /resources/bnk2/voc_scavengerdroid.bnk
 /resources/bnk2/voc_scorpio.bnk
 /resources/bnk2/voc_selkath_m_alien_med_soundset.bnk
+/resources/bnk2/voc_selonian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_shaclaw.bnk
 /resources/bnk2/voc_shyrack.bnk
 /resources/bnk2/voc_skadge.bnk
@@ -264,6 +266,7 @@
 /resources/bnk2/voc_twilek_m_alien_low_soundset.bnk
 /resources/bnk2/voc_twilek_m_alien_med_soundset.bnk
 /resources/bnk2/voc_uberdroid03.bnk
+/resources/bnk2/voc_uberklorslug.bnk
 /resources/bnk2/voc_uberwraid.bnk
 /resources/bnk2/voc_ugnaught_m_alien_low_soundset.bnk
 /resources/bnk2/voc_ugnaught_m_alien_med_soundset.bnk

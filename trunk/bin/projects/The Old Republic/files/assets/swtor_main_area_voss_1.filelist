@@ -1,4 +1,4 @@
-; 3328/3358 (99%)
+; 3331/3358 (99%)
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.dds
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tex
 /resources/art/dynamic/npc/gormak/head/texture/___psd/head_gormak_bms_non_a02_v01_d.tiny.dds
@@ -2859,6 +2859,9 @@
 /resources/world/areas/4611686025383332936/minimaps/map_hub4_dark_heart_agent_02_00_r.dds
 /resources/world/areas/4611686025383332936/minimaps/map_hub4_dark_heart_agent_02_01_r.dds
 /resources/world/areas/4611686025383332936/minimaps/map_hub4_dark_heart_agent_02_02_r.dds
+/resources/world/areas/4611686025383332936/minimaps/map_hub4_dark_heart_agent_03_00_r.dds
+/resources/world/areas/4611686025383332936/minimaps/map_hub4_dark_heart_agent_03_01_r.dds
+/resources/world/areas/4611686025383332936/minimaps/map_hub4_dark_heart_agent_03_02_r.dds
 /resources/world/areas/4611686025383332936/minimaps/map_hub4_gormak_shaman_ritual_grounds_00_00_r.dds
 /resources/world/areas/4611686025383332936/minimaps/map_hub4_gormak_shaman_ritual_grounds_00_01_r.dds
 /resources/world/areas/4611686025383332936/minimaps/map_hub4_gormak_shaman_ritual_grounds_01_00_r.dds

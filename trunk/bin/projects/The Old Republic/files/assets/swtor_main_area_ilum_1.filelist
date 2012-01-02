@@ -1,4 +1,16 @@
-; 423/563 (75%)
+; 456/563 (80%)
+/resources/art/environmentmaps/ilm_main1/area.dds
+/resources/art/environmentmaps/ilm_main1/area.tex
+/resources/art/environmentmaps/ilm_main1/area.tiny.dds
+/resources/art/environmentmaps/ilm_main1/crystal_cave_purple_dark.dds
+/resources/art/environmentmaps/ilm_main1/crystal_cave_purple_dark.tex
+/resources/art/environmentmaps/ilm_main1/crystal_cave_purple_dark.tiny.dds
+/resources/art/environmentmaps/ilm_main1/illum_techcave_interior.dds
+/resources/art/environmentmaps/ilm_main1/illum_techcave_interior.tex
+/resources/art/environmentmaps/ilm_main1/illum_techcave_interior.tiny.dds
+/resources/art/environmentmaps/ilm_main1/temple_interior.dds
+/resources/art/environmentmaps/ilm_main1/temple_interior.tex
+/resources/art/environmentmaps/ilm_main1/temple_interior.tiny.dds
 /resources/art/shaders/materials/ilm_crystal_formation_purple.mat
 /resources/art/shaders/materials/ilm_env_ceilng_light.mat
 /resources/art/shaders/materials/ilm_env_crystal_formation_blue.mat
@@ -7,6 +19,18 @@
 /resources/art/shaders/materials/ilm_env_forcecrystals_green.mat
 /resources/art/shaders/materials/ilm_env_forcecrystals_purple.mat
 /resources/art/shaders/materials/ilm_skyscene_tiles.mat
+/resources/art/shaders/materials/ter_ilm_lake01.mat
+/resources/art/shaders/materials/ter_ilm_lake02.mat
+/resources/art/shaders/materials/ter_ilm_lake03.mat
+/resources/art/shaders/materials/ter_ilm_metal.mat
+/resources/art/shaders/materials/ter_ilm_metal_snow.mat
+/resources/art/shaders/materials/ter_ilm_rock01.mat
+/resources/art/shaders/materials/ter_ilm_rock02.mat
+/resources/art/shaders/materials/ter_ilm_snow_highfreq_01.mat
+/resources/art/shaders/materials/ter_ilm_snow_ice.mat
+/resources/art/shaders/materials/ter_ilm_snow_rock.mat
+/resources/art/shaders/materials/ter_ilm_snow01.mat
+/resources/art/shaders/materials/ter_ilm_snow02.mat
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.dds
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.tex
 /resources/art/static/area/all_all/arch/texture/all_arch_crystal_formation_04_n.tiny.dds
@@ -222,6 +246,7 @@
 /resources/art/static/area/ilm_ilum/terrain_map/ter_ilm_snow02_n.tex
 /resources/art/static/area/ilm_ilum/terrain_map/ter_ilm_snow02_n.tiny.dds
 /resources/world/areas/4611686039258170278/map_crystal_mine_r.dds
+/resources/world/areas/4611686039258170278/map_eastern_shelf_r.dds
 /resources/world/areas/4611686039258170278/map_garage_imperial_agent_r.dds
 /resources/world/areas/4611686039258170278/map_garage_imperial_bounty_r.dds
 /resources/world/areas/4611686039258170278/map_garage_imperial_inquisitor_r.dds
@@ -361,6 +386,14 @@
 /resources/world/areas/4611686039258170278/minimaps/map_ilum_world_08_07_r.dds
 /resources/world/areas/4611686039258170278/minimaps/map_ilum_world_08_08_r.dds
 /resources/world/areas/4611686039258170278/minimaps/map_ilum_world_08_09_r.dds
+/resources/world/areas/4611686039258170278/minimaps/map_ilum_world_09_02_r.dds
+/resources/world/areas/4611686039258170278/minimaps/map_ilum_world_09_03_r.dds
+/resources/world/areas/4611686039258170278/minimaps/map_ilum_world_09_04_r.dds
+/resources/world/areas/4611686039258170278/minimaps/map_ilum_world_10_03_r.dds
+/resources/world/areas/4611686039258170278/minimaps/map_ilum_world_10_04_r.dds
+/resources/world/areas/4611686039258170278/minimaps/map_ilum_world_10_05_r.dds
+/resources/world/areas/4611686039258170278/minimaps/map_ilum_world_11_04_r.dds
+/resources/world/areas/4611686039258170278/minimaps/map_ilum_world_11_05_r.dds
 /resources/world/areas/4611686039258170278/minimaps/map_jedi_temple_00_00_r.dds
 /resources/world/areas/4611686039258170278/minimaps/map_jedi_temple_00_01_r.dds
 /resources/world/areas/4611686039258170278/minimaps/map_jedi_temple_01_00_r.dds

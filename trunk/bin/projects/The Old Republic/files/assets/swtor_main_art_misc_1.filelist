@@ -1,4 +1,4 @@
-; 1616/2182 (74%)
+; 1644/2182 (75%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -538,6 +538,8 @@
 /resources/art/lights/023_044_090.tiny.dds
 /resources/art/lights/029_091_091.dds
 /resources/art/lights/029_091_091.tex
+/resources/art/lights/032_064_092.dds
+/resources/art/lights/032_064_092.tex
 /resources/art/lights/037_047_095.dds
 /resources/art/lights/037_047_095.tex
 /resources/art/lights/037_092_099.dds
@@ -548,6 +550,8 @@
 /resources/art/lights/185_084_093.tex
 /resources/art/lights/208_018_091.dds
 /resources/art/lights/208_018_091.tex
+/resources/art/lights/232_034_081.dds
+/resources/art/lights/232_034_081.tex
 /resources/art/lights/235_033_096.dds
 /resources/art/lights/235_033_096.tex
 /resources/art/lights/255_255_255.dds
@@ -587,6 +591,8 @@
 /resources/art/lights/ambient_cor_senate_interior.tex
 /resources/art/lights/ambient_cor_works.dds
 /resources/art/lights/ambient_cor_works.tex
+/resources/art/lights/ambient_crl_interior.dds
+/resources/art/lights/ambient_crl_interior.tex
 /resources/art/lights/ambient_dro_darktemple.dds
 /resources/art/lights/ambient_dro_darktemple.tex
 /resources/art/lights/ambient_dro_imperial_entrances.dds
@@ -613,6 +619,12 @@
 /resources/art/lights/ambient_hth_techcave_interior_pirate.tex
 /resources/art/lights/ambient_hutt_palace_jaguuna.dds
 /resources/art/lights/ambient_hutt_palace_jaguuna.tex
+/resources/art/lights/ambient_ilm_illum_caves.dds
+/resources/art/lights/ambient_ilm_illum_caves.tex
+/resources/art/lights/ambient_ilm_naturalcaves.dds
+/resources/art/lights/ambient_ilm_naturalcaves.tex
+/resources/art/lights/ambient_ilum_temple.dds
+/resources/art/lights/ambient_ilum_temple.tex
 /resources/art/lights/ambient_imp_revan_droid_interior.dds
 /resources/art/lights/ambient_imp_revan_droid_interior.tex
 /resources/art/lights/ambient_jedi_temple.dds
@@ -955,6 +967,10 @@
 /resources/art/lights/hut_exterior_lightramp.tex
 /resources/art/lights/hut_spaceport_interior_lightramp.dds
 /resources/art/lights/hut_spaceport_interior_lightramp.tex
+/resources/art/lights/ilm_exterior_lightramp.dds
+/resources/art/lights/ilm_exterior_lightramp.tex
+/resources/art/lights/ilm_interior_ambient.dds
+/resources/art/lights/ilm_interior_ambient.tex
 /resources/art/lights/kaon_sky_ramp.tex
 /resources/art/lights/kor_acad_hall.dds
 /resources/art/lights/kor_acad_hall.tex
@@ -1009,6 +1025,8 @@
 /resources/art/lights/lum_grate_03.tex
 /resources/art/lights/lum_grate_large.dds
 /resources/art/lights/lum_grate_large.tex
+/resources/art/lights/lum_hall_lights.dds
+/resources/art/lights/lum_hall_lights.tex
 /resources/art/lights/lum_hoth_techcave_lights.dds
 /resources/art/lights/lum_hoth_techcave_lights.tex
 /resources/art/lights/lum_hoth_techcave_lights_cross.dds
@@ -1196,10 +1214,12 @@
 /resources/art/planets/alderaan.gr2
 /resources/art/planets/balmorra.gr2
 /resources/art/planets/belsavis.gr2
+/resources/art/planets/corellia.gr2
 /resources/art/planets/coruscant.gr2
 /resources/art/planets/dromund_kass.gr2
 /resources/art/planets/hoth.gr2
 /resources/art/planets/hutta.gr2
+/resources/art/planets/ilum.gr2
 /resources/art/planets/korriban.gr2
 /resources/art/planets/nar_shadda.gr2
 /resources/art/planets/planets_atmosphere_hoth.gr2
@@ -1351,10 +1371,12 @@
 /resources/art/shaders/materials/planets_atmosphere_hoth.mat
 /resources/art/shaders/materials/planets_balmorra.mat
 /resources/art/shaders/materials/planets_belsavis.mat
+/resources/art/shaders/materials/planets_corellia.mat
 /resources/art/shaders/materials/planets_coruscant.mat
 /resources/art/shaders/materials/planets_dromund_kass.mat
 /resources/art/shaders/materials/planets_hoth.mat
 /resources/art/shaders/materials/planets_hutta.mat
+/resources/art/shaders/materials/planets_ilum.mat
 /resources/art/shaders/materials/planets_korriban.mat
 /resources/art/shaders/materials/planets_nar_shadda.mat
 /resources/art/shaders/materials/planets_quesh.mat
@@ -1604,6 +1626,12 @@
 /resources/art/water/lava_bump_map_n.dds
 /resources/art/water/lava_bump_map_n.tex
 /resources/art/water/lava_bump_map_n.tiny.dds
+/resources/art/water/surface_map_crl_01.dds
+/resources/art/water/surface_map_crl_01.tex
+/resources/art/water/surface_map_crl_01.tiny.dds
+/resources/art/water/surface_map_crl_02.dds
+/resources/art/water/surface_map_crl_02.tex
+/resources/art/water/surface_map_crl_02.tiny.dds
 /resources/art/water/surface_map_hut_01.dds
 /resources/art/water/surface_map_hut_01.tex
 /resources/art/water/surface_map_hut_01.tiny.dds
