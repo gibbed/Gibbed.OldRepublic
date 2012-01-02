@@ -1,4 +1,4 @@
-; 640/715 (89%)
+; 649/715 (90%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -55,6 +55,8 @@
 /resources/art/dynamic/mag/model/mag_envundcontainment_main.gr2
 /resources/art/dynamic/mag/model/mag_envundsmokestacktop_und.gr2
 /resources/art/dynamic/mag/model/mag_impconstructioncrane_v01.gr2
+/resources/art/dynamic/mag/model/mag_magwalker_v01.gr2
+/resources/art/dynamic/mag/model/mag_magwalker_v02.gr2
 /resources/art/dynamic/mag/model/mag_neuheavyutilityship_v01.gr2
 /resources/art/dynamic/mag/model/mag_pvpimptransport_v01.gr2
 /resources/art/dynamic/mag/model/mag_pvpreptransport_v01.gr2
@@ -103,6 +105,7 @@
 /resources/art/dynamic/mag/model/mag_shipimpdropship_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipimpinterceptor_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipimpinterceptor_veh_imp_starfighter_interceptor.gr2
+/resources/art/dynamic/mag/model/mag_shipimpshuttle_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipneudropship_neu.gr2
 /resources/art/dynamic/mag/model/mag_shipneugarbagescow_v01.gr2
 /resources/art/dynamic/mag/model/mag_shipplayeragent_v01.gr2
@@ -134,6 +137,7 @@
 /resources/art/dynamic/mag/model/mag_spacecombatrepublicfrigateturretheavy_sc_rep_frigate_turretheavy.gr2
 /resources/art/dynamic/mag/model/mag_ssdoorlg_a.gr2
 /resources/art/dynamic/mag/model/mag_taxi_airspeeder_v01.gr2
+/resources/art/dynamic/mag/model/mag_taxirocketsled_v01.gr2
 /resources/art/dynamic/mag/model/mag_taxispeederbike02_v01.gr2
 /resources/art/dynamic/mag/model/mag_taxispeederneu_v01.gr2
 /resources/art/dynamic/mag/model/mag_taxithranta_a01.gr2
@@ -143,6 +147,7 @@
 /resources/art/dynamic/mag/model/mag_turretioncannon_cannon.gr2
 /resources/art/dynamic/mag/model/mag_turretneularge_turret.gr2
 /resources/art/dynamic/mag/model/mag_turretneusmallbase_neu.gr2
+/resources/art/dynamic/mag/model/mag_vehimpcrawler_v01.gr2
 /resources/art/dynamic/mag/model/mag_vehrepatv_rep01.gr2
 /resources/art/dynamic/mag/model/mag_vehrepatv_v01.gr2
 /resources/art/dynamic/mag/model/nar_item_signage_redlight_18.gr2
@@ -474,6 +479,7 @@
 /resources/art/dynamic/spec/mag_vehimpcrawler_v01.mag
 /resources/art/dynamic/spec/mag_vehrepatv_rep01.mag
 /resources/art/dynamic/spec/mag_vehrepatv_v01.mag
+/resources/art/dynamic/spec/magwalker_skeleton.gr2
 /resources/art/dynamic/spec/nar_item_signage_redlight_18.mag
 /resources/art/dynamic/spec/nar_item_signage_redlight_18_skeleton.gr2
 /resources/art/dynamic/spec/nar_item_signage_redlight_19.mag
@@ -527,6 +533,7 @@
 /resources/art/dynamic/spec/shipdogfightidle1_skeleton.gr2
 /resources/art/dynamic/spec/shipimpdropship_skeleton.gr2
 /resources/art/dynamic/spec/shipimpinterceptor_skeleton.gr2
+/resources/art/dynamic/spec/shipimpshuttle_skeleton.gr2
 /resources/art/dynamic/spec/shipneudropship_skeleton.gr2
 /resources/art/dynamic/spec/shipneugarbagescow_skeleton.gr2
 /resources/art/dynamic/spec/shipplayeragent_skeleton.gr2
@@ -565,12 +572,14 @@
 /resources/art/dynamic/spec/spc_item_ps_engine_agent_ani_skeleton.gr2
 /resources/art/dynamic/spec/ssdoorlg_skeleton.gr2
 /resources/art/dynamic/spec/taxi_skeleton.gr2
+/resources/art/dynamic/spec/taxirocketsled_skeleton.gr2
 /resources/art/dynamic/spec/taxispeederbike02_skeleton.gr2
 /resources/art/dynamic/spec/taxispeederneu_skeleton.gr2
 /resources/art/dynamic/spec/taxithranta_skeleton.gr2
 /resources/art/dynamic/spec/treasurechestlarge_skeleton.gr2
 /resources/art/dynamic/spec/treasurechestmedium_skeleton.gr2
 /resources/art/dynamic/spec/treasurechestsmall_skeleton.gr2
+/resources/art/dynamic/spec/vehimpcrawler_skeleton.gr2
 /resources/art/dynamic/spec/vehrepatv_skeleton.gr2
 /resources/art/dynamic/spec/vehrepatvilum_skeleton.gr2
 /resources/art/shaders/materials/all_arch_neu_windmill.mat

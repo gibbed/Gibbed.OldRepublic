@@ -1,4 +1,4 @@
-; 405/469 (86%)
+; 408/469 (86%)
 /resources/world/areas/4611686035947170168/map_bh_mandalore_world_r.dds
 /resources/world/areas/4611686035947170168/mapnotes.not
 /resources/world/areas/4611686035947170168/minimaps/map_bh_mandalore_world_00_00_r.dds
@@ -263,8 +263,11 @@
 /resources/world/areas/4611686050650671058/minimaps/map_con_dreadnought_weapons_deck_01_00_r.dds
 /resources/world/areas/4611686050650671058/minimaps/map_con_dreadnought_world_00_00_r.dds
 /resources/world/areas/4611686053962331193/map_agnt_thestarchambr_world_r.dds
+/resources/world/areas/4611686053962331193/mapnotes.not
 /resources/world/areas/4611686053962331193/minimaps/map_agnt_thestarchambr_world_00_00_r.dds
 /resources/world/areas/4611686053962331193/minimaps/map_agnt_thestarchambr_world_00_01_r.dds
+/resources/world/areas/4611686053962331193/minimaps/map_agnt_thestarchambr_world_01_00_r.dds
+/resources/world/areas/4611686053962331193/minimaps/map_agnt_thestarchambr_world_01_01_r.dds
 /resources/world/areas/4611686085808861591/map_bh_tyrant_assault_aft_security_r.dds
 /resources/world/areas/4611686085808861591/map_bh_tyrant_assault_bridge_r.dds
 /resources/world/areas/4611686085808861591/map_bh_tyrant_assault_world_r.dds

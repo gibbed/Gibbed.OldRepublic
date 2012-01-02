@@ -1,4 +1,4 @@
-; 4877/5536 (88%)
+; 4880/5536 (88%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -277,6 +277,7 @@
 /resources/art/shaders/materials/spc_item_ps_trooper_trophybase.mat
 /resources/art/shaders/materials/spc_item_rep_torpedo_launcher.mat
 /resources/art/shaders/materials/spc_item_rep_trans_ceiling_light.mat
+/resources/art/shaders/materials/spc_item_satellite_surveillance.mat
 /resources/art/shaders/materials/spc_item_space_debris_v01.mat
 /resources/art/shaders/materials/spc_item_space_debris_v01_elements.mat
 /resources/art/shaders/materials/spc_item_ss_ceiling_light01.mat
@@ -1866,6 +1867,7 @@
 /resources/art/static/area/spc_space/item/spc_item_rep_torpedo_launcher_opentube.gr2
 /resources/art/static/area/spc_space/item/spc_item_rep_torpedo_loader_raill.gr2
 /resources/art/static/area/spc_space/item/spc_item_rep_trans_ceiling_light.gr2
+/resources/art/static/area/spc_space/item/spc_item_satellite_surveillance.gr2
 /resources/art/static/area/spc_space/item/spc_item_space_debris_v01.gr2
 /resources/art/static/area/spc_space/item/spc_item_ss_ceiling_light01.gr2
 /resources/art/static/area/spc_space/item/spc_item_ss_generator_core.gr2
@@ -2622,6 +2624,7 @@
 /resources/art/static/area/spc_space/item/texture/spc_item_ss_wall_light01_s.tex
 /resources/art/static/area/spc_space/item/texture/spc_item_ss_wall_light01_s.tiny.dds
 /resources/art/static/area/spc_space/playership/spc_ps_agent_ext.gr2
+/resources/art/static/area/spc_space/playership/spc_ps_agent_ext_flying.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_agent_int_back_hall.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_agent_int_back_hall_doorframe.gr2
 /resources/art/static/area/spc_space/playership/spc_ps_agent_int_barracks.gr2

@@ -1,4 +1,4 @@
-; 6643/9173 (72%)
+; 6661/9173 (72%)
 /resources/anim/creature/am_manta.xml
 /resources/anim/creature/am_mote.xml
 /resources/anim/creature/am_probe.xml
@@ -157,6 +157,7 @@
 /resources/anim/creature/mynock/creature_loco_cnv.mph
 /resources/anim/creature/mynock/creature_loco_idle.mph
 /resources/anim/creature/mynock/creature_loco_idle_death_pose_1.mph
+/resources/anim/creature/mynock/creature_loco_idle_death_pose_2.mph
 /resources/anim/creature/mynock/creature_overlay.mph
 /resources/anim/creature/mynock/creature_quad_action_common.mph
 /resources/anim/creature/mynock/dg_crit_damage_1.jba
@@ -256,6 +257,7 @@
 /resources/anim/creature/rakghoul/creature_loco_cnv.mph
 /resources/anim/creature/rakghoul/creature_loco_idle.mph
 /resources/anim/creature/rakghoul/creature_loco_idle_death_pose_1.mph
+/resources/anim/creature/rakghoul/creature_loco_idle_death_pose_2.mph
 /resources/anim/creature/rakghoul/creature_overlay.mph
 /resources/anim/creature/rakghoul/creature_quad_action_common.mph
 /resources/anim/creature/rakghoul/creature_quad_loco.mph
@@ -463,6 +465,7 @@
 /resources/anim/creature/slug/creature_loco_cnv.mph
 /resources/anim/creature/slug/creature_loco_idle.mph
 /resources/anim/creature/slug/creature_loco_idle_death_pose_1.mph
+/resources/anim/creature/slug/creature_loco_idle_death_pose_2.mph
 /resources/anim/creature/slug/creature_overlay.mph
 /resources/anim/creature/slug/creature_quad_action_common.mph
 /resources/anim/creature/slug/dg_crit_damage_1.jba
@@ -649,6 +652,7 @@
 /resources/anim/creature/tauntaun/creature_loco_cnv.mph
 /resources/anim/creature/tauntaun/creature_loco_idle.mph
 /resources/anim/creature/tauntaun/creature_loco_idle_death_pose_1.mph
+/resources/anim/creature/tauntaun/creature_loco_idle_death_pose_2.mph
 /resources/anim/creature/tauntaun/creature_overlay.mph
 /resources/anim/creature/tauntaun/creature_quad_action_common.mph
 /resources/anim/creature/tauntaun/creature_quad_loco.mph
@@ -753,6 +757,7 @@
 /resources/anim/creature/terentatek/creature_loco_cnv.mph
 /resources/anim/creature/terentatek/creature_loco_idle.mph
 /resources/anim/creature/terentatek/creature_loco_idle_death_pose_1.mph
+/resources/anim/creature/terentatek/creature_loco_idle_death_pose_2.mph
 /resources/anim/creature/terentatek/creature_overlay.mph
 /resources/anim/creature/terentatek/creature_quad_action_common.mph
 /resources/anim/creature/terentatek/dg_crit_damage_1.jba
@@ -890,6 +895,7 @@
 /resources/anim/creature/veractyl/creature_loco_cnv.mph
 /resources/anim/creature/veractyl/creature_loco_idle.mph
 /resources/anim/creature/veractyl/creature_loco_idle_death_pose_1.mph
+/resources/anim/creature/veractyl/creature_loco_idle_death_pose_2.mph
 /resources/anim/creature/veractyl/creature_overlay.mph
 /resources/anim/creature/veractyl/creature_quad_action_common.mph
 /resources/anim/creature/veractyl/creature_quad_loco.mph
@@ -993,6 +999,7 @@
 /resources/anim/creature/wampa/creature_loco_cnv.mph
 /resources/anim/creature/wampa/creature_loco_idle.mph
 /resources/anim/creature/wampa/creature_loco_idle_death_pose_1.mph
+/resources/anim/creature/wampa/creature_loco_idle_death_pose_2.mph
 /resources/anim/creature/wampa/creature_overlay.mph
 /resources/anim/creature/wampa/creature_quad_action_common.mph
 /resources/anim/creature/wampa/creature_wampa_action_autogen.mph
@@ -1114,6 +1121,7 @@
 /resources/anim/creature/wraid/creature_loco_cnv.mph
 /resources/anim/creature/wraid/creature_loco_idle.mph
 /resources/anim/creature/wraid/creature_loco_idle_death_pose_1.mph
+/resources/anim/creature/wraid/creature_loco_idle_death_pose_2.mph
 /resources/anim/creature/wraid/creature_overlay.mph
 /resources/anim/creature/wraid/creature_quad_action_common.mph
 /resources/anim/creature/wraid/creature_quad_loco.mph
@@ -1311,6 +1319,7 @@
 /resources/anim/droid/probe/creature_loco_cnv.mph
 /resources/anim/droid/probe/creature_loco_idle.mph
 /resources/anim/droid/probe/creature_loco_idle_death_pose_1.mph
+/resources/anim/droid/probe/creature_loco_idle_death_pose_2.mph
 /resources/anim/droid/probe/creature_overlay.mph
 /resources/anim/droid/probe/creature_probe_droid_action_autogen.mph
 /resources/anim/droid/probe/creature_quad_action_common.mph
@@ -4531,6 +4540,7 @@
 /resources/anim/droid/protocol/humanoid_action_autogen000023.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000024.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000025.mph
+/resources/anim/droid/protocol/humanoid_action_autogen000026.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000027.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000028.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000029.mph
@@ -4546,10 +4556,13 @@
 /resources/anim/droid/protocol/humanoid_action_autogen000040.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000041.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000042.mph
+/resources/anim/droid/protocol/humanoid_action_autogen000043.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000044.mph
+/resources/anim/droid/protocol/humanoid_action_autogen000045.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000046.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000047.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000048.mph
+/resources/anim/droid/protocol/humanoid_action_autogen000049.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000050.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000051.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000053.mph
@@ -4728,6 +4741,7 @@
 /resources/anim/droid/protocol/humanoid_action_autogen000298.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000299.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000300.mph
+/resources/anim/droid/protocol/humanoid_action_autogen000301.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000302.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000304.mph
 /resources/anim/droid/protocol/humanoid_action_autogen000305.mph
@@ -4950,19 +4964,23 @@
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_saber_threaten_forward_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_saber_threaten_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_scan_idle.mph
+/resources/anim/droid/protocol/humanoid_loco_autogen_po_shivering_02_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_1_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_2_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_3_idle.mph
+/resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_bound_idle_01.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_bound_unconscious_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_ground_1_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_ground_2_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_ground_3_idle.mph
+/resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_ground_6_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_sit_typing_loop.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_stand_bound_idle_01.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_step_back_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_step_in_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_talk_headset_idle.mph
+/resources/anim/droid/protocol/humanoid_loco_autogen_po_throne_sit_back_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_twist_behind_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_twist_behind_left_idle.mph
 /resources/anim/droid/protocol/humanoid_loco_autogen_po_unconscious_sit_wall_talk_loop.mph
