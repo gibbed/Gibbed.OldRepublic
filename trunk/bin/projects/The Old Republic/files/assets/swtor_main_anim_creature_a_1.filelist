@@ -1,4 +1,4 @@
-; 6701/9320 (71%)
+; 6703/9320 (71%)
 /resources/anim/creature/acklay/ad_blank.jba
 /resources/anim/creature/acklay/ad_body_pitch.jba
 /resources/anim/creature/acklay/ad_body_yaw.jba
@@ -486,6 +486,7 @@
 /resources/anim/creature/cat/creature_loco_cnv.mph
 /resources/anim/creature/cat/creature_loco_idle.mph
 /resources/anim/creature/cat/creature_loco_idle_death_pose_1.mph
+/resources/anim/creature/cat/creature_loco_idle_death_pose_2.mph
 /resources/anim/creature/cat/creature_overlay.mph
 /resources/anim/creature/cat/creature_quad_action_common.mph
 /resources/anim/creature/cat/creature_quad_loco.mph
@@ -1368,6 +1369,7 @@
 /resources/anim/npc/chevin/mv_walk_forward.jba
 /resources/anim/npc/chevin/npc_quest_giver_action_common.mph
 /resources/anim/npc/chevin/npc_quest_giver_loco.mph
+/resources/anim/npc/chevin/npc_quest_giver_loco_cnv.mph
 /resources/anim/npc/chevin/npc_quest_giver_loco_idle.mph
 /resources/anim/npc/geonosian/ad_2pistol_2h_yaw.jba
 /resources/anim/npc/geonosian/ad_2pistol_2h_yaw_down.jba

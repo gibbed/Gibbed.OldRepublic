@@ -1,4 +1,4 @@
-; 1608/2182 (73%)
+; 1616/2182 (74%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -903,8 +903,14 @@
 /resources/art/lights/fill_voss_tombs_bluefill.tex
 /resources/art/lights/fill_voss_tombs_green.dds
 /resources/art/lights/fill_voss_tombs_green.tex
+/resources/art/lights/fill_voss_tombs_green_desat.dds
+/resources/art/lights/fill_voss_tombs_green_desat.tex
+/resources/art/lights/fill_voss_tombs_green_key.dds
+/resources/art/lights/fill_voss_tombs_green_key.tex
 /resources/art/lights/fill_voss_tombs_olive.dds
 /resources/art/lights/fill_voss_tombs_olive.tex
+/resources/art/lights/fill_voss_tombs_shrineofhealing_mainlight.dds
+/resources/art/lights/fill_voss_tombs_shrineofhealing_mainlight.tex
 /resources/art/lights/fill_warm_jedi_temple.dds
 /resources/art/lights/fill_warm_jedi_temple.tex
 /resources/art/lights/fill_warm_space.dds
@@ -1111,6 +1117,8 @@
 /resources/art/lights/sc_ambient_m07.tex
 /resources/art/lights/sc_ambient_m08.dds
 /resources/art/lights/sc_ambient_m08.tex
+/resources/art/lights/sc_ambient_m09.dds
+/resources/art/lights/sc_ambient_m09.tex
 /resources/art/lights/sc_bounce_m03.dds
 /resources/art/lights/sc_bounce_m03.tex
 /resources/art/lights/sc_bounce_m04.dds

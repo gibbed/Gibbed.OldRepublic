@@ -1,4 +1,4 @@
-; 10509/14391 (73%)
+; 10512/14391 (73%)
 /resources/anim/humanoid/bmnnew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bmnnew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bmnnew/ad_2pistol_2h_yaw_up.jba
@@ -3146,9 +3146,11 @@
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000041.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000042.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000044.mph
+/resources/anim/humanoid/bmnnew/humanoid_action_autogen000045.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000046.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000047.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000048.mph
+/resources/anim/humanoid/bmnnew/humanoid_action_autogen000049.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000050.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000051.mph
 /resources/anim/humanoid/bmnnew/humanoid_action_autogen000053.mph
@@ -3549,6 +3551,7 @@
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_saber_threaten_forward_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_saber_threaten_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_scan_idle.mph
+/resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_shivering_02_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_1_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_2_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_3_idle.mph
