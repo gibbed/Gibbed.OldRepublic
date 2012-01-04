@@ -1,4 +1,4 @@
-; 4630/4697 (98%)
+; 4686/4697 (99%)
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tiny.dds
@@ -4155,6 +4155,8 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_10_09_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_10_10_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_10_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_10_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_10_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_11_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_11_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_11_02_r.dds
@@ -4167,6 +4169,8 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_11_09_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_11_10_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_11_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_11_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_11_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_12_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_12_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_12_02_r.dds
@@ -4177,6 +4181,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_12_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_12_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_12_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_12_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_12_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_12_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_12_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_13_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_13_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_13_02_r.dds
@@ -4187,6 +4195,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_13_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_13_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_13_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_13_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_13_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_13_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_13_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_14_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_14_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_14_02_r.dds
@@ -4197,6 +4209,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_14_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_14_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_14_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_14_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_14_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_14_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_14_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_15_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_15_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_15_02_r.dds
@@ -4207,6 +4223,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_15_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_15_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_15_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_15_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_15_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_15_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_15_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_16_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_16_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_16_02_r.dds
@@ -4217,6 +4237,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_16_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_16_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_16_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_16_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_16_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_16_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_16_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_17_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_17_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_17_02_r.dds
@@ -4227,6 +4251,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_17_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_17_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_17_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_17_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_17_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_17_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_17_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_18_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_18_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_18_02_r.dds
@@ -4237,6 +4265,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_18_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_18_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_18_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_18_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_18_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_18_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_18_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_19_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_19_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_19_02_r.dds
@@ -4247,6 +4279,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_19_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_19_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_19_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_19_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_19_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_19_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_19_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_20_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_20_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_20_02_r.dds
@@ -4257,6 +4293,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_20_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_20_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_20_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_20_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_20_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_20_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_20_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_21_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_21_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_21_02_r.dds
@@ -4267,6 +4307,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_21_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_21_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_21_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_21_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_21_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_21_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_21_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_22_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_22_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_22_02_r.dds
@@ -4277,6 +4321,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_22_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_22_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_22_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_22_10_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_22_11_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_22_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_22_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_23_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_23_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_23_02_r.dds
@@ -4287,8 +4335,10 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_23_07_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_23_08_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_23_09_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_23_10_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_23_11_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hoth_23_12_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hoth_23_13_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_arek_base_00_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_arek_base_00_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_arek_base_00_02_r.dds
@@ -4373,10 +4423,13 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_rep_storage_facility_02_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_00_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_00_01_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_00_02_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_01_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_01_01_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_01_02_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_02_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_02_01_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_02_02_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_lab_elevator_00_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_lower_lab_00_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub1_techcave_3_lower_lab_00_01_r.dds
@@ -4514,10 +4567,13 @@
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_int_room18_01_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_red1_int_genoharadan_base_a_00_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_red1_int_genoharadan_base_a_00_01_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hub3_red1_int_genoharadan_base_a_00_02_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_red1_int_genoharadan_base_a_01_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_red1_int_genoharadan_base_a_01_01_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hub3_red1_int_genoharadan_base_a_01_02_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_red1_int_genoharadan_base_a_02_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_red1_int_genoharadan_base_a_02_01_r.dds
+/resources/world/areas/4611686025038950088/minimaps/map_hub3_red1_int_genoharadan_base_a_02_02_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_red2_pirate_dungeon_00_00_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_red2_pirate_dungeon_00_01_r.dds
 /resources/world/areas/4611686025038950088/minimaps/map_hub3_red2_pirate_dungeon_01_00_r.dds
