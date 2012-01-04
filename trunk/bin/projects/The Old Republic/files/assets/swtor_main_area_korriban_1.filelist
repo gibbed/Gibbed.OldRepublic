@@ -1,4 +1,4 @@
-; 1284/1290 (99%)
+; 1285/1290 (99%)
 /resources/art/environmentmaps/kor_rebuild_test/area2.dds
 /resources/art/environmentmaps/kor_rebuild_test/area2.tex
 /resources/art/environmentmaps/kor_rebuild_test/area2.tiny.dds
@@ -111,6 +111,7 @@
 /resources/art/shaders/materials/kor_wilds_cliff_40m_small.mat
 /resources/art/shaders/materials/kor_wilds_cliff_40m_small_v1.mat
 /resources/art/shaders/materials/kor_wilds_cliff_40m_small_v2.mat
+/resources/art/shaders/materials/kor_wilds_cliff_large.mat
 /resources/art/shaders/materials/kor_wilds_cliff_rockpile_spread.mat
 /resources/art/shaders/materials/ter_kor_dirt.mat
 /resources/art/shaders/materials/ter_kor_metal01.mat

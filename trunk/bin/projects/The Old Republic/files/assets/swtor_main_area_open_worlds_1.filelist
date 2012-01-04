@@ -1,4 +1,4 @@
-; 408/469 (86%)
+; 409/469 (87%)
 /resources/world/areas/4611686035947170168/map_bh_mandalore_world_r.dds
 /resources/world/areas/4611686035947170168/mapnotes.not
 /resources/world/areas/4611686035947170168/minimaps/map_bh_mandalore_world_00_00_r.dds
@@ -247,6 +247,7 @@
 /resources/world/areas/4611686050277772007/minimaps/map_a77_command_center_01_01_r.dds
 /resources/world/areas/4611686050277772007/minimaps/map_a77_command_center_01_02_r.dds
 /resources/world/areas/4611686050277772007/minimaps/map_a77_prison_00_00_r.dds
+/resources/world/areas/4611686050277772007/minimaps/map_a77_world_00_00_r.dds
 /resources/world/areas/4611686050551071108/map_kgt_leehass_world_r.dds
 /resources/world/areas/4611686050551071169/map_kgt_valiant_world_r.dds
 /resources/world/areas/4611686050551071230/map_con_starkss_world_r.dds

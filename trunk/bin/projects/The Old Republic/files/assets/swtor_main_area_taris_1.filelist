@@ -1,4 +1,4 @@
-; 1777/1793 (99%)
+; 1785/1793 (99%)
 /resources/art/environmentmaps/tar_main/area.dds
 /resources/art/environmentmaps/tar_main/area.tex
 /resources/art/environmentmaps/tar_main/area.tiny.dds
@@ -967,17 +967,23 @@
 /resources/art/static/area/tar_taris/speedtree/tar_shrub_02.spt
 /resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse.dds
 /resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse.tex
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse.tiny.dds
 /resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse_billboards.dds
 /resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse_billboards.tex
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_diffuse_billboards.tiny.dds
 /resources/art/static/area/tar_taris/speedtree/tar_shrub_normal.dds
 /resources/art/static/area/tar_taris/speedtree/tar_shrub_normal.tex
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_normal.tiny.dds
 /resources/art/static/area/tar_taris/speedtree/tar_shrub_normal_billboards.dds
 /resources/art/static/area/tar_taris/speedtree/tar_shrub_normal_billboards.tex
+/resources/art/static/area/tar_taris/speedtree/tar_shrub_normal_billboards.tiny.dds
 /resources/art/static/area/tar_taris/speedtree/tar_thintree_01.spt
 /resources/art/static/area/tar_taris/speedtree/tar_thintree_bark01_d.dds
 /resources/art/static/area/tar_taris/speedtree/tar_thintree_bark01_d.tex
+/resources/art/static/area/tar_taris/speedtree/tar_thintree_bark01_d.tiny.dds
 /resources/art/static/area/tar_taris/speedtree/tar_thintree_bark01_n.dds
 /resources/art/static/area/tar_taris/speedtree/tar_thintree_bark01_n.tex
+/resources/art/static/area/tar_taris/speedtree/tar_thintree_bark01_n.tiny.dds
 /resources/art/static/area/tar_taris/speedtree/tar_tree_01.spt
 /resources/art/static/area/tar_taris/speedtree/tar_tree_01_diffuse.dds
 /resources/art/static/area/tar_taris/speedtree/tar_tree_01_diffuse.tex
@@ -991,8 +997,10 @@
 /resources/art/static/area/tar_taris/speedtree/tar_tree_03.spt
 /resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_d.dds
 /resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_d.tex
+/resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_d.tiny.dds
 /resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_n.dds
 /resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_n.tex
+/resources/art/static/area/tar_taris/speedtree/tar_tree_bark01_n.tiny.dds
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_debris_d.dds
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_debris_d.tex
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_debris_d.tiny.dds

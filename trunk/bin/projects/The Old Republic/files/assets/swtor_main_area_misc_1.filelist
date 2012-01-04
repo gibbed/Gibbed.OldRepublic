@@ -1,4 +1,4 @@
-; 4883/5536 (88%)
+; 4890/5536 (88%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -1069,6 +1069,7 @@
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_pavement_s.tex
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_pavement_s.tiny.dds
 /resources/art/static/area/spc_space/arch/all_arch_rep_space_trans_hangar_lrg.gr2
+/resources/art/static/area/spc_space/arch/spc_arch_defense_satellite.gr2
 /resources/art/static/area/spc_space/arch/spc_arch_imp_atrium_ceiling_tech01.gr2
 /resources/art/static/area/spc_space/arch/spc_arch_imp_int_doorframe_lg.gr2
 /resources/art/static/area/spc_space/arch/spc_arch_imp_int_hall_stairs_half32m.gr2
@@ -4474,6 +4475,8 @@
 /resources/world/areas/4611686051463571770/minimaps/map_prison_sith_01_01_r.dds
 /resources/world/areas/4611686051463571770/minimaps/map_prison_sith_02_00_r.dds
 /resources/world/areas/4611686051463571770/minimaps/map_prison_sith_02_01_r.dds
+/resources/world/areas/4611686051463571770/minimaps/map_prison_sith_03_00_r.dds
+/resources/world/areas/4611686051463571770/minimaps/map_prison_sith_03_01_r.dds
 /resources/world/areas/4611686051463571770/minimaps/map_republic_revan_prison_world_00_00_r.dds
 /resources/world/areas/4611686051463571770/minimaps/map_telos_hangar_00_00_r.dds
 /resources/world/areas/4611686051849071023/map_bounty_hunter_starship_lower_r.dds
@@ -4665,6 +4668,8 @@
 /resources/world/areas/4611686056896931332/minimaps/map_int_processor_core_01_01_r.dds
 /resources/world/areas/4611686056896931332/minimaps/map_int_processor_core_02_00_r.dds
 /resources/world/areas/4611686056896931332/minimaps/map_int_processor_core_02_01_r.dds
+/resources/world/areas/4611686056896931332/minimaps/map_int_processor_core_03_00_r.dds
+/resources/world/areas/4611686056896931332/minimaps/map_int_processor_core_03_01_r.dds
 /resources/world/areas/4611686058495631191/mapnotes.not
 /resources/world/areas/4611686059452131744/map_lost_island_base_lower_r.dds
 /resources/world/areas/4611686059452131744/map_lost_island_base_summit_r.dds
@@ -4837,9 +4842,11 @@
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_hangar_origin_01_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_00_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_00_01_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_00_02_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_01_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_01_01_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_01_02_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_02_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_02_01_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_02_02_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_upper_00_00_r.dds
