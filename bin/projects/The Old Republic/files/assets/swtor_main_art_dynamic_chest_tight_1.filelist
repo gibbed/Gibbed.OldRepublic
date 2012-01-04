@@ -1,4 +1,4 @@
-; 3132/3798 (82%)
+; 3139/3798 (82%)
 /resources/art/dynamic/chest/model/chest_tight_bfa_archetype.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_archetype.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfa_heavy_tr_a02_back.lod.gr2
@@ -182,7 +182,9 @@
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_sp_a03_hooddown.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_sp_a03_shld.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_sp_a03_shld.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_hooddown.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_hooddown.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_hoodup.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_hoodup.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_loin.gr2
 /resources/art/dynamic/chest/model/chest_tight_bfb_med_ss_a01_loin.lod.gr2
@@ -488,6 +490,9 @@
 /resources/art/dynamic/chest/model/chest_tight_bma_med_tr_a01_pocket.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_archetype.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_archetype.lod.gr2
+/resources/art/dynamic/chest/model/chest_tight_bmf_heavy_tr_a02_back.gr2
+/resources/art/dynamic/chest/model/chest_tight_bmf_heavy_tr_a02_plate.gr2
+/resources/art/dynamic/chest/model/chest_tight_bmf_heavy_tr_a02_shld.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_light_ge_a08_chest.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_light_ge_a08_chest.lod.gr2
 /resources/art/dynamic/chest/model/chest_tight_bmf_light_ge_a08_shld.gr2
@@ -899,6 +904,7 @@
 /resources/art/dynamic/chest/model/chest_tightskin_bfn_light_ss_a06_arm.lod.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bfn_light_ss_a06_back.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bfn_light_ss_a06_back.lod.gr2
+/resources/art/dynamic/chest/model/chest_tightskin_bfn_light_ss_a06_shld.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bfn_light_sw_a03_back.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bfn_light_sw_a03_back.lod.gr2
 /resources/art/dynamic/chest/model/chest_tightskin_bfn_light_sw_a03_collar.clo
@@ -3101,6 +3107,7 @@
 /resources/art/shaders/materials/chest_tightskin_light_ss_a02c04_f.mat
 /resources/art/shaders/materials/chest_tightskin_light_ss_a02c04_m.mat
 /resources/art/shaders/materials/chest_tightskin_light_ss_a06c01_u.mat
+/resources/art/shaders/materials/chest_tightskin_light_ss_a06c02_f.mat
 /resources/art/shaders/materials/chest_tightskin_light_ss_a06c02_m.mat
 /resources/art/shaders/materials/chest_tightskin_light_ss_a06c02_u.mat
 /resources/art/shaders/materials/chest_tightskin_light_ss_a06c03_m.mat
