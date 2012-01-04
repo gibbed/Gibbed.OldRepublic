@@ -1,4 +1,4 @@
-; 297/412 (72%)
+; 302/412 (73%)
 /resources/bnk2/voc_abyssin_m_alien_low_soundset.bnk
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_acklay.bnk
@@ -6,6 +6,7 @@
 /resources/bnk2/voc_advozsec_m_alien_high_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_low_soundset.bnk
 /resources/bnk2/voc_advozsec_m_alien_med_soundset.bnk
+/resources/bnk2/voc_akaavi.bnk
 /resources/bnk2/voc_akk.bnk
 /resources/bnk2/voc_andronikos_revel.bnk
 /resources/bnk2/voc_anomid_m_alien_low_soundset.bnk
@@ -13,6 +14,7 @@
 /resources/bnk2/voc_arcona_m_alien_low_soundset.bnk
 /resources/bnk2/voc_arcona_m_alien_med_soundset.bnk
 /resources/bnk2/voc_ashara.bnk
+/resources/bnk2/voc_asharlpanther.bnk
 /resources/bnk2/voc_assassindroidancientguardian.bnk
 /resources/bnk2/voc_assassindroidancientvindicator.bnk
 /resources/bnk2/voc_assassindroidautotrooper.bnk
@@ -146,6 +148,8 @@
 /resources/bnk2/voc_klorslugqueen.bnk
 /resources/bnk2/voc_kubaz_m_alien_low_soundset.bnk
 /resources/bnk2/voc_kubaz_m_alien_med_soundset.bnk
+/resources/bnk2/voc_lisk.bnk
+/resources/bnk2/voc_lobel.bnk
 /resources/bnk2/voc_lt_pierce.bnk
 /resources/bnk2/voc_m14x.bnk
 /resources/bnk2/voc_mako.bnk
@@ -233,6 +237,7 @@
 /resources/bnk2/voc_scavengerdroid.bnk
 /resources/bnk2/voc_scorpio.bnk
 /resources/bnk2/voc_selkath_m_alien_med_soundset.bnk
+/resources/bnk2/voc_selonian_m_alien_low_soundset.bnk
 /resources/bnk2/voc_selonian_m_alien_med_soundset.bnk
 /resources/bnk2/voc_shaclaw.bnk
 /resources/bnk2/voc_shyrack.bnk

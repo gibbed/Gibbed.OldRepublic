@@ -1,4 +1,4 @@
-; 4682/4686 (99%)
+; 4686/4686 (100%)
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_high01_a01_v03.gr2
 /resources/art/dynamic/weapon/assault_cannon/assaultcannon_low03_a03_v01.gr2
 /resources/art/dynamic/weapon/assaultcannon/texture/___psd/assaultcannon_gormac_a01_v01_d.dds
@@ -1734,7 +1734,9 @@
 /resources/art/dynamic/weapon/lightsaber/texture/wep_saber_sith_low02_s.tex
 /resources/art/dynamic/weapon/lightsaber/texture/wep_saber_sith_low02_s.tiny.dds
 /resources/art/dynamic/weapon/lightsaber/wep_saber_jedi_high01.gr2
+/resources/art/dynamic/weapon/lightsaber/wep_saber_jedi_low01.gr2
 /resources/art/dynamic/weapon/lightsaber/wep_saber_low01.gr2
+/resources/art/dynamic/weapon/lightsaber/wep_saber_low02.gr2
 /resources/art/dynamic/weapon/lightsaber/wep_saber_sith_high01.gr2
 /resources/art/dynamic/weapon/lightsaber/wep_saber_sith_low02.gr2
 /resources/art/dynamic/weapon/melee/texture/___psd/melee_trainingsaber_a01_v01_d.dds
@@ -4631,6 +4633,8 @@
 /resources/art/shaders/materials/wep_rifle_low01.mat
 /resources/art/shaders/materials/wep_rifle_low02.mat
 /resources/art/shaders/materials/wep_saber_jedi_high01.mat
+/resources/art/shaders/materials/wep_saber_jedi_low01.mat
+/resources/art/shaders/materials/wep_saber_low_02.mat
 /resources/art/shaders/materials/wep_saber_low01.mat
 /resources/art/shaders/materials/wep_saber_sith_high01.mat
 /resources/art/shaders/materials/wep_saber_sith_low02.mat

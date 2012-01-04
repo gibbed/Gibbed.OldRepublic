@@ -1,4 +1,4 @@
-; 4880/5536 (88%)
+; 4883/5536 (88%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -4839,6 +4839,9 @@
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_00_01_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_01_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_01_01_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_01_02_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_02_01_r.dds
+/resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_playerships_02_02_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_imperial_fleet_station_upper_00_00_r.dds
 /resources/world/areas/4611686142106770000/minimaps/map_ziost_shadow_hangar_00_00_r.dds
 /resources/world/areas/4611686142577070000/map_pvp_voidstar_cargo_hold_r.dds

@@ -1,4 +1,4 @@
-; 1644/2182 (75%)
+; 1646/2182 (75%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester_02_n.dds
@@ -984,6 +984,8 @@
 /resources/art/lights/lum_2point.tex
 /resources/art/lights/lum_3point.dds
 /resources/art/lights/lum_3point.tex
+/resources/art/lights/lum_4_corner_round.dds
+/resources/art/lights/lum_4_corner_round.tex
 /resources/art/lights/lum_4point.dds
 /resources/art/lights/lum_4point.tex
 /resources/art/lights/lum_6point.dds

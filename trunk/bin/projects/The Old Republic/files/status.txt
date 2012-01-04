@@ -1,38 +1,38 @@
-267165/364794 (73%)
+268412/364794 (73%)
 
         5/50 (10%) files\assets\swtor_main_area_epsilon_1.filelist
  10498/52255 (20%) files\assets\swtor_main_gfx_1.filelist
          2/4 (50%) files\assets\swtor_main_area_zed_1.filelist
-  7951/14190 (56%) files\assets\swtor_main_anim_humanoid_bfns_1.filelist
- 15810/26944 (58%) files\assets\swtor_main_anim_creature_npc_1.filelist
-   2871/4371 (65%) files\assets\swtor_main_art_dynamic_cape_1.filelist
-     182/280 (65%) files\assets\swtor_main_bnk_streamed_c_1.filelist
- 13517/19795 (68%) files\assets\swtor_main_art_dynamic_head_1.filelist
+  7956/14190 (56%) files\assets\swtor_main_anim_humanoid_bfns_1.filelist
+ 15906/26944 (59%) files\assets\swtor_main_anim_creature_npc_1.filelist
+     188/280 (67%) files\assets\swtor_main_bnk_streamed_c_1.filelist
+   2980/4371 (68%) files\assets\swtor_main_art_dynamic_cape_1.filelist
    2164/3115 (69%) files\assets\swtor_main_anim_misc_1.filelist
+ 13828/19795 (69%) files\assets\swtor_main_art_dynamic_head_1.filelist
          5/7 (71%) files\assets\swtor_main_zed_1.filelist
-   6661/9173 (72%) files\assets\swtor_main_anim_creature_b_1.filelist
+   6693/9173 (72%) files\assets\swtor_main_anim_creature_b_1.filelist
      304/421 (72%) files\assets\swtor_main_art_zed_1.filelist
-     297/412 (72%) files\assets\swtor_main_bnk_voc_1.filelist
-   6840/9320 (73%) files\assets\swtor_main_anim_creature_a_1.filelist
- 10519/14292 (73%) files\assets\swtor_main_anim_humanoid_bmaf_1.filelist
- 10527/14391 (73%) files\assets\swtor_main_anim_humanoid_bmns_1.filelist
- 10520/14180 (74%) files\assets\swtor_main_anim_humanoid_bfab_1.filelist
-   1644/2182 (75%) files\assets\swtor_main_art_misc_1.filelist
-     332/439 (75%) files\assets\swtor_main_bnk_streamed_b_1.filelist
-     303/397 (76%) files\assets\swtor_main_bnk_streamed_a_1.filelist
-   3025/3873 (78%) files\assets\swtor_main_art_dynamic_chest_1.filelist
-     456/563 (80%) files\assets\swtor_main_area_ilum_1.filelist
-   3069/3798 (80%) files\assets\swtor_main_art_dynamic_chest_tight_1.filelist
- 18450/22915 (80%) files\assets\swtor_main_art_fx_1.filelist
+   6872/9320 (73%) files\assets\swtor_main_anim_creature_a_1.filelist
+ 10591/14391 (73%) files\assets\swtor_main_anim_humanoid_bmns_1.filelist
+     302/412 (73%) files\assets\swtor_main_bnk_voc_1.filelist
+ 10584/14180 (74%) files\assets\swtor_main_anim_humanoid_bfab_1.filelist
+ 10583/14292 (74%) files\assets\swtor_main_anim_humanoid_bmaf_1.filelist
+   1646/2182 (75%) files\assets\swtor_main_art_misc_1.filelist
+     305/397 (76%) files\assets\swtor_main_bnk_streamed_a_1.filelist
+     336/439 (76%) files\assets\swtor_main_bnk_streamed_b_1.filelist
+   3064/3873 (79%) files\assets\swtor_main_art_dynamic_chest_1.filelist
+     459/563 (81%) files\assets\swtor_main_area_ilum_1.filelist
+ 18562/22915 (81%) files\assets\swtor_main_art_fx_1.filelist
        74/90 (82%) files\assets\swtor_main_area_raid_1.filelist
- 20446/24239 (84%) files\assets\swtor_main_art_dynamic_lower_1.filelist
+   3132/3798 (82%) files\assets\swtor_main_art_dynamic_chest_tight_1.filelist
+ 20616/24239 (85%) files\assets\swtor_main_art_dynamic_lower_1.filelist
      408/469 (86%) files\assets\swtor_main_area_open_worlds_1.filelist
    2574/2911 (88%) files\assets\swtor_main_area_corellia_1.filelist
-   4880/5536 (88%) files\assets\swtor_main_area_misc_1.filelist
+   4883/5536 (88%) files\assets\swtor_main_area_misc_1.filelist
      649/715 (90%) files\assets\swtor_main_art_dynamic_mags_1.filelist
      616/670 (91%) files\assets\swtor_main_areadat_epsilon_1.filelist
    1131/1210 (93%) files\assets\swtor_main_art_creature_npc_1.filelist
- 13025/13633 (95%) files\assets\swtor_main_art_dynamic_hand_1.filelist
+ 13081/13633 (95%) files\assets\swtor_main_art_dynamic_hand_1.filelist
    1500/1560 (96%) files\assets\swtor_main_area_dromund_kaas_1.filelist
    1489/1548 (96%) files\assets\swtor_main_art_vehicle_1.filelist
    1491/1507 (98%) files\assets\swtor_main_area_balmorra_1.filelist
@@ -53,10 +53,9 @@
    3573/3574 (99%) files\assets\swtor_main_art_area_all_arch_a_1.filelist
    6330/6335 (99%) files\assets\swtor_main_art_area_all_arch_b_1.filelist
    8860/8930 (99%) files\assets\swtor_main_art_area_all_item_1.filelist
-   2091/2112 (99%) files\assets\swtor_main_art_creature_a_1.filelist
+   2092/2112 (99%) files\assets\swtor_main_art_creature_a_1.filelist
      822/823 (99%) files\assets\swtor_main_art_creature_b_1.filelist
      508/513 (99%) files\assets\swtor_main_art_space_combat_1.filelist
-   4682/4686 (99%) files\assets\swtor_main_art_weapon_1.filelist
      186/187 (99%) files\assets\swtor_main_cnv_alien_1.filelist
    6664/6699 (99%) files\assets\swtor_main_gamedata_1.filelist
     361/361 (100%) files\assets\swtor_en-us_area_alderaan_1.filelist
@@ -85,6 +84,7 @@
       57/57 (100%) files\assets\swtor_en-us_cnv_transitions_1.filelist
   3625/3625 (100%) files\assets\swtor_en-us_global_1.filelist
     862/862 (100%) files\assets\swtor_main_art_harvesting_1.filelist
+  4686/4686 (100%) files\assets\swtor_main_art_weapon_1.filelist
       12/12 (100%) files\assets\swtor_main_bnk_audio_1.filelist
       63/63 (100%) files\assets\swtor_main_bnk_audiodata_1.filelist
       50/50 (100%) files\assets\swtor_main_bnk_location_1.filelist

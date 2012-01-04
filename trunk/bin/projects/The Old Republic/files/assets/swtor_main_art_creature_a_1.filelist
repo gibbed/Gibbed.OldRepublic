@@ -1,4 +1,4 @@
-; 2091/2112 (99%)
+; 2092/2112 (99%)
 /resources/art/defaultassets/blackfullalpha.dds
 /resources/art/defaultassets/blackfullalpha.tex
 /resources/art/defaultassets/blackfullalpha.tiny.dds
@@ -1991,6 +1991,7 @@
 /resources/art/shaders/materials/bms_dashade_a01_v04.mat
 /resources/art/shaders/materials/bms_dashade_a01_v05.mat
 /resources/art/shaders/materials/bms_dashade_a02_v01.mat
+/resources/art/shaders/materials/bms_dashade_a02_v02.mat
 /resources/art/shaders/materials/bms_dashade_a02_v03.mat
 /resources/art/shaders/materials/bms_dashade_a02_v04.mat
 /resources/art/shaders/materials/bms_dashade_a02_v05.mat

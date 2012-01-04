@@ -1,4 +1,4 @@
-; 13025/13633 (95%)
+; 13081/13633 (95%)
 /resources/art/dynamic/bracer/index.xml
 /resources/art/dynamic/bracer/model/bracer_short_bfa_archetype.gr2
 /resources/art/dynamic/bracer/model/bracer_short_bfa_archetype.lod.gr2
@@ -63,17 +63,22 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_light_ge_a29_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_light_ge_a33_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_light_ge_a33_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfa_light_jw_a06_forearm.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfa_light_ss_a02_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_light_ss_a02_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_light_ss_a03_wrist.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_light_ss_a03_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_bh_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_bh_a01_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_ge_a07_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_ge_a07_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_ge_a14_pouch.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_ge_a14_pouch.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_jk_a01_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_jk_a01_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_sm_a02_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_sm_a02_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_sm_a06_cuff.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_sm_a06_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_ss_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfa_med_ss_a01_back.lod.gr2
@@ -107,9 +112,12 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_bh_a01_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_ge_a07_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_jk_a01_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_ss_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_ss_a01_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_sw_a01_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_sw_a02_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_sw_a02_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_tr_a01_front.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfb_med_tr_a01_front.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_archetype.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_archetype.lod.gr2
@@ -117,6 +125,7 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_bh_a02_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_bh_a03_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_bh_a03_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_bh_a04_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_bh_a04_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_bh_a05_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_bh_a05_forearm.lod.gr2
@@ -133,6 +142,7 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_sw_a08_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_tr_a03_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_tr_a03_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_tr_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_heavy_tr_a05_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_light_ge_a12_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_light_ge_a12_back.lod.gr2
@@ -157,8 +167,10 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_ge_a27_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_jk_a01_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_jk_a01_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_jk_a05_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_sm_a02_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_sm_a02_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_sm_a06_cuff.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_sm_a06_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_ss_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfn_med_ss_a01_back.lod.gr2
@@ -175,6 +187,7 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_bh_a02_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_bh_a03_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_bh_a03_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_bh_a05_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_bh_a05_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_ge_a18_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_jk_a09_wrist.gr2
@@ -183,7 +196,9 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_sw_a06_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_sw_a06_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_tr_a03_back.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfs_heavy_tr_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_light_ge_a12_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bfs_light_ge_a33_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_light_ge_a33_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_light_ss_a03_wrist.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bfs_light_ss_a03_wrist.lod.gr2
@@ -206,6 +221,7 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_heavy_bh_a02_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_heavy_bh_a03_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_heavy_bh_a03_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bma_heavy_bh_a05_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_heavy_bh_a05_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_heavy_ge_a16_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_heavy_ge_a16_forearm.lod.gr2
@@ -239,6 +255,7 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_med_ge_a07_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_med_ge_a14_pouch.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_med_ge_a14_pouch.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bma_med_ge_a27_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_med_jk_a05_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_med_sm_a02_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bma_med_ss_a01_back.gr2
@@ -278,6 +295,7 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_light_ss_a03_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_light_ss_a04_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_light_ss_a06_forearm.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_bh_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_bh_a01_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_ge_a07_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_ge_a07_back.lod.gr2
@@ -287,9 +305,11 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_jk_a05_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_sm_a02_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_sm_a02_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_sm_a06_cuff.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_sm_a06_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_ss_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_ss_a01_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_sw_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_sw_a01_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_sw_a02_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmf_med_sw_a02_forearm.lod.gr2
@@ -301,6 +321,7 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_heavy_bh_a02_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_heavy_bh_a03_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_heavy_bh_a03_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bmn_heavy_bh_a04_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_heavy_bh_a05_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_heavy_bh_a05_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_heavy_ge_a16_forearm.gr2
@@ -345,7 +366,9 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_ge_a14_pouch.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_ge_a27_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_ge_a27_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_ge_a28_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_ge_a28_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_jk_a01_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_jk_a01_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_jk_a02_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bmn_med_jk_a05_back.lod.gr2
@@ -378,6 +401,7 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_jk_a09_wrist.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_jk_a09_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_jk_a10_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_jk_a11_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_sw_a05_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_sw_a05_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_sw_a06_forearm.gr2
@@ -386,10 +410,13 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_sw_a08_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_tr_a03_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_tr_a03_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_tr_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_tr_a05_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_tr_a06_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_heavy_tr_a06_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bms_light_ge_a12_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_light_ge_a12_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bms_light_ge_a33_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_light_ge_a33_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_light_ss_a02_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_light_ss_a02_forearm.lod.gr2
@@ -407,8 +434,11 @@
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_med_ge_a14_pouch.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_med_ge_a27_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_med_ge_a27_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bms_med_ge_a28_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_med_ge_a28_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bms_med_jk_a01_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_med_jk_a01_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_gauntlet_bms_med_jk_a02_forearm.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_med_jk_a05_back.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_med_jk_a05_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_gauntlet_bms_med_sm_a02_back.gr2
@@ -434,9 +464,13 @@
 /resources/art/dynamic/hand/model/hand_glove_bfa_light_ge_a22_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_light_ge_a32_cuff.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_light_ge_a32_cuff.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfa_light_jw_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_light_jw_a01_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfa_light_jw_a02_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_light_jw_a02_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfa_light_jw_a03_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_light_jw_a03_wrist.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfa_light_jw_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_light_jw_a05_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_light_ss_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_light_ss_a05_wrist.lod.gr2
@@ -448,6 +482,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a10_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a11_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a11_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a15_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a15_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a17_elbow.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a17_elbow.lod.gr2
@@ -459,6 +494,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a31_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a34_back.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_ge_a34_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfa_med_jk_a03_back.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_jk_a03_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_jk_a06_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_jk_a08_forearm.lod.gr2
@@ -470,6 +506,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_sp_a03_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_sp_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfa_med_sp_a05_wrist.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfa_med_sp_a06_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_archetype.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_archetype.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_light_ge_a13_wrist.gr2
@@ -490,20 +527,24 @@
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_ge_a15_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_ge_a17_elbow.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_ge_a23_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfb_med_ge_a31_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_ge_a31_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_ge_a34_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_sp_a01_back.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfb_med_sp_a02_back.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_sp_a02_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_sp_a03_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_sp_a03_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_sp_a04_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_sp_a04_wrist.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfb_med_sp_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfb_med_sp_a05_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_archetype.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_archetype.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_heavy_tr_a02_bracer.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_heavy_tr_a02_bracer.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_light_ge_a13_wrist.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfn_light_ge_a22_cuff.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_light_ge_a22_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_light_ge_a26_cuffs.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_light_ge_a32_cuff.lod.gr2
@@ -531,6 +572,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bfn_med_ge_a17_elbow.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_med_ge_a19_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_med_ge_a20_cuff.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfn_med_ge_a23_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_med_ge_a23_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_med_ge_a31_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfn_med_ge_a31_forearm.lod.gr2
@@ -570,9 +612,11 @@
 /resources/art/dynamic/hand/model/hand_glove_bfs_med_ge_a31_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfs_med_ge_a34_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfs_med_jk_a03_back.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfs_med_sp_a02_back.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfs_med_sp_a02_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfs_med_sp_a03_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfs_med_sp_a04_wrist.gr2
+/resources/art/dynamic/hand/model/hand_glove_bfs_med_sp_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bfs_med_sp_a05_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_archetype.gr2
 /resources/art/dynamic/hand/model/hand_glove_bma_archetype.lod.gr2
@@ -631,12 +675,14 @@
 /resources/art/dynamic/hand/model/hand_glove_bmf_light_jw_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_light_ss_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_light_ss_a05_wrist.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bmf_light_sw_a03_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_light_sw_a03_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_ge_a02_cuff.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_ge_a02_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_ge_a09_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_ge_a10_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_ge_a10_wrist.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bmf_med_ge_a11_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_ge_a11_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_ge_a15_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_ge_a15_forearm.lod.gr2
@@ -656,6 +702,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_sp_a02_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_sp_a03_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_sp_a03_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bmf_med_sp_a04_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_sp_a04_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_sp_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmf_med_sp_a05_wrist.lod.gr2
@@ -666,6 +713,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bmn_heavy_jk_a12_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_heavy_tr_a02_bracer.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_heavy_tr_a02_bracer.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bmn_heavy_tr_a04_back.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_heavy_tr_a04_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_ge_a13_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_ge_a13_wrist.lod.gr2
@@ -675,6 +723,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_ge_a25_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_ge_a32_cuff.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_ge_a32_cuff.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bmn_light_jw_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_jw_a01_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_jw_a02_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bmn_light_jw_a02_forearm.lod.gr2
@@ -745,13 +794,17 @@
 /resources/art/dynamic/hand/model/hand_glove_bms_heavy_tr_a02_bracer.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_heavy_tr_a02_bracer.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_ge_a13_wrist.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bms_light_ge_a22_cuff.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_ge_a22_cuff.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_ge_a25_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_ge_a32_cuff.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_ge_a32_cuff.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bms_light_jw_a02_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_jw_a02_forearm.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bms_light_jw_a03_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_jw_a03_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_jw_a04_straps.lod.gr2
+/resources/art/dynamic/hand/model/hand_glove_bms_light_jw_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_jw_a05_wrist.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_ss_a05_wrist.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_light_ss_a05_wrist.lod.gr2
@@ -783,6 +836,7 @@
 /resources/art/dynamic/hand/model/hand_glove_bms_med_jk_a08_forearm.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_med_jk_a08_forearm.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_med_sm_a01_cuff.gr2
+/resources/art/dynamic/hand/model/hand_glove_bms_med_sp_a01_back.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_med_sp_a01_back.lod.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_med_sp_a02_back.gr2
 /resources/art/dynamic/hand/model/hand_glove_bms_med_sp_a02_back.lod.gr2
@@ -796,6 +850,8 @@
 /resources/art/dynamic/hand/model/hand_gloveskin01_bfa_med_jk_a07_brace.gr2
 /resources/art/dynamic/hand/model/hand_gloveskin01_bfs_archetype.lod.gr2
 /resources/art/dynamic/hand/model/hand_gloveskin01_bfs_med_jk_a07_brace.lod.gr2
+/resources/art/dynamic/hand/model/hand_gloveskin01_bma_archetype.gr2
+/resources/art/dynamic/hand/model/hand_gloveskin01_bma_med_jk_a07_brace.gr2
 /resources/art/dynamic/hand/model/hand_gloveskin01_bmf_archetype.lod.gr2
 /resources/art/dynamic/hand/model/hand_gloveskin01_bmf_med_jk_a07_brace.lod.gr2
 /resources/art/dynamic/hand/model/hand_gloveskin01_bmn_archetype.gr2
