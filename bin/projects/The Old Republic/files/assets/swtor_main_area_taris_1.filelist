@@ -1,4 +1,4 @@
-; 1785/1793 (99%)
+; 1781/1789 (99%)
 /resources/art/environmentmaps/tar_main/area.dds
 /resources/art/environmentmaps/tar_main/area.tex
 /resources/art/environmentmaps/tar_main/area.tiny.dds
@@ -98,7 +98,6 @@
 /resources/art/shaders/materials/ter_tar_debris01.mat
 /resources/art/shaders/materials/ter_tar_debris02.mat
 /resources/art/shaders/materials/ter_tar_dirt01.mat
-/resources/art/shaders/materials/ter_tar_dirt01_rak.mat
 /resources/art/shaders/materials/ter_tar_dirt02.mat
 /resources/art/shaders/materials/ter_tar_dirt02_debris.mat
 /resources/art/shaders/materials/ter_tar_dirtmoss01.mat
@@ -1025,9 +1024,6 @@
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_dirt01_n.dds
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_dirt01_n.tex
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_dirt01_n.tiny.dds
-/resources/art/static/area/tar_taris/terrain_map/ter_tar_dirt01_rak_d.dds
-/resources/art/static/area/tar_taris/terrain_map/ter_tar_dirt01_rak_d.tex
-/resources/art/static/area/tar_taris/terrain_map/ter_tar_dirt01_rak_d.tiny.dds
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_dirt01_s.dds
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_dirt01_s.tex
 /resources/art/static/area/tar_taris/terrain_map/ter_tar_dirt01_s.tiny.dds

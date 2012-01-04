@@ -1,4 +1,4 @@
-; 304/421 (72%)
+; 303/420 (72%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/defaultassets/checkered.tiny.dds
@@ -300,6 +300,5 @@
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_s.dds
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_s.tex
 /resources/art/static/vehicle/neutral/texture/veh_neu_speeder_van_s.tiny.dds
-/resources/art/test/portals/portal2.gr2
 ft.sig
 metadata.bin

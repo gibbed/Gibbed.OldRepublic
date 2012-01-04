@@ -1,4 +1,4 @@
-; 4890/5536 (88%)
+; 4887/5533 (88%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -4245,9 +4245,6 @@
 /resources/art/static/vehicle/neutral/texture/veh_neu_space_station_trim_s.dds
 /resources/art/static/vehicle/neutral/texture/veh_neu_space_station_trim_s.tex
 /resources/art/static/vehicle/neutral/texture/veh_neu_space_station_trim_s.tiny.dds
-/resources/art/test/clouds_quesh_n.dds
-/resources/art/test/clouds_quesh_n.tex
-/resources/art/test/clouds_quesh_n.tiny.dds
 /resources/art/util/texture/util_collision_hidden_01_n.dds
 /resources/art/util/texture/util_collision_hidden_01_n.tex
 /resources/art/util/texture/util_collision_hidden_01_n.tiny.dds

@@ -1,4 +1,4 @@
-; 1500/1560 (96%)
+; 1502/1612 (93%)
 /resources/art/environmentmaps/dro_main/area.dds
 /resources/art/environmentmaps/dro_main/area.tex
 /resources/art/environmentmaps/dro_main/area.tiny.dds
@@ -947,6 +947,8 @@
 /resources/art/static/area/dro_kass/speedtree/dro_crape/dro_crape_normal_billboards.dds
 /resources/art/static/area/dro_kass/speedtree/dro_crape/dro_crape_normal_billboards.tex
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush.gr2
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush.spt
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_03.spt
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/texture/dro_junglebrush_d.dds
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/texture/dro_junglebrush_d.tex
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/texture/dro_junglebrush_d.tiny.dds

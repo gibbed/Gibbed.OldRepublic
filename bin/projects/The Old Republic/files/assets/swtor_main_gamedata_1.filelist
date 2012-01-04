@@ -1,4 +1,4 @@
-; 6664/6699 (99%)
+; 6663/6698 (99%)
 /resources/art/defaultassets/ltorange.dds
 /resources/art/defaultassets/ltorange.tex
 /resources/art/defaultassets/ltorange.tiny.dds
@@ -4453,7 +4453,6 @@
 /resources/gamedata/epp/smuggler/sweeping_gunfire_impact.epp
 /resources/gamedata/epp/smuggler/tendon_blast/cast_instant.epp
 /resources/gamedata/epp/smuggler/terminate/cast_instant.epp
-/resources/gamedata/epp/smuggler/thermal_detonator.epp
 /resources/gamedata/epp/smuggler/thermal_detonator/flinch.epp
 /resources/gamedata/epp/smuggler/thermal_detonator/throw.epp
 /resources/gamedata/epp/smuggler/thermal_grenade/cast_instant.epp
