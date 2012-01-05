@@ -1,4 +1,4 @@
-; 224/224 (100%)
+; 222/227 (97%)
 /resources/en-us/bnk2/cnv_location_flashpoint_imperial_revan_boarding_party_transmissions.acb
 /resources/en-us/bnk2/cnv_location_flashpoint_imperial_revan_captain_yelto.acb
 /resources/en-us/bnk2/cnv_location_flashpoint_imperial_revan_captain_yelto_holo.acb
@@ -86,7 +86,6 @@
 /resources/en-us/bnk2/cnv_location_flashpoint_shared_taris_multi_shared_dr_lorrick_barks.acb
 /resources/en-us/bnk2/cnv_location_flashpoint_shared_taris_multi_shared_major_byzal.acb
 /resources/en-us/bnk2/cnv_location_flashpoint_shared_taris_multi_shared_major_byzal_cinematic.acb
-/resources/en-us/bnk2/cnv_location_flashpoint_shared_taris_multi_shared_major_byzal_transmission.acb
 /resources/en-us/bnk2/cnv_location_flashpoint_shared_taris_multi_shared_pilot.acb
 /resources/en-us/bnk2/cnv_location_flashpoint_shared_taris_multi_shared_security_transmissions.acb
 /resources/en-us/bnk2/cnv_location_flashpoint_shared_the_colicoid_war_game_imperial_c_06x.acb
@@ -199,7 +198,6 @@
 /resources/en-us/fxe/cnv/location/flashpoint/shared/taris/multi/shared/dr_lorrick_barks.fxe
 /resources/en-us/fxe/cnv/location/flashpoint/shared/taris/multi/shared/major_byzal.fxe
 /resources/en-us/fxe/cnv/location/flashpoint/shared/taris/multi/shared/major_byzal_cinematic.fxe
-/resources/en-us/fxe/cnv/location/flashpoint/shared/taris/multi/shared/major_byzal_transmission.fxe
 /resources/en-us/fxe/cnv/location/flashpoint/shared/taris/multi/shared/pilot.fxe
 /resources/en-us/fxe/cnv/location/flashpoint/shared/taris/multi/shared/security_transmissions.fxe
 /resources/en-us/fxe/cnv/location/flashpoint/shared/the_colicoid_war_game/imperial/c_06x.fxe
