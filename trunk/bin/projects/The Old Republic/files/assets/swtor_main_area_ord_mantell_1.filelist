@@ -1,4 +1,4 @@
-; 653/694 (94%)
+; 655/694 (94%)
 /resources/art/environmentmaps/ord_resize/area.dds
 /resources/art/environmentmaps/ord_resize/area.tex
 /resources/art/environmentmaps/ord_resize/area.tiny.dds
@@ -37,6 +37,7 @@
 /resources/art/shaders/materials/ter_ord_debris01.mat
 /resources/art/shaders/materials/ter_ord_grass01.mat
 /resources/art/shaders/materials/ter_ord_grass02.mat
+/resources/art/shaders/materials/ter_ord_grass03.mat
 /resources/art/shaders/materials/ter_ord_grass04.mat
 /resources/art/shaders/materials/ter_ord_grass05.mat
 /resources/art/shaders/materials/ter_ord_lava.mat
@@ -229,6 +230,7 @@
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_burnt_d.tiny.dds
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_d.dds
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_d.tex
+/resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia01_trunk_d.tiny.dds
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_acacia02.spt
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_boxwood01.gr2
 /resources/art/static/area/ord_ordmantell/speedtree/ord_speedtree_broomweed01.gr2

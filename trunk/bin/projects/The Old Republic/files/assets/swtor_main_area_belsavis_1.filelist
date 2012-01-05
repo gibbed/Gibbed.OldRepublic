@@ -1,4 +1,4 @@
-; 2634/2659 (99%)
+; 2642/2659 (99%)
 /resources/art/environmentmaps/bel_main/area.dds
 /resources/art/environmentmaps/bel_main/area.tex
 /resources/art/environmentmaps/bel_main/area.tiny.dds
@@ -1444,16 +1444,22 @@
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_03.spt
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_bark01a_d.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_bark01a_d.tex
+/resources/art/static/area/bel_belsavis/speedtree/bel_tree_bark01a_d.tiny.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_bark01a_n.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_bark01a_n.tex
+/resources/art/static/area/bel_belsavis/speedtree/bel_tree_bark01a_n.tiny.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_diffuse.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_diffuse.tex
+/resources/art/static/area/bel_belsavis/speedtree/bel_tree_diffuse.tiny.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_diffuse_billboards.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_diffuse_billboards.tex
+/resources/art/static/area/bel_belsavis/speedtree/bel_tree_diffuse_billboards.tiny.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_normal.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_normal.tex
+/resources/art/static/area/bel_belsavis/speedtree/bel_tree_normal.tiny.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_normal_billboards.dds
 /resources/art/static/area/bel_belsavis/speedtree/bel_tree_normal_billboards.tex
+/resources/art/static/area/bel_belsavis/speedtree/bel_tree_normal_billboards.tiny.dds
 /resources/art/static/area/bel_belsavis/terrain_map/ter_bel_city_floor01_d.dds
 /resources/art/static/area/bel_belsavis/terrain_map/ter_bel_city_floor01_d.tex
 /resources/art/static/area/bel_belsavis/terrain_map/ter_bel_city_floor01_d.tiny.dds
@@ -2137,7 +2143,9 @@
 /resources/world/areas/4611686025952170568/minimaps/map_hub1_int_impbase_00_01_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub1_int_imperial_lodgement_00_00_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub1_int_juxtaposition_00_00_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub1_int_juxtaposition_00_01_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub1_int_juxtaposition_01_00_r.dds
+/resources/world/areas/4611686025952170568/minimaps/map_hub1_int_juxtaposition_01_01_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub1_int_most_wanted_00_00_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub1_int_most_wanted_00_01_r.dds
 /resources/world/areas/4611686025952170568/minimaps/map_hub1_int_most_wanted_01_00_r.dds

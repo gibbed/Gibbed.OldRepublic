@@ -1,4 +1,4 @@
-; 6663/6698 (99%)
+; 6665/6698 (99%)
 /resources/art/defaultassets/ltorange.dds
 /resources/art/defaultassets/ltorange.tex
 /resources/art/defaultassets/ltorange.tiny.dds
@@ -29,7 +29,9 @@
 /resources/engine/staging/engine_staging_human_04.gr2
 /resources/engine/staging/engine_staging_human_05.gr2
 /resources/engine/staging/engine_staging_pointlight.gr2
+/resources/engine/utility/stringfilter_profanity_de_de.xml
 /resources/engine/utility/stringfilter_profanity_en_us.xml
+/resources/engine/utility/stringfilter_profanity_fr_fr.xml
 /resources/engine/utility/util_cube_hidden.gr2
 /resources/gamedata/epp/agent/acid_blade/cast_instant.epp
 /resources/gamedata/epp/agent/adrenaline_probe/summon.epp

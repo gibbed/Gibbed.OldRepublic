@@ -1,4 +1,4 @@
-; 2558/2575 (99%)
+; 2567/2575 (99%)
 /resources/art/environmentmaps/ald_main/area.dds
 /resources/art/environmentmaps/ald_main/area.tex
 /resources/art/environmentmaps/ald_main/area.tiny.dds
@@ -1005,16 +1005,21 @@
 /resources/art/static/area/ald_alderaan/speedtree/ald_bush_normal_billboards.tex
 /resources/art/static/area/ald_alderaan/speedtree/ald_bush_trunk.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_bush_trunk.tex
+/resources/art/static/area/ald_alderaan/speedtree/ald_bush_trunk.tiny.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_bush01.spt
 /resources/art/static/area/ald_alderaan/speedtree/ald_bush02.spt
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_d.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_d.tex
+/resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_d.tiny.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_n.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_n.tex
+/resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_n.tiny.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_snow_d.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_snow_d.tex
+/resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_snow_d.tiny.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_snow_n.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_snow_n.tex
+/resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_bark01_snow_n.tiny.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_diffuse.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_diffuse.tex
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen_diffuse_billboards.dds
@@ -1035,12 +1040,16 @@
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow.spt
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_diffuse.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_diffuse.tex
+/resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_diffuse.tiny.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_diffuse_billboards.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_diffuse_billboards.tex
+/resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_diffuse_billboards.tiny.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_normal.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_normal.tex
+/resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_normal.tiny.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_normal_billboards.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_normal_billboards.tex
+/resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen01_snow_normal_billboards.tiny.dds
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen02.spt
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen02_halfsnow.spt
 /resources/art/static/area/ald_alderaan/speedtree/ald_tree_evergreen02_snow.spt

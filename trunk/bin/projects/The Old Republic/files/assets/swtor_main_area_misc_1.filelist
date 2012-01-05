@@ -1,4 +1,4 @@
-; 4887/5533 (88%)
+; 4908/5533 (88%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -4329,6 +4329,7 @@
 /resources/world/areas/4611686033507370314/minimaps/map_int_esseles_passenger_deck_01_00_r.dds
 /resources/world/areas/4611686033507370314/minimaps/map_int_esseles_port_wing_00_00_r.dds
 /resources/world/areas/4611686033507370314/minimaps/map_int_esseles_port_wing_00_01_r.dds
+/resources/world/areas/4611686043810670011/mapnotes.not
 /resources/world/areas/4611686044198570319/map_hub1_r.dds
 /resources/world/areas/4611686044198570319/map_world_r.dds
 /resources/world/areas/4611686044198570319/mapnotes.not
@@ -4349,6 +4350,7 @@
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_lower_r.dds
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_r.dds
 /resources/world/areas/4611686051284471420/map_jedi_consular_starship_world_r.dds
+/resources/world/areas/4611686051284471420/mapnotes.not
 /resources/world/areas/4611686051284471420/minimaps/map_jedi_consular_starship_00_00_r.dds
 /resources/world/areas/4611686051284471420/minimaps/map_jedi_consular_starship_lower_00_00_r.dds
 /resources/world/areas/4611686051284471420/minimaps/map_jedi_consular_starship_world_00_00_r.dds
@@ -4385,14 +4387,17 @@
 /resources/world/areas/4611686051284476033/map_jedi_knight_starship_lower_r.dds
 /resources/world/areas/4611686051284476033/map_jedi_knight_starship_r.dds
 /resources/world/areas/4611686051284476033/map_jedi_knight_starship_world_r.dds
+/resources/world/areas/4611686051284476033/mapnotes.not
 /resources/world/areas/4611686051284476033/minimaps/map_jedi_knight_starship_00_00_r.dds
 /resources/world/areas/4611686051284476033/minimaps/map_jedi_knight_starship_lower_00_00_r.dds
 /resources/world/areas/4611686051284476033/minimaps/map_jedi_knight_starship_world_00_00_r.dds
 /resources/world/areas/4611686051284477081/map_sith_warrior_starship_r.dds
 /resources/world/areas/4611686051284477081/map_sith_warrior_starship_world_r.dds
+/resources/world/areas/4611686051284477081/mapnotes.not
 /resources/world/areas/4611686051284477081/minimaps/map_sith_warrior_starship_00_00_r.dds
 /resources/world/areas/4611686051284477465/map_sith_inquisitor_starship_r.dds
 /resources/world/areas/4611686051284477465/map_sith_inquisitor_starship_world_r.dds
+/resources/world/areas/4611686051284477465/mapnotes.not
 /resources/world/areas/4611686051284477465/minimaps/map_sith_inquisitor_starship_00_00_r.dds
 /resources/world/areas/4611686051463571693/map_int_imperial_fort_r.dds
 /resources/world/areas/4611686051463571693/map_republic_revan_taralv_world_r.dds
@@ -4407,6 +4412,7 @@
 /resources/world/areas/4611686051463571693/map_surface_landing_zone_med_center_r.dds
 /resources/world/areas/4611686051463571693/map_surface_landing_zone_r.dds
 /resources/world/areas/4611686051463571693/map_telos_hangar_r.dds
+/resources/world/areas/4611686051463571693/mapnotes.not
 /resources/world/areas/4611686051463571693/minimaps/map_int_imperial_fort_00_00_r.dds
 /resources/world/areas/4611686051463571693/minimaps/map_int_imperial_fort_00_01_r.dds
 /resources/world/areas/4611686051463571693/minimaps/map_int_imperial_fort_01_00_r.dds
@@ -4438,6 +4444,7 @@
 /resources/world/areas/4611686051463571770/map_prison_sith_r.dds
 /resources/world/areas/4611686051463571770/map_republic_revan_prison_world_r.dds
 /resources/world/areas/4611686051463571770/map_telos_hangar_r.dds
+/resources/world/areas/4611686051463571770/mapnotes.not
 /resources/world/areas/4611686051463571770/minimaps/map_prison_revan_core_00_00_r.dds
 /resources/world/areas/4611686051463571770/minimaps/map_prison_revan_core_00_01_r.dds
 /resources/world/areas/4611686051463571770/minimaps/map_prison_revan_core_00_02_r.dds
@@ -4479,6 +4486,7 @@
 /resources/world/areas/4611686051849071023/map_bounty_hunter_starship_lower_r.dds
 /resources/world/areas/4611686051849071023/map_bounty_hunter_starship_r.dds
 /resources/world/areas/4611686051849071023/map_bounty_hunter_starship_world_r.dds
+/resources/world/areas/4611686051849071023/mapnotes.not
 /resources/world/areas/4611686051849071023/minimaps/map_bounty_hunter_starship_00_00_r.dds
 /resources/world/areas/4611686051849071023/minimaps/map_bounty_hunter_starship_lower_00_00_r.dds
 /resources/world/areas/4611686051849071023/minimaps/map_bounty_hunter_starship_world_00_00_r.dds
@@ -4541,6 +4549,7 @@
 /resources/world/areas/4611686053134031672/map_bridge_r.dds
 /resources/world/areas/4611686053134031672/map_starship_trooper_r.dds
 /resources/world/areas/4611686053134031672/map_starship_trooper_world_r.dds
+/resources/world/areas/4611686053134031672/mapnotes.not
 /resources/world/areas/4611686053134031672/minimaps/map_bridge_00_00_r.dds
 /resources/world/areas/4611686053134031672/minimaps/map_starship_trooper_00_00_r.dds
 /resources/world/areas/4611686053134031672/minimaps/map_starship_trooper_world_00_00_r.dds
@@ -4554,6 +4563,7 @@
 /resources/world/areas/4611686053134231191/map_station_throne_antechamber_r.dds
 /resources/world/areas/4611686053134231191/map_station_throne_room_r.dds
 /resources/world/areas/4611686053134231191/map_world_r.dds
+/resources/world/areas/4611686053134231191/mapnotes.not
 /resources/world/areas/4611686053134231191/minimaps/map_lobby_hangar_00_00_r.dds
 /resources/world/areas/4611686053134231191/minimaps/map_station_core_00_00_r.dds
 /resources/world/areas/4611686053134231191/minimaps/map_station_core_00_01_r.dds
@@ -4598,6 +4608,7 @@
 /resources/world/areas/4611686053134237022/map_fort_barrow_r.dds
 /resources/world/areas/4611686053134237022/map_ilum_surface_r.dds
 /resources/world/areas/4611686053134237022/map_lobby_hangar_r.dds
+/resources/world/areas/4611686053134237022/mapnotes.not
 /resources/world/areas/4611686053134237022/minimaps/map_crystal_mines_00_00_r.dds
 /resources/world/areas/4611686053134237022/minimaps/map_crystal_mines_00_01_r.dds
 /resources/world/areas/4611686053134237022/minimaps/map_crystal_mines_00_02_r.dds
@@ -4631,12 +4642,14 @@
 /resources/world/areas/4611686053134237022/minimaps/map_lobby_hangar_00_00_r.dds
 /resources/world/areas/4611686053487831502/map_smuggler_starship_r.dds
 /resources/world/areas/4611686053487831502/map_smuggler_starship_world_r.dds
+/resources/world/areas/4611686053487831502/mapnotes.not
 /resources/world/areas/4611686053487831502/minimaps/map_smuggler_starship_00_00_r.dds
 /resources/world/areas/4611686053487831502/minimaps/map_smuggler_starship_world_00_00_r.dds
 /resources/world/areas/4611686056896931332/map_directive7_world_r.dds
 /resources/world/areas/4611686056896931332/map_int_factory_landingpad_r.dds
 /resources/world/areas/4611686056896931332/map_int_factory_r.dds
 /resources/world/areas/4611686056896931332/map_int_processor_core_r.dds
+/resources/world/areas/4611686056896931332/mapnotes.not
 /resources/world/areas/4611686056896931332/minimaps/map_directive7_world_00_00_r.dds
 /resources/world/areas/4611686056896931332/minimaps/map_directive7_world_00_01_r.dds
 /resources/world/areas/4611686056896931332/minimaps/map_directive7_world_00_02_r.dds
@@ -4673,6 +4686,7 @@
 /resources/world/areas/4611686059452131744/map_lost_island_base_upper_r.dds
 /resources/world/areas/4611686059452131744/map_lost_island_beach_r.dds
 /resources/world/areas/4611686059452131744/map_lost_island_world_r.dds
+/resources/world/areas/4611686059452131744/mapnotes.not
 /resources/world/areas/4611686059452131744/minimaps/map_lost_island_base_lower_00_00_r.dds
 /resources/world/areas/4611686059452131744/minimaps/map_lost_island_base_lower_00_01_r.dds
 /resources/world/areas/4611686059452131744/minimaps/map_lost_island_base_lower_00_02_r.dds
@@ -4739,6 +4753,7 @@
 /resources/world/areas/4611686059528731402/map_kaon_transit_spaceport_observation_r.dds
 /resources/world/areas/4611686059528731402/map_kaon_transit_spaceport_r.dds
 /resources/world/areas/4611686059528731402/map_kaon_world_r.dds
+/resources/world/areas/4611686059528731402/mapnotes.not
 /resources/world/areas/4611686059528731402/minimaps/map_kaon_manor_00_00_r.dds
 /resources/world/areas/4611686059528731402/minimaps/map_kaon_manor_00_01_r.dds
 /resources/world/areas/4611686059528731402/minimaps/map_kaon_manor_00_02_r.dds
@@ -4870,6 +4885,8 @@
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_00_00_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_00_01_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_respawn_00_00_r.dds
+/resources/world/areas/4611686170117610875/mapnotes.not
+/resources/world/areas/4611686170117610984/mapnotes.not
 /resources/world/areas/4611686189079993896/map_hammer_expansion_r.dds
 /resources/world/areas/4611686189079993896/map_hammer_section0_r.dds
 /resources/world/areas/4611686189079993896/map_hammer_security_r.dds
@@ -4884,5 +4901,9 @@
 /resources/world/areas/4611686189079993896/minimaps/map_hammer_security_00_00_r.dds
 /resources/world/areas/4611686189079993896/minimaps/map_hammer_security_00_01_r.dds
 /resources/world/areas/4611686189079993896/minimaps/map_hammer_world_00_00_r.dds
+/resources/world/areas/4611686198204660000/mapnotes.not
+/resources/world/areas/4611686198666960368/mapnotes.not
+/resources/world/areas/4611686246575650631/mapnotes.not
+/resources/world/areas/4611686246575650677/mapnotes.not
 ft.sig
 metadata.bin

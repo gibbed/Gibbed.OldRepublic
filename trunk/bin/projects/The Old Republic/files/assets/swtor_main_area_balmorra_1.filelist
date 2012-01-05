@@ -1,4 +1,4 @@
-; 1493/1524 (97%)
+; 1494/1524 (98%)
 /resources/art/environmentmaps/bal_main/area.dds
 /resources/art/environmentmaps/bal_main/area.tex
 /resources/art/environmentmaps/bal_main/area.tiny.dds
@@ -91,6 +91,7 @@
 /resources/art/shaders/materials/ter_bal_colocoid_mound_d.mat
 /resources/art/shaders/materials/ter_bal_dirt_01.mat
 /resources/art/shaders/materials/ter_bal_dirt_02.mat
+/resources/art/shaders/materials/ter_bal_dirt_03.mat
 /resources/art/shaders/materials/ter_bal_dirt_path.mat
 /resources/art/shaders/materials/ter_bal_dirt_rock.mat
 /resources/art/shaders/materials/ter_bal_grass_01.mat
