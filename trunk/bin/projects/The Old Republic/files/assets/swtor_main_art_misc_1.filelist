@@ -1,4 +1,4 @@
-; 1940/2182 (88%)
+; 1937/2180 (88%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester.tiny.dds
@@ -1717,11 +1717,8 @@
 /resources/art/static/designblockout/collision/dbo_collision_sphere_10m.gr2
 /resources/art/static/designblockout/cover_objects/dbo_universal_superexclusion_test.gr2
 /resources/art/static/designblockout/dbo_blocking_volume_16x10.gr2
-/resources/art/static/designblockout/designutility/dbo_30meter.gr2
-/resources/art/static/designblockout/designutility/dbo_40m_rocket_distance.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_auction_house.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_bank.gr2
-/resources/art/static/designblockout/designutility/dbo_asign_datacron.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_quest_start.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_trainer.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_treasurechest.gr2

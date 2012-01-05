@@ -1,4 +1,4 @@
-; 10419/10430 (99%)
+; 10416/10459 (99%)
 /resources/world/areas/4611686018427650020/_everywhere_.dat
 /resources/world/areas/4611686018427650020/_numbers_.dat
 /resources/world/areas/4611686018427650020/area.dat
@@ -9126,7 +9126,6 @@
 /resources/world/areas/4611686059452131744/volcano_lava_upper.dat
 /resources/world/areas/4611686059528731402/_everywhere_.dat
 /resources/world/areas/4611686059528731402/area.dat
-/resources/world/areas/4611686059528731402/blockout.dat
 /resources/world/areas/4611686059528731402/default.dat
 /resources/world/areas/4611686059528731402/int_burningbuilding_entrance.dat
 /resources/world/areas/4611686059528731402/int_burningbuilding_exit.dat
@@ -10071,7 +10070,6 @@
 /resources/world/areas/4611686170050760051/area.dat
 /resources/world/areas/4611686170050760051/default.dat
 /resources/world/areas/4611686170050760051/palace_basement_hall.dat
-/resources/world/areas/4611686170050760051/palace_elevator.dat
 /resources/world/areas/4611686170050760051/palace_entrance.dat
 /resources/world/areas/4611686170050760051/palace_entrance_foyer.dat
 /resources/world/areas/4611686170050760051/palace_rancor_hall.dat
@@ -10080,7 +10078,6 @@
 /resources/world/areas/4611686170050760051/palace_throne_hall.dat
 /resources/world/areas/4611686170050760051/palace_throne_room.dat
 /resources/world/areas/4611686170050760051/skyscene.dat
-/resources/world/areas/4611686170050760051/surface.dat
 /resources/world/areas/4611686170117610875/_everywhere_.dat
 /resources/world/areas/4611686170117610875/airlock_hall.dat
 /resources/world/areas/4611686170117610875/airlock_room.dat

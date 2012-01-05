@@ -1,4 +1,4 @@
-; 20348/22915 (88%)
+; 20337/22902 (88%)
 /resources/art/defaultassets/white.dds
 /resources/art/defaultassets/white.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_mini_a01_v01_d.dds
@@ -8389,8 +8389,6 @@
 /resources/art/fx/particles/fx_banking_ship_thruster_core_p.prt
 /resources/art/fx/particles/fx_banking_ship_thrusters.prt
 /resources/art/fx/particles/fx_banking_ship_thrusters_p.prt
-/resources/art/fx/particles/fx_billowing_falling_ground_fog_cycle.prt
-/resources/art/fx/particles/fx_billowing_falling_ground_fog_cycle_p.prt
 /resources/art/fx/particles/fx_billowing_ground_fog_cycle.prt
 /resources/art/fx/particles/fx_billowing_ground_fog_cycle_p.prt
 /resources/art/fx/particles/fx_billowing_smoke_cycle.prt
@@ -10969,12 +10967,6 @@
 /resources/art/fx/particles/kaon_electrical_flashes_p.prt
 /resources/art/fx/particles/kaon_electrical_glows.prt
 /resources/art/fx/particles/kaon_electrical_glows_p.prt
-/resources/art/fx/particles/kaon_movie_countdown.prt
-/resources/art/fx/particles/kaon_movie_countdown_corners.prt
-/resources/art/fx/particles/kaon_movie_countdown_corners_p.prt
-/resources/art/fx/particles/kaon_movie_countdown_orbitter.prt
-/resources/art/fx/particles/kaon_movie_countdown_orbitter_p.prt
-/resources/art/fx/particles/kaon_movie_countdown_p.prt
 /resources/art/fx/particles/kick_face01.prt
 /resources/art/fx/particles/kick_face01_p.prt
 /resources/art/fx/particles/kick_face02.prt
@@ -19467,9 +19459,6 @@
 /resources/art/fx/texture/symbol/logo_gray.dds
 /resources/art/fx/texture/symbol/logo_gray.tex
 /resources/art/fx/texture/symbol/logo_gray.tiny.dds
-/resources/art/fx/texture/symbol/movie_screen_countdown.dds
-/resources/art/fx/texture/symbol/movie_screen_countdown.tex
-/resources/art/fx/texture/symbol/movie_screen_countdown.tiny.dds
 /resources/art/fx/texture/symbol/paralax_hexagon_blurred_tiled.dds
 /resources/art/fx/texture/symbol/paralax_hexagon_blurred_tiled.tex
 /resources/art/fx/texture/symbol/paralax_hexagon_blurred_tiled.tiny.dds
