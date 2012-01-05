@@ -1,4 +1,4 @@
-; 7960/14190 (56%)
+; 7969/14190 (56%)
 /resources/anim/humanoid/bfnnew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bfnnew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bfnnew/ad_2pistol_2h_yaw_up.jba
@@ -4727,6 +4727,7 @@
 /resources/anim/humanoid/bfsnew/ad_mv_rifle_run_forward_yaw_mid.jba
 /resources/anim/humanoid/bfsnew/ad_mv_rifle_run_forward_yaw_retract.jba
 /resources/anim/humanoid/bfsnew/ad_mv_rifle_run_forward_yaw_up.jba
+/resources/anim/humanoid/bfsnew/ad_mv_rifle_stealth_yaw.jba
 /resources/anim/humanoid/bfsnew/ad_mv_rifle_walk_back_yaw_down.jba
 /resources/anim/humanoid/bfsnew/ad_mv_rifle_walk_back_yaw_mid.jba
 /resources/anim/humanoid/bfsnew/ad_mv_rifle_walk_back_yaw_retract.jba
@@ -4801,6 +4802,7 @@
 /resources/anim/humanoid/bfsnew/ad_rifle_sniper_yaw_mid.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_sniper_yaw_retract.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_sniper_yaw_up.jba
+/resources/anim/humanoid/bfsnew/ad_rifle_steath_yaw.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_yaw_down.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_yaw_mid.jba
 /resources/anim/humanoid/bfsnew/ad_rifle_yaw_retract.jba
@@ -5027,6 +5029,7 @@
 /resources/anim/humanoid/bfsnew/cb_rifle_cover_crouch_hide_idle_1.jba
 /resources/anim/humanoid/bfsnew/cb_saber_glance_low_right_2.jba
 /resources/anim/humanoid/bfsnew/cb_unarmed_idle_right_1.jba
+/resources/anim/humanoid/bfsnew/cb_unarmed_stealth_idle_1.jba
 /resources/anim/humanoid/bfsnew/cc_stand_agent_01.jba
 /resources/anim/humanoid/bfsnew/cc_stand_bountyhunter_01.jba
 /resources/anim/humanoid/bfsnew/cc_stand_consular_01.jba
@@ -6487,6 +6490,7 @@
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_rifle_cover.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_rifle_falling.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_rifle_sniper.mph
+/resources/anim/humanoid/bfsnew/humanoid_loco_combat_rifle_stealth.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_saber_01.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_saber_02.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_saber_03.mph
@@ -6494,6 +6498,7 @@
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_saber_falling.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_unarmed.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_combat_unarmed_falling.mph
+/resources/anim/humanoid/bfsnew/humanoid_loco_combat_unarmed_stealth.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_css.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_idle.mph
 /resources/anim/humanoid/bfsnew/humanoid_loco_idle_kneel.mph
@@ -6973,6 +6978,8 @@
 /resources/anim/humanoid/bfsnew/mv_rifle_run_forward_retract.jba
 /resources/anim/humanoid/bfsnew/mv_rifle_run_forward_stiff.jba
 /resources/anim/humanoid/bfsnew/mv_rifle_sprint_forward.jba
+/resources/anim/humanoid/bfsnew/mv_rifle_stealth_back.jba
+/resources/anim/humanoid/bfsnew/mv_rifle_stealth_forward.jba
 /resources/anim/humanoid/bfsnew/mv_rifle_threaten_run_enter.jba
 /resources/anim/humanoid/bfsnew/mv_rifle_threaten_run_exit.jba
 /resources/anim/humanoid/bfsnew/mv_rifle_threaten_walk_enter.jba
@@ -7042,6 +7049,8 @@
 /resources/anim/humanoid/bfsnew/mv_turn_normal_to_90_ccw.jba
 /resources/anim/humanoid/bfsnew/mv_turn_normal_to_90_cw.jba
 /resources/anim/humanoid/bfsnew/mv_turn_right_90.jba
+/resources/anim/humanoid/bfsnew/mv_unarmed_stealth_back.jba
+/resources/anim/humanoid/bfsnew/mv_unarmed_stealth_forward.jba
 /resources/anim/humanoid/bfsnew/mv_walk_angry_enter.jba
 /resources/anim/humanoid/bfsnew/mv_walk_angry_exit.jba
 /resources/anim/humanoid/bfsnew/mv_walk_back.jba

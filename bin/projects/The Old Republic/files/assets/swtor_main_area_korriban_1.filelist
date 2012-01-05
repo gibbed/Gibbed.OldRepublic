@@ -1,4 +1,4 @@
-; 1285/1290 (99%)
+; 1289/1290 (99%)
 /resources/art/environmentmaps/kor_rebuild_test/area2.dds
 /resources/art/environmentmaps/kor_rebuild_test/area2.tex
 /resources/art/environmentmaps/kor_rebuild_test/area2.tiny.dds
@@ -113,6 +113,8 @@
 /resources/art/shaders/materials/kor_wilds_cliff_40m_small_v2.mat
 /resources/art/shaders/materials/kor_wilds_cliff_large.mat
 /resources/art/shaders/materials/kor_wilds_cliff_rockpile_spread.mat
+/resources/art/shaders/materials/ter_kor_alpha_crack.mat
+/resources/art/shaders/materials/ter_kor_alpha_excavated.mat
 /resources/art/shaders/materials/ter_kor_dirt.mat
 /resources/art/shaders/materials/ter_kor_metal01.mat
 /resources/art/shaders/materials/ter_kor_rock_purple.mat
@@ -1071,6 +1073,8 @@
 /resources/art/static/area/kor_korriban/item/texture/kor_vodl_item_shovel_s.tex
 /resources/art/static/area/kor_korriban/item/texture/kor_vodl_item_shovel_s.tiny.dds
 /resources/art/static/area/kor_korriban/particle/texture/kor_particle_mist.dds
+/resources/art/static/area/kor_korriban/particle/texture/kor_particle_mist.tex
+/resources/art/static/area/kor_korriban/particle/texture/kor_particle_mist.tiny.dds
 /resources/art/static/area/kor_korriban/sky/kor_skyscene01.gr2
 /resources/art/static/area/kor_korriban/sky/texture/kor_skyscene_horizon_d.dds
 /resources/art/static/area/kor_korriban/sky/texture/kor_skyscene_horizon_d.tex

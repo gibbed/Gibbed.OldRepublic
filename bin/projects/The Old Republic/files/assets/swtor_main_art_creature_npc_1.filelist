@@ -1,4 +1,4 @@
-; 1131/1210 (93%)
+; 1155/1210 (95%)
 /resources/art/dynamic/creature/model/dwarf_drall_a01.gr2
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.clo
 /resources/art/dynamic/creature/model/dwarf_jawa_a01.gr2
@@ -243,6 +243,21 @@
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a01_v01_f_s.dds
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a01_v01_f_s.tex
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a01_v01_f_s.tiny.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_d.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_d.tex
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_d.tiny.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_h.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_h.tex
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_h.tiny.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_m.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_m.tex
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_m.tiny.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_n.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_n.tex
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_n.tiny.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_s.dds
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_s.tex
+/resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_f_s.tiny.dds
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_m_d.dds
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_m_d.tex
 /resources/art/dynamic/npc/evocii/hair/texture/__psd/hair_evocii_non_a03_v01_m_d.tiny.dds
@@ -609,6 +624,12 @@
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v03_s.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v03_s.tex
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v03_s.tiny.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v04_d.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v04_d.tex
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v04_d.tiny.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v04_s.dds
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v04_s.tex
+/resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bfn_non_a01_v04_s.tiny.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_d.dds
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_d.tex
 /resources/art/dynamic/npc/togruta/head/texture/___psd/head_togruta_bmn_non_a01_v01_d.tiny.dds
@@ -1062,7 +1083,9 @@
 /resources/art/shaders/materials/hair_cathar_non_jorgan01_v01_m.mat
 /resources/art/shaders/materials/hair_evocii_non_a01_v01_f.mat
 /resources/art/shaders/materials/hair_evocii_non_a01_v01_m.mat
+/resources/art/shaders/materials/hair_evocii_non_a03_v01_f.mat
 /resources/art/shaders/materials/hair_evocii_non_a03_v01_m.mat
+/resources/art/shaders/materials/hair_evocii_non_a05_v01_f.mat
 /resources/art/shaders/materials/hair_evocii_non_a06_v01_f.mat
 /resources/art/shaders/materials/head_abyssin_bma_non_a01_v01.mat
 /resources/art/shaders/materials/head_advozsec_bmn_non_a01_v01.mat
@@ -1110,6 +1133,7 @@
 /resources/art/shaders/materials/head_togruta_bfn_non_a01_v01.mat
 /resources/art/shaders/materials/head_togruta_bfn_non_a01_v02.mat
 /resources/art/shaders/materials/head_togruta_bfn_non_a01_v03.mat
+/resources/art/shaders/materials/head_togruta_bfn_non_a01_v04.mat
 /resources/art/shaders/materials/head_togruta_bmn_non_a01_v01.mat
 /resources/art/shaders/materials/head_togruta_bmn_non_a01_v02.mat
 /resources/art/shaders/materials/head_togruta_bmn_non_a01_v03.mat

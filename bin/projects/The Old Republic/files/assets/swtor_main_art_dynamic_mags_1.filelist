@@ -1,4 +1,4 @@
-; 649/715 (90%)
+; 651/715 (91%)
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.dds
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tex
 /resources/art/dynamic/droid/probe_droid/texture/___psd/probe_ordmantellrecon_a02_v02_d.tiny.dds
@@ -582,8 +582,10 @@
 /resources/art/dynamic/spec/vehimpcrawler_skeleton.gr2
 /resources/art/dynamic/spec/vehrepatv_skeleton.gr2
 /resources/art/dynamic/spec/vehrepatvilum_skeleton.gr2
+/resources/art/shaders/materials/all_arch_city_security_fence_fencelink.mat
 /resources/art/shaders/materials/all_arch_neu_windmill.mat
 /resources/art/shaders/materials/all_item_con_treasure_chest_01.mat
+/resources/art/shaders/materials/bel_arch_rakata_entrance_door_damaged.mat
 /resources/art/shaders/materials/e3dropship_veh_rep_troop_transport_animated_combined.mat
 /resources/art/shaders/materials/probe_ordmantellrecon_a02_v02.mat
 /resources/art/shaders/materials/sc_imp_capital_destroyer_panel_dark.mat

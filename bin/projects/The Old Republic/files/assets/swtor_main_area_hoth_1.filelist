@@ -1,4 +1,4 @@
-; 4686/4697 (99%)
+; 4687/4697 (99%)
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.dds
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tex
 /resources/art/fx/texture/uv_atlas/all_item_monitor_cracks_d.tiny.dds
@@ -2474,6 +2474,7 @@
 /resources/art/static/area/hth_hoth/item/hth_item_imp_turret_stand01.gr2
 /resources/art/static/area/hth_hoth/item/hth_item_imp_turret_stand01_damaged.gr2
 /resources/art/static/area/hth_hoth/item/hth_item_imp_turret_stand01_damaged_top.gr2
+/resources/art/static/area/hth_hoth/item/hth_item_imp_turret_stand01_top.gr2
 /resources/art/static/area/hth_hoth/item/hth_item_imp_turret_stand02.gr2
 /resources/art/static/area/hth_hoth/item/hth_item_imp_turret_stand02_bottom.gr2
 /resources/art/static/area/hth_hoth/item/hth_item_imp_turret_stand02_damaged.gr2

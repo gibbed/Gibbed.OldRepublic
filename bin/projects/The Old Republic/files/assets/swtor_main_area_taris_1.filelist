@@ -1,4 +1,4 @@
-; 1781/1789 (99%)
+; 1783/1789 (99%)
 /resources/art/environmentmaps/tar_main/area.dds
 /resources/art/environmentmaps/tar_main/area.tex
 /resources/art/environmentmaps/tar_main/area.tiny.dds
@@ -1124,6 +1124,7 @@
 /resources/world/areas/4611686023014030644/map_int_hub1_republic_building_01_r.dds
 /resources/world/areas/4611686023014030644/map_int_hub1_republic_cantina_level_1_r.dds
 /resources/world/areas/4611686023014030644/map_int_hub2_dynamet_datacron_r.dds
+/resources/world/areas/4611686023014030644/map_int_hub2_dynamet_general_r.dds
 /resources/world/areas/4611686023014030644/map_int_hub2_dynamet_r.dds
 /resources/world/areas/4611686023014030644/map_int_hub2_endar_spire_r.dds
 /resources/world/areas/4611686023014030644/map_int_hub2_fallenspire_stronghold_r.dds
@@ -1183,6 +1184,7 @@
 /resources/world/areas/4611686023014030644/minimaps/map_int_hub2_dynamet_00_00_r.dds
 /resources/world/areas/4611686023014030644/minimaps/map_int_hub2_dynamet_01_00_r.dds
 /resources/world/areas/4611686023014030644/minimaps/map_int_hub2_dynamet_datacron_00_00_r.dds
+/resources/world/areas/4611686023014030644/minimaps/map_int_hub2_dynamet_general_00_00_r.dds
 /resources/world/areas/4611686023014030644/minimaps/map_int_hub2_endar_spire_00_00_r.dds
 /resources/world/areas/4611686023014030644/minimaps/map_int_hub2_endar_spire_01_00_r.dds
 /resources/world/areas/4611686023014030644/minimaps/map_int_hub2_fallenspire_stronghold_00_00_r.dds
