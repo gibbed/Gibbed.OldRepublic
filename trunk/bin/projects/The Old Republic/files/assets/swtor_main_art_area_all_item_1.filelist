@@ -1,4 +1,4 @@
-; 8860/8943 (99%)
+; 8861/8930 (99%)
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.dds
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tex
 /resources/art/dynamic/creature/dog/texture/___psd/dog_tukata_a01_v01_d.tiny.dds
@@ -4999,6 +4999,7 @@
 /resources/art/static/area/all_all/item/sith/all_item_sith_ancient_pictographic_mural.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_artifact.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_artifact_ancient_01.gr2
+/resources/art/static/area/all_all/item/sith/all_item_sith_artifact_top.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_gravestones_01.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_gravestones_02.gr2
 /resources/art/static/area/all_all/item/sith/all_item_sith_gravestones_03.gr2

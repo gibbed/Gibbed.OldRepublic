@@ -1,4 +1,4 @@
-; 1937/2180 (88%)
+; 1950/2182 (89%)
 /resources/art/defaultassets/alpha_tester.dds
 /resources/art/defaultassets/alpha_tester.tex
 /resources/art/defaultassets/alpha_tester.tiny.dds
@@ -712,6 +712,8 @@
 /resources/art/lights/ambient_hutt_palace_jaguuna.dds
 /resources/art/lights/ambient_hutt_palace_jaguuna.tex
 /resources/art/lights/ambient_hutt_palace_jaguuna.tiny.dds
+/resources/art/lights/ambient_ilm_cave_blue.dds
+/resources/art/lights/ambient_ilm_cave_blue.tex
 /resources/art/lights/ambient_ilm_illum_caves.dds
 /resources/art/lights/ambient_ilm_illum_caves.tex
 /resources/art/lights/ambient_ilm_naturalcaves.dds
@@ -734,6 +736,8 @@
 /resources/art/lights/ambient_nar_exterior.dds
 /resources/art/lights/ambient_nar_exterior.tex
 /resources/art/lights/ambient_nar_exterior.tiny.dds
+/resources/art/lights/ambient_nuetral.dds
+/resources/art/lights/ambient_nuetral.tex
 /resources/art/lights/ambient_pvp_voidstar_hangar.dds
 /resources/art/lights/ambient_pvp_voidstar_hangar.tex
 /resources/art/lights/ambient_pvp_voidstar_hangar.tiny.dds
@@ -1153,6 +1157,8 @@
 /resources/art/lights/hut_spaceport_interior_lightramp.tiny.dds
 /resources/art/lights/ilm_exterior_lightramp.dds
 /resources/art/lights/ilm_exterior_lightramp.tex
+/resources/art/lights/ilm_flashpoint_exterior_lightramp.dds
+/resources/art/lights/ilm_flashpoint_exterior_lightramp.tex
 /resources/art/lights/ilm_interior_ambient.dds
 /resources/art/lights/ilm_interior_ambient.tex
 /resources/art/lights/kaon_sky_ramp.tex
@@ -1182,6 +1188,8 @@
 /resources/art/lights/lum_6point.dds
 /resources/art/lights/lum_6point.tex
 /resources/art/lights/lum_6point.tiny.dds
+/resources/art/lights/lum_8point_radial.dds
+/resources/art/lights/lum_8point_radial.tex
 /resources/art/lights/lum_9_point.dds
 /resources/art/lights/lum_9_point.tex
 /resources/art/lights/lum_9_point.tiny.dds
@@ -1244,6 +1252,8 @@
 /resources/art/lights/lum_hoth_techcave_lights_cross.dds
 /resources/art/lights/lum_hoth_techcave_lights_cross.tex
 /resources/art/lights/lum_hoth_techcave_lights_cross.tiny.dds
+/resources/art/lights/lum_hoth_techcave_lights_tintersection.dds
+/resources/art/lights/lum_hoth_techcave_lights_tintersection.tex
 /resources/art/lights/lum_imp_st_3pillar.dds
 /resources/art/lights/lum_imp_st_3pillar.tex
 /resources/art/lights/lum_imp_st_3pillar.tiny.dds
@@ -1717,8 +1727,11 @@
 /resources/art/static/designblockout/collision/dbo_collision_sphere_10m.gr2
 /resources/art/static/designblockout/cover_objects/dbo_universal_superexclusion_test.gr2
 /resources/art/static/designblockout/dbo_blocking_volume_16x10.gr2
+/resources/art/static/designblockout/designutility/dbo_30meter.gr2
+/resources/art/static/designblockout/designutility/dbo_40m_rocket_distance.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_auction_house.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_bank.gr2
+/resources/art/static/designblockout/designutility/dbo_asign_datacron.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_quest_start.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_trainer.gr2
 /resources/art/static/designblockout/designutility/dbo_asign_treasurechest.gr2

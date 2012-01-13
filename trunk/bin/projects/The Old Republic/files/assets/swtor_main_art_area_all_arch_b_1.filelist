@@ -1,4 +1,4 @@
-; 6329/6336 (99%)
+; 6330/6335 (99%)
 /resources/art/defaultassets/chartreuse.dds
 /resources/art/defaultassets/chartreuse.tex
 /resources/art/defaultassets/chartreuse.tiny.dds
@@ -2547,6 +2547,7 @@
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_warehouse_interior.gr2
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_water_tower.gr2
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_water_tower_pool.gr2
+/resources/art/static/area/all_all/arch/republic/all_arch_rep_water_tower_pool_na2.gr2
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_water_tower_pool_nospin.gr2
 /resources/art/static/area/all_all/arch/republic/all_arch_rep_water_tower_pool_planter.gr2
 /resources/art/static/area/all_all/arch/republic/all_item_tech_rep_boxcar.gr2

@@ -1,4 +1,4 @@
-; 3622/3625 (99%)
+; 3624/3624 (100%)
 /resources/en-us/str/abl.stb
 /resources/en-us/str/abl/player/grant_codex_xp.stb
 /resources/en-us/str/abl/player/grant_exploration_xp.stb
@@ -1403,6 +1403,7 @@
 /resources/en-us/str/cnv/location/flashpoint/shared/taris/multi/shared/dr_lorrick_barks.stb
 /resources/en-us/str/cnv/location/flashpoint/shared/taris/multi/shared/major_byzal.stb
 /resources/en-us/str/cnv/location/flashpoint/shared/taris/multi/shared/major_byzal_cinematic.stb
+/resources/en-us/str/cnv/location/flashpoint/shared/taris/multi/shared/major_byzal_transmission.stb
 /resources/en-us/str/cnv/location/flashpoint/shared/taris/multi/shared/pilot.stb
 /resources/en-us/str/cnv/location/flashpoint/shared/taris/multi/shared/security_transmissions.stb
 /resources/en-us/str/cnv/location/flashpoint/shared/the_colicoid_war_game/imperial/c_06x.stb
@@ -2437,6 +2438,7 @@
 /resources/en-us/str/cnv/location/raid/shared/hutt_palace/imperial_bounty_board.stb
 /resources/en-us/str/cnv/location/raid/shared/hutt_palace/karagga_the_unyielding.stb
 /resources/en-us/str/cnv/location/raid/shared/hutt_palace/republic_bounty_board.stb
+/resources/en-us/str/cnv/location/raid/shared/hutt_palace/throne_room_door.stb
 /resources/en-us/str/cnv/location/republic_transition/world_arc/republic/ambassador_asara.stb
 /resources/en-us/str/cnv/location/republic_transition/world_arc/republic/ambassador_asara_armored.stb
 /resources/en-us/str/cnv/location/republic_transition/world_arc/republic/ambassador_asara_disguise.stb

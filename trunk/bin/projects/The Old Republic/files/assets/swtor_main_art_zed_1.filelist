@@ -1,4 +1,4 @@
-; 308/416 (74%)
+; 315/420 (75%)
 /resources/art/defaultassets/checkered.dds
 /resources/art/defaultassets/checkered.tex
 /resources/art/defaultassets/checkered.tiny.dds
@@ -79,6 +79,7 @@
 /resources/art/dynamic/player_character/outfit/ge_naked_light_a21/texture/___psd/character_holo_d.dds
 /resources/art/dynamic/player_character/outfit/ge_naked_light_a21/texture/___psd/character_holo_d.tex
 /resources/art/dynamic/player_character/outfit/ge_naked_light_a21/texture/___psd/character_holo_d.tiny.dds
+/resources/art/dynamic/player_character/outfit/sw_armor_heavy_a07/texture/___psd/leg_armor02_heavy_sw_a07c03_f_v_02_n.dds
 /resources/art/dynamic/skincolor/index.xml
 /resources/art/dynamic/space_combat/ships/sc_neu_space_station.gr2
 /resources/art/dynamic/testrules.rul
@@ -232,11 +233,17 @@
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampmud_s.dds
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampmud_s.tex
 /resources/art/static/area/hut_hutta/terrain_map/ter_hutta_swampmud_s.tiny.dds
+/resources/art/static/area/kaon/arch/kaon_arch_city_ceiling.gr2
+/resources/art/static/area/kaon/arch/kaon_arch_city_security_fence_wall_left.gr2
+/resources/art/static/area/kaon/arch/kaon_arch_city_security_fence_wall_right.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_01.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_02.gr2
 /resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_03.gr2
 /resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_04.gr2
 /resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_05.gr2
 /resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_06.gr2
 /resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_07.gr2
+/resources/art/static/area/kaon/arch/kaon_neu_speeder_van_pieces_08.gr2
 /resources/art/static/area/kaon/sky/kaon_skyscene.gr2
 /resources/art/static/area/kaon/sky/texture/kaon_background_bldgs_d.dds
 /resources/art/static/area/kaon/sky/texture/kaon_background_bldgs_d.tex

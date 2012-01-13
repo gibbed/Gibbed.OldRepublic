@@ -1,13 +1,19 @@
-; 494/563 (87%)
+; 503/563 (89%)
 /resources/art/environmentmaps/ilm_main1/area.dds
 /resources/art/environmentmaps/ilm_main1/area.tex
 /resources/art/environmentmaps/ilm_main1/area.tiny.dds
+/resources/art/environmentmaps/ilm_main1/crystal_cave_green.dds
+/resources/art/environmentmaps/ilm_main1/crystal_cave_green.tex
+/resources/art/environmentmaps/ilm_main1/crystal_cave_green.tiny.dds
 /resources/art/environmentmaps/ilm_main1/crystal_cave_purple_dark.dds
 /resources/art/environmentmaps/ilm_main1/crystal_cave_purple_dark.tex
 /resources/art/environmentmaps/ilm_main1/crystal_cave_purple_dark.tiny.dds
 /resources/art/environmentmaps/ilm_main1/illum_techcave_interior.dds
 /resources/art/environmentmaps/ilm_main1/illum_techcave_interior.tex
 /resources/art/environmentmaps/ilm_main1/illum_techcave_interior.tiny.dds
+/resources/art/environmentmaps/ilm_main1/natural_cave_cyan.dds
+/resources/art/environmentmaps/ilm_main1/natural_cave_cyan.tex
+/resources/art/environmentmaps/ilm_main1/natural_cave_cyan.tiny.dds
 /resources/art/environmentmaps/ilm_main1/temple_interior.dds
 /resources/art/environmentmaps/ilm_main1/temple_interior.tex
 /resources/art/environmentmaps/ilm_main1/temple_interior.tiny.dds
@@ -19,6 +25,8 @@
 /resources/art/shaders/materials/ilm_env_forcecrystals_green.mat
 /resources/art/shaders/materials/ilm_env_forcecrystals_purple.mat
 /resources/art/shaders/materials/ilm_skyscene_tiles.mat
+/resources/art/shaders/materials/ter_ilm_cliff_cliffbase.mat
+/resources/art/shaders/materials/ter_ilm_cliff_cliffbase_90.mat
 /resources/art/shaders/materials/ter_ilm_lake01.mat
 /resources/art/shaders/materials/ter_ilm_lake02.mat
 /resources/art/shaders/materials/ter_ilm_lake03.mat
@@ -28,6 +36,7 @@
 /resources/art/shaders/materials/ter_ilm_rock02.mat
 /resources/art/shaders/materials/ter_ilm_snow_highfreq_01.mat
 /resources/art/shaders/materials/ter_ilm_snow_ice.mat
+/resources/art/shaders/materials/ter_ilm_snow_path01.mat
 /resources/art/shaders/materials/ter_ilm_snow_rock.mat
 /resources/art/shaders/materials/ter_ilm_snow01.mat
 /resources/art/shaders/materials/ter_ilm_snow02.mat

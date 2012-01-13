@@ -1,4 +1,4 @@
-; 2020/2044 (98%)
+; 2053/2077 (98%)
 /resources/art/environmentmaps/nar_main/imperial_casino.dds
 /resources/art/environmentmaps/nar_main/imperial_casino.tex
 /resources/art/environmentmaps/nar_main/imperial_casino.tiny.dds
@@ -49,6 +49,9 @@
 /resources/art/shaders/materials/nar_arch_city_ext_bwall_door_new_small.mat
 /resources/art/shaders/materials/nar_arch_city_ext_bwall_doors_lg.mat
 /resources/art/shaders/materials/nar_arch_city_ext_bwall_new.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_trims01.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_wall01.mat
+/resources/art/shaders/materials/nar_arch_city_ext_bwall_wall02.mat
 /resources/art/shaders/materials/nar_arch_city_ext_bwall_wall03.mat
 /resources/art/shaders/materials/nar_arch_city_ext_bwall_wall04.mat
 /resources/art/shaders/materials/nar_arch_city_facade.mat
@@ -79,7 +82,10 @@
 /resources/art/shaders/materials/nar_arch_city_promenade_fountain.mat
 /resources/art/shaders/materials/nar_arch_city_riser.mat
 /resources/art/shaders/materials/nar_arch_city_road_new.mat
+/resources/art/shaders/materials/nar_arch_city_road_walkway.mat
 /resources/art/shaders/materials/nar_arch_city_support_pillar.mat
+/resources/art/shaders/materials/nar_arch_city_walkway_base01.mat
+/resources/art/shaders/materials/nar_arch_city_walkway_base02.mat
 /resources/art/shaders/materials/nar_arch_city_walkway_lift.mat
 /resources/art/shaders/materials/nar_arch_city_wallset_trans01.mat
 /resources/art/shaders/materials/nar_arch_neu_city_tile01.mat
@@ -752,6 +758,24 @@
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_new_s.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_new_s.tex
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_new_s.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_trims01_d.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_trims01_d.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_trims01_d.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_trims01_n.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_trims01_n.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_trims01_n.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_trims01_s.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_trims01_s.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_trims01_s.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall01_d.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall01_d.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall01_d.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall01_n.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall01_n.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall01_n.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall01_s.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall01_s.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall01_s.tiny.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall03_d.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall03_d.tex
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_ext_bwall_wall03_d.tiny.dds
@@ -944,6 +968,15 @@
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_new_s.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_new_s.tex
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_new_s.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_walkway_d.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_walkway_d.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_walkway_d.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_walkway_n.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_walkway_n.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_walkway_n.tiny.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_walkway_s.dds
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_walkway_s.tex
+/resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_road_walkway_s.tiny.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_support_pillar_d.dds
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_support_pillar_d.tex
 /resources/art/static/area/nar_narshadda/arch/city/texture/nar_arch_city_support_pillar_d.tiny.dds
