@@ -1,4 +1,4 @@
-; 7004/9320 (75%)
+; 7007/9320 (75%)
 /resources/anim/creature/acklay/ad_blank.jba
 /resources/anim/creature/acklay/ad_body_pitch.jba
 /resources/anim/creature/acklay/ad_body_yaw.jba
@@ -5217,6 +5217,7 @@
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_saber_threaten_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_scan_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_shivering_02_idle.mph
+/resources/anim/npc/geonosian/humanoid_loco_autogen_po_shivering_03_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_1_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_2_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_3_idle.mph
@@ -5225,6 +5226,8 @@
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_ground_1_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_ground_2_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_ground_3_idle.mph
+/resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_ground_4_idle.mph
+/resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_ground_5_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_ground_6_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_idle.mph
 /resources/anim/npc/geonosian/humanoid_loco_autogen_po_sit_typing_loop.mph
