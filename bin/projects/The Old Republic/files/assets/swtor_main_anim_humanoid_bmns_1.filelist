@@ -1,4 +1,4 @@
-; 10876/14391 (75%)
+; 10881/14391 (75%)
 /resources/anim/humanoid/bmnnew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bmnnew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bmnnew/ad_2pistol_2h_yaw_up.jba
@@ -3738,6 +3738,8 @@
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_ground_1_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_ground_2_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_ground_3_idle.mph
+/resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_ground_4_idle.mph
+/resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_ground_5_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_ground_6_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_idle.mph
 /resources/anim/humanoid/bmnnew/humanoid_loco_autogen_po_sit_typing_loop.mph
@@ -9170,6 +9172,7 @@
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_saber_threaten_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_scan_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_shivering_02_idle.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_shivering_03_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_1_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_2_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_3_idle.mph
@@ -9178,6 +9181,8 @@
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_ground_1_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_ground_2_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_ground_3_idle.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_ground_4_idle.mph
+/resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_ground_5_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_ground_6_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_idle.mph
 /resources/anim/humanoid/bmsnew/humanoid_loco_autogen_po_sit_typing_loop.mph
