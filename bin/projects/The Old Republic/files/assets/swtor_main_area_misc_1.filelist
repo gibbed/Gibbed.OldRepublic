@@ -1,4 +1,4 @@
-; 4908/5533 (88%)
+; 4927/5533 (89%)
 /resources/art/defaultassets/black.dds
 /resources/art/defaultassets/black.tex
 /resources/art/defaultassets/flat_n.dds
@@ -4886,7 +4886,26 @@
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_00_01_r.dds
 /resources/world/areas/4611686142577070000/minimaps/map_pvp_voidstar_reactor_core_respawn_00_00_r.dds
 /resources/world/areas/4611686170117610875/mapnotes.not
+/resources/world/areas/4611686170117610984/map_reaper_cargo_r.dds
+/resources/world/areas/4611686170117610984/map_vengeance_world_r.dds
 /resources/world/areas/4611686170117610984/mapnotes.not
+/resources/world/areas/4611686170117610984/minimaps/map_garage_airlock_00_00_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_garage_hangar_00_00_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_garage_hangar_01_00_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_bridge_00_00_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_cargo_00_00_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_cargo_00_01_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_cargo_01_00_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_cargo_01_01_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_sanctum_00_00_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_sanctum_00_01_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_sanctum_00_02_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_sanctum_00_03_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_sanctum_01_00_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_sanctum_01_01_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_sanctum_01_02_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_reaper_sanctum_01_03_r.dds
+/resources/world/areas/4611686170117610984/minimaps/map_vengeance_world_00_00_r.dds
 /resources/world/areas/4611686189079993896/map_hammer_expansion_r.dds
 /resources/world/areas/4611686189079993896/map_hammer_section0_r.dds
 /resources/world/areas/4611686189079993896/map_hammer_security_r.dds

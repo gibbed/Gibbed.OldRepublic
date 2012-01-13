@@ -1,4 +1,4 @@
-; 10870/14180 (76%)
+; 10871/14180 (76%)
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_down.jba
 /resources/anim/humanoid/bfanew/ad_2pistol_2h_yaw_up.jba
@@ -3738,6 +3738,7 @@
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_ground_1_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_ground_2_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_ground_3_idle.mph
+/resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_ground_4_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_ground_6_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_idle.mph
 /resources/anim/humanoid/bfanew/humanoid_loco_autogen_po_sit_typing_loop.mph

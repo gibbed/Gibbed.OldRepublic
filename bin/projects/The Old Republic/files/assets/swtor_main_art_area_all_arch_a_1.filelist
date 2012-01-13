@@ -1,4 +1,4 @@
-; 3572/3574 (99%)
+; 3573/3574 (99%)
 /resources/art/shaders/materials/ald_arch_outpost_stairs.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_01.mat
 /resources/art/shaders/materials/all_arch_ancient_machinery_02.mat
@@ -1988,6 +1988,7 @@
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_wall_30m_half.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_wall_30m_pillar.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_wall_30m_single_half.gr2
+/resources/art/static/area/all_all/arch/imperial/all_arch_imp_wallset_cap.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_wallset_h15m_12m.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_wallset_h15m_24m.gr2
 /resources/art/static/area/all_all/arch/imperial/all_arch_imp_wallset_h15m_48m.gr2

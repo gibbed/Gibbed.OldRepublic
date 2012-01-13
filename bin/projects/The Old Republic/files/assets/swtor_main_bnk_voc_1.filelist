@@ -1,4 +1,4 @@
-; 303/411 (73%)
+; 307/411 (74%)
 /resources/bnk2/voc_abyssin_m_alien_low_soundset.bnk
 /resources/bnk2/voc_abyssin_m_alien_med_soundset.bnk
 /resources/bnk2/voc_acklay.bnk
@@ -150,12 +150,14 @@
 /resources/bnk2/voc_kubaz_m_alien_med_soundset.bnk
 /resources/bnk2/voc_lisk.bnk
 /resources/bnk2/voc_lobel.bnk
+/resources/bnk2/voc_lord_scourge.bnk
 /resources/bnk2/voc_lt_pierce.bnk
 /resources/bnk2/voc_m14x.bnk
 /resources/bnk2/voc_mako.bnk
 /resources/bnk2/voc_manka.bnk
 /resources/bnk2/voc_mantellianflutterplume.bnk
 /resources/bnk2/voc_mawvorr.bnk
+/resources/bnk2/voc_moncalamari_m_alien_low_soundset.bnk
 /resources/bnk2/voc_moncalamari_m_alien_med_soundset.bnk
 /resources/bnk2/voc_nadia.bnk
 /resources/bnk2/voc_nautolan_f_alien_high_soundset.bnk
@@ -169,6 +171,7 @@
 /resources/bnk2/voc_nightmarebeast.bnk
 /resources/bnk2/voc_nikto_m_alien_low_soundset.bnk
 /resources/bnk2/voc_nikto_m_alien_med_soundset.bnk
+/resources/bnk2/voc_ongree_m_alien_med_soundset.bnk
 /resources/bnk2/voc_ortolan_m_alien_low_soundset.bnk
 /resources/bnk2/voc_pantranwhitefang.bnk
 /resources/bnk2/voc_player_bounty_hunter_f.bnk
@@ -289,6 +292,7 @@
 /resources/bnk2/voc_voss_m_alien_low_soundset.bnk
 /resources/bnk2/voc_voss_m_alien_med_soundset.bnk
 /resources/bnk2/voc_vrblther.bnk
+/resources/bnk2/voc_walkerbattle.bnk
 /resources/bnk2/voc_wampa.bnk
 /resources/bnk2/voc_weequay_m_alien_low_soundset.bnk
 /resources/bnk2/voc_weequay_m_alien_med_soundset.bnk

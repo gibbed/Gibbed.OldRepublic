@@ -1,4 +1,4 @@
-; 1542/1612 (95%)
+; 1560/1612 (96%)
 /resources/art/environmentmaps/dro_main/area.dds
 /resources/art/environmentmaps/dro_main/area.tex
 /resources/art/environmentmaps/dro_main/area.tiny.dds
@@ -968,6 +968,15 @@
 /resources/art/static/area/dro_kass/speedtree/dro_crape/dro_crape_normal_billboards.tiny.dds
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush.gr2
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush.spt
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_02.spt
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_02_diffuse.dds
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_02_diffuse.tex
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_02_diffuse_billboards.dds
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_02_diffuse_billboards.tex
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_02_normal.dds
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_02_normal.tex
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_02_normal_billboards.dds
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_02_normal_billboards.tex
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_03.spt
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_03_diffuse.dds
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_03_diffuse.tex
@@ -977,6 +986,15 @@
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_03_normal.tex
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_03_normal_billboards.dds
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_03_normal_billboards.tex
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_04.spt
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_04_diffuse.dds
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_04_diffuse.tex
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_04_diffuse_billboards.dds
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_04_diffuse_billboards.tex
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_04_normal.dds
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_04_normal.tex
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_04_normal_billboards.dds
+/resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_04_normal_billboards.tex
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_diffuse.dds
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_diffuse.tex
 /resources/art/static/area/dro_kass/speedtree/dro_junglebrush/dro_junglebrush_diffuse_billboards.dds

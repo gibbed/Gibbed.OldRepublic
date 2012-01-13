@@ -1,4 +1,4 @@
-; 1484/1566 (94%)
+; 1489/1548 (96%)
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.dds
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tex
 /resources/art/fx/texture/gradient/fx_transparent_grey_d.tiny.dds
@@ -847,6 +847,11 @@
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_destroyed.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_flight.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_01.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_02.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_03.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_04.gr2
+/resources/art/static/vehicle/neutral/veh_nue_starship_ricker_part_05.gr2
 /resources/art/static/vehicle/neutral/veh_nue_starship_ricker_wing.gr2
 /resources/art/static/vehicle/player_mount/mount_imp_model_a_scheme_01.gr2
 /resources/art/static/vehicle/player_mount/mount_imp_model_a_scheme_02.gr2
